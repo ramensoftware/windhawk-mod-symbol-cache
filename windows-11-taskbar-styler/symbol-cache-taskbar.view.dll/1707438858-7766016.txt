@@ -1,0 +1,1 @@
+1#1707438858#7766016#public: void __cdecl winrt::Taskbar::implementation::TaskbarBackground::OnApplyTemplate(void)#418928#bool __cdecl winrt::Windows::Foundation::operator==(struct winrt::Windows::Foundation::IUnknown const &,struct winrt::Windows::Foundation::IUnknown const &)#94400
