@@ -19,7 +19,7 @@ workaround.
 <!-- symbol-availability-start -->
 ### explorer.exe (Windows 10, 64-bit)
 
-❌&nbsp;10.0.19041.4355&nbsp;•
+🟡&nbsp;10.0.19041.4355&nbsp;•
 ✅&nbsp;10.0.19041.4239&nbsp;•
 ✅&nbsp;10.0.19041.4170&nbsp;•
 ✅&nbsp;10.0.19041.4123&nbsp;•
