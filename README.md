@@ -510,6 +510,7 @@ workaround.
 -->
 ### Taskbar.dll (Windows 11)
 
+🟡&nbsp;10.0.22621.3593&nbsp;•
 ✅&nbsp;10.0.22621.3527&nbsp;•
 ✅&nbsp;10.0.22621.3374&nbsp;•
 ✅&nbsp;10.0.22621.3235&nbsp;•
