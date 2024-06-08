@@ -67,12 +67,6 @@ def extract_all_symbols_worker(path: Path,
                                windhawk_symbol_helper_path: Path,
                                windhawk_engine_path: Path,
                                symbols_path: Path):
-    if not path.is_file():
-        return
-
-    if path.suffix == '.txt':
-        return
-
     try:
         output_path = path.with_name(path.name + '.txt')
         run_windhawk_symbol_helper(windhawk_symbol_helper_path,
@@ -82,8 +76,9 @@ def extract_all_symbols_worker(path: Path,
                                    output_path)
         append_pe_information(path, output_path)
         path.unlink()
+        return None
     except Exception as e:
-        print(f'Failed to extract symbols from {path}: {e}')
+        return f'Failed to extract symbols from {path}: {e}'
 
 
 def extract_all_symbols(binaries_folder: Path,
@@ -92,15 +87,21 @@ def extract_all_symbols(binaries_folder: Path,
                         symbols_path: Path):
     symbols_path_resolved = symbols_path.resolve()    
 
-    paths = list(binaries_folder.rglob('*'))
+    paths = list(p for p in binaries_folder.rglob('*') if p.is_file() and p.suffix != '.txt')
 
     with Pool(POOL_PROCESSES) as pool:
-        pool.starmap(extract_all_symbols_worker, zip(
+        errors = pool.starmap(extract_all_symbols_worker, zip(
             paths,
             repeat(windhawk_symbol_helper_path),
             repeat(windhawk_engine_path),
             repeat(symbols_path_resolved),
         ))
+
+    errors = [e for e in errors if e is not None]
+    print(f'Extracted symbols from {len(paths)-len(errors)} of {len(paths)} files')
+
+    for error in errors:
+        print(error)
 
 
 def main():
