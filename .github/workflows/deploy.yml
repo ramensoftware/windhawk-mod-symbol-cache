@@ -1,0 +1,91 @@
+name: Online cache update
+
+defaults:
+  run:
+    shell: bash
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+concurrency: online-cache-update
+
+jobs:
+  run:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          path: main
+      - name: Checkout windhawk-mods
+        uses: actions/checkout@v4
+        with:
+          repository: ramensoftware/windhawk-mods
+          path: windhawk-mods
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # Workaround for updating cache:
+      # https://github.com/actions/cache/issues/342#issuecomment-1363953531
+      - name: Restore cache - binaries and symbols
+        uses: actions/cache/restore@v4
+        id: cache-binaries-and-symbols
+        with:
+          path: binaries
+          key: cache-binaries-and-symbols-key-v1
+
+      - name: Run 01_extract_mod_symbols
+        run: |
+          python -u main/scripts/01_extract_mod_symbols.py \
+            windhawk-mods/mods \
+            extracted_symbols.json
+      - name: Run 02_download_binaries
+        run: |
+          python -u main/scripts/02_download_binaries.py \
+            extracted_symbols.json \
+            binaries
+      - name: Run 03_extract_symbols_from_binaries
+        run: |
+          python -u main/scripts/03_extract_symbols_from_binaries.py \
+            binaries \
+            main/scripts/tools/windhawk-symbol-helper.exe \
+            main/scripts/tools \
+            symbols
+      - name: Run 04_create_mod_cache
+        run: |
+          python -u main/scripts/04_create_mod_cache.py \
+            binaries \
+            extracted_symbols.json \
+            symbol_cache
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./symbol_cache
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          publish_branch: 'gh-pages'
+
+      # Workaround for updating cache:
+      # https://github.com/actions/cache/issues/342#issuecomment-1363953531
+      - name: Clear cache - binaries and symbols
+        if: ${{ steps.cache-binaries-and-symbols.outputs.cache-hit }}
+        env:
+          GH_TOKEN: ${{ github.token }}  # required by gh
+        run: |
+          gh extension install actions/gh-actions-cache
+          gh actions-cache delete cache-binaries-and-symbols-key-v1 --confirm -R ${{ github.repository }}
+      - name: Save cache - binaries and symbols
+        uses: actions/cache/save@v4
+        if: always()  # save cache even fails
+        with:
+          path: binaries
+          key: cache-binaries-and-symbols-key-v1

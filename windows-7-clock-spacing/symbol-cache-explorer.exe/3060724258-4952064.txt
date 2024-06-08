@@ -1,1 +1,0 @@
-1#3060724258#4952064#private: int __cdecl ClockButton::GetTextSpacingForOrientation(bool,int,int,int,int)#198824#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#230576#private: void __cdecl ClockButton::ClockButtonImage::DrawTextW(struct HDC__ *,unsigned short const *,int,int,int,int,int)#1461204

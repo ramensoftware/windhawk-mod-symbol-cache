@@ -1,1 +1,0 @@
-1#1747088196#3457024#protected: virtual __int64 __cdecl CTaskBand::v_WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#191856#public: virtual int __cdecl CTaskListWnd::PermitAutoHide(void)#562016
