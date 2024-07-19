@@ -1,0 +1,1 @@
+1#2967764550#110592#public: long __stdcall CThemeSignature::Verify(void *)#
