@@ -22,6 +22,7 @@ SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
     ('desktop-watermark-tweaks', 'hooks'): ('shell32.dll',),
     ('dwm-ghost-mods', 'hooks'): ('dwmghost.dll',),
     ('dwm-unextend-frames', 'comctl32_hook'): ('comctl32.dll',),
+    ('notepad-remove-launch-new-app-banner', 'hook'): ('notepad.exe',),
     ('pinned-items-double-click', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
     ('start-menu-all-apps', 'taskbarHooks'): ('StartMenu.dll',),
     ('taskbar-autohide-better', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
@@ -30,9 +31,12 @@ SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
     ('taskbar-clock-customization', 'taskbarHooks11'): ('Taskbar.View.dll',),
     ('taskbar-thumbnail-reorder', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
     ('unlock-taskmgr-server', 'hook'): ('taskmgr.exe',),
+    ('uxtheme-hook', 'duiHooks'): ('dui70.dll',),
+    ('uxtheme-hook', 'hooks'): ('uxtheme.dll', 'uxinit.dll', 'themeui.dll',),
     ('virtual-desktop-taskbar-order', 'taskbarSymbolHooks'): ('Taskbar.dll', 'explorer.exe',),
     ('virtual-desktop-taskbar-order', 'twinuiPcshellSymbolHooks'): ('twinui.pcshell.dll',),
     ('win32-tray-clock-experience', 'hooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('win7-style-uac-dim', 'hooks'): ('consent.exe',),
     ('windows-7-clock-spacing', 'hooks'): ('explorer.exe',),
 }
 
@@ -69,6 +73,7 @@ SYMBOL_BLOCK_MODULES_BY_MODULE_NAME: dict[str, tuple[str, ...]] = {
     'hUser32': ('user32.dll',),
     'hUxTheme': ('uxtheme.dll',),
     'udwm': ('udwm.dll',),
+    'uDWM': ('udwm.dll',),
     'user32': ('user32.dll',),
     'uxtheme': ('uxtheme.dll',),
 }
