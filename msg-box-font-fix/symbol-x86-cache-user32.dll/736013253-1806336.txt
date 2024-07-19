@@ -1,1 +1,0 @@
-1#736013253#1806336#struct HFONT__ * __stdcall GetMessageBoxFontForDpi(unsigned int)#412584#int __stdcall MB_DlgProc(struct HWND__ *,unsigned int,unsigned int,long)#541888

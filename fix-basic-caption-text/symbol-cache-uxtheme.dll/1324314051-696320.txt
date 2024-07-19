@@ -1,1 +1,0 @@
-1#1324314051#696320#public: unsigned long __cdecl _NCWNDMET::GetCaptionColor(bool)##struct HICON__ * __cdecl _GetWindowIcon(struct HWND__ *,int)#111912
