@@ -8,41 +8,41 @@ ALL_ARCHITECTURES = [
     'x86-64',
 ]
 
-SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], list[str]] = {
-    ('aerexplorer', 'efHooks'): ['ExplorerFrame.dll'],
-    ('aerexplorer', 'isCplHooks'): ['ExplorerFrame.dll'],
-    ('aerexplorer', 'shHooks'): ['shell32.dll'],
-    ('aerexplorer', 'storageHooks'): ['windows.storage.dll'],
-    ('aero-flyout-fix', 'actioncenterHooks'): ['ActionCenter.dll'],
-    ('aero-flyout-fix', 'sndvolHooks'): ['SndVol.exe'],
-    ('aero-flyout-fix', 'stobjectHooks'): ['stobject.dll'],
-    ('aero-flyout-fix', 'timedateHooks'): ['timedate.cpl'],
-    ('aero-tray', 'hooks'): ['explorer.exe'],
-    ('classic-file-picker-dialog', 'symbolHook'): ['comdlg32.dll'],
-    ('desktop-watermark-tweaks', 'hooks'): ['shell32.dll'],
-    ('dwm-ghost-mods', 'hooks'): ['dwmghost.dll'],
-    ('dwm-unextend-frames', 'comctl32_hook'): ['comctl32.dll'],
-    ('pinned-items-double-click', 'symbolHooks'): ['Taskbar.dll', 'explorer.exe'],
-    ('start-menu-all-apps', 'taskbarHooks'): ['StartMenu.dll'],
-    ('taskbar-autohide-better', 'symbolHooks'): ['Taskbar.dll', 'explorer.exe'],
-    ('taskbar-button-click', 'symbolHooks'): ['Taskbar.dll', 'explorer.exe'],
-    ('taskbar-clock-customization', 'taskbarHooks10'): ['explorer.exe'],
-    ('taskbar-clock-customization', 'taskbarHooks11'): ['Taskbar.View.dll'],
-    ('taskbar-thumbnail-reorder', 'symbolHooks'): ['Taskbar.dll', 'explorer.exe'],
-    ('unlock-taskmgr-server', 'hook'): ['taskmgr.exe'],
-    ('virtual-desktop-taskbar-order', 'taskbarSymbolHooks'): ['Taskbar.dll', 'explorer.exe'],
-    ('virtual-desktop-taskbar-order', 'twinuiPcshellSymbolHooks'): ['twinui.pcshell.dll'],
-    ('win32-tray-clock-experience', 'hooks'): ['Taskbar.dll', 'explorer.exe'],
-    ('windows-7-clock-spacing', 'hooks'): ['explorer.exe'],
+SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
+    ('aerexplorer', 'efHooks'): ('ExplorerFrame.dll',),
+    ('aerexplorer', 'isCplHooks'): ('ExplorerFrame.dll',),
+    ('aerexplorer', 'shHooks'): ('shell32.dll',),
+    ('aerexplorer', 'storageHooks'): ('windows.storage.dll',),
+    ('aero-flyout-fix', 'actioncenterHooks'): ('ActionCenter.dll',),
+    ('aero-flyout-fix', 'sndvolHooks'): ('SndVol.exe',),
+    ('aero-flyout-fix', 'stobjectHooks'): ('stobject.dll',),
+    ('aero-flyout-fix', 'timedateHooks'): ('timedate.cpl',),
+    ('aero-tray', 'hooks'): ('explorer.exe',),
+    ('classic-file-picker-dialog', 'symbolHook'): ('comdlg32.dll',),
+    ('desktop-watermark-tweaks', 'hooks'): ('shell32.dll',),
+    ('dwm-ghost-mods', 'hooks'): ('dwmghost.dll',),
+    ('dwm-unextend-frames', 'comctl32_hook'): ('comctl32.dll',),
+    ('pinned-items-double-click', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('start-menu-all-apps', 'taskbarHooks'): ('StartMenu.dll',),
+    ('taskbar-autohide-better', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('taskbar-button-click', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('taskbar-clock-customization', 'taskbarHooks10'): ('explorer.exe',),
+    ('taskbar-clock-customization', 'taskbarHooks11'): ('Taskbar.View.dll',),
+    ('taskbar-thumbnail-reorder', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('unlock-taskmgr-server', 'hook'): ('taskmgr.exe',),
+    ('virtual-desktop-taskbar-order', 'taskbarSymbolHooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('virtual-desktop-taskbar-order', 'twinuiPcshellSymbolHooks'): ('twinui.pcshell.dll',),
+    ('win32-tray-clock-experience', 'hooks'): ('Taskbar.dll', 'explorer.exe',),
+    ('windows-7-clock-spacing', 'hooks'): ('explorer.exe',),
 }
 
-SYMBOL_BLOCK_MODULES_BY_FUNCTION: dict[str, list[str]] = {
-    'HookTaskbarSymbols': ['Taskbar.dll', 'explorer.exe'],
-    'HookTaskbarDllSymbols': ['Taskbar.dll', 'explorer.exe'],
-    'HookTaskbarViewDllSymbols': ['Taskbar.View.dll'],
-    'HookExplorerFrameSymbols': ['ExplorerFrame.dll'],
-    'HookFileExplorerExtensionsSymbols': ['FileExplorerExtensions.dll'],
-    'HookICMH_CAODTM': [
+SYMBOL_BLOCK_MODULES_BY_FUNCTION: dict[str, tuple[str, ...]] = {
+    'HookTaskbarSymbols': ('Taskbar.dll', 'explorer.exe',),
+    'HookTaskbarDllSymbols': ('Taskbar.dll', 'explorer.exe',),
+    'HookTaskbarViewDllSymbols': ('Taskbar.View.dll',),
+    'HookExplorerFrameSymbols': ('ExplorerFrame.dll',),
+    'HookFileExplorerExtensionsSymbols': ('FileExplorerExtensions.dll',),
+    'HookICMH_CAODTM': (
         'shell32.dll',
         'ExplorerFrame.dll',
         'explorer.exe',
@@ -52,25 +52,25 @@ SYMBOL_BLOCK_MODULES_BY_FUNCTION: dict[str, list[str]] = {
         'pnidui.dll',
         'SecurityHealthSSO.dll',
         'Narrator.exe',
-    ],
+    ),
 }
 
-SYMBOL_BLOCK_MODULES_BY_MODULE_NAME: dict[str, list[str]] = {
-    'dwmcore': ['dwmcore.dll'],
-    'hAppFrameModule': ['ApplicationFrame.dll'],
-    'hComCtl': ['comctl32.dll'],
-    'hComCtl32': ['comctl32.dll'],
-    'hExplFrame': ['ExplorerFrame.dll'],
-    'hExplorer': ['explorer.exe'],
-    'hExplorerFrame': ['ExplorerFrame.dll'],
-    'hRegEdit': ['regedit.exe'],
-    'hShell32': ['shell32.dll'],
-    'hShutdownUx': ['shutdownux.dll'],
-    'hUser32': ['user32.dll'],
-    'hUxTheme': ['uxtheme.dll'],
-    'udwm': ['udwm.dll'],
-    'user32': ['user32.dll'],
-    'uxtheme': ['uxtheme.dll'],
+SYMBOL_BLOCK_MODULES_BY_MODULE_NAME: dict[str, tuple[str, ...]] = {
+    'dwmcore': ('dwmcore.dll',),
+    'hAppFrameModule': ('ApplicationFrame.dll',),
+    'hComCtl': ('comctl32.dll',),
+    'hComCtl32': ('comctl32.dll',),
+    'hExplFrame': ('ExplorerFrame.dll',),
+    'hExplorer': ('explorer.exe',),
+    'hExplorerFrame': ('ExplorerFrame.dll',),
+    'hRegEdit': ('regedit.exe',),
+    'hShell32': ('shell32.dll',),
+    'hShutdownUx': ('shutdownux.dll',),
+    'hUser32': ('user32.dll',),
+    'hUxTheme': ('uxtheme.dll',),
+    'udwm': ('udwm.dll',),
+    'user32': ('user32.dll',),
+    'uxtheme': ('uxtheme.dll',),
 }
 
 
@@ -102,7 +102,7 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     # Make sure there are no preprocessor directives.
     p = r'^[ \t]*#'
     if re.search(p, symbol_block, re.MULTILINE):
-        raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Unsupported preprocessor directives')
+        raise Exception(f'Unsupported preprocessor directives')
 
     # Merge strings spanning over multiple lines.
     p = r'"([ \t]*\n)+[ \t]*L?"'
@@ -115,7 +115,7 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
             symbol = match.group(2)
 
         if symbol not in string_definitions:
-            raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Unknown string definition {symbol}')
+            raise Exception(f'Unknown string definition {symbol}')
 
         return string_definitions[symbol]
 
@@ -128,20 +128,21 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     symbols = list(map(lambda x: x[0] if x[0] else x[1], symbols))
 
     if any('"' in x or '\\' in x for x in symbols):
-        raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Unsupported strings')
+        raise Exception(f'Unsupported strings')
 
     if len(symbols) * 2 != symbol_block.count('"'):
-        raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Unsupported strings')
+        raise Exception(f'Unsupported strings')
 
     if symbols == []:
         return None
 
-    # Deduce modules.
-    modules = SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME.get((mod_name, symbol_block_name))
-    if modules is None:
-        if symbol_block[0] not in [' ', '\t']:
-            print(f'Mod {mod_name}, block {symbol_block_name}: No indentation for deducing function')
+    # Deduce modules by the block (SYMBOL_HOOK variable) name.
+    modules_by_block_name = SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME.get((mod_name, symbol_block_name))
 
+    # Deduce modules by the function name where the hooks are declared.
+    last_function = None
+    modules_by_function = None
+    if symbol_block[0] in [' ', '\t']:
         mod_source_before = mod_source[:symbol_block_match.start(0)]
         p = r'^\S*[ \t]\S.*'
         last_function_line = re.findall(p, mod_source_before, re.MULTILINE)[-1]
@@ -150,33 +151,42 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
         if match := re.search(p, last_function_line):
             last_function = match.group(1)
         else:
-            raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Can not deduce function name')
+            raise Exception(f'Can not deduce function name')
 
         if last_function in SYMBOL_BLOCK_MODULES_BY_FUNCTION:
-            modules = SYMBOL_BLOCK_MODULES_BY_FUNCTION[last_function]
+            modules_by_function = SYMBOL_BLOCK_MODULES_BY_FUNCTION[last_function]
 
+    # Deduce modules by the module variable name.
+    if symbol_block[0] in [' ', '\t']:
         mod_source_after = mod_source[symbol_block_match.end(0):]
         p = r'^\}[ \t]*$'
         if match := re.search(p, mod_source_after, re.MULTILINE):
             function_remainder_code = mod_source_after[:match.end(0)]
         else:
-            raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Can not deduce function code')
+            raise Exception(f'Can not deduce function code')
+    else:
+        # Global scope, use all the code.
+        function_remainder_code = mod_source
 
-        p = rf'HookSymbols\(\s*(\w+),\s*&?{re.escape(symbol_block_name)},'
-        if (match := re.findall(p, function_remainder_code, re.MULTILINE)) and len(match) == 1:
-            module_name = match[0]
+    module_name = None
+    modules_by_module_name = None
+    p = rf'HookSymbols\(\s*(\w+),\s*&?{re.escape(symbol_block_name)},'
+    if (match := re.findall(p, function_remainder_code, re.MULTILINE)) and len(match) == 1:
+        module_name = match[0]
 
-            if module_name in SYMBOL_BLOCK_MODULES_BY_MODULE_NAME:
-                modules_by_module_name = SYMBOL_BLOCK_MODULES_BY_MODULE_NAME[module_name]
-                if modules is None:
-                    modules = modules_by_module_name
-                elif modules != modules_by_module_name:
-                    raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Conflicting module names ({modules} and {modules_by_module_name})')
-        else:
-            module_name = None
+        if module_name in SYMBOL_BLOCK_MODULES_BY_MODULE_NAME:
+            modules_by_module_name = SYMBOL_BLOCK_MODULES_BY_MODULE_NAME[module_name]
 
-    if modules is None:
-        raise Exception(f'Mod {mod_name}, block {symbol_block_name}: Unknown module ({last_function=}, {module_name=})')
+    module_candidates = [modules_by_block_name, modules_by_function, modules_by_module_name]
+    module_candidates = set(filter(lambda x: x is not None, module_candidates))
+
+    if len(module_candidates) > 1:
+        raise Exception(f'Conflicting module names ({module_candidates})')
+    elif len(module_candidates) == 0:
+        raise Exception(f'Unknown module ({last_function=}, {module_name=})')
+
+    modules = module_candidates.pop()
+    assert modules is not None
 
     modules = list(map(lambda x: x.lower(), modules))
 
