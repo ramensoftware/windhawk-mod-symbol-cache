@@ -42,6 +42,9 @@ jobs:
           path: binaries
           key: cache-binaries-and-symbols-key-v1
 
+      - name: Rename cache folder
+        run: mv binaries binaries_previous
+
       - name: Run 01_extract_mod_symbols
         run: |
           python -u main/scripts/01_extract_mod_symbols.py \
@@ -51,7 +54,8 @@ jobs:
         run: |
           python -u main/scripts/02_download_binaries.py \
             extracted_symbols.json \
-            binaries
+            binaries \
+            binaries_previous
       - name: Run 03_extract_symbols_from_binaries
         run: |
           python -u main/scripts/03_extract_symbols_from_binaries.py \
@@ -85,7 +89,6 @@ jobs:
           gh actions-cache delete cache-binaries-and-symbols-key-v1 --confirm -R ${{ github.repository }}
       - name: Save cache - binaries and symbols
         uses: actions/cache/save@v4
-        if: always()  # save cache even fails
         with:
           path: binaries
           key: cache-binaries-and-symbols-key-v1

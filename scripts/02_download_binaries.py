@@ -2,6 +2,7 @@ import gzip
 import json
 import os
 import re
+import shutil
 import subprocess
 import tempfile
 from argparse import ArgumentParser
@@ -68,9 +69,7 @@ def make_symbol_server_candidate_urls(file_name,
     return urls
 
 
-def download_binaries_from_symbol_server(name: str, target_folder: Path, target_arch: str, insider=False):
-    file_paths_to_keep = set()
-
+def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, target_arch: str, insider=False):
     if insider:
         url = f'https://m417z.com/winbindex-data-insider/by_filename_compressed/{name}.json.gz'
     else:
@@ -132,26 +131,28 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, target_
             raise Exception(f'No release date for {hash}')
 
         age_days = (datetime.now() - last_date).days
+        if age_days > BINARY_MAX_AGE_DAYS_BEFORE_DELETION:
+            continue
 
         file_name = re.sub(r'^.*\.(.*)$', rf'{hash}.\g<1>', name)
 
         file_path = target_folder / file_name
+        file_path_symbols = file_path.with_name(file_path.name + '.txt')
+
+        previous_file_path = previous_folder / file_name
+        previous_file_path_symbols = previous_file_path.with_name(previous_file_path.name + '.txt')
 
         if VERBOSE_OUTPUT:
             print(file_path)
 
-        file_path_symbols = file_path.with_name(file_path.name + '.txt')
-
-        if age_days <= BINARY_MAX_AGE_DAYS_BEFORE_DELETION:
-            file_paths_to_keep.add(file_path)
-            file_paths_to_keep.add(file_path_symbols)
+        if previous_file_path.exists() and previous_file_path_symbols.exists():
+            previous_file_path.rename(file_path)
+            previous_file_path_symbols.rename(file_path_symbols)
+            continue
 
         if age_days > BINARY_MAX_AGE_DAYS_TO_DOWNLOAD:
             if VERBOSE_OUTPUT:
                 print(f'Skipping {hash} which is too old: {age_days} days')
-            continue
-
-        if file_path.exists() or file_path_symbols.exists():
             continue
 
         if 'virtualSize' in hash_file_info:
@@ -183,38 +184,37 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, target_
         finally:
             os.unlink(aria2c_list_tmp.name)
 
-    return file_paths_to_keep
 
-
-def download_modules(module: tuple[str, str], binaries_folder: Path):
+def download_modules(module: tuple[str, str], binaries_folder: Path, previous_binaries_folder: Path):
     arch, module_name = module
 
     target_folder = binaries_folder / module_name / arch
     target_folder.mkdir(parents=True, exist_ok=True)
 
-    all_files_before = set(x for x in target_folder.rglob('*') if x.is_file())
+    previous_folder = previous_binaries_folder / module_name / arch
 
-    file_paths_to_keep = download_binaries_from_symbol_server(module_name, target_folder, arch)
-    file_paths_to_keep.update(download_binaries_from_symbol_server(module_name, target_folder, arch, insider=True))
-
-    for file in all_files_before - file_paths_to_keep:
-        print(f'Removing leftover file: {file}')
-        file.unlink()
+    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch)
+    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch, insider=True)
 
 
 def main():
     parser = ArgumentParser()
     parser.add_argument('extracted_symbols', type=Path)
     parser.add_argument('binaries_folder', type=Path)
+    parser.add_argument('previous_binaries_folder', type=Path)
     args = parser.parse_args()
 
     extracted_symbols = args.extracted_symbols
     binaries_folder = args.binaries_folder
+    previous_binaries_folder = args.previous_binaries_folder
 
     modules = get_modules_from_extracted_symbols(extracted_symbols)
-    
+
     for module in modules:
-        download_modules(module, binaries_folder)
+        download_modules(module, binaries_folder, previous_binaries_folder)
+
+    if previous_binaries_folder.exists():
+        shutil.rmtree(previous_binaries_folder)
 
 
 if __name__ == '__main__':
