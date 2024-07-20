@@ -145,9 +145,12 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         if VERBOSE_OUTPUT:
             print(file_path)
 
-        if previous_file_path.exists() and previous_file_path_symbols.exists():
-            previous_file_path.rename(file_path)
+        if previous_file_path_symbols.exists():
             previous_file_path_symbols.rename(file_path_symbols)
+            continue
+
+        if previous_file_path.exists():
+            previous_file_path.rename(file_path)
             continue
 
         if age_days > BINARY_MAX_AGE_DAYS_TO_DOWNLOAD:
