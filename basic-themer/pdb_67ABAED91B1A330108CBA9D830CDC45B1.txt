@@ -1,0 +1,1 @@
+1#basic-themer#3472000484-1458176#public: long __cdecl CWindowList::GetSyncedWindowDataByHwnd(struct HWND__ *,class CWindowData * *)#134192#public: long __cdecl CWindowList::SyncWindowData(struct IDwmWindow *,class CWindowData *)#143488

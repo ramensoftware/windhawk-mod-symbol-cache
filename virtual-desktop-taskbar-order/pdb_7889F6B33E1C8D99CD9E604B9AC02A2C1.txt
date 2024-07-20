@@ -1,0 +1,1 @@
+1#virtual-desktop-taskbar-order#2702198917-6082560#public: virtual long __cdecl CApplicationViewManager::GetViewInFocus(struct IApplicationView * *)#483888

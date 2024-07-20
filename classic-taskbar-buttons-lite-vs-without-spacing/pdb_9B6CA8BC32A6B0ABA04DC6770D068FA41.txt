@@ -1,0 +1,1 @@
+1#classic-taskbar-buttons-lite-vs-without-spacing#2376988959-4190208#void __cdecl GDIHelpers::FillRectARGB(struct HDC__ *,struct tagRECT const *,unsigned char,unsigned long,bool)#1024876#private: void __cdecl CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#315812

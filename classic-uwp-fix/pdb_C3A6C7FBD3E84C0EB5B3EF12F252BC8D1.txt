@@ -1,0 +1,1 @@
+1#classic-uwp-fix#1717733595-1142784#long __cdecl AnimationHelpers::LoadThemeTransform(int,int,struct TA_TRANSFORM *,unsigned long,struct TA_TIMINGFUNCTION *,unsigned long)#187412

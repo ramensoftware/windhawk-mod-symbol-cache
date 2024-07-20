@@ -1,0 +1,1 @@
+1#disable-rounded-corners#4154043016-1269760#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#190968

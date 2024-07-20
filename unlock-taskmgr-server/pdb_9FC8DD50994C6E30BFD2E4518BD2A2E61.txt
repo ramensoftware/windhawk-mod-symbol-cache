@@ -1,0 +1,1 @@
+1#unlock-taskmgr-server#1782963574-245760#public: bool __thiscall RunTimeSettings::IsServer(void)#

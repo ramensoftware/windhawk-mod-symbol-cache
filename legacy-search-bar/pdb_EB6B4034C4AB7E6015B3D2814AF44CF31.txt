@@ -1,0 +1,1 @@
+1#legacy-search-bar#4159558358-2224128#private: bool __cdecl CUniversalSearchBand::IsModernSearchBoxEnabled(void)#236832#public: long __cdecl CSearchEditBox::HideSuggestions(void)#544116

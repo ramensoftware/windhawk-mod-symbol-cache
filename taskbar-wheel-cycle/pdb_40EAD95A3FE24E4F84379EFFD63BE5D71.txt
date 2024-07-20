@@ -1,0 +1,1 @@
+1#taskbar-wheel-cycle#1711496221-8630272#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskbarFrame,struct winrt::Windows::UI::Xaml::Controls::IControlOverrides>::OnPointerWheelChanged(void *)#4833792

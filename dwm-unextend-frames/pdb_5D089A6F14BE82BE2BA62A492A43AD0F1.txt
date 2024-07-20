@@ -1,0 +1,1 @@
+1#dwm-unextend-frames#4179554443-720896#public: long __cdecl DirectUI::DUIXmlParser::_InitializeTables(void)#

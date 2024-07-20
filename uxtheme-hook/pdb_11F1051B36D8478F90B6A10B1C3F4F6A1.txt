@@ -1,0 +1,1 @@
+1#uxtheme-hook#215517986-520192#public: long __stdcall CThemeSignature::Verify(void *)#

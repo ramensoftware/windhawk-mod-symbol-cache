@@ -1,0 +1,1 @@
+1#uxtheme-hook#3643877956-1818624#public: void __cdecl DirectUI::Element::PaintBackground(struct HDC__ *,class DirectUI::Value *,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &)#171968

@@ -1,0 +1,1 @@
+1#taskbar-button-scroll#1719451134-8757248#public: void __cdecl winrt::Taskbar::implementation::TaskListButton::AutomationInvoke(void)#6518320#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskListButton,struct winrt::Windows::UI::Xaml::Controls::IControlOverrides>::OnPointerWheelChanged(void *)#3428256

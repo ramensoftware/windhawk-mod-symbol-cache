@@ -1,0 +1,1 @@
+1#windows-7-clock-spacing#2885206955-5726208#private: int __cdecl ClockButton::GetTextSpacingForOrientation(bool,int,int,int,int)#364740#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#311172#private: void __cdecl ClockButton::ClockButtonImage::DrawTextW(struct HDC__ *,unsigned short const *,int,int,int,int,int)#364496

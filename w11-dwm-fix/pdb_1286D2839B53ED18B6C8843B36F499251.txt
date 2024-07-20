@@ -1,0 +1,1 @@
+1#w11-dwm-fix#3205855796-1454080#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#178668#public: static bool __cdecl CDesktopManager::IsHighContrastMode(void)#143824#public: struct tagRECT __cdecl CTopLevelWindow::GetBorderRect(bool)const #143584

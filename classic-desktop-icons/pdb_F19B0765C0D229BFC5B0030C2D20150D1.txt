@@ -1,0 +1,1 @@
+1#classic-desktop-icons#2812482664-2592768#private: void __cdecl CLVDrawManager::_PaintWorkArea(struct HDC__ *,struct tagRECT const *)#280436#public: void __cdecl CLVSelectionManager::DragSelect(int,int)#1819932#public: bool __cdecl CListView::IsDoubleBuffer(void)const #268796

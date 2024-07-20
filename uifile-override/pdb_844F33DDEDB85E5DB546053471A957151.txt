@@ -1,0 +1,1 @@
+1#uifile-override#4148273892-8146944#long __cdecl DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#785636#long __cdecl _AllocArray<unsigned short,class CTGlobalAllocPolicy>(void *,unsigned long,unsigned __int64,unsigned short * *)#2447072

@@ -1,0 +1,1 @@
+1#regedit-disable-beep#1997998463-663552#public: void __cdecl RegEdit::Navigate(void)#29884

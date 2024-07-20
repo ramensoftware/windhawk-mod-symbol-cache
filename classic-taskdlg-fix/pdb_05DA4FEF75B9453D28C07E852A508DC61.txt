@@ -1,0 +1,1 @@
+1#classic-taskdlg-fix#4209998591-692224#public: virtual struct tagSIZE __cdecl DirectUI::CCPushButton::GetContentSize(int,int,class DirectUI::Surface *)#

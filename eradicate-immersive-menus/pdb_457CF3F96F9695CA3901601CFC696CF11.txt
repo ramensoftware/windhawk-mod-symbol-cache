@@ -1,0 +1,1 @@
+1#eradicate-immersive-menus#3186512279-5165056#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#

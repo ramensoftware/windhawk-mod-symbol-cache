@@ -1,0 +1,1 @@
+1#notepad-remove-launch-new-app-banner#3678690259-368640#long __cdecl ActivateBanner(bool)#41316
