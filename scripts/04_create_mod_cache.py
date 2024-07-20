@@ -10,14 +10,35 @@ MOD_CACHE_SEPARATORS = {
 }
 
 
+def create_mod_cache_file(
+    cache_path: Path,
+    sep: str,
+    val1: str,
+    val2: str,
+    mod_symbols: list[str],
+    symbol_addresses: dict,
+):
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
+    with cache_path.open('w', encoding='utf-8') as f:
+        f.write(f'1{sep}{val1}{sep}{val2}')
+
+        for symbol in mod_symbols:
+            address = symbol_addresses.get(symbol, '')
+            if address is None:
+                raise Exception(f'Duplicate symbol {symbol}')
+
+            f.write(f'{sep}{symbol}{sep}{address}')
+
+
 def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
                                       extracted_symbols: dict,
                                       binary_name: str,
                                       arch: str,
                                       symbols_file: Path):
     symbols = {}
-    timestamp = None    
-    image_size = None    
+    timestamp = None
+    image_size = None
+    pdb_fingerprint = None
 
     with symbols_file.open('r', encoding='utf-8') as f:
         while line := f.readline():
@@ -32,6 +53,13 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
                 continue
 
             if line.startswith(f'machine='):
+                continue
+
+            if line.startswith(f'pdb_fingerprint='):
+                pdb_fingerprint = line.split('=')[1]
+                continue
+
+            if line.startswith(f'pdb_filename='):
                 continue
 
             if line.startswith(f'['):
@@ -56,6 +84,7 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
         if binary_name not in mod_archs[arch]:
             continue
 
+        # Legacy symbol cache.
         if arch == 'x86-64':
             cache_key = f'symbol-cache-{binary_name}'
         else:
@@ -63,18 +92,33 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
 
         symbol_cache_file_path = symbol_cache_path / mod_name / cache_key / f'{timestamp}-{image_size}.txt'
 
-        symbol_cache_file_path.parent.mkdir(parents=True, exist_ok=True)
-        with symbol_cache_file_path.open('w', encoding='utf-8') as f:
-            sep = MOD_CACHE_SEPARATORS.get(mod_name, '#')
+        sep = MOD_CACHE_SEPARATORS.get(mod_name, '#')
 
-            f.write(f'1{sep}{timestamp}{sep}{image_size}')
+        create_mod_cache_file(
+            symbol_cache_file_path,
+            sep,
+            str(timestamp),
+            str(image_size),
+            mod_archs[arch][binary_name],
+            symbols,
+        )
 
-            for symbol in mod_archs[arch][binary_name]:
-                address = symbols.get(symbol, '')
-                if address is None:
-                    raise Exception(f'Duplicate symbol {symbol} in {symbols_file}')
+        # New symbol cache.
+        if pdb_fingerprint is None:
+            cache_key = f'pe_{arch}_{timestamp}_{image_size}_{binary_name}'
+        else:
+            cache_key = f'pdb_{pdb_fingerprint}'
 
-                f.write(f'{sep}{symbol}{sep}{address}')
+        symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
+
+        create_mod_cache_file(
+            symbol_cache_file_path,
+            '#',
+            binary_name.replace('#', '_'),
+            f'{timestamp}-{image_size}',
+            mod_archs[arch][binary_name],
+            symbols,
+        )
 
 
 def create_mod_cache(binaries_folder: Path,
