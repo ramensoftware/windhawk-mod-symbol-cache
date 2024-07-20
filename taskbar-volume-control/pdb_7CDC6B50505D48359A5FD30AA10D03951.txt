@@ -1,1 +1,1 @@
-1#taskbar-volume-control#1719431007-8937472#public: void __cdecl winrt::SystemTray::implementation::VolumeSystemTrayIconDataModel::OnIconClicked(struct winrt::SystemTray::IconClickedEventArgs const &)#1007188
+1#taskbar.view.dll#1719431007-8937472#public: void __cdecl winrt::SystemTray::implementation::VolumeSystemTrayIconDataModel::OnIconClicked(struct winrt::SystemTray::IconClickedEventArgs const &)#1007188

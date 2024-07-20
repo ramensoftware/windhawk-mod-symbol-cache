@@ -1,1 +1,1 @@
-1#win32-tray-clock-experience#2885206955-5726208#public: void __cdecl ClockButton::StartTicking(void)#336048#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#2004000
+1#explorer.exe#2885206955-5726208#public: void __cdecl ClockButton::StartTicking(void)#336048#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#2004000

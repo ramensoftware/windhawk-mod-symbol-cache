@@ -1,1 +1,1 @@
-1#unlock-taskmgr-server#3813373794-4411392#public: bool __thiscall RunTimeSettings::IsServer(void)#1141899
+1#taskmgr.exe#3813373794-4411392#public: bool __thiscall RunTimeSettings::IsServer(void)#1141899

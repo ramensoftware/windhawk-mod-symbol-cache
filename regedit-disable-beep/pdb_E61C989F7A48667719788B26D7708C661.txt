@@ -1,1 +1,1 @@
-1#regedit-disable-beep#3220396651-774144#public: void __thiscall RegEdit::Navigate(void)#32089
+1#regedit.exe#3220396651-774144#public: void __thiscall RegEdit::Navigate(void)#32089

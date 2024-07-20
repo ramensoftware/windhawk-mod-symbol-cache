@@ -1,1 +1,1 @@
-1#remove-command-bar#2314104804-9801728#long __stdcall DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#1466888
+1#shell32.dll#2314104804-9801728#long __stdcall DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#1466888

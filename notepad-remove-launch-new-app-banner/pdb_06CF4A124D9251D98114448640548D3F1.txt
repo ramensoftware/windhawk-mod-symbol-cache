@@ -1,1 +1,1 @@
-1#notepad-remove-launch-new-app-banner#4159526427-327680#long __stdcall ActivateBanner(bool)#48547
+1#notepad.exe#4159526427-327680#long __stdcall ActivateBanner(bool)#48547

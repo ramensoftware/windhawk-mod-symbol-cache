@@ -1,1 +1,1 @@
-1#uxtheme-hook#2106231525-524288#public: long __stdcall CThemeSignature::Verify(void *)#
+1#uxtheme.dll#2106231525-524288#public: long __stdcall CThemeSignature::Verify(void *)#

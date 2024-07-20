@@ -1,1 +1,1 @@
-1#taskbar-notification-icon-spacing#1719451134-8757248#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#475140
+1#taskbar.view.dll#1719451134-8757248#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#475140

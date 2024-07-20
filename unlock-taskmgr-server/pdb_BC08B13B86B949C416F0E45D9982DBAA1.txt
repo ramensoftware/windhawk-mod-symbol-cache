@@ -1,1 +1,1 @@
-1#unlock-taskmgr-server#922564236-294912#public: bool __cdecl RunTimeSettings::IsServer(void)#
+1#taskmgr.exe#922564236-294912#public: bool __cdecl RunTimeSettings::IsServer(void)#

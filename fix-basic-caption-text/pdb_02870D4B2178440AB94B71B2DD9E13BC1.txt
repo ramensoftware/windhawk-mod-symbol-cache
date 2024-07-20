@@ -1,1 +1,1 @@
-1#fix-basic-caption-text#1719285601-610304#public: unsigned long __cdecl _NCWNDMET::GetCaptionColor(bool)##struct HICON__ * __cdecl _GetWindowIcon(struct HWND__ *,int)#120196
+1#uxtheme.dll#1719285601-610304#public: unsigned long __cdecl _NCWNDMET::GetCaptionColor(bool)##struct HICON__ * __cdecl _GetWindowIcon(struct HWND__ *,int)#120196

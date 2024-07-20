@@ -1,1 +1,1 @@
-1#virtual-desktop-taskbar-order#3013444535-9043968#public: virtual long __cdecl CApplicationViewManager::GetViewInFocus(struct IApplicationView * *)#2099968
+1#twinui.pcshell.dll#3013444535-9043968#public: virtual long __cdecl CApplicationViewManager::GetViewInFocus(struct IApplicationView * *)#2099968

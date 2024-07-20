@@ -1,1 +1,1 @@
-1#legacy-search-bar#1475468383-1875968#private: bool __thiscall CUniversalSearchBand::IsModernSearchBoxEnabled(void)#675586#public: long __thiscall CSearchEditBox::HideSuggestions(void)#1165285
+1#explorerframe.dll#1475468383-1875968#private: bool __thiscall CUniversalSearchBand::IsModernSearchBoxEnabled(void)#675586#public: long __thiscall CSearchEditBox::HideSuggestions(void)#1165285

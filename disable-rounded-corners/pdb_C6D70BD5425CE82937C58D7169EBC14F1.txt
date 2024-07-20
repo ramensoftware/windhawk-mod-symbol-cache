@@ -1,1 +1,1 @@
-1#disable-rounded-corners#2822905686-974848#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#
+1#udwm.dll#2822905686-974848#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#

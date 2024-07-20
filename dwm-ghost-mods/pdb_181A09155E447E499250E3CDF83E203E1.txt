@@ -1,1 +1,1 @@
-1#dwm-ghost-mods#3589261206-94208#public: int __cdecl CGhostWindow::CreateGhostWindow(void)#26512#public: static __int64 __cdecl CGhostWindow::s_GhostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#32976
+1#dwmghost.dll#3589261206-94208#public: int __cdecl CGhostWindow::CreateGhostWindow(void)#26512#public: static __int64 __cdecl CGhostWindow::s_GhostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#32976

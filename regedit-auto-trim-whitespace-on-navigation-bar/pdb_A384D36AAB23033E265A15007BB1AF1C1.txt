@@ -1,1 +1,1 @@
-1#regedit-auto-trim-whitespace-on-navigation-bar#2661281961-622592#private: int __thiscall RegEdit::ExpandKeyPath(unsigned short const *,bool)#29446
+1#regedit.exe#2661281961-622592#private: int __thiscall RegEdit::ExpandKeyPath(unsigned short const *,bool)#29446

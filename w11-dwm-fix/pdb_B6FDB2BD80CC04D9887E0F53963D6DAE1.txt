@@ -1,1 +1,1 @@
-1#w11-dwm-fix#2018838455-1761280#int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int)#151536
+1#user32.dll#2018838455-1761280#int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int)#151536

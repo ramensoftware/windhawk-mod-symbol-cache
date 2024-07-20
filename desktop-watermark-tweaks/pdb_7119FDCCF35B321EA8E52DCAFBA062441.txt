@@ -1,1 +1,1 @@
-1#desktop-watermark-tweaks#2966548008-7540736#public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void)#625144#private: static void __cdecl CDesktopWatermark::s_GetProductBuildString(unsigned short *,unsigned int)#623404
+1#shell32.dll#2966548008-7540736#public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void)#625144#private: static void __cdecl CDesktopWatermark::s_GetProductBuildString(unsigned short *,unsigned int)#623404

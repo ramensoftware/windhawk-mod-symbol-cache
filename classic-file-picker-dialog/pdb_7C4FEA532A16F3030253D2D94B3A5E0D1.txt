@@ -1,1 +1,1 @@
-1#classic-file-picker-dialog#1552573343-774144#int __stdcall IsCommonItemDialogAvailable(void)#102294#public: static long __stdcall CFileOpenSave::s_CreateInstance(enum DIALOGINITFLAGS,struct _GUID const &,void * *)#190297
+1#comdlg32.dll#1552573343-774144#int __stdcall IsCommonItemDialogAvailable(void)#102294#public: static long __stdcall CFileOpenSave::s_CreateInstance(enum DIALOGINITFLAGS,struct _GUID const &,void * *)#190297

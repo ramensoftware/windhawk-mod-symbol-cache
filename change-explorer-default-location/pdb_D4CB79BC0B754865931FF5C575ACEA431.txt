@@ -1,1 +1,1 @@
-1#change-explorer-default-location#1719286170-22044672#private: long __cdecl COpenDefaultLocationCommand::_GetNavTarget(struct IShellItem * *)#1633180
+1#shell32.dll#1719286170-22044672#private: long __cdecl COpenDefaultLocationCommand::_GetNavTarget(struct IShellItem * *)#1633180

@@ -1,1 +1,1 @@
-1#classic-taskbar-buttons-lite#1429685139-4440064#private: void __thiscall CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#556976
+1#explorer.exe#1429685139-4440064#private: void __thiscall CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#556976

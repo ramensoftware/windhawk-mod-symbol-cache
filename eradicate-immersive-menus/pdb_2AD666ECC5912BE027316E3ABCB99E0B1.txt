@@ -1,1 +1,1 @@
-1#eradicate-immersive-menus#4158947118-4317184#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#2470347
+1#explorer.exe#4158947118-4317184#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#2470347

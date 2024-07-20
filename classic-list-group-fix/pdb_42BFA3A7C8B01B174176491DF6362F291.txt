@@ -1,1 +1,1 @@
-1#classic-list-group-fix#3471202357-2162688#public: int __thiscall CListGroup::GetGroupRect(struct tagRECT *)const #166219#private: void __thiscall CListGroup::_PaintHeader(unsigned long,struct tagNMLVCUSTOMDRAW *)#166476#public: int __thiscall CListGroup::HeaderHeight(void)const #246715
+1#comctl32.dll#3471202357-2162688#public: int __thiscall CListGroup::GetGroupRect(struct tagRECT *)const #166219#private: void __thiscall CListGroup::_PaintHeader(unsigned long,struct tagNMLVCUSTOMDRAW *)#166476#public: int __thiscall CListGroup::HeaderHeight(void)const #246715

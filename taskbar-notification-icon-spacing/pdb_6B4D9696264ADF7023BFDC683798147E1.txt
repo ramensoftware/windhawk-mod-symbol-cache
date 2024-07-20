@@ -1,1 +1,1 @@
-1#taskbar-notification-icon-spacing#2885206955-5726208#const CTaskBand::`vftable'{for `ITaskListWndSite'}#3443480#public: virtual class std::shared_ptr<class TaskbarHost> __cdecl CTaskBand::GetTaskbarHost(void)const ##public: void __cdecl std::_Ref_count_base::_Decref(void)#541832
+1#explorer.exe#2885206955-5726208#const CTaskBand::`vftable'{for `ITaskListWndSite'}#3443480#public: virtual class std::shared_ptr<class TaskbarHost> __cdecl CTaskBand::GetTaskbarHost(void)const ##public: void __cdecl std::_Ref_count_base::_Decref(void)#541832

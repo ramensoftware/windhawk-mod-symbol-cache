@@ -1,1 +1,1 @@
-1#aerexplorer#3095652822-7987200#public: long __cdecl CObjectArray::AddItemsFromKeySkip(struct HKEY__ *,unsigned short const *,unsigned long,struct _GUID const &)#1535288
+1#windows.storage.dll#3095652822-7987200#public: long __cdecl CObjectArray::AddItemsFromKeySkip(struct HKEY__ *,unsigned short const *,unsigned long,struct _GUID const &)#1535288

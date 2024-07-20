@@ -1,1 +1,1 @@
-1#uxtheme-hook#307224244-425984#public: long __cdecl CThemeSignature::Verify(void *)#303380
+1#themeui.dll#307224244-425984#public: long __cdecl CThemeSignature::Verify(void *)#303380

@@ -1,1 +1,1 @@
-1#uxtheme-hook#198685847-147456#public: long __cdecl CThemeSignature::Verify(void *)#88800
+1#uxinit.dll#198685847-147456#public: long __cdecl CThemeSignature::Verify(void *)#88800
