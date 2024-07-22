@@ -191,7 +191,7 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     symbol_block = re.sub(p, '', symbol_block)
 
     # Replace string definitions.
-    def sub(match):
+    def sub_quoted(match):
         symbol = match.group(1)
         if symbol is None:
             symbol = match.group(2)
@@ -202,7 +202,18 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
         return string_definitions[symbol]
 
     p = r'"\s*(\w+)\s*L"|"\s+(\w+)\s+"'
-    symbol_block = re.sub(p, sub, symbol_block)
+    symbol_block = re.sub(p, sub_quoted, symbol_block)
+
+    def sub_braced(match):
+        symbol = match.group(1)
+
+        if symbol not in string_definitions:
+            raise Exception(f'Unknown string definition {symbol}')
+
+        return '{L"' + string_definitions[symbol] + '"}'
+
+    p = r'\{\s*(\w+)\s*\}'
+    symbol_block = re.sub(p, sub_braced, symbol_block)
 
     # Extract symbols.
     p = r'LR"\((.*?)\)"|L"(.*?)"'
@@ -233,7 +244,7 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
 
     # Expand #ifdef _WIN64 conditions.
     def sub(match):
-        if match.group(1) == 'ifdef':
+        if match.group(1) in ['if', 'ifdef']:
             condition_matches = arch == 'x86-64'
         else:
             assert match.group(1) == 'ifndef'
@@ -244,7 +255,7 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
 
         return match.group(4) or ''
 
-    p = r'^[ \t]*#(ifn?def)[ \t]*_WIN64[ \t]*([\s\S]*?)(^[ \t]*#else[ \t]*$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
+    p = r'^[ \t]*#(if|ifn?def)[ \t]*_WIN64[ \t]*([\s\S]*?)(^[ \t]*#else[ \t]*$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
     mod_source = re.sub(p, sub, mod_source, flags=re.MULTILINE)
 
     # Extract string definitions.
