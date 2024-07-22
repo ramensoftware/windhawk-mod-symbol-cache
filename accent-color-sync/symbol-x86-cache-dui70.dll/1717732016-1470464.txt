@@ -1,0 +1,1 @@
+1#1717732016#1470464#public: unsigned short __thiscall DirectUI::Element::GetID(void)#327504#public: virtual void __thiscall DirectUI::Element::OnPropertyChanged(struct DirectUI::PropertyInfo const *,int,class DirectUI::Value *,class DirectUI::Value *)#308976#public: long __thiscall DirectUI::CCTrackBar::SetThumbPosition(int)#657072
