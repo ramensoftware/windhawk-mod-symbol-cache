@@ -215,6 +215,11 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     p = r'\{\s*(\w+)\s*\}'
     symbol_block = re.sub(p, sub_braced, symbol_block)
 
+    # Sanity check.
+    for string_definition in string_definitions:
+        if string_definition in symbol_block:
+            raise Exception(f'String definition wasn\'t replaced: {string_definition}')
+
     # Extract symbols.
     p = r'LR"\((.*?)\)"|L"(.*?)"'
     symbols = re.findall(p, symbol_block)
