@@ -1,0 +1,1 @@
+1@3611818732@10440704@public: virtual long __cdecl CApplicationViewManager::GetViewInFocus(struct IApplicationView * *)@195344

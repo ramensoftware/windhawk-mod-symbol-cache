@@ -1,0 +1,1 @@
+1#regedit.exe#2981235747-651264#private: void __cdecl RegEdit::OnCopyKeyName(struct HWND__ *,struct _TREEITEM *)#61872#struct HKEY__ * __cdecl KeyTree_BuildKeyPath(struct HWND__ *,struct _TREEITEM *,unsigned short *,unsigned long,unsigned int)#62104#long __cdecl StringCchCatW(unsigned short *,unsigned __int64,unsigned short const *)#15888
