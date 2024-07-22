@@ -100,46 +100,26 @@ def get_mod_metadata(mod_name: str, mod_source: str):
     }
 
 
-def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.Match, string_definitions: dict[str, str]):
+def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_block_match: re.Match):
     symbol_block = symbol_block_match.group(0)
     symbol_block_name = symbol_block_match.group(1)
 
-    # Make sure there are no preprocessor directives.
-    p = r'^[ \t]*#'
-    if re.search(p, symbol_block, re.MULTILINE):
-        raise Exception(f'Unsupported preprocessor directives')
+    # Try the new rules as defined in pr_validation.py.
+    p = r'(.*?)_?(exe|dll)_?hooks?'
+    if match := re.fullmatch(p, symbol_block_name, flags=re.IGNORECASE):
+        base_name = match.group(1)
+        suffix = match.group(2)
+        full_name = f'{base_name}.{suffix}'.lower()
+        return [full_name]
 
-    # Merge strings spanning over multiple lines.
-    p = r'"([ \t]*\n)+[ \t]*L?"'
-    symbol_block = re.sub(p, '', symbol_block)
-
-    # Replace string definitions.
-    def sub(match):
-        symbol = match.group(1)
-        if symbol is None:
-            symbol = match.group(2)
-
-        if symbol not in string_definitions:
-            raise Exception(f'Unknown string definition {symbol}')
-
-        return string_definitions[symbol]
-
-    p = r'"\s*(\w+)\s*L"|"\s+(\w+)\s+"'
-    symbol_block = re.sub(p, sub, symbol_block)
-
-    # Extract symbols.
-    p = r'LR"\((.*?)\)"|L"(.*?)"'
-    symbols = re.findall(p, symbol_block)
-    symbols = list(map(lambda x: x[0] if x[0] else x[1], symbols))
-
-    if any('"' in x or '\\' in x for x in symbols):
-        raise Exception(f'Unsupported strings')
-
-    if len(symbols) * 2 != symbol_block.count('"'):
-        raise Exception(f'Unsupported strings')
-
-    if symbols == []:
-        return None
+    line_num = 1 + mod_source[: symbol_block_match.start()].count('\n')
+    previous_line = mod_source.splitlines()[line_num - 2]
+    if previous_line.lstrip().startswith('//'):
+        comment = previous_line.lstrip().removeprefix('//').strip()
+        if comment != '':
+            names = comment.split(',')
+            if all(x.endswith('.dll') or x.endswith('.exe') for x in names):
+                return names
 
     # Deduce modules by the block (SYMBOL_HOOK variable) name.
     modules_by_block_name = SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME.get((mod_name, symbol_block_name))
@@ -194,6 +174,51 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     assert modules is not None
 
     modules = list(map(lambda x: x.lower(), modules))
+
+    return modules
+
+
+def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.Match, string_definitions: dict[str, str]):
+    symbol_block = symbol_block_match.group(0)
+
+    # Make sure there are no preprocessor directives.
+    p = r'^[ \t]*#'
+    if re.search(p, symbol_block, re.MULTILINE):
+        raise Exception(f'Unsupported preprocessor directives')
+
+    # Merge strings spanning over multiple lines.
+    p = r'"([ \t]*\n)+[ \t]*L?"'
+    symbol_block = re.sub(p, '', symbol_block)
+
+    # Replace string definitions.
+    def sub(match):
+        symbol = match.group(1)
+        if symbol is None:
+            symbol = match.group(2)
+
+        if symbol not in string_definitions:
+            raise Exception(f'Unknown string definition {symbol}')
+
+        return string_definitions[symbol]
+
+    p = r'"\s*(\w+)\s*L"|"\s+(\w+)\s+"'
+    symbol_block = re.sub(p, sub, symbol_block)
+
+    # Extract symbols.
+    p = r'LR"\((.*?)\)"|L"(.*?)"'
+    symbols = re.findall(p, symbol_block)
+    symbols = list(map(lambda x: x[0] if x[0] else x[1], symbols))
+
+    if any('"' in x or '\\' in x for x in symbols):
+        raise Exception(f'Unsupported strings')
+
+    if len(symbols) * 2 != symbol_block.count('"'):
+        raise Exception(f'Unsupported strings')
+
+    if symbols == []:
+        return None
+
+    modules = deduce_symbol_block_target_modules(mod_name, mod_source, symbol_block_match)
 
     return {
         'symbols': symbols,
