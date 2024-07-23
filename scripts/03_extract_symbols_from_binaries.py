@@ -161,8 +161,15 @@ def extract_all_symbols(binaries_folder: Path,
     errors = [e for e in errors if e is not None]
     print(f'Extracted symbols from {len(paths)-len(errors)} of {len(paths)} files')
 
-    for error in errors:
-        print(error)
+    if errors:
+        print('Errors:')
+        for error in errors:
+            print(error)
+
+    if paths:
+        print(f'Processed files:')
+        for path in paths:
+            print(path)
 
 
 def main():
