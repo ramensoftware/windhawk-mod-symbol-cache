@@ -153,6 +153,9 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
             previous_file_path.rename(file_path)
             continue
 
+        if file_path_symbols.exists() or file_path.exists():
+            continue
+
         if age_days > BINARY_MAX_AGE_DAYS_TO_DOWNLOAD:
             if VERBOSE_OUTPUT:
                 print(f'Skipping {hash} which is too old: {age_days} days')
