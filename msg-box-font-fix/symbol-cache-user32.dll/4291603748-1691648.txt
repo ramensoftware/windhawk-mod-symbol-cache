@@ -1,0 +1,1 @@
+1#4291603748#1691648#struct HFONT__ * __cdecl GetMessageBoxFontForDpi(unsigned int)#366272#__int64 __cdecl MB_DlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#489568
