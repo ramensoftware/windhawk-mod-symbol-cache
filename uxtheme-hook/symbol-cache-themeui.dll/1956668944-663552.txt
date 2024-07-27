@@ -1,0 +1,1 @@
+1#1956668944#663552#public: long __cdecl CThemeSignature::Verify(void *)#489320
