@@ -118,7 +118,7 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
     if previous_line.lstrip().startswith('//'):
         comment = previous_line.lstrip().removeprefix('//').strip()
         if comment != '':
-            names = [x.strip() for x in comment.split(',')]
+            names = [x.strip().lower() for x in comment.split(',')]
             if all(x.endswith('.dll') or x.endswith('.exe') for x in names):
                 return names
 
@@ -244,10 +244,6 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
 
 
 def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
-    # Remove comments.
-    mod_source = re.sub(r'[ \t]*//.*', '', mod_source)
-    mod_source = re.sub(r'/\*[\s\S]*?\*/', '', mod_source)
-
     # Expand #ifdef _WIN64 conditions.
     def sub(match):
         if match.group(1) in ['if', 'ifdef']:
@@ -282,8 +278,17 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
 
         symbol_blocks.append(symbol_block)
 
+    # Remove comments.
+    mod_source_without_comments = mod_source
+    mod_source_without_comments = re.sub(r'[ \t]*//.*', '', mod_source_without_comments)
+    mod_source_without_comments = re.sub(
+        r'/\*[\s\S]*?\*/', '', mod_source_without_comments
+    )
+
     p = r'SYMBOL_HOOK.*=(?![^{\n]+;)'
-    if len(symbol_blocks) != len(re.findall(p, mod_source, re.MULTILINE)):
+    if len(symbol_blocks) != len(
+        re.findall(p, mod_source_without_comments, re.MULTILINE)
+    ):
         raise Exception(f'Mod {mod_name} has unsupported symbol blocks')
 
     symbol_blocks = list(filter(lambda x: x is not None, symbol_blocks))
