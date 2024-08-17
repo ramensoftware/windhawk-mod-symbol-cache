@@ -110,7 +110,8 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
         base_name = match.group(1)
         suffix = match.group(2)
         full_name = f'{base_name}.{suffix}'.lower()
-        return [full_name]
+        if full_name != 'windowsstorage.dll':  # Special case for aerexplorer
+            return [full_name]
 
     line_num = 1 + mod_source[: symbol_block_match.start()].count('\n')
     previous_line = mod_source.splitlines()[line_num - 2]
