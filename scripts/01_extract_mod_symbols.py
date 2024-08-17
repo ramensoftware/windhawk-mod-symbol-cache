@@ -118,7 +118,7 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
     if previous_line.lstrip().startswith('//'):
         comment = previous_line.lstrip().removeprefix('//').strip()
         if comment != '':
-            names = comment.split(',')
+            names = [x.strip() for x in comment.split(',')]
             if all(x.endswith('.dll') or x.endswith('.exe') for x in names):
                 return names
 
