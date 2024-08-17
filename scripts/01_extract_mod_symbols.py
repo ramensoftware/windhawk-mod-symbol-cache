@@ -84,7 +84,7 @@ def get_mod_metadata(mod_name: str, mod_source: str):
     match = re.search(p, mod_source, re.MULTILINE)
     if not match:
         raise Exception(f'Mod {mod_name} has no metadata block')
-    
+
     metadata_block = match.group(1)
 
     p = r'^\/\/[ \t]+@architecture[ \t]+(.*)$'
@@ -100,27 +100,55 @@ def get_mod_metadata(mod_name: str, mod_source: str):
     }
 
 
+def remove_comments_from_code(code: str):
+    code = re.sub(r'[ \t]*//.*', '', code)
+    code = re.sub(r'/\*[\s\S]*?\*/', '', code)
+    return code
+
+
+def get_target_module_from_symbol_block_name(symbol_block_name: str):
+    p = r'(.*?)_?(exe|dll)_?hooks?'
+    match = re.fullmatch(p, symbol_block_name, flags=re.IGNORECASE)
+    if not match:
+        return None
+
+    base_name = match.group(1)
+    suffix = match.group(2)
+    return f'{base_name}.{suffix}'
+
+
+def get_target_modules_from_previous_line(previous_line: str):
+    previous_line = previous_line.lstrip()
+    if not previous_line.startswith('//'):
+        return []
+
+    comment = previous_line.removeprefix('//').strip()
+    if comment == '':
+        return []
+
+    names = [x.strip() for x in comment.split(',')]
+    if not all(x.endswith('.dll') or x.endswith('.exe') for x in names):
+        return []
+
+    return names
+
+
 def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_block_match: re.Match):
     symbol_block = symbol_block_match.group(0)
     symbol_block_name = symbol_block_match.group(1)
 
     # Try the new rules as defined in pr_validation.py.
-    p = r'(.*?)_?(exe|dll)_?hooks?'
-    if match := re.fullmatch(p, symbol_block_name, flags=re.IGNORECASE):
-        base_name = match.group(1)
-        suffix = match.group(2)
-        full_name = f'{base_name}.{suffix}'.lower()
-        if full_name != 'windowsstorage.dll':  # Special case for aerexplorer
-            return [full_name]
+    target_from_name = get_target_module_from_symbol_block_name(symbol_block_name)
+    if target_from_name:
+        # Special case for aerexplorer
+        if target_from_name.lower() != 'windowsstorage.dll':
+            return [target_from_name.lower()]
 
     line_num = 1 + mod_source[: symbol_block_match.start()].count('\n')
     previous_line = mod_source.splitlines()[line_num - 2]
-    if previous_line.lstrip().startswith('//'):
-        comment = previous_line.lstrip().removeprefix('//').strip()
-        if comment != '':
-            names = [x.strip().lower() for x in comment.split(',')]
-            if all(x.endswith('.dll') or x.endswith('.exe') for x in names):
-                return names
+    targets_from_comment = get_target_modules_from_previous_line(previous_line)
+    if targets_from_comment:
+        return [x.lower() for x in targets_from_comment]
 
     # Deduce modules by the block (SYMBOL_HOOK variable) name.
     modules_by_block_name = SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME.get((mod_name, symbol_block_name))
@@ -180,7 +208,7 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
 
 
 def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.Match, string_definitions: dict[str, str]):
-    symbol_block = symbol_block_match.group(0)
+    symbol_block = remove_comments_from_code(symbol_block_match.group(0))
 
     # Make sure there are no preprocessor directives.
     p = r'^[ \t]*#'
@@ -279,15 +307,9 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
         symbol_blocks.append(symbol_block)
 
     # Remove comments.
-    mod_source_without_comments = mod_source
-    mod_source_without_comments = re.sub(r'[ \t]*//.*', '', mod_source_without_comments)
-    mod_source_without_comments = re.sub(
-        r'/\*[\s\S]*?\*/', '', mod_source_without_comments
-    )
-
     p = r'SYMBOL_HOOK.*=(?![^{\n]+;)'
     if len(symbol_blocks) != len(
-        re.findall(p, mod_source_without_comments, re.MULTILINE)
+        re.findall(p, remove_comments_from_code(mod_source), re.MULTILINE)
     ):
         raise Exception(f'Mod {mod_name} has unsupported symbol blocks')
 
