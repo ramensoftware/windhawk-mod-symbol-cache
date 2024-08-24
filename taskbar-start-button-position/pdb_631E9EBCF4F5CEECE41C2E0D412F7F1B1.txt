@@ -1,0 +1,1 @@
+1#taskbar.dll#815938654-3129344#public: long __cdecl CPearl::SetBounds(struct tagRECT const &)#209192#const CTaskBand::`vftable'{for `ITaskListWndSite'}#1868048#public: virtual class std::shared_ptr<class TaskbarHost> __cdecl CTaskBand::GetTaskbarHost(void)const #1061696#public: void __cdecl std::_Ref_count_base::_Decref(void)#122108
