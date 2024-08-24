@@ -107,7 +107,7 @@ def remove_comments_from_code(code: str):
 
 
 def get_target_module_from_symbol_block_name(symbol_block_name: str):
-    p = r'(.*?)_?(exe|dll)_?hooks?'
+    p = r'(.*?)_?(exe|dll|cpl)_?hooks?'
     match = re.fullmatch(p, symbol_block_name, flags=re.IGNORECASE)
     if not match:
         return None
@@ -127,7 +127,7 @@ def get_target_modules_from_previous_line(previous_line: str):
         return []
 
     names = [x.strip() for x in comment.split(',')]
-    if not all(x.endswith('.dll') or x.endswith('.exe') for x in names):
+    if not all(re.search(r'\.(exe|dll|cpl)$', x) for x in names):
         return []
 
     return names
