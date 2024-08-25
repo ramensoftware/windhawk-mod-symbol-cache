@@ -9,16 +9,7 @@ ALL_ARCHITECTURES = [
 ]
 
 SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
-    ('aerexplorer', 'efHooks'): ('ExplorerFrame.dll',),
-    ('aerexplorer', 'isCplHooks'): ('ExplorerFrame.dll',),
-    ('aerexplorer', 'shHooks'): ('shell32.dll',),
-    ('aerexplorer', 'storageHooks'): ('windows.storage.dll',),
-    ('aero-flyout-fix', 'actioncenterHooks'): ('ActionCenter.dll',),
-    ('aero-flyout-fix', 'sndvolHooks'): ('SndVol.exe',),
-    ('aero-flyout-fix', 'stobjectHooks'): ('stobject.dll',),
-    ('aero-flyout-fix', 'timedateHooks'): ('timedate.cpl',),
     ('aero-tray', 'hooks'): ('explorer.exe',),
-    ('classic-file-picker-dialog', 'symbolHook'): ('comdlg32.dll',),
     ('desktop-watermark-tweaks', 'hooks'): ('shell32.dll',),
     ('dwm-ghost-mods', 'hooks'): ('dwmghost.dll',),
     ('dwm-unextend-frames', 'comctl32_hook'): ('comctl32.dll',),
@@ -29,23 +20,17 @@ SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
     ('taskbar-button-click', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
     ('taskbar-clock-customization', 'taskbarHooks10'): ('explorer.exe',),
     ('taskbar-clock-customization', 'taskbarHooks11'): ('Taskbar.View.dll',),
-    ('taskbar-thumbnail-reorder', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
     ('unlock-taskmgr-server', 'hook'): ('taskmgr.exe',),
     ('uxtheme-hook', 'duiHooks'): ('dui70.dll',),
     ('uxtheme-hook', 'hooks'): ('uxtheme.dll', 'uxinit.dll', 'themeui.dll',),
-    ('virtual-desktop-taskbar-order', 'taskbarSymbolHooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('virtual-desktop-taskbar-order', 'twinuiPcshellSymbolHooks'): ('twinui.pcshell.dll',),
     ('win32-tray-clock-experience', 'hooks'): ('Taskbar.dll', 'explorer.exe',),
     ('win7-style-uac-dim', 'hooks'): ('consent.exe',),
     ('windows-7-clock-spacing', 'hooks'): ('explorer.exe',),
 }
 
 SYMBOL_BLOCK_MODULES_BY_FUNCTION: dict[str, tuple[str, ...]] = {
-    'HookTaskbarSymbols': ('Taskbar.dll', 'explorer.exe',),
     'HookTaskbarDllSymbols': ('Taskbar.dll', 'explorer.exe',),
     'HookTaskbarViewDllSymbols': ('Taskbar.View.dll',),
-    'HookExplorerFrameSymbols': ('ExplorerFrame.dll',),
-    'HookFileExplorerExtensionsSymbols': ('FileExplorerExtensions.dll',),
     'HookICMH_CAODTM': (
         'shell32.dll',
         'ExplorerFrame.dll',
@@ -140,9 +125,7 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
     # Try the new rules as defined in pr_validation.py.
     target_from_name = get_target_module_from_symbol_block_name(symbol_block_name)
     if target_from_name:
-        # Special case for aerexplorer
-        if target_from_name.lower() != 'windowsstorage.dll':
-            return [target_from_name.lower()]
+        return [target_from_name.lower()]
 
     line_num = 1 + mod_source[: symbol_block_match.start()].count('\n')
     previous_line = mod_source.splitlines()[line_num - 2]
