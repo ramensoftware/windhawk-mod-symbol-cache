@@ -8,6 +8,11 @@ ALL_ARCHITECTURES = [
     'x86-64',
 ]
 
+SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
+    # Win7 only.
+    'win7-alttab-loader': ['alttab.dll'],
+}
+
 SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
     ('aero-tray', 'hooks'): ('explorer.exe',),
     ('desktop-watermark-tweaks', 'hooks'): ('shell32.dll',),
@@ -247,6 +252,8 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
         return None
 
     modules = deduce_symbol_block_target_modules(mod_name, mod_source, symbol_block_match)
+
+    modules = [x for x in modules if x not in SYMBOL_MODULES_SKIP.get(mod_name, [])]
 
     return {
         'symbols': symbols,
