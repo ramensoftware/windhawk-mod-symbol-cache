@@ -13,6 +13,12 @@ SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     'win7-alttab-loader': ['alttab.dll'],
 }
 
+SYMBOL_MODULES_FIX: dict[str, dict[str, str]] = {
+    'aerexplorer': {
+        'windowsstorage.dll': 'windows.storage.dll',
+    },
+}
+
 SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
     ('aerexplorer', 'efHooks'): ('ExplorerFrame.dll',),
     ('aerexplorer', 'isCplHooks'): ('ExplorerFrame.dll',),
@@ -145,9 +151,7 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
     # Try the new rules as defined in pr_validation.py.
     target_from_name = get_target_module_from_symbol_block_name(symbol_block_name)
     if target_from_name:
-        # Special case for aerexplorer
-        if target_from_name.lower() != 'windowsstorage.dll':
-            return [target_from_name.lower()]
+        return [target_from_name.lower()]
 
     line_num = 1 + mod_source[: symbol_block_match.start()].count('\n')
     previous_line = mod_source.splitlines()[line_num - 2]
@@ -270,7 +274,11 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
 
     modules = deduce_symbol_block_target_modules(mod_name, mod_source, symbol_block_match)
 
-    modules = [x for x in modules if x not in SYMBOL_MODULES_SKIP.get(mod_name, [])]
+    modules = [
+        SYMBOL_MODULES_FIX.get(mod_name, {}).get(x, x)
+        for x in modules
+        if x not in SYMBOL_MODULES_SKIP.get(mod_name, [])
+    ]
 
     return {
         'symbols': symbols,
