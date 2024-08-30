@@ -1,0 +1,1 @@
+1#677138248#6135808#ShellExecCmdLineWithSite##private: int __cdecl CRunDlg::OKPushed(void)##IsSHExecuteErrorMessageBoxPresent#
