@@ -1,0 +1,1 @@
+1#taskbar.view.dll#1722986134-8912896#public: void __cdecl winrt::Taskbar::implementation::TaskListButton::AutomationInvoke(void)#6458460#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskListButton,struct winrt::Windows::UI::Xaml::Controls::IControlOverrides>::OnPointerWheelChanged(void *)#2315488

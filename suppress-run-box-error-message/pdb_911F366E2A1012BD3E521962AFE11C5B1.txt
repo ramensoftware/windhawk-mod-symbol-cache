@@ -1,0 +1,1 @@
+1#shell32.dll#1116354875-9707520#ShellExecCmdLineWithSite##private: int __cdecl CRunDlg::OKPushed(void)##IsSHExecuteErrorMessageBoxPresent#
