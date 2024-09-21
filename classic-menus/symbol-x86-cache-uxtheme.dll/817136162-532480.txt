@@ -1,1 +1,1 @@
-1#817136162#532480#_OpenThemeDataExInternal@20#187180
+1#817136162#532480#protected: static int __stdcall CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *)#397687

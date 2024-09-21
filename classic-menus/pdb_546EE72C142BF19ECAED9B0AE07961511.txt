@@ -1,1 +1,1 @@
-1#uxtheme.dll#1258519586-638976#OpenThemeDataExInternal#21404
+1#uxtheme.dll#1258519586-638976#protected: static int __cdecl CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *)#5716
