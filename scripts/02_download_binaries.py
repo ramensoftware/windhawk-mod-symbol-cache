@@ -5,6 +5,7 @@ import re
 import shutil
 import subprocess
 import tempfile
+import time
 from argparse import ArgumentParser
 from datetime import datetime
 from pathlib import Path
@@ -80,8 +81,20 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
     else:
         url = f'https://winbindex.m417z.com/data/by_filename_compressed/{name}.json.gz'
 
-    r = requests.get(url)
-    r.raise_for_status()
+    while True:
+        try:
+            r = requests.get(url)
+            if 500 <= r.status_code < 600:
+                raise Exception(f'Server Error: {r.status_code} for url: {url}')
+            break
+        except Exception as e:
+            print(f'ERROR: failed to get {url}, retrying in 10 seconds')
+            print(f'       {e}')
+            time.sleep(10)
+
+    if 400 <= r.status_code < 500:
+        raise Exception(f'Client Error: {r.status_code} for url: {url}')
+
     data_compressed = r.content
     data_json_str = gzip.decompress(data_compressed).decode()
     data = json.loads(data_json_str)
