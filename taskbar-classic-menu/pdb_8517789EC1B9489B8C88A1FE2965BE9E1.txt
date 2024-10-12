@@ -1,0 +1,1 @@
+1#taskbar.view.dll#1720738116-8777728#public: void __cdecl winrt::Taskbar::implementation::TaskbarResources::OnTaskListButtonContextRequested(struct winrt::Windows::UI::Xaml::UIElement const &,struct winrt::Windows::UI::Xaml::Input::ContextRequestedEventArgs const &)#3668792
