@@ -1,1 +1,0 @@
-1#3326746527#2158592#public: int __thiscall CListGroup::GetGroupRect(struct tagRECT *)const #217369#private: void __thiscall CListGroup::_PaintHeader(unsigned long,struct tagNMLVCUSTOMDRAW *)#230310#public: int __thiscall CListGroup::HeaderHeight(void)const #227390#private: void __thiscall CListGroup::_PaintCollapse(struct tagNMLVCUSTOMDRAW *)#1011104
