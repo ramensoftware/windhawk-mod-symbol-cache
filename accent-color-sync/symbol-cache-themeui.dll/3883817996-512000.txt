@@ -1,1 +1,1 @@
-1#3883817996#512000#long __cdecl SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#77396
+1#3883817996#512000#long __cdecl SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE)##long __cdecl SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#77396

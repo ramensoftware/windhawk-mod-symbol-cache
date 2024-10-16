@@ -1,1 +1,1 @@
-1#2419083683#413696#long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#211206
+1#2419083683#413696#long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE)##long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#211206
