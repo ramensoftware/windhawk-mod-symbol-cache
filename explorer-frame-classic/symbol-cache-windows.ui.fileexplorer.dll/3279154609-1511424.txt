@@ -1,0 +1,1 @@
+1#3279154609#1511424#private: int __cdecl XamlIslandViewAdapter::GetScaledXamlIslandLogicalHeight(void)#1069800

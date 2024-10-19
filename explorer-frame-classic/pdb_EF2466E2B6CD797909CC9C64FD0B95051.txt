@@ -1,0 +1,1 @@
+1#windows.ui.fileexplorer.dll#257139911-1454080#private: int __cdecl XamlIslandViewAdapter::GetScaledXamlIslandLogicalHeight(void)#
