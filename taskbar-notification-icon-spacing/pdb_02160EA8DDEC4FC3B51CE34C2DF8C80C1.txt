@@ -1,1 +1,1 @@
-1#taskbar.view.dll#1726102354-8826880#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#410872
+1#taskbar.view.dll#1726102354-8826880#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#410872#private: void __cdecl winrt::SystemTray::OverflowXamlIslandManager::ShowWindow(struct tagPOINT,enum winrt::WindowsUdk::UI::Shell::InputDeviceKind)#3509500
