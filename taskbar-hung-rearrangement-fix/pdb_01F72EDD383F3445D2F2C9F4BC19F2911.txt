@@ -1,0 +1,1 @@
+1#explorer.exe#3861210857-2809856#protected: __int64 __cdecl CTaskBand::_HandleReplaceWindow(struct HWND__ *,struct HWND__ *)##public: virtual struct HWND__ * __cdecl CWindowTaskItem::GetWindow(void)##public: virtual long __cdecl CWindowTaskItem::SetWindow(struct HWND__ *)#
