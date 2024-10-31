@@ -1,0 +1,1 @@
+1#windows.storage.dll#1725069642-6451200#protected: static long __cdecl CFSFolder::_GetSize(class CFSFolder *,struct _ITEMID_CHILD const __unaligned *,struct IDFOLDER const __unaligned *,struct tagPROPVARIANT *)#1709216
