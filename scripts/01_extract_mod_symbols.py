@@ -306,7 +306,7 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
     # Extract string definitions.
     p = r'^[ \t]*#[ \t]*define[ \t]+(\w+)[ \t]+L"(.*?)"[ \t]*$'
     string_definitions = dict(re.findall(p, mod_source, re.MULTILINE))
-    if any('"' in x for x in string_definitions.values()):
+    if any('"' in re.sub(r'\\.', '', x) for x in string_definitions.values()):
         raise Exception(f'Mod {mod_name} has unsupported string definitions')
 
     # Extract symbol blocks.
