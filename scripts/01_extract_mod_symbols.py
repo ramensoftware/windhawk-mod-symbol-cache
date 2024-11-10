@@ -325,7 +325,7 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
 
         symbol_blocks.append(symbol_block)
 
-    # Remove comments.
+    # Verify that no blocks were missed.
     p = r'SYMBOL_HOOK.*=(?![^{\n]+;)'
     if len(symbol_blocks) != len(
         re.findall(p, remove_comments_from_code(mod_source), re.MULTILINE)
