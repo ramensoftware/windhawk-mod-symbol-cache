@@ -287,6 +287,10 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
 
 
 def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
+    # Temporary fix.
+    if mod_name == 'custom-shutdown-dialog':
+        mod_source = mod_source.replace('};\\', '};')
+
     # Expand #ifdef _WIN64 conditions.
     def sub(match):
         if match.group(1) in ['if', 'ifdef']:
