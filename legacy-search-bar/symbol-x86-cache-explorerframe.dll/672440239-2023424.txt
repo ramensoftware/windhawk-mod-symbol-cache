@@ -1,0 +1,1 @@
+1#672440239#2023424#private: bool __thiscall CUniversalSearchBand::IsModernSearchBoxEnabled(void)##public: long __thiscall CSearchEditBox::HideSuggestions(void)#1307397
