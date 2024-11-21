@@ -1,0 +1,1 @@
+1#user32.dll#2222136493-1761280#int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int)#149040

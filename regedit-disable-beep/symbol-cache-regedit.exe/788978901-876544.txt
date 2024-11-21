@@ -1,0 +1,1 @@
+1#788978901#876544#public: void __cdecl RegEdit::Navigate(void)#82980

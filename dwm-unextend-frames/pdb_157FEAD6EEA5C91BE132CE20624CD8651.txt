@@ -1,0 +1,1 @@
+1#comctl32.dll#3837689101-2256896#public: long __thiscall DirectUI::DUIXmlParser::_InitializeTables(void)#343269
