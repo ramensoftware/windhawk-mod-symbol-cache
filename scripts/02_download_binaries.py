@@ -33,11 +33,6 @@ def get_modules_from_extracted_symbols(extracted_symbols: Path):
 
 
 def make_symbol_server_url(file_name, timestamp, size):
-    # Temporary self-hosted file which is missing on the symbol server:
-    # https://msdl.microsoft.com/download/symbols/taskbar.dll/083051263bb000/taskbar.dll
-    if (file_name, timestamp, size) == ('taskbar.dll', 0x08305126, 0x3bb000):
-        return f'https://ramensoftware.com/misc/_temp_bin/{file_name}/{timestamp:08X}{size:x}/{file_name}'
-
     return f'https://msdl.microsoft.com/download/symbols/{file_name}/{timestamp:08X}{size:x}/{file_name}'
 
 
