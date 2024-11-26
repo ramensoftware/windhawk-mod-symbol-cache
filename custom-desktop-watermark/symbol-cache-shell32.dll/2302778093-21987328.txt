@@ -1,1 +1,0 @@
-1#2302778093#21987328#public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void)#441356#private: static void __cdecl CDesktopWatermark::s_DesktopBuildPaint(struct HDC__ *,struct tagRECT const *,struct HFONT__ *)#441516

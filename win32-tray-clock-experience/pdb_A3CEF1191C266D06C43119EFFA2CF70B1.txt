@@ -1,1 +1,0 @@
-1#explorer.exe#2831854687-5558272#public: void __cdecl ClockButton::StartTicking(void)#1321072#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#1325232

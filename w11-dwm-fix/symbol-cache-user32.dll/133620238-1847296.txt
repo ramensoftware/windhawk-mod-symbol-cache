@@ -1,1 +1,0 @@
-1#133620238#1847296#int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int)#293504

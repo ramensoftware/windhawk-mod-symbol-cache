@@ -1,1 +1,0 @@
-1#3230660563#5902336#private: void __cdecl CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#238032#public: virtual long __cdecl CTaskBtnGroup::SetLocation(int,int,struct tagRECT const *)#416960

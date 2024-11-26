@@ -1,1 +1,0 @@
-1#1420308896#1449984#public: long __cdecl CWindowList::GetSyncedWindowDataByHwnd(struct HWND__ *,class CWindowData * *)#170996#public: long __cdecl CWindowList::SyncWindowData(struct IDwmWindow *,class CWindowData *)#181744

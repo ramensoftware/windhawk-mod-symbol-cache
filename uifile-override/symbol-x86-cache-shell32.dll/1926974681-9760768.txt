@@ -1,1 +1,0 @@
-1#1926974681#9760768#long __stdcall DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#1060824#long __stdcall _AllocArray<unsigned short,class CTGlobalAllocPolicy>(void *,unsigned long,unsigned __int64,unsigned short * *)#

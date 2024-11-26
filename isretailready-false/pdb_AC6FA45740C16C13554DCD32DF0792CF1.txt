@@ -1,1 +1,0 @@
-1#shell32.dll#3251922737-6168576#private: static bool __thiscall CDesktopWatermark::s_IsRetailReady(void)#
