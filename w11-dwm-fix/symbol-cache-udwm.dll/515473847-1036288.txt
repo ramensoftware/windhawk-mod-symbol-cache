@@ -1,1 +1,1 @@
-1#515473847#1036288#public: struct tagRECT __cdecl CTopLevelWindow::GetBorderRect(bool)const ##private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)##public: static bool __cdecl CDesktopManager::IsHighContrastMode(void)#545316
+1#515473847#1036288#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)##public: static bool __cdecl CDesktopManager::IsHighContrastMode(void)#545316#public: struct tagRECT __cdecl CTopLevelWindow::GetBorderRect(bool)const #
