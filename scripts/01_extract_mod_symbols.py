@@ -346,13 +346,12 @@ def get_mod_symbols(mod_name: str, path: Path):
 
     for arch in metadata['architectures']:
         symbol_blocks = get_mod_symbol_blocks(mod_name, mod_source, arch)
-        if len(symbol_blocks) == 0:
-            continue
-
-        result[arch] = {}
         for block in symbol_blocks:
             for module in block['modules']:
-                result[arch][module] = block['symbols']
+                result_arch = result.setdefault(arch, {})
+                # Add unique symbols.
+                result_arch[module] = list(
+                    dict.fromkeys(result_arch.get(module, []) + block['symbols']))
 
     return result
 
