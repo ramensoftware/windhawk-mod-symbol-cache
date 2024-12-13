@@ -1,1 +1,1 @@
-1#298750689#724992#int __stdcall IsCommonItemDialogAvailable(void)#257463#public: static long __stdcall CFileOpenSave::s_CreateInstance(enum DIALOGINITFLAGS,struct _GUID const &,void * *)#257543
+1#298750689#724992#public: static long __stdcall CFileOpenSave::s_CreateInstance(enum DIALOGINITFLAGS,struct _GUID const &,void * *)#257543#int __stdcall IsCommonItemDialogAvailable(void)#257463
