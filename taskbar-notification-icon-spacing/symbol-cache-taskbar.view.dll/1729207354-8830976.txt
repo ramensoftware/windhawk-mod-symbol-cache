@@ -1,1 +1,1 @@
-1#1729207354#8830976#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#79760#private: void __cdecl winrt::SystemTray::OverflowXamlIslandManager::ShowWindow(struct tagPOINT,enum winrt::WindowsUdk::UI::Shell::InputDeviceKind)#3502956
+1#1729207354#8830976#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#79760#private: void __cdecl winrt::SystemTray::OverflowXamlIslandManager::InitializeIfNeeded(void)#3503212
