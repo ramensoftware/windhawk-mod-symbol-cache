@@ -23,6 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: ramensoftware/windhawk-mods
+          ref: pages
           path: windhawk-mods
       - name: Set up Python
         uses: actions/setup-python@v5

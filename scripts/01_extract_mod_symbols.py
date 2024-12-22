@@ -1,5 +1,6 @@
 import json
 import re
+import time
 from argparse import ArgumentParser
 from pathlib import Path
 
@@ -8,93 +9,295 @@ ALL_ARCHITECTURES = [
     'x86-64',
 ]
 
+MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
+    'acrylic-effect-radius-changer/1.1.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b',
+            r'// dwmcore.dll\n\g<0>'
+        ),
+    ],
+    'aero-tray/1.0.2.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// explorer.exe\n\g<0>'
+        ),
+    ],
+    'basic-themer/1.1.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// uDWM.dll\n\g<0>'
+        ),
+    ],
+    'change-explorer-default-location/1.0.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'classic-desktop-icons/1.3.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK marqueeHooks\b',
+            r'// comctl32.dll\n\g<0>'
+        ),
+    ],
+    'classic-maximized-windows-fix/2.1.wh.cpp': [
+        (
+            r'^[ \t]*CMWF_SYMBOL_HOOK symbolHooks\b',
+            r'// uxtheme.dll\n\g<0>'
+        ),
+    ],
+    'classic-taskbar-buttons-lite-vs-without-spacing/1.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// explorer.exe\n\g<0>'
+        ),
+    ],
+    'classic-taskdlg-fix/1.1.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// comctl32.dll\n\g<0>'
+        ),
+    ],
+    'classic-uwp-fix/0.3.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// ApplicationFrame.dll\n\g<0>'
+        ),
+    ],
+    'custom-shutdown-dialog/1.1.0.wh.cpp': [
+        (r'^\};\\$', r'};'),
+        (
+            r'^WindhawkUtils::SYMBOL_HOOK shutdownuxDllHooks\b',
+            r'// shutdownux.dll\n\g<0>'
+        ),
+        (
+            r'^WindhawkUtils::SYMBOL_HOOK shell32DllHooks\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'custom-shutdown-dialog/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// shutdownux.dll\n\g<0>'
+        ),
+    ],
+    'desktop-watermark-tweaks/1.0.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'disable-rounded-corners/1.0.1.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b',
+            r'// udwm.dll\n\g<0>'
+        ),
+    ],
+    'dwm-ghost-mods/1.2.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// dwmghost.dll\n\g<0>'
+        ),
+    ],
+    'dwm-unextend-frames/1.3.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK comctl32_hook\b',
+            r'// comctl32.dll\n\g<0>'
+        ),
+    ],
+    'eradicate-immersive-menus/1.1.0.wh.cpp': [
+        (
+            r'[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            (
+                r'// shell32.dll, ExplorerFrame.dll, explorer.exe, twinui.dll,'
+                r' twinui.pcshell.dll, SndVolSSO.dll, pnidui.dll,'
+                r' SecurityHealthSSO.dll, Narrator.exe\n\g<0>'
+            ),
+        )
+    ],
+    'explorer-32px-icons/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'fix-basic-caption-text/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// uxtheme.dll\n\g<0>'
+        ),
+    ],
+    'isretailready-false/1.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'legacy-search-bar/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// ExplorerFrame.dll\n\g<0>'
+        ),
+    ],
+    'no-run-icon/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'no-taskbar-item-glow/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// explorer.exe\n\g<0>'
+        ),
+    ],
+    'notepad-remove-launch-new-app-banner/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// notepad.exe\n\g<0>'
+        ),
+    ],
+    'pinned-items-double-click/1.0.1.wh.cpp': [
+        (
+            r'^[ \t]*SYMBOL_HOOK symbolHooks\b',
+            r'// taskbar.dll, explorer.exe\n\g<0>'
+        ),
+    ],
+    'regedit-auto-trim-whitespace-on-navigation-bar/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// regedit.exe\n\g<0>'
+        ),
+    ],
+    'regedit-disable-beep/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// regedit.exe\n\g<0>'
+        ),
+    ],
+    'regedit-fix-copy-key-name/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// regedit.exe\n\g<0>'
+        ),
+    ],
+    'start-menu-all-apps/1.0.2.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK taskbarHooks\b',
+            r'// StartMenu.dll\n\g<0>'
+        ),
+    ],
+    'suppress-run-box-error-message/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'syslistview32-enabler/1.0.2.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// shell32.dll\n\g<0>'
+        ),
+    ],
+    'taskbar-autohide-better/1.2.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b',
+            r'// taskbar.dll, explorer.exe\n\g<0>'
+        ),
+    ],
+    'taskbar-button-scroll/1.0.6.wh.cpp': [
+        (
+            r'(^bool HookTaskbarViewDllSymbols\(\)[\s\S]*?)(^[ \t]*SYMBOL_HOOK symbolHooks\b)',
+            r'\g<1>// Taskbar.View.dll, ExplorerExtensions.dll\n\g<2>',
+        ),
+        (
+            r'(^BOOL HookTaskbarDllSymbols\(\)[\s\S]*?)(^[ \t]*SYMBOL_HOOK symbolHooks\b)',
+            r'\g<1>// taskbar.dll\n\g<2>',
+        ),
+    ],
+    'taskbar-clock-customization/1.3.3.wh.cpp': [
+        (
+            r'^[ \t]*SYMBOL_HOOK taskbarHooks11\b',
+            r'// Taskbar.View.dll, ExplorerExtensions.dll\n\g<0>'
+        ),
+        (
+            r'^[ \t]*SYMBOL_HOOK taskbarHooks10\b',
+            r'// explorer.exe\n\g<0>'
+        ),
+    ],
+    'taskbar-notification-icon-spacing/1.0.2.wh.cpp': [
+        (
+            r'(^bool HookTaskbarViewDllSymbols\(\)[\s\S]*?)(^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b)',
+            r'\g<1>// Taskbar.View.dll, ExplorerExtensions.dll\n\g<2>',
+        ),
+        (
+            r'(^BOOL HookTaskbarDllSymbols\(\)[\s\S]*?)(^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b)',
+            r'\g<1>// taskbar.dll\n\g<2>',
+        ),
+    ],
+    'taskbar-volume-control/1.2.1.wh.cpp': [
+        (
+            r'^[ \t]*SYMBOL_HOOK symbolHooks\b',
+            r'// Taskbar.View.dll\n\g<0>'
+        ),
+    ],
+    'unlock-taskmgr-server/1.0.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
+            r'// Taskmgr.exe\n\g<0>'
+        ),
+    ],
+    'uxtheme-hook/1.1.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// uxtheme.dll, uxinit.dll, themeui.dll\n\g<0>'
+        ),
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK duiHooks\b',
+            r'// dui70.dll\n\g<0>'
+        ),
+    ],
+    'w11-dwm-fix/1.1.0.wh.cpp': [
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooksUser32\b',
+            r'// user32.dll\n\g<0>'
+        ),
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b',
+            r'// udwm.dll\n\g<0>'
+        ),
+    ],
+    'win32-tray-clock-experience/1.0.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// Taskbar.dll, explorer.exe\n\g<0>'
+        ),
+    ],
+    'win7-style-uac-dim/1.0.1.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// consent.exe\n\g<0>'
+        ),
+    ],
+    'windows-7-clock-spacing/1.0.0.wh.cpp': [
+        (
+            r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
+            r'// explorer.exe\n\g<0>'
+        ),
+    ],
+}
+
 SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     # Win7 only.
     'win7-alttab-loader': ['alttab.dll'],
 }
 
-SYMBOL_MODULES_FIX: dict[str, dict[str, str]] = {
-    'aerexplorer': {
-        'windowsstorage.dll': 'windows.storage.dll',
-    },
-}
 
-SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME: dict[tuple[str, str], tuple[str, ...]] = {
-    ('aerexplorer', 'efHooks'): ('ExplorerFrame.dll',),
-    ('aerexplorer', 'isCplHooks'): ('ExplorerFrame.dll',),
-    ('aerexplorer', 'shHooks'): ('shell32.dll',),
-    ('aerexplorer', 'storageHooks'): ('windows.storage.dll',),
-    ('aero-flyout-fix', 'actioncenterHooks'): ('ActionCenter.dll',),
-    ('aero-flyout-fix', 'sndvolHooks'): ('SndVol.exe',),
-    ('aero-flyout-fix', 'stobjectHooks'): ('stobject.dll',),
-    ('aero-flyout-fix', 'timedateHooks'): ('timedate.cpl',),
-    ('aero-tray', 'hooks'): ('explorer.exe',),
-    ('classic-file-picker-dialog', 'symbolHook'): ('comdlg32.dll',),
-    ('desktop-watermark-tweaks', 'hooks'): ('shell32.dll',),
-    ('dwm-ghost-mods', 'hooks'): ('dwmghost.dll',),
-    ('dwm-unextend-frames', 'comctl32_hook'): ('comctl32.dll',),
-    ('notepad-remove-launch-new-app-banner', 'hook'): ('notepad.exe',),
-    ('pinned-items-double-click', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('start-menu-all-apps', 'taskbarHooks'): ('StartMenu.dll',),
-    ('taskbar-autohide-better', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('taskbar-button-click', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('taskbar-clock-customization', 'taskbarHooks10'): ('explorer.exe',),
-    ('taskbar-clock-customization', 'taskbarHooks11'): ('Taskbar.View.dll',),
-    ('taskbar-thumbnail-reorder', 'symbolHooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('unlock-taskmgr-server', 'hook'): ('taskmgr.exe',),
-    ('uxtheme-hook', 'duiHooks'): ('dui70.dll',),
-    ('uxtheme-hook', 'hooks'): ('uxtheme.dll', 'uxinit.dll', 'themeui.dll',),
-    ('virtual-desktop-taskbar-order', 'taskbarSymbolHooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('virtual-desktop-taskbar-order', 'twinuiPcshellSymbolHooks'): ('twinui.pcshell.dll',),
-    ('win32-tray-clock-experience', 'hooks'): ('Taskbar.dll', 'explorer.exe',),
-    ('win7-style-uac-dim', 'hooks'): ('consent.exe',),
-    ('windows-7-clock-spacing', 'hooks'): ('explorer.exe',),
-}
-
-SYMBOL_BLOCK_MODULES_BY_FUNCTION: dict[str, tuple[str, ...]] = {
-    'HookTaskbarSymbols': ('Taskbar.dll', 'explorer.exe',),
-    'HookTaskbarDllSymbols': ('Taskbar.dll', 'explorer.exe',),
-    'HookTaskbarViewDllSymbols': ('Taskbar.View.dll',),
-    'HookExplorerFrameSymbols': ('ExplorerFrame.dll',),
-    'HookFileExplorerExtensionsSymbols': ('FileExplorerExtensions.dll',),
-    'HookICMH_CAODTM': (
-        'shell32.dll',
-        'ExplorerFrame.dll',
-        'explorer.exe',
-        'twinui.dll',
-        'twinui.pcshell.dll',
-        'SndVolSSO.dll',
-        'pnidui.dll',
-        'SecurityHealthSSO.dll',
-        'Narrator.exe',
-    ),
-}
-
-SYMBOL_BLOCK_MODULES_BY_MODULE_NAME: dict[str, tuple[str, ...]] = {
-    'dwmcore': ('dwmcore.dll',),
-    'hAppFrameModule': ('ApplicationFrame.dll',),
-    'hComCtl': ('comctl32.dll',),
-    'hComCtl32': ('comctl32.dll',),
-    'hExplFrame': ('ExplorerFrame.dll',),
-    'hExplorer': ('explorer.exe',),
-    'hExplorerFrame': ('ExplorerFrame.dll',),
-    'hRegEdit': ('regedit.exe',),
-    'hShell32': ('shell32.dll',),
-    'hShutdownUx': ('shutdownux.dll',),
-    'hUser32': ('user32.dll',),
-    'hUxTheme': ('uxtheme.dll',),
-    'udwm': ('udwm.dll',),
-    'uDWM': ('udwm.dll',),
-    'user32': ('user32.dll',),
-    'uxtheme': ('uxtheme.dll',),
-}
-
-
-def get_mod_metadata(mod_name: str, mod_source: str):
+def get_mod_metadata(mod_source: str):
     p = r'^\/\/[ \t]+==WindhawkMod==[ \t]*$([\s\S]+?)^\/\/[ \t]+==\/WindhawkMod==[ \t]*$'
     match = re.search(p, mod_source, re.MULTILINE)
     if not match:
-        raise Exception(f'Mod {mod_name} has no metadata block')
+        raise Exception(f'No metadata block')
 
     metadata_block = match.group(1)
 
@@ -104,7 +307,7 @@ def get_mod_metadata(mod_name: str, mod_source: str):
     architecture = match or ALL_ARCHITECTURES
 
     if any (x not in ALL_ARCHITECTURES for x in architecture):
-        raise Exception(f'Mod {mod_name} has unknown architecture')
+        raise Exception(f'Unknown architecture')
 
     return {
         'architectures': architecture,
@@ -143,9 +346,7 @@ def get_target_modules_from_previous_line(previous_line: str):
 
     return names
 
-
-def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_block_match: re.Match):
-    symbol_block = symbol_block_match.group(0)
+def deduce_symbol_block_target_modules(mod_source: str, symbol_block_match: re.Match):
     symbol_block_name = symbol_block_match.group(1)
 
     # Try the new rules as defined in pr_validation.py.
@@ -159,64 +360,10 @@ def deduce_symbol_block_target_modules(mod_name: str, mod_source: str, symbol_bl
     if targets_from_comment:
         return [x.lower() for x in targets_from_comment]
 
-    # Deduce modules by the block (SYMBOL_HOOK variable) name.
-    modules_by_block_name = SYMBOL_BLOCK_MODULES_BY_BLOCK_NAME.get((mod_name, symbol_block_name))
-
-    # Deduce modules by the function name where the hooks are declared.
-    last_function = None
-    modules_by_function = None
-    if symbol_block[0] in [' ', '\t']:
-        mod_source_before = mod_source[:symbol_block_match.start(0)]
-        p = r'^\S*[ \t]\S.*'
-        last_function_line = re.findall(p, mod_source_before, re.MULTILINE)[-1]
-
-        p = r'(\w+)\('
-        if match := re.search(p, last_function_line):
-            last_function = match.group(1)
-        else:
-            raise Exception(f'Can not deduce function name')
-
-        if last_function in SYMBOL_BLOCK_MODULES_BY_FUNCTION:
-            modules_by_function = SYMBOL_BLOCK_MODULES_BY_FUNCTION[last_function]
-
-    # Deduce modules by the module variable name.
-    if symbol_block[0] in [' ', '\t']:
-        mod_source_after = mod_source[symbol_block_match.end(0):]
-        p = r'^\}[ \t]*$'
-        if match := re.search(p, mod_source_after, re.MULTILINE):
-            function_remainder_code = mod_source_after[:match.end(0)]
-        else:
-            raise Exception(f'Can not deduce function code')
-    else:
-        # Global scope, use all the code.
-        function_remainder_code = mod_source
-
-    module_name = None
-    modules_by_module_name = None
-    p = rf'HookSymbols\(\s*(\w+),\s*&?{re.escape(symbol_block_name)},'
-    if (match := re.findall(p, function_remainder_code, re.MULTILINE)) and len(match) == 1:
-        module_name = match[0]
-
-        if module_name in SYMBOL_BLOCK_MODULES_BY_MODULE_NAME:
-            modules_by_module_name = SYMBOL_BLOCK_MODULES_BY_MODULE_NAME[module_name]
-
-    module_candidates = [modules_by_block_name, modules_by_function, modules_by_module_name]
-    module_candidates = set(filter(lambda x: x is not None, module_candidates))
-
-    if len(module_candidates) > 1:
-        raise Exception(f'Conflicting module names ({module_candidates})')
-    elif len(module_candidates) == 0:
-        raise Exception(f'Unknown module ({last_function=}, {module_name=})')
-
-    modules = module_candidates.pop()
-    assert modules is not None
-
-    modules = list(map(lambda x: x.lower(), modules))
-
-    return modules
+    raise Exception(f'Unknown module ({symbol_block_name=})')
 
 
-def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.Match, string_definitions: dict[str, str]):
+def process_symbol_block(mod_source: str, symbol_block_match: re.Match, string_definitions: dict[str, str]):
     symbol_block = remove_comments_from_code(symbol_block_match.group(0))
 
     # Make sure there are no preprocessor directives.
@@ -272,13 +419,7 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     if symbols == []:
         return None
 
-    modules = deduce_symbol_block_target_modules(mod_name, mod_source, symbol_block_match)
-
-    modules = [
-        SYMBOL_MODULES_FIX.get(mod_name, {}).get(x, x)
-        for x in modules
-        if x not in SYMBOL_MODULES_SKIP.get(mod_name, [])
-    ]
+    modules = deduce_symbol_block_target_modules(mod_source, symbol_block_match)
 
     return {
         'symbols': symbols,
@@ -286,11 +427,7 @@ def process_symbol_block(mod_name: str, mod_source: str, symbol_block_match: re.
     }
 
 
-def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
-    # Temporary fix.
-    if mod_name == 'custom-shutdown-dialog':
-        mod_source = mod_source.replace('};\\', '};')
-
+def get_mod_symbol_blocks(mod_source: str, arch: str):
     # Expand #ifdef _WIN64 conditions.
     def sub(match):
         if match.group(1) in ['if', 'ifdef']:
@@ -311,18 +448,13 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
     p = r'^[ \t]*#[ \t]*define[ \t]+(\w+)[ \t]+L"(.*?)"[ \t]*$'
     string_definitions = dict(re.findall(p, mod_source, re.MULTILINE))
     if any('"' in re.sub(r'\\.', '', x) for x in string_definitions.values()):
-        raise Exception(f'Mod {mod_name} has unsupported string definitions')
+        raise Exception(f'Unsupported string definitions')
 
     # Extract symbol blocks.
     symbol_blocks = []
     p = r'^[ \t]*(?:const[ \t]+)?(?:CMWF_|WindhawkUtils::)?SYMBOL_HOOK[ \t]+(\w+)[\[ \t][\s\S]*?\};[ \t]*$'
     for match in re.finditer(p, mod_source, re.MULTILINE):
-        try:
-            symbol_block = process_symbol_block(mod_name, mod_source, match, string_definitions)
-        except Exception as e:
-            print(f'Mod {mod_name}, block {match.group(1)}: {e}')
-            symbol_block = None
-
+        symbol_block = process_symbol_block(mod_source, match, string_definitions)
         symbol_blocks.append(symbol_block)
 
     # Verify that no blocks were missed.
@@ -330,22 +462,25 @@ def get_mod_symbol_blocks(mod_name: str, mod_source: str, arch: str):
     if len(symbol_blocks) != len(
         re.findall(p, remove_comments_from_code(mod_source), re.MULTILINE)
     ):
-        raise Exception(f'Mod {mod_name} has unsupported symbol blocks')
+        raise Exception(f'Unsupported symbol blocks')
 
     symbol_blocks = list(filter(lambda x: x is not None, symbol_blocks))
 
     return symbol_blocks
 
 
-def get_mod_symbols(mod_name: str, path: Path):
+def get_mod_symbols(path: Path, patches: list[tuple[str, str]]):
     result = {}
 
     mod_source = path.read_text(encoding='utf-8')
 
-    metadata = get_mod_metadata(mod_name, mod_source)
+    for patch in patches:
+        mod_source = re.sub(patch[0], patch[1], mod_source, flags=re.MULTILINE)
+
+    metadata = get_mod_metadata(mod_source)
 
     for arch in metadata['architectures']:
-        symbol_blocks = get_mod_symbol_blocks(mod_name, mod_source, arch)
+        symbol_blocks = get_mod_symbol_blocks(mod_source, arch)
         for block in symbol_blocks:
             for module in block['modules']:
                 result_arch = result.setdefault(arch, {})
@@ -356,24 +491,57 @@ def get_mod_symbols(mod_name: str, path: Path):
     return result
 
 
+def get_relevant_mod_versions(mods_folder: Path, mod_name: str):
+    versions_path = mods_folder / mod_name / 'versions.json'
+    with versions_path.open() as f:
+        versions = json.load(f)
+
+    timestamp_now = time.time()
+
+    for version in reversed(versions):
+        yield mods_folder / mod_name / f'{version["version"]}.wh.cpp'
+
+        timestamp = version['timestamp']
+        sixty_days = 60 * 60 * 24 * 60
+        if timestamp_now - timestamp > sixty_days:
+            break
+
+
 def main():
     parser = ArgumentParser()
     parser.add_argument('mods_folder', type=Path)
     parser.add_argument('output_file', type=Path)
     args = parser.parse_args()
 
-    mods_folder = args.mods_folder
-    output_file = args.output_file
+    mods_folder: Path = args.mods_folder
+    output_file: Path = args.output_file
 
     result = {}
 
-    for path in mods_folder.glob('*.wh.cpp'):
-        mod_name = path.name.removesuffix('.wh.cpp')
-        mod_symbols = get_mod_symbols(mod_name, path)
-        if len(mod_symbols) == 0:
-            continue
+    for mod_main_path in mods_folder.glob('*.wh.cpp'):
+        mod_name = mod_main_path.name.removesuffix('.wh.cpp')
 
-        result[mod_name] = mod_symbols
+        for mod_version_path in get_relevant_mod_versions(mods_folder, mod_name):
+            relative_path = str(mod_version_path.relative_to(mods_folder).as_posix())
+
+            try:
+                mod_symbols = get_mod_symbols(mod_version_path, MOD_PATCHES.get(relative_path, []))
+            except Exception as e:
+                print(f'Failed to extract symbols from {relative_path}: {e}')
+                continue
+
+            for arch in mod_symbols:
+                for module in mod_symbols[arch]:
+                    if module in SYMBOL_MODULES_SKIP.get(mod_name, []):
+                        continue
+
+                    result_arch = result.setdefault(mod_name, {}).setdefault(arch, {})
+                    # Add unique symbols.
+                    result_arch[module] = list(
+                        dict.fromkeys(
+                            result_arch.get(module, []) + mod_symbols[arch][module]
+                        )
+                    )
 
     if str(output_file) == '-':
         print(json.dumps(result, indent=2))
