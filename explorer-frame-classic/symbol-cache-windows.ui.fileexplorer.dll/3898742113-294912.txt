@@ -1,1 +1,1 @@
-1#3898742113#294912#public: virtual long __cdecl XamlIslandViewAdapter::get_DesiredSizeInPhysicalPixels(struct tagSIZE *)##private: int __cdecl XamlIslandViewAdapter::GetScaledXamlIslandLogicalHeight(void)#
+1#3898742113#294912#public: virtual long __cdecl XamlIslandViewAdapter::get_DesiredSizeInPhysicalPixels(struct tagSIZE *)#
