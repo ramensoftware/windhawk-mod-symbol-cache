@@ -1,1 +1,0 @@
-1#2312401609#5513216#public: void __cdecl ClockButton::StartTicking(void)#1351456#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#1355616
