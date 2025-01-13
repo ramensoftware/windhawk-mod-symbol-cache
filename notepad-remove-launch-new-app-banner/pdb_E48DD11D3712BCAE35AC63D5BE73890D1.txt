@@ -1,1 +1,0 @@
-1#notepad.exe#1870701451-331776#long __stdcall ActivateBanner(bool)#48546
