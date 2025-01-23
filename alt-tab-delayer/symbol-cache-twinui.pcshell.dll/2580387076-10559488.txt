@@ -1,0 +1,1 @@
+1#2580387076#10559488#private: void __cdecl XamlAltTabViewHost::DisplayAltTab(void)#7682932#public: virtual long __cdecl CAltTabViewHost::Show(struct IImmersiveMonitor *,enum ALT_TAB_VIEW_FLAGS,struct IApplicationView *)#2863040
