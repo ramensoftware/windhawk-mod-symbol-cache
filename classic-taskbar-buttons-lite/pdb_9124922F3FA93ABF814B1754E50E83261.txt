@@ -1,0 +1,1 @@
+1#explorer.exe#3873607850-5476352#private: void __cdecl CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#1046330#public: virtual long __cdecl CTaskBtnGroup::SetLocation(int,int,struct tagRECT const *)#1044096
