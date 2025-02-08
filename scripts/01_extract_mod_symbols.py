@@ -367,9 +367,9 @@ def process_symbol_block(mod_source: str, symbol_block_match: re.Match, string_d
     symbol_block = remove_comments_from_code(symbol_block_match.group(0))
 
     # Make sure there are no preprocessor directives.
-    p = r'^[ \t]*#'
-    if re.search(p, symbol_block, re.MULTILINE):
-        raise Exception(f'Unsupported preprocessor directives')
+    p = r'^[ \t]*#.*'
+    if match := re.search(p, symbol_block, re.MULTILINE):
+        raise Exception(f'Unsupported preprocessor directive: {match.group(0)}')
 
     # Merge strings spanning over multiple lines.
     p = r'"([ \t]*\n)+[ \t]*L?"'
