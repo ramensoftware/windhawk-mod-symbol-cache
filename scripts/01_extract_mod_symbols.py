@@ -444,6 +444,13 @@ def get_mod_symbol_blocks(mod_source: str, arch: str):
     p = r'^[ \t]*#(if|ifn?def)[ \t]*_WIN64[ \t]*([\s\S]*?)(^[ \t]*#else[ \t]*$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
     mod_source = re.sub(p, sub, mod_source, flags=re.MULTILINE)
 
+    # Expand some #if defined(...) conditions.
+    def sub2(match):
+        return match.group(3) or ''
+
+    p = r'^[ \t]*#if defined\(_M_ARM64\)[ \t]*([\s\S]*?)(^[ \t]*#else[ \t]*$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
+    mod_source = re.sub(p, sub2, mod_source, flags=re.MULTILINE)
+
     # Extract string definitions.
     p = r'^[ \t]*#[ \t]*define[ \t]+(\w+)[ \t]+L"(.*?)"[ \t]*$'
     string_definitions = dict(re.findall(p, mod_source, re.MULTILINE))
