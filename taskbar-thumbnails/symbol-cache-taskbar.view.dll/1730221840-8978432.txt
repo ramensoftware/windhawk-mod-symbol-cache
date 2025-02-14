@@ -1,0 +1,1 @@
+1#1730221840#8978432#private: void __cdecl winrt::Taskbar::implementation::HoverFlyoutModel::TransitionToFlyoutVisibleState(struct winrt::hstring)#3105836#private: bool __cdecl winrt::Taskbar::implementation::FlyoutFrame::CanFitAndUpdateScaleFactor(struct winrt::Windows::Foundation::Collections::IVector<struct winrt::Windows::Foundation::IInspectable> const &)#6315056
