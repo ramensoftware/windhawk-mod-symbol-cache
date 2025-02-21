@@ -112,80 +112,75 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
 
             raise Exception(f'Unknown line: {line}')
 
-    # Use all relevant architectures for hybrid PEs.
-    iter_archs = [arch]
-    if is_hybrid:
-        if arch == 'x86':
-            # Likely to only be loaded in x86 processes with x86 mods.
-            pass
-        elif arch == 'amd64':
-            iter_archs.append('arm64')
-        elif arch == 'arm64':
-            iter_archs.append('amd64')
-        else:
-            raise Exception(f'Unknown arch: {arch}')
+    # For now, only cache ARM64 hybrid symbols. Later, it's possible to add
+    # other architectures for hybrid symbols, as well as other architectures
+    # within the hybrid binaries:
+    # * x86 -> x86, arm64
+    # * amd64 -> amd64, arm64
+    # * arm64 -> amd64, arm64
+    if is_hybrid and arch != 'arm64':
+        return
 
-    for iter_arch in iter_archs:
-        for mod_name, mod_archs in extracted_symbols.items():
-            if iter_arch not in mod_archs:
-                continue
+    for mod_name, mod_archs in extracted_symbols.items():
+        if arch not in mod_archs:
+            continue
 
-            if binary_name not in mod_archs[iter_arch]:
-                continue
+        if binary_name not in mod_archs[arch]:
+            continue
 
-            # Legacy symbol cache.
-            legacy_cache_key = None
+        # Legacy symbol cache.
+        legacy_cache_key = None
 
-            if not is_hybrid:
-                if iter_arch == 'amd64':
-                    legacy_cache_key = f'symbol-cache-{binary_name}'
-                elif iter_arch == 'x86':
-                    legacy_cache_key = f'symbol-{iter_arch}-cache-{binary_name}'
+        if not is_hybrid:
+            if arch == 'amd64':
+                legacy_cache_key = f'symbol-cache-{binary_name}'
+            elif arch == 'x86':
+                legacy_cache_key = f'symbol-{arch}-cache-{binary_name}'
 
-            if legacy_cache_key:
-                symbol_cache_file_path = symbol_cache_path / mod_name / legacy_cache_key / f'{timestamp}-{image_size}.txt'
+        if legacy_cache_key:
+            symbol_cache_file_path = symbol_cache_path / mod_name / legacy_cache_key / f'{timestamp}-{image_size}.txt'
 
-                sep = MOD_CACHE_LEGACY_SEPARATORS.get(mod_name, '#')
-
-                create_mod_cache_file(
-                    symbol_cache_file_path,
-                    sep,
-                    str(timestamp),
-                    str(image_size),
-                    mod_archs[iter_arch][binary_name],
-                    symbols,
-                    '',
-                )
-
-            # New symbol cache.
-            arch_mapping = {
-                'x86': 'x86',
-                'amd64': 'x86-64',
-                'arm64': 'arm64',
-            }
-
-            if pdb_fingerprint is None:
-                cache_key = f'pe_{arch_mapping[iter_arch]}_{timestamp}_{image_size}_{binary_name}'
-                if is_hybrid:
-                    cache_key += f'_hybrid'
-            else:
-                cache_key = f'pdb_{pdb_fingerprint}'
-                if is_hybrid:
-                    cache_key += f'_hybrid-{arch_mapping[iter_arch]}'
-
-            symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
-
-            sep = ';' if is_hybrid else '#'
+            sep = MOD_CACHE_LEGACY_SEPARATORS.get(mod_name, '#')
 
             create_mod_cache_file(
                 symbol_cache_file_path,
                 sep,
-                binary_name.replace(sep, '_'),
-                f'{timestamp}-{image_size}',
-                mod_archs[iter_arch][binary_name],
+                str(timestamp),
+                str(image_size),
+                mod_archs[arch][binary_name],
                 symbols,
-                iter_arch if is_hybrid else '',
+                '',
             )
+
+        # New symbol cache.
+        arch_mapping = {
+            'x86': 'x86',
+            'amd64': 'x86-64',
+            'arm64': 'arm64',
+        }
+
+        if pdb_fingerprint is None:
+            cache_key = f'pe_{arch_mapping[arch]}_{timestamp}_{image_size}_{binary_name}'
+            if is_hybrid:
+                cache_key += f'_hybrid'
+        else:
+            cache_key = f'pdb_{pdb_fingerprint}'
+            if is_hybrid:
+                cache_key += f'_hybrid-{arch_mapping[arch]}'
+
+        symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
+
+        sep = ';' if is_hybrid else '#'
+
+        create_mod_cache_file(
+            symbol_cache_file_path,
+            sep,
+            binary_name.replace(sep, '_'),
+            f'{timestamp}-{image_size}',
+            mod_archs[arch][binary_name],
+            symbols,
+            arch if is_hybrid else '',
+        )
 
 
 def create_mod_cache(binaries_folder: Path,

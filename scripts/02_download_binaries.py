@@ -29,10 +29,6 @@ def get_modules_from_extracted_symbols(extracted_symbols: Path):
             for module in data[mod_name][arch]:
                 modules.add((arch, module))
 
-                # Create cache for hybrid ARM64X binaries for amd64 mods.
-                if arch == 'amd64':
-                    modules.add(('arm64', module))
-
     return modules
 
 
