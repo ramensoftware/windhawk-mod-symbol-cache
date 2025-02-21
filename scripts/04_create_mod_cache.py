@@ -1,8 +1,9 @@
 import json
+import re
 from argparse import ArgumentParser
 from pathlib import Path
 
-MOD_CACHE_SEPARATORS = {
+MOD_CACHE_LEGACY_SEPARATORS = {
     'taskbar-button-click': '@',
     'taskbar-clock-customization': '@',
     'taskbar-thumbnail-reorder': '@',
@@ -17,15 +18,43 @@ def create_mod_cache_file(
     val2: str,
     mod_symbols: list[str],
     symbol_addresses: dict,
+    arch_for_hybrid_pe: str,
 ):
+    if sep in val1:
+        raise Exception(f'Invalid value with separator {sep}: {val1}')
+
+    if sep in val2:
+        raise Exception(f'Invalid value with separator {sep}: {val2}')
+
     cache_path.parent.mkdir(parents=True, exist_ok=True)
     with cache_path.open('w', encoding='utf-8') as f:
         f.write(f'1{sep}{val1}{sep}{val2}')
 
         for symbol in mod_symbols:
-            address = symbol_addresses.get(symbol, '')
-            if address is None:
+            if sep in symbol:
+                raise Exception(f'Invalid symbol with separator {sep}: {symbol}')
+
+            address1 = symbol_addresses.get(symbol, '')
+            if address1 is None:
                 raise Exception(f'Duplicate symbol {symbol}')
+
+            if arch_for_hybrid_pe and not re.match(r'arch=\w+\\', symbol):
+                symbol_arch_prefix_mapping = {
+                    'x86': 'arch=x86\\',
+                    'amd64': 'arch=x64\\',
+                    'arm64': 'arch=ARM64\\',
+                }
+                symbol_arch_prefix = symbol_arch_prefix_mapping[arch_for_hybrid_pe]
+                address2 = symbol_addresses.get(symbol_arch_prefix + symbol, '')
+                if address2 is None:
+                    raise Exception(f'Duplicate symbol {symbol}')
+                
+                if address1 and address2:
+                    raise Exception(f'Duplicate symbol {symbol}')
+
+                address = address1 or address2
+            else:
+                address = address1
 
             f.write(f'{sep}{symbol}{sep}{address}')
 
@@ -38,6 +67,7 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
     symbols = {}
     timestamp = None
     image_size = None
+    is_hybrid = False
     pdb_fingerprint = None
 
     with symbols_file.open('r', encoding='utf-8') as f:
@@ -53,6 +83,11 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
                 continue
 
             if line.startswith(f'machine='):
+                continue
+
+            if line.startswith(f'is_hybrid='):
+                assert line.split('=')[1] == 'True'
+                is_hybrid = True
                 continue
 
             if line.startswith(f'pdb_fingerprint='):
@@ -85,39 +120,52 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
             continue
 
         # Legacy symbol cache.
-        if arch == 'x86-64':
-            cache_key = f'symbol-cache-{binary_name}'
-        else:
-            cache_key = f'symbol-{arch}-cache-{binary_name}'
+        legacy_cache_key = None
 
-        symbol_cache_file_path = symbol_cache_path / mod_name / cache_key / f'{timestamp}-{image_size}.txt'
+        if not is_hybrid:
+            if arch == 'amd64':
+                legacy_cache_key = f'symbol-cache-{binary_name}'
+            elif arch == 'x86':
+                legacy_cache_key = f'symbol-{arch}-cache-{binary_name}'
 
-        sep = MOD_CACHE_SEPARATORS.get(mod_name, '#')
+        if legacy_cache_key:
+            symbol_cache_file_path = symbol_cache_path / mod_name / legacy_cache_key / f'{timestamp}-{image_size}.txt'
 
-        create_mod_cache_file(
-            symbol_cache_file_path,
-            sep,
-            str(timestamp),
-            str(image_size),
-            mod_archs[arch][binary_name],
-            symbols,
-        )
+            sep = MOD_CACHE_LEGACY_SEPARATORS.get(mod_name, '#')
+
+            create_mod_cache_file(
+                symbol_cache_file_path,
+                sep,
+                str(timestamp),
+                str(image_size),
+                mod_archs[arch][binary_name],
+                symbols,
+                '',
+            )
 
         # New symbol cache.
         if pdb_fingerprint is None:
-            cache_key = f'pe_{arch}_{timestamp}_{image_size}_{binary_name}'
+            arch_mapping = {
+                'x86': 'x86',
+                'amd64': 'x86-64',
+                'arm64': 'arm64',
+            }
+            cache_key = f'pe_{arch_mapping[arch]}_{timestamp}_{image_size}_{binary_name}'
         else:
             cache_key = f'pdb_{pdb_fingerprint}'
 
         symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
 
+        sep = ';' if is_hybrid else '#'
+
         create_mod_cache_file(
             symbol_cache_file_path,
-            '#',
-            binary_name.replace('#', '_'),
+            sep,
+            binary_name.replace(sep, '_'),
             f'{timestamp}-{image_size}',
             mod_archs[arch][binary_name],
             symbols,
+            arch if is_hybrid else '',
         )
 
 
@@ -139,11 +187,17 @@ def create_mod_cache(binaries_folder: Path,
                 if not symbols_file.is_file():
                     continue
 
-                create_mod_cache_for_symbols_file(symbol_cache_path,
-                                                  extracted_symbols,
-                                                  binary_name.name,
-                                                  arch.name,
-                                                  symbols_file)
+                try:
+                    create_mod_cache_for_symbols_file(
+                        symbol_cache_path,
+                        extracted_symbols,
+                        binary_name.name,
+                        arch.name,
+                        symbols_file,
+                    )
+                except Exception as e:
+                    print(f'Failed to create mod cache for {symbols_file}: {e}')
+                    raise
 
 
 def main():

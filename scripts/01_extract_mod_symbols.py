@@ -2,12 +2,15 @@ import json
 import re
 import time
 from argparse import ArgumentParser
+from enum import StrEnum, auto
 from pathlib import Path
 
-ALL_ARCHITECTURES = [
-    'x86',
-    'x86-64',
-]
+
+class Architecture(StrEnum):
+    x86 = auto()
+    amd64 = auto()
+    arm64 = auto()
+
 
 MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
     'acrylic-effect-radius-changer/1.1.0.wh.cpp': [
@@ -295,22 +298,33 @@ SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
 
 def get_mod_metadata(mod_source: str):
     p = r'^\/\/[ \t]+==WindhawkMod==[ \t]*$([\s\S]+?)^\/\/[ \t]+==\/WindhawkMod==[ \t]*$'
-    match = re.search(p, mod_source, re.MULTILINE)
+    match = re.search(p, mod_source, flags=re.MULTILINE)
     if not match:
         raise Exception(f'No metadata block')
 
     metadata_block = match.group(1)
 
     p = r'^\/\/[ \t]+@architecture[ \t]+(.*)$'
-    match = re.findall(p, metadata_block, re.MULTILINE)
+    match = re.findall(p, metadata_block, flags=re.MULTILINE)
 
-    architecture = match or ALL_ARCHITECTURES
+    architectures: set[Architecture] = set()
 
-    if any (x not in ALL_ARCHITECTURES for x in architecture):
-        raise Exception(f'Unknown architecture')
+    for arch in (match or ['x86', 'amd64', 'arm64']):
+        if arch == 'x86':
+            architectures.add(Architecture.x86)
+        elif arch == 'amd64':
+            architectures.add(Architecture.amd64)
+        elif arch == 'arm64':
+            architectures.add(Architecture.arm64)
+        elif arch == 'x86-64':
+            # Implies both amd64 and arm64.
+            architectures.add(Architecture.amd64)
+            architectures.add(Architecture.arm64)
+        else:
+            raise Exception(f'Unknown architecture: {arch}')
 
     return {
-        'architectures': architecture,
+        'architectures': architectures,
     }
 
 
@@ -368,7 +382,7 @@ def process_symbol_block(mod_source: str, symbol_block_match: re.Match, string_d
 
     # Make sure there are no preprocessor directives.
     p = r'^[ \t]*#.*'
-    if match := re.search(p, symbol_block, re.MULTILINE):
+    if match := re.search(p, symbol_block, flags=re.MULTILINE):
         raise Exception(f'Unsupported preprocessor directive: {match.group(0)}')
 
     # Merge strings spanning over multiple lines.
@@ -427,47 +441,69 @@ def process_symbol_block(mod_source: str, symbol_block_match: re.Match, string_d
     }
 
 
-def get_mod_symbol_blocks(mod_source: str, arch: str):
-    # Expand #ifdef _WIN64 conditions.
-    def sub(match):
-        if match.group(1) in ['if', 'ifdef']:
-            condition_matches = arch == 'x86-64'
+def get_mod_symbol_blocks(mod_source: str, arch: Architecture):
+    # Expand #if architecture conditions.
+    def sub(sub_match):
+        condition1 = sub_match.group(1)
+        body1 = sub_match.group(2)
+        condition2 = sub_match.group(3)
+        body2 = sub_match.group(4)
+
+        if match := re.fullmatch(r'(?:if defined|ifdef|if)\b(.*)', condition1.strip()):
+            expression = match.group(1).strip()
+            negative = False
+        elif match := re.fullmatch(r'(?:|if !defined|ifndef|if !)\b(.*)', condition1.strip()):
+            expression = match.group(1).strip()
+            negative = True
         else:
-            assert match.group(1) == 'ifndef'
-            condition_matches = arch != 'x86-64'
+            raise Exception(f'Unsupported condition1: {condition1}')
+
+        if condition2 is not None and condition2.strip() != 'else':
+            raise Exception(f'Unsupported condition2: {condition2}')
+
+        if expression.startswith('(') and expression.endswith(')'):
+            expression = expression[1:-1].strip()
+
+        if expression == '_WIN64':
+            condition_matches = arch in [Architecture.amd64, Architecture.arm64]
+        elif expression == '_M_IX86':
+            condition_matches = arch == Architecture.x86
+        elif expression == '_M_X64':
+            condition_matches = arch == Architecture.amd64
+        elif expression == '_M_ARM64':
+            condition_matches = arch == Architecture.arm64
+        else:
+            # Not a supported arch condition, return as is.
+            return sub_match.group(0)
+
+        if negative:
+            condition_matches = not condition_matches
 
         if condition_matches:
-            return match.group(2)
+            return body1
 
-        return match.group(4) or ''
+        return body2 or ''
 
-    p = r'^[ \t]*#(if|ifn?def)[ \t]*_WIN64[ \t]*([\s\S]*?)(^[ \t]*#else[ \t]*$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
+    p = r'^[ \t]*#\s*(if.*)$([\s\S]*?)(?:^[ \t]*#\s*(else.*)$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
     mod_source = re.sub(p, sub, mod_source, flags=re.MULTILINE)
-
-    # Expand some #if defined(...) conditions.
-    def sub2(match):
-        return match.group(3) or ''
-
-    p = r'^[ \t]*#if defined\(_M_ARM64\)[ \t]*([\s\S]*?)(^[ \t]*#else[ \t]*$([\s\S]*?))?^[ \t]*#endif[ \t]*$'
-    mod_source = re.sub(p, sub2, mod_source, flags=re.MULTILINE)
 
     # Extract string definitions.
     p = r'^[ \t]*#[ \t]*define[ \t]+(\w+)[ \t]+L"(.*?)"[ \t]*$'
-    string_definitions = dict(re.findall(p, mod_source, re.MULTILINE))
+    string_definitions = dict(re.findall(p, mod_source, flags=re.MULTILINE))
     if any('"' in re.sub(r'\\.', '', x) for x in string_definitions.values()):
         raise Exception(f'Unsupported string definitions')
 
     # Extract symbol blocks.
     symbol_blocks = []
     p = r'^[ \t]*(?:const[ \t]+)?(?:CMWF_|WindhawkUtils::)?SYMBOL_HOOK[ \t]+(\w+)[\[ \t][\s\S]*?\};[ \t]*$'
-    for match in re.finditer(p, mod_source, re.MULTILINE):
+    for match in re.finditer(p, mod_source, flags=re.MULTILINE):
         symbol_block = process_symbol_block(mod_source, match, string_definitions)
         symbol_blocks.append(symbol_block)
 
     # Verify that no blocks were missed.
     p = r'SYMBOL_HOOK.*=(?![^{\n]+;)'
     if len(symbol_blocks) != len(
-        re.findall(p, remove_comments_from_code(mod_source), re.MULTILINE)
+        re.findall(p, remove_comments_from_code(mod_source), flags=re.MULTILINE)
     ):
         raise Exception(f'Unsupported symbol blocks')
 

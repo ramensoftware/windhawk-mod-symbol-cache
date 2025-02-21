@@ -73,6 +73,8 @@ def make_symbol_server_candidate_urls(file_name,
 def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, target_arch: str, insider=False):
     if insider:
         url = f'https://m417z.com/winbindex-data-insider/by_filename_compressed/{name}.json.gz'
+    elif target_arch == 'arm64':
+        url = f'https://m417z.com/winbindex-data-arm64/by_filename_compressed/{name}.json.gz'
     else:
         url = f'https://winbindex.m417z.com/data/by_filename_compressed/{name}.json.gz'
 
@@ -113,8 +115,10 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         if hash_file_info['machineType'] == 332:
             arch = 'x86'
         elif hash_file_info['machineType'] == 34404:
-            arch = 'x86-64'
-        elif hash_file_info['machineType'] in [452, 43620]:
+            arch = 'amd64'
+        elif hash_file_info['machineType'] == 43620:
+            arch = 'arm64'
+        elif hash_file_info['machineType'] in [452]:
             arch = str(hash_file_info['machineType'])
         else:
             raise Exception(f'Unknown machine type: {hash_file_info["machineType"]}')
@@ -211,6 +215,10 @@ def download_modules(module: tuple[str, str], binaries_folder: Path, previous_bi
     target_folder.mkdir(parents=True, exist_ok=True)
 
     previous_folder = previous_binaries_folder / module_name / arch
+
+    # Temporary migration, TODO: remove.
+    if not previous_folder.exists() and arch == 'amd64':
+        previous_folder = previous_binaries_folder / module_name / 'x86-64'
 
     download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch)
     download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch, insider=True)

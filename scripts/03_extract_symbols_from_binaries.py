@@ -56,6 +56,16 @@ def get_pe_extra_data(filename):
     }
 
 
+def is_hybrid_img(filename: Path):
+    with pefile.PE(filename) as pe:
+        load_config = getattr(pe, 'DIRECTORY_ENTRY_LOAD_CONFIG', None)
+
+        if load_config and hasattr(load_config.struct, 'CHPEMetadataPointer'):
+            return bool(load_config.struct.CHPEMetadataPointer)
+
+    return False
+
+
 # Source:
 # https://github.com/chromium/chromium/blob/ae46624acb85baa5bb3d0f960caae12d648b79ce/tools/symsrc/pdb_fingerprint_from_img.py
 def get_pdb_info_from_img(filename: Path):
@@ -112,12 +122,16 @@ def get_pdb_info_from_img(filename: Path):
 
 def append_pe_information(executable_path: Path, output_path: Path):
     pe_extra_data = get_pe_extra_data(executable_path)
+    is_hybrid = is_hybrid_img(executable_path)
     pdb_info = get_pdb_info_from_img(executable_path)
 
     with output_path.open('a') as f:
         f.write(f'machine={pe_extra_data["machine"]}\n')
         f.write(f'timestamp={pe_extra_data["timestamp"]}\n')
         f.write(f'image_size={pe_extra_data["image_size"]}\n')
+
+        if is_hybrid:
+            f.write(f'is_hybrid=True\n')
 
         if pdb_info:
             f.write(f'pdb_fingerprint={pdb_info[0]}\n')
