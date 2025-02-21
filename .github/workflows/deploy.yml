@@ -90,7 +90,6 @@ jobs:
           gh extension install actions/gh-actions-cache
           gh actions-cache delete cache-binaries-and-symbols-key-v1 --confirm -R ${{ github.repository }}
       - name: Save cache - binaries and symbols
-        if: false  # <- Temp, TODO: remove
         uses: actions/cache/save@v4
         with:
           path: binaries
