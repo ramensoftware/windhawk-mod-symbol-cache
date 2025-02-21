@@ -112,61 +112,77 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
 
             raise Exception(f'Unknown line: {line}')
 
-    for mod_name, mod_archs in extracted_symbols.items():
-        if arch not in mod_archs:
-            continue
+    # Use all relevant architectures for hybrid PEs.
+    iter_archs = [arch]
+    if is_hybrid:
+        if arch in ['x86', 'amd64']:
+            iter_archs.append('arm64')
+        elif arch == 'arm64':
+            iter_archs.append('amd64')
+        else:
+            raise Exception(f'Unknown arch: {arch}')
 
-        if binary_name not in mod_archs[arch]:
-            continue
+    for iter_arch in iter_archs:
+        for mod_name, mod_archs in extracted_symbols.items():
+            if iter_arch not in mod_archs:
+                continue
 
-        # Legacy symbol cache.
-        legacy_cache_key = None
+            if binary_name not in mod_archs[iter_arch]:
+                continue
 
-        if not is_hybrid:
-            if arch == 'amd64':
-                legacy_cache_key = f'symbol-cache-{binary_name}'
-            elif arch == 'x86':
-                legacy_cache_key = f'symbol-{arch}-cache-{binary_name}'
+            # Legacy symbol cache.
+            legacy_cache_key = None
 
-        if legacy_cache_key:
-            symbol_cache_file_path = symbol_cache_path / mod_name / legacy_cache_key / f'{timestamp}-{image_size}.txt'
+            if not is_hybrid:
+                if iter_arch == 'amd64':
+                    legacy_cache_key = f'symbol-cache-{binary_name}'
+                elif iter_arch == 'x86':
+                    legacy_cache_key = f'symbol-{iter_arch}-cache-{binary_name}'
 
-            sep = MOD_CACHE_LEGACY_SEPARATORS.get(mod_name, '#')
+            if legacy_cache_key:
+                symbol_cache_file_path = symbol_cache_path / mod_name / legacy_cache_key / f'{timestamp}-{image_size}.txt'
 
-            create_mod_cache_file(
-                symbol_cache_file_path,
-                sep,
-                str(timestamp),
-                str(image_size),
-                mod_archs[arch][binary_name],
-                symbols,
-                '',
-            )
+                sep = MOD_CACHE_LEGACY_SEPARATORS.get(mod_name, '#')
 
-        # New symbol cache.
-        if pdb_fingerprint is None:
+                create_mod_cache_file(
+                    symbol_cache_file_path,
+                    sep,
+                    str(timestamp),
+                    str(image_size),
+                    mod_archs[iter_arch][binary_name],
+                    symbols,
+                    '',
+                )
+
+            # New symbol cache.
             arch_mapping = {
                 'x86': 'x86',
                 'amd64': 'x86-64',
                 'arm64': 'arm64',
             }
-            cache_key = f'pe_{arch_mapping[arch]}_{timestamp}_{image_size}_{binary_name}'
-        else:
-            cache_key = f'pdb_{pdb_fingerprint}'
 
-        symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
+            if pdb_fingerprint is None:
+                cache_key = f'pe_{arch_mapping[iter_arch]}_{timestamp}_{image_size}_{binary_name}'
+                if is_hybrid:
+                    cache_key += f'_hybrid'
+            else:
+                cache_key = f'pdb_{pdb_fingerprint}'
+                if is_hybrid:
+                    cache_key += f'_hybrid-{arch_mapping[iter_arch]}'
 
-        sep = ';' if is_hybrid else '#'
+            symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
 
-        create_mod_cache_file(
-            symbol_cache_file_path,
-            sep,
-            binary_name.replace(sep, '_'),
-            f'{timestamp}-{image_size}',
-            mod_archs[arch][binary_name],
-            symbols,
-            arch if is_hybrid else '',
-        )
+            sep = ';' if is_hybrid else '#'
+
+            create_mod_cache_file(
+                symbol_cache_file_path,
+                sep,
+                binary_name.replace(sep, '_'),
+                f'{timestamp}-{image_size}',
+                mod_archs[iter_arch][binary_name],
+                symbols,
+                iter_arch if is_hybrid else '',
+            )
 
 
 def create_mod_cache(binaries_folder: Path,

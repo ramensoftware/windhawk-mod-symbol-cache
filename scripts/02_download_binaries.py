@@ -29,6 +29,10 @@ def get_modules_from_extracted_symbols(extracted_symbols: Path):
             for module in data[mod_name][arch]:
                 modules.add((arch, module))
 
+                # Create cache for hybrid ARM64X binaries for amd64 mods.
+                if arch == 'amd64':
+                    modules.add(('arm64', module))
+
     return modules
 
 
@@ -215,10 +219,6 @@ def download_modules(module: tuple[str, str], binaries_folder: Path, previous_bi
     target_folder.mkdir(parents=True, exist_ok=True)
 
     previous_folder = previous_binaries_folder / module_name / arch
-
-    # Temporary migration, TODO: remove.
-    if not previous_folder.exists() and arch == 'amd64':
-        previous_folder = previous_binaries_folder / module_name / 'x86-64'
 
     download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch)
     download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch, insider=True)
