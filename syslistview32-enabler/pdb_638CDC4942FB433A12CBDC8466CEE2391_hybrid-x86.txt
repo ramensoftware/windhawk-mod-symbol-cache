@@ -1,1 +1,0 @@
-1;shell32.dll;4141489718-9814016;private: int __thiscall CDefView::_UseItemsView(void);
