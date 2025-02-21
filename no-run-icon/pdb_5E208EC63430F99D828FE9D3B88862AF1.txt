@@ -1,1 +1,1 @@
-1#shell32.dll#2911261989-10629120#int __stdcall RunDlgProc(struct HWND__ *,unsigned int,unsigned int,long)#4639984
+1;shell32.dll;2911261989-10629120;int __stdcall RunDlgProc(struct HWND__ *,unsigned int,unsigned int,long);
