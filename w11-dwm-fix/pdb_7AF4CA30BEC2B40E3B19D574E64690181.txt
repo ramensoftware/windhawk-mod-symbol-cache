@@ -1,0 +1,1 @@
+1#udwm.dll#720305173-1282048#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#194536#public: static bool __cdecl CDesktopManager::IsHighContrastMode(void)#103608#public: struct tagRECT __cdecl CTopLevelWindow::GetBorderRect(bool)const #193144

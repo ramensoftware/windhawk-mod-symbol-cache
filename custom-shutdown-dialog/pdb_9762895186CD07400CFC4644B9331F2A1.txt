@@ -1,0 +1,1 @@
+1;shutdownux.dll;1683801070-520192;static  _ShutdownDialogEx();109968
