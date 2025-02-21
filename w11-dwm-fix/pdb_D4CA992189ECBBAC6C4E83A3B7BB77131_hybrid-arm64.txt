@@ -1,0 +1,1 @@
+1;user32.dll;2330515767-2433024;int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int);

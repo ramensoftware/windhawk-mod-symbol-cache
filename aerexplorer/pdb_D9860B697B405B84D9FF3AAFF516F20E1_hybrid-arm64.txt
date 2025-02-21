@@ -1,0 +1,1 @@
+1;windows.storage.dll;3804857484-11243520;public: long __cdecl CObjectArray::AddItemsFromKeySkip(struct HKEY__ *,unsigned short const *,unsigned long,struct _GUID const &);

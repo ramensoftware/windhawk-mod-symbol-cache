@@ -1,0 +1,1 @@
+1;comctl32.dll;943680592-4661248;public: virtual struct tagSIZE __cdecl DirectUI::CCPushButton::GetContentSize(int,int,class DirectUI::Surface *);
