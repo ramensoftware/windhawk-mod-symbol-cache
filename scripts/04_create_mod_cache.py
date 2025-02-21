@@ -115,7 +115,10 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
     # Use all relevant architectures for hybrid PEs.
     iter_archs = [arch]
     if is_hybrid:
-        if arch in ['x86', 'amd64']:
+        if arch == 'x86':
+            # Likely to only be loaded in x86 processes with x86 mods.
+            pass
+        elif arch == 'amd64':
             iter_archs.append('arm64')
         elif arch == 'arm64':
             iter_archs.append('amd64')
