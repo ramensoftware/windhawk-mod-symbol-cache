@@ -1,0 +1,1 @@
+1#1109923620#532480#public: unsigned long __thiscall _NCWNDMET::GetCaptionColor(bool)##struct HICON__ * __stdcall _GetWindowIcon(struct HWND__ *,int)#431359
