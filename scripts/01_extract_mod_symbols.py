@@ -501,7 +501,7 @@ def get_mod_symbol_blocks(mod_source: str, arch: Architecture):
         symbol_blocks.append(symbol_block)
 
     # Verify that no blocks were missed.
-    p = r'SYMBOL_HOOK.*=(?![^{\n]+;)'
+    p = r'SYMBOL_HOOK\s+\w'
     if len(symbol_blocks) != len(
         re.findall(p, remove_comments_from_code(mod_source), flags=re.MULTILINE)
     ):
