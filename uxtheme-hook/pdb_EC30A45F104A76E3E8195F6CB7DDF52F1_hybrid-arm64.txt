@@ -1,0 +1,1 @@
+1;uxtheme.dll;2832202872-1191936;public: long __cdecl CThemeSignature::Verify(void *);384952
