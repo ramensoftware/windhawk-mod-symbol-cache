@@ -1,0 +1,1 @@
+1#2787288594#2887680#protected: void __cdecl CTaskListWnd::_HandleContextMenu(int,int,int)##protected: void __thiscall CTaskListWnd::_HandleContextMenu(int,int,int)#

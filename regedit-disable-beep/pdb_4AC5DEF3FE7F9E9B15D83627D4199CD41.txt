@@ -1,0 +1,1 @@
+1#regedit.exe#3592711367-794624#public: void __thiscall RegEdit::Navigate(void)#43473
