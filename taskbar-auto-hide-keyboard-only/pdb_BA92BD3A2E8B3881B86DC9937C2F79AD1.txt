@@ -1,1 +1,1 @@
-1#explorer.exe#501442776-5525504#public: virtual void __cdecl TrayUI::SetUnhideTimer(long,long)#1641760
+1#explorer.exe#501442776-5525504#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#1643152#public: virtual void __cdecl TrayUI::SetUnhideTimer(long,long)#1641760
