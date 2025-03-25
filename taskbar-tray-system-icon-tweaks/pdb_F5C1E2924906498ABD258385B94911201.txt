@@ -1,0 +1,1 @@
+1#taskbar.view.dll#1741395216-14163968#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#128760
