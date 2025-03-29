@@ -1,0 +1,1 @@
+1#4153926647#1482752#public: void __stdcall DirectUI::Element::PaintBackground(struct HDC__ *,class DirectUI::Value *,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &)#
