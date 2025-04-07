@@ -21,6 +21,7 @@ jobs:
           path: main
       - name: Checkout windhawk-mods
         uses: actions/checkout@v4
+        id: checkout-windhawk-mods
         with:
           repository: ramensoftware/windhawk-mods
           ref: pages
@@ -42,6 +43,11 @@ jobs:
         with:
           path: binaries
           key: cache-binaries-and-symbols-key-v1
+
+      - name: Calculate cache file list hash (before)
+        id: cache-file-list-hash-before
+        run: |
+          echo "hash=$(find binaries -type f | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
 
       - name: Rename cache folder
         if: ${{ steps.cache-binaries-and-symbols.outputs.cache-hit }}
@@ -65,13 +71,54 @@ jobs:
             main/scripts/tools/windhawk-symbol-helper.exe \
             main/scripts/tools \
             symbols
+
+      - name: Calculate cache file list hash (after)
+        id: cache-file-list-hash-after
+        run: |
+          echo "hash=$(find binaries -type f | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
+
+      - name: Cache file list changed?
+        id: cache-file-list-changed
+        run: |
+          if [ "${{ steps.cache-file-list-hash-before.outputs.hash }}" = "${{ steps.cache-file-list-hash-after.outputs.hash }}" ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Last deploy commit message changed?
+        id: last-deploy-commit-message-changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          msg=$(curl -s -H "Authorization: token $GH_TOKEN" \
+            https://api.github.com/repos/$REPO/commits/gh-pages \
+            | jq -r '.commit.message | split("\n")[0]')
+          echo "$msg"
+          if [ "$msg" = "deploy: ${{ github.sha }}, mods@${{ steps.checkout-windhawk-mods.outputs.commit }}" ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
       - name: Run 04_create_mod_cache
+        if: >-
+          ${{
+            steps.cache-file-list-changed.outputs.changed == 'true' ||
+            steps.last-deploy-commit-message-changed.outputs.changed == 'true'
+          }}
         run: |
           python -u main/scripts/04_create_mod_cache.py \
             binaries \
             extracted_symbols.json \
             symbol_cache
       - name: Deploy
+        if: >-
+          ${{
+            steps.cache-file-list-changed.outputs.changed == 'true' ||
+            steps.last-deploy-commit-message-changed.outputs.changed == 'true'
+          }}
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -79,17 +126,24 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           publish_branch: 'gh-pages'
+          full_commit_message: 'deploy: ${{ github.sha }}, mods@${{ steps.checkout-windhawk-mods.outputs.commit }}'
+          allow_empty_commit: true
 
       # Workaround for updating cache:
       # https://github.com/actions/cache/issues/342#issuecomment-1363953531
       - name: Clear cache - binaries and symbols
-        if: ${{ steps.cache-binaries-and-symbols.outputs.cache-hit }}
+        if: >-
+          ${{
+            steps.cache-file-list-changed.outputs.changed == 'true' &&
+            steps.cache-binaries-and-symbols.outputs.cache-hit
+          }}
         env:
           GH_TOKEN: ${{ github.token }}  # required by gh
         run: |
           gh extension install actions/gh-actions-cache
           gh actions-cache delete cache-binaries-and-symbols-key-v1 --confirm -R ${{ github.repository }}
       - name: Save cache - binaries and symbols
+        if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
         uses: actions/cache/save@v4
         with:
           path: binaries
