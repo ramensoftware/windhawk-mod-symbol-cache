@@ -1,0 +1,1 @@
+1#narrator.exe#3067277333-1036288#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#467496
