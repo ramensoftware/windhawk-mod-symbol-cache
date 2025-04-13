@@ -11,6 +11,17 @@ MOD_CACHE_LEGACY_SEPARATORS = {
 }
 
 
+def get_all_used_symbols_per_binary(extracted_symbols: dict[str, dict[str, dict[str, list[str]]]]) :
+    all_used_symbols_per_binary = {}
+
+    for archs in extracted_symbols.values():
+        for binaries in archs.values():
+            for binary_name, symbols in binaries.items():
+                all_used_symbols_per_binary.setdefault(binary_name, set()).update(symbols)
+
+    return all_used_symbols_per_binary
+
+
 def create_mod_cache_file(
     cache_path: Path,
     sep: str,
@@ -48,7 +59,7 @@ def create_mod_cache_file(
                 address2 = symbol_addresses.get(symbol_arch_prefix + symbol, '')
                 if address2 is None:
                     raise Exception(f'Duplicate symbol {symbol}')
-                
+
                 if address1 and address2:
                     raise Exception(f'Duplicate symbol {symbol}')
 
@@ -59,16 +70,21 @@ def create_mod_cache_file(
             f.write(f'{sep}{symbol}{sep}{address}')
 
 
-def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
-                                      extracted_symbols: dict,
-                                      binary_name: str,
-                                      arch: str,
-                                      symbols_file: Path):
+def create_mod_cache_for_symbols_file(
+    symbol_cache_path: Path,
+    extracted_symbols: dict,
+    binary_name: str,
+    arch: str,
+    symbols_file: Path,
+    all_used_symbols: dict[str, set[str]],
+):
     symbols = {}
     timestamp = None
     image_size = None
     is_hybrid = False
     pdb_fingerprint = None
+
+    address_len = 8 if arch == 'x86' else 16
 
     with symbols_file.open('r', encoding='utf-8') as f:
         # This is a hot loop, keep it optimized.
@@ -80,14 +96,15 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
                 continue
 
             if line[0] == '[':
-                pos = line.find('] ')
-                address = int(line[1:pos], 16)
-                symbol = line[pos+2:]
-                if symbol in symbols:
-                    # Duplicate symbol.
-                    symbols[symbol] = None
-                else:
-                    symbols[symbol] = address
+                symbol = line[address_len+3:]
+                if symbol in all_used_symbols:
+                    assert line[address_len+1:address_len+3] == '] '
+                    address = int(line[1:address_len+1], 16)
+                    if symbol in symbols:
+                        # Duplicate symbol.
+                        symbols[symbol] = None
+                    else:
+                        symbols[symbol] = address
                 continue
 
             if line.startswith(f'timestamp='):
@@ -195,6 +212,8 @@ def create_mod_cache(binaries_folder: Path,
     with extracted_symbols_path.open('r', encoding='utf-8') as f:
         extracted_symbols = json.load(f)
 
+    all_used_symbols_per_binary = get_all_used_symbols_per_binary(extracted_symbols)
+
     for binary_name in binaries_folder.glob('*'):
         if binary_name.is_file():
             continue
@@ -214,6 +233,7 @@ def create_mod_cache(binaries_folder: Path,
                         binary_name.name,
                         arch.name,
                         symbols_file,
+                        all_used_symbols_per_binary[binary_name.name],
                     )
                 except Exception as e:
                     print(f'Failed to create mod cache for {symbols_file}: {e}')
