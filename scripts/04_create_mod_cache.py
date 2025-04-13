@@ -1,6 +1,8 @@
 import json
+import mmap
 import re
 from argparse import ArgumentParser
+from enum import StrEnum
 from pathlib import Path
 
 MOD_CACHE_LEGACY_SEPARATORS = {
@@ -11,8 +13,14 @@ MOD_CACHE_LEGACY_SEPARATORS = {
 }
 
 
-def get_all_used_symbols_per_binary(extracted_symbols: dict[str, dict[str, dict[str, list[str]]]]) :
-    all_used_symbols_per_binary = {}
+class ArchPrefix(StrEnum):
+    x86 = 'arch=x86\\'
+    amd64 = 'arch=x64\\'
+    arm64 = 'arch=ARM64\\'
+
+
+def get_all_used_symbols_per_binary(extracted_symbols: dict[str, dict[str, dict[str, list[str]]]]):
+    all_used_symbols_per_binary: dict[str, set[str]] = {}
 
     for archs in extracted_symbols.values():
         for binaries in archs.values():
@@ -51,9 +59,9 @@ def create_mod_cache_file(
 
             if arch_for_hybrid_pe and not re.match(r'arch=\w+\\', symbol):
                 symbol_arch_prefix_mapping = {
-                    'x86': 'arch=x86\\',
-                    'amd64': 'arch=x64\\',
-                    'arm64': 'arch=ARM64\\',
+                    'x86': ArchPrefix.x86,
+                    'amd64': ArchPrefix.amd64,
+                    'arm64': ArchPrefix.arm64,
                 }
                 symbol_arch_prefix = symbol_arch_prefix_mapping[arch_for_hybrid_pe]
                 address2 = symbol_addresses.get(symbol_arch_prefix + symbol, '')
@@ -76,7 +84,7 @@ def create_mod_cache_for_symbols_file(
     binary_name: str,
     arch: str,
     symbols_file: Path,
-    all_used_symbols: dict[str, set[str]],
+    all_used_symbols: set[str],
 ):
     symbols = {}
     timestamp = None
@@ -84,28 +92,41 @@ def create_mod_cache_for_symbols_file(
     is_hybrid = False
     pdb_fingerprint = None
 
-    address_len = 8 if arch == 'x86' else 16
+    all_used_symbols_bytes_with_prefix = set()
+    for symbol in all_used_symbols:
+        all_used_symbols_bytes_with_prefix.add(symbol.encode())
+        if not re.match(r'arch=\w+\\', symbol):
+            for arch_prefix in ArchPrefix:
+                all_used_symbols_bytes_with_prefix.add((arch_prefix + symbol).encode())
 
-    with symbols_file.open('r', encoding='utf-8') as f:
+    with (
+        symbols_file.open('r', encoding='utf-8') as f,
+        mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ) as m
+    ):
         # This is a hot loop, keep it optimized.
-        while line := f.readline():
-            if line[-1:] == '\n':
+        while line := m.readline():
+            if line[-2:] == b'\r\n':
+                line = line[:-2]
+            elif line[-1:] == b'\n':
                 line = line[:-1]
 
-            if line == '':
+            if line == b'':
                 continue
 
-            if line[0] == '[':
-                symbol = line[address_len+3:]
-                if symbol in all_used_symbols:
-                    assert line[address_len+1:address_len+3] == '] '
-                    address = int(line[1:address_len+1], 16)
+            if line[0] == ord('['):
+                assert line[9] == ord(']') and line[10] == ord(' ')
+                symbol = line[11:]
+                if symbol in all_used_symbols_bytes_with_prefix:
+                    symbol = symbol.decode()
+                    address = int(line[1:9], 16)
                     if symbol in symbols:
                         # Duplicate symbol.
                         symbols[symbol] = None
                     else:
                         symbols[symbol] = address
                 continue
+
+            line = line.decode()
 
             if line.startswith(f'timestamp='):
                 timestamp = int(line.split('=')[1])
