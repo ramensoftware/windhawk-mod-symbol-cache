@@ -1,1 +1,1 @@
-1;shell32.dll;3959858628-14704640;public: virtual long __cdecl CListViewHost::CreateControl(struct HWND__ *,struct IListControlHost *,struct IViewSettings *);3669584
+1;shell32.dll;3959858628-14704640;public: virtual long __cdecl CListViewHost::CreateControl(struct HWND__ *,struct IListControlHost *,struct IViewSettings *);

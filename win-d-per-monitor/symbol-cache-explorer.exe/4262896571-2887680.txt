@@ -1,1 +1,1 @@
-1#4262896571#2887680#protected: void __cdecl CTray::_HandleGlobalHotkey(unsigned __int64,__int64)#567508
+1#4262896571#2887680#protected: void __cdecl CTray::_HandleGlobalHotkey(unsigned __int64,__int64)#

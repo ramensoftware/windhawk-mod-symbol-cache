@@ -1,1 +1,1 @@
-1#906592077#2121728#public: virtual long __stdcall CNscTree::AppendRoot(struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *)#388528#long __stdcall OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *)#1266047
+1#906592077#2121728#public: virtual long __stdcall CNscTree::AppendRoot(struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *)##long __stdcall OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *)#

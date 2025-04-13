@@ -1,1 +1,1 @@
-1;comdlg32.dll;2721487464-1810432;int __cdecl IsCommonItemDialogAvailable(void);299608;public: static long __cdecl CFileOpenSave::s_CreateInstance(enum DIALOGINITFLAGS,struct _GUID const &,void * *);432456
+1;comdlg32.dll;2721487464-1810432;int __cdecl IsCommonItemDialogAvailable(void);;public: static long __cdecl CFileOpenSave::s_CreateInstance(enum DIALOGINITFLAGS,struct _GUID const &,void * *);
