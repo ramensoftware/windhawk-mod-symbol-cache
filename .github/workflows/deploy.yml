@@ -14,6 +14,8 @@ concurrency: online-cache-update
 jobs:
   run:
     runs-on: windows-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
