@@ -1,1 +1,1 @@
-1#explorer.exe#2091303190-5509120#public: long __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)##public: void __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#
+1#explorer.exe#2091303190-5509120#public: long __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#1977788#public: void __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#

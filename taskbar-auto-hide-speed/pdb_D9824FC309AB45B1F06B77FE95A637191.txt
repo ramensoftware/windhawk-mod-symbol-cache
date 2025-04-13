@@ -1,1 +1,1 @@
-1#taskbar.dll#3852366729-3592192#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#
+1#taskbar.dll#3852366729-3592192#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#88768
