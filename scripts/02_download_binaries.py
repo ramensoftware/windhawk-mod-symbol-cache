@@ -15,6 +15,11 @@ import requests
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
 BINARY_MAX_AGE_DAYS_BEFORE_DELETION = 60
 
+NAMES_TO_ALLOW_404 = [
+    # Old binary, missing in insider builds.
+    'explorerextensions.dll',
+]
+
 VERBOSE_OUTPUT = False
 
 
@@ -90,6 +95,9 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
             time.sleep(10)
 
     if 400 <= r.status_code < 500:
+        if r.status_code == 404 and name in NAMES_TO_ALLOW_404:
+            return
+
         raise Exception(f'Client Error: {r.status_code} for url: {url}')
 
     data_compressed = r.content
