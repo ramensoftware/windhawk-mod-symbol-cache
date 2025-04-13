@@ -1,1 +1,0 @@
-1#1745794305#10559488#public: bool __cdecl ImmersiveMonitorHelper::ConnectToMonitor(struct HWND__ *,struct tagPOINT)##public: virtual long __cdecl XamlLauncher::ShowStartView(enum IMMERSIVELAUNCHERSHOWMETHOD,enum IMMERSIVELAUNCHERSHOWFLAGS)##public: long __cdecl ImmersiveMonitorHelper::AdjustMonitorConnectedIfNeeded(void)#
