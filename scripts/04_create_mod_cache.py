@@ -113,8 +113,8 @@ def create_mod_cache_for_symbols_file(
             if line == b'':
                 continue
 
-            if line[0] == ord('['):
-                assert line[9] == ord(']') and line[10] == ord(' ')
+            if line[0] == 91:  # '['
+                assert line[9] == 93 and line[10] == 32  # '] '
                 symbol = line[11:]
                 if symbol in all_used_symbols_bytes_with_prefix:
                     symbol = symbol.decode()
