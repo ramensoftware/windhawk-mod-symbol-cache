@@ -1,1 +1,1 @@
-1#explorer.exe#2560632807-2756608#protected: __int64 __cdecl CTray::_OnSessionChange(unsigned __int64,__int64)#505756
+1#explorer.exe#2560632807-2756608#protected: __int64 __cdecl CTray::_OnSessionChange(unsigned __int64,__int64)#

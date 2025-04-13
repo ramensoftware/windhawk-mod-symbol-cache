@@ -1,1 +1,1 @@
-1#1741395296#10543104#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#452144
+1#1741395296#10543104#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#

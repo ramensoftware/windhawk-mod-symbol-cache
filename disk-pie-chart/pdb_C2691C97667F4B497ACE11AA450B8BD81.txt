@@ -1,1 +1,1 @@
-1#wpdshext.dll#203118621-663552#void __cdecl _DrawPie(struct HDC__ *,struct tagRECT const *,unsigned int,unsigned int,unsigned long const *)#433740
+1#wpdshext.dll#203118621-663552#void __cdecl _DrawPie(struct HDC__ *,struct tagRECT const *,unsigned int,unsigned int,unsigned long const *)#

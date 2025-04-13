@@ -1,1 +1,1 @@
-1#3123060746#94208#public: int __cdecl CGhostWindow::CreateGhostWindow(void)#27200#public: static __int64 __cdecl CGhostWindow::s_GhostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#33760
+1#3123060746#94208#public: int __cdecl CGhostWindow::CreateGhostWindow(void)##public: static __int64 __cdecl CGhostWindow::s_GhostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#
