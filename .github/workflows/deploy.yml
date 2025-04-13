@@ -16,6 +16,7 @@ jobs:
     runs-on: windows-latest
     permissions:
       contents: write
+      actions: write  # for writing to the cache
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
@@ -142,8 +143,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}  # required by gh
         run: |
-          gh extension install actions/gh-actions-cache
-          gh actions-cache delete cache-binaries-and-symbols-key-v1 --confirm -R ${{ github.repository }}
+          gh cache delete cache-binaries-and-symbols-key-v1 -R ${{ github.repository }}
       - name: Save cache - binaries and symbols
         if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
         uses: actions/cache/save@v4
