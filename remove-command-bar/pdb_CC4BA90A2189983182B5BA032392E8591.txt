@@ -1,1 +1,1 @@
-1#shell32.dll#1164646087-8224768#long __cdecl DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#
+1#shell32.dll#1164646087-8224768#long __cdecl DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#369096

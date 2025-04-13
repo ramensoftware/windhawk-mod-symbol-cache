@@ -1,1 +1,1 @@
-1;shell32.dll;1563718012-14544896;protected: long __cdecl CDesktopBrowser::SetDesktopWorkAreas(struct HWND__ *,struct tagRECT *);
+1;shell32.dll;1563718012-14544896;protected: long __cdecl CDesktopBrowser::SetDesktopWorkAreas(struct HWND__ *,struct tagRECT *);612032

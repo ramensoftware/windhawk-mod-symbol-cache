@@ -1,1 +1,1 @@
-1#explorerframe.dll#709082757-2764800#private: long __cdecl CNscTree::_InsertRoot(struct _TREEITEM *,struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *)##long __cdecl OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *)#
+1#explorerframe.dll#709082757-2764800#private: long __cdecl CNscTree::_InsertRoot(struct _TREEITEM *,struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *)#87644#long __cdecl OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *)#1683156
