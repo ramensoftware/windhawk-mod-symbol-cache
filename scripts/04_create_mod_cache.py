@@ -80,9 +80,9 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
                 continue
 
             if line[0] == '[':
-                pos = line.find(']')
+                pos = line.find('] ')
                 address = int(line[1:pos], 16)
-                symbol = line[pos+1:]
+                symbol = line[pos+2:]
                 if symbol in symbols:
                     # Duplicate symbol.
                     symbols[symbol] = None
