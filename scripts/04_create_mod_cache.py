@@ -71,8 +71,24 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
     pdb_fingerprint = None
 
     with symbols_file.open('r', encoding='utf-8') as f:
+        # This is a hot loop, keep it optimized.
         while line := f.readline():
-            line = line.rstrip('\n')
+            if line[-1:] == '\n':
+                line = line[:-1]
+
+            if line == '':
+                continue
+
+            if line[0] == '[':
+                pos = line.find(']')
+                address = int(line[1:pos], 16)
+                symbol = line[pos+1:]
+                if symbol in symbols:
+                    # Duplicate symbol.
+                    symbols[symbol] = None
+                else:
+                    symbols[symbol] = address
+                continue
 
             if line.startswith(f'timestamp='):
                 timestamp = int(line.split('=')[1])
@@ -95,16 +111,6 @@ def create_mod_cache_for_symbols_file(symbol_cache_path: Path,
                 continue
 
             if line.startswith(f'pdb_filename='):
-                continue
-
-            if line.startswith(f'['):
-                address, symbol = line[1:].split('] ', 1)
-                address = int(address, 16)
-                if symbol in symbols:
-                    # Duplicate symbol.
-                    symbols[symbol] = None
-                else:
-                    symbols[symbol] = address
                 continue
 
             if line.startswith(f'Found '):
