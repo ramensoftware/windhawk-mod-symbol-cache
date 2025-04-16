@@ -1,1 +1,0 @@
-1#taskbar.dll#265168069-4251648#public: virtual enum eTBGROUPTYPE __cdecl CTaskBtnGroup::GetGroupType(void)#922400#protected: void __cdecl CTaskListWnd::_HandleClick(struct ITaskBtnGroup *,int,enum CTaskListWnd::eCLICKACTION,int,int)#2036328#public: virtual long __cdecl CTaskListWnd::HandleWinNumHotKey(short,unsigned short)#1991120
