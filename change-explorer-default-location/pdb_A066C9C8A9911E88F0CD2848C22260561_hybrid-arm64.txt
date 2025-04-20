@@ -1,1 +1,1 @@
-1;shell32.dll;1404494208-14598144;private: long __cdecl COpenDefaultLocationCommand::_GetNavTarget(struct IShellItem * *);1315784
+1;shell32.dll;arm64-1404494208-14598144;private: long __cdecl COpenDefaultLocationCommand::_GetNavTarget(struct IShellItem * *);1315784

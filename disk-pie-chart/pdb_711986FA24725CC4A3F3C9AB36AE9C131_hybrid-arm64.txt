@@ -1,1 +1,1 @@
-1;shell32.dll;2033550216-18092032;void __cdecl _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *);3952816;DrawPie;5449224
+1;shell32.dll;arm64-2033550216-18092032;void __cdecl _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *);3952816;DrawPie;5449224

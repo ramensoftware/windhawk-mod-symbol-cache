@@ -1,1 +1,1 @@
-1#explorer.exe#301226533-2818048#SHPlaySound#
+1#explorer.exe#arm64-301226533-2818048#SHPlaySound#

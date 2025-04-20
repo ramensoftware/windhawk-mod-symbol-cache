@@ -1,1 +1,1 @@
-1#uxtheme.dll#3221419512-638976#public: long __cdecl CThemeSignature::Verify(void *)#364740
+1#uxtheme.dll#x86-64-3221419512-638976#public: long __cdecl CThemeSignature::Verify(void *)#364740

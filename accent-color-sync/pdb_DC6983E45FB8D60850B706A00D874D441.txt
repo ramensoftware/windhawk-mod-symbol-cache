@@ -1,1 +1,1 @@
-1#themeui.dll#1443832063-380928#long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE)##long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#161384
+1#themeui.dll#x86-1443832063-380928#long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE)##long __stdcall SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#161384

@@ -1,1 +1,1 @@
-1#uxtheme.dll#3492037463-503808#public: unsigned long __thiscall _NCWNDMET::GetCaptionColor(bool)#166122#struct HICON__ * __stdcall _GetWindowIcon(struct HWND__ *,int)#223574
+1#uxtheme.dll#x86-3492037463-503808#public: unsigned long __thiscall _NCWNDMET::GetCaptionColor(bool)#166122#struct HICON__ * __stdcall _GetWindowIcon(struct HWND__ *,int)#223574

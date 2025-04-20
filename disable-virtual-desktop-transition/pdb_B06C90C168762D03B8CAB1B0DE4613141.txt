@@ -1,1 +1,1 @@
-1#udwm.dll#14659587-1327104#public: __cdecl CVirtualDesktopSwitch::CVirtualDesktopSwitch(void)#
+1#udwm.dll#arm64-14659587-1327104#public: __cdecl CVirtualDesktopSwitch::CVirtualDesktopSwitch(void)#

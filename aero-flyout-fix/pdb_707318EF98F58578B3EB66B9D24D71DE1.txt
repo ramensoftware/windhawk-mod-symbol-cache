@@ -1,1 +1,1 @@
-1#sndvol.exe#3105610217-282624#public: __int64 __cdecl CDlgSimpleVolumeHost::OnInitDialog(unsigned int,unsigned __int64,__int64,int &)#43740
+1#sndvol.exe#x86-64-3105610217-282624#public: __int64 __cdecl CDlgSimpleVolumeHost::OnInitDialog(unsigned int,unsigned __int64,__int64,int &)#43740

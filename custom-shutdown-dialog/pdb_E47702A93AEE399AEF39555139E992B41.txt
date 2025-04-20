@@ -1,1 +1,1 @@
-1#shutdownux.dll#4074428703-299008#static  _ShutdownDialogEx()#108004
+1#shutdownux.dll#x86-64-4074428703-299008#static  _ShutdownDialogEx()#108004

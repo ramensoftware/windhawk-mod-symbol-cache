@@ -1,1 +1,1 @@
-1;shell32.dll;1404494208-14598144;ShellExecCmdLineWithSite;1021768;private: int __cdecl CRunDlg::OKPushed(void);1108352;IsSHExecuteErrorMessageBoxPresent;
+1;shell32.dll;arm64-1404494208-14598144;ShellExecCmdLineWithSite;1021768;private: int __cdecl CRunDlg::OKPushed(void);1108352;IsSHExecuteErrorMessageBoxPresent;

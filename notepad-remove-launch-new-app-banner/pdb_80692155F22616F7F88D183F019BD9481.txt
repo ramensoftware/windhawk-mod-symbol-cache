@@ -1,1 +1,1 @@
-1#notepad.exe#848259620-352256#long __cdecl ActivateBanner(bool)#38976
+1#notepad.exe#arm64-848259620-352256#long __cdecl ActivateBanner(bool)#38976
