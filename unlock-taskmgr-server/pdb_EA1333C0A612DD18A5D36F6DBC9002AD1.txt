@@ -1,1 +1,1 @@
-1#taskmgr.exe#x86-3871901660-4595712#public: bool __thiscall RunTimeSettings::IsServer(void)#1306086
+1#taskmgr.exe#x86_3871901660_4595712#public: bool __thiscall RunTimeSettings::IsServer(void)#1306086

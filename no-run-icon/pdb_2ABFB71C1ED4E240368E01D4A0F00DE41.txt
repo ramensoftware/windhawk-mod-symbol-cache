@@ -1,1 +1,1 @@
-1#shell32.dll#arm64-642443284-8716288#__int64 __cdecl RunDlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#2723696
+1#shell32.dll#arm64_642443284_8716288#__int64 __cdecl RunDlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#2723696

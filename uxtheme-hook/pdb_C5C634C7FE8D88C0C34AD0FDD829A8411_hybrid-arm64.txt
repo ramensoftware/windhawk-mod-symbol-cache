@@ -1,1 +1,1 @@
-1;uxinit.dll;arm64-1317773814-311296;public: long __cdecl CThemeSignature::Verify(void *);102776
+1;uxinit.dll;arm64_1317773814_311296;public: long __cdecl CThemeSignature::Verify(void *);102776

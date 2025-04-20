@@ -1,1 +1,1 @@
-1#shell32.dll#x86-1701990488-7151616#private: int __thiscall CDefView::_UseItemsView(void)#1575379
+1#shell32.dll#x86_1701990488_7151616#private: int __thiscall CDefView::_UseItemsView(void)#1575379

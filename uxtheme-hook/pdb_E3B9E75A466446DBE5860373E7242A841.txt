@@ -1,1 +1,1 @@
-1#uxinit.dll#x86-64-3813582339-204800#public: long __cdecl CThemeSignature::Verify(void *)#65000
+1#uxinit.dll#x86-64_3813582339_204800#public: long __cdecl CThemeSignature::Verify(void *)#65000

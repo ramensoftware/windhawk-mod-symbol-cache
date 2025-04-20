@@ -1,1 +1,1 @@
-1#regedit.exe#x86-64-2198026881-847872#private: int __cdecl RegEdit::ExpandKeyPath(unsigned short const *,bool)#52868
+1#regedit.exe#x86-64_2198026881_847872#private: int __cdecl RegEdit::ExpandKeyPath(unsigned short const *,bool)#52868

@@ -1,1 +1,1 @@
-1#notepad.exe#x86-1080629591-184320#long __stdcall ActivateBanner(bool)#
+1#notepad.exe#x86_1080629591_184320#long __stdcall ActivateBanner(bool)#

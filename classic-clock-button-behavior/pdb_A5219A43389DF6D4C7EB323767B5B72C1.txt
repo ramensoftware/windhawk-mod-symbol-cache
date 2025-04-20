@@ -1,1 +1,1 @@
-1#explorer.exe#arm64-3258995872-2707456#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#
+1#explorer.exe#arm64_3258995872_2707456#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#

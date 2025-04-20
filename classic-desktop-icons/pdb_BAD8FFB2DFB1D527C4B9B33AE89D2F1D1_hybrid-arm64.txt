@@ -1,1 +1,1 @@
-1;shell32.dll;arm64-2928449549-208896;protected: long __cdecl CDesktopBrowser::SetDesktopWorkAreas(struct HWND__ *,struct tagRECT *);
+1;shell32.dll;arm64_2928449549_208896;protected: long __cdecl CDesktopBrowser::SetDesktopWorkAreas(struct HWND__ *,struct tagRECT *);

@@ -1,1 +1,1 @@
-1#taskbar.dll#x86-64-3220124714-3203072#public: void __cdecl ClockButton::StartTicking(void)##protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#
+1#taskbar.dll#x86-64_3220124714_3203072#public: void __cdecl ClockButton::StartTicking(void)##protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#

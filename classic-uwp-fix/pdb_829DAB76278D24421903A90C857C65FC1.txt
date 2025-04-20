@@ -1,1 +1,1 @@
-1#applicationframe.dll#x86-64-839987028-770048#long __cdecl AnimationHelpers::LoadThemeTransform(int,int,struct TA_TRANSFORM *,unsigned long,struct TA_TIMINGFUNCTION *,unsigned long)#202668
+1#applicationframe.dll#x86-64_839987028_770048#long __cdecl AnimationHelpers::LoadThemeTransform(int,int,struct TA_TRANSFORM *,unsigned long,struct TA_TIMINGFUNCTION *,unsigned long)#202668

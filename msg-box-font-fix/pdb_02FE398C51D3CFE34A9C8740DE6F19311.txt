@@ -1,1 +1,1 @@
-1#user32.dll#x86-64-2938559648-1773568#struct HFONT__ * __cdecl GetMessageBoxFontForDpi(unsigned int)#350320
+1#user32.dll#x86-64_2938559648_1773568#struct HFONT__ * __cdecl GetMessageBoxFontForDpi(unsigned int)#350320

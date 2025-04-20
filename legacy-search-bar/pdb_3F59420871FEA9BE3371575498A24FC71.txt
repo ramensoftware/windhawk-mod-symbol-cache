@@ -1,1 +1,1 @@
-1#explorerframe.dll#x86-64-915474585-2609152#private: bool __cdecl CUniversalSearchBand::IsModernSearchBoxEnabled(void)##public: long __cdecl CSearchEditBox::HideSuggestions(void)#
+1#explorerframe.dll#x86-64_915474585_2609152#private: bool __cdecl CUniversalSearchBand::IsModernSearchBoxEnabled(void)##public: long __cdecl CSearchEditBox::HideSuggestions(void)#

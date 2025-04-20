@@ -1,1 +1,1 @@
-1;uxtheme.dll;arm64-845389840-1179648;protected: static int __cdecl CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *);356776
+1;uxtheme.dll;arm64_845389840_1179648;protected: static int __cdecl CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *);356776

@@ -1,1 +1,1 @@
-1;uxtheme.dll;arm64-1653309596-1171456;int __cdecl ThemePostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,__int64 *,void * *);154928
+1;uxtheme.dll;arm64_1653309596_1171456;int __cdecl ThemePostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,__int64 *,void * *);154928

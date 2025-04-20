@@ -1,1 +1,1 @@
-1;shutdownux.dll;arm64-1118875294-520192;static  _ShutdownDialogEx();110600
+1;shutdownux.dll;arm64_1118875294_520192;static  _ShutdownDialogEx();110600

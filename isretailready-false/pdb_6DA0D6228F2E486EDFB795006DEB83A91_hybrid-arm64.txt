@@ -1,1 +1,1 @@
-1;shell32.dll;arm64-3741642118-14708736;private: static bool __cdecl CDesktopWatermark::s_IsRetailReady(void);
+1;shell32.dll;arm64_3741642118_14708736;private: static bool __cdecl CDesktopWatermark::s_IsRetailReady(void);

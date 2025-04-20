@@ -1,1 +1,1 @@
-1#explorer.exe#x86-64-4182837735-2809856#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#
+1#explorer.exe#x86-64_4182837735_2809856#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#

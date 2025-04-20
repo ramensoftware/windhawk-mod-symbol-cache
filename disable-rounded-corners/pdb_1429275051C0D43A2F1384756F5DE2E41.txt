@@ -1,1 +1,1 @@
-1#udwm.dll#arm64-3954543618-1318912#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#195096
+1#udwm.dll#arm64_3954543618_1318912#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#195096

@@ -1,1 +1,1 @@
-1#comctl32.dll#x86-2378244395-2281472#public: virtual struct tagSIZE __thiscall DirectUI::CCPushButton::GetContentSize(int,int,class DirectUI::Surface *)#1407792
+1#comctl32.dll#x86_2378244395_2281472#public: virtual struct tagSIZE __thiscall DirectUI::CCPushButton::GetContentSize(int,int,class DirectUI::Surface *)#1407792

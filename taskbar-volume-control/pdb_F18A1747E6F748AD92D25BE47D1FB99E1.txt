@@ -1,1 +1,1 @@
-1#taskbar.view.dll#arm64-1739989425-14139392#public: void __cdecl winrt::SystemTray::implementation::VolumeSystemTrayIconDataModel::OnIconClicked(struct winrt::SystemTray::IconClickedEventArgs const &)#
+1#taskbar.view.dll#arm64_1739989425_14139392#public: void __cdecl winrt::SystemTray::implementation::VolumeSystemTrayIconDataModel::OnIconClicked(struct winrt::SystemTray::IconClickedEventArgs const &)#

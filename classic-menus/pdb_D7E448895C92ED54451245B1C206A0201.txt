@@ -1,1 +1,1 @@
-1#uxtheme.dll#x86-1109923620-532480#protected: static int __stdcall CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *)#398334
+1#uxtheme.dll#x86_1109923620_532480#protected: static int __stdcall CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *)#398334

@@ -1,1 +1,1 @@
-1#windows.ui.fileexplorer.dll#x86-64-1791163961-1490944#public: virtual long __cdecl XamlIslandViewAdapter::get_DesiredSizeInPhysicalPixels(struct tagSIZE *)#884192
+1#windows.ui.fileexplorer.dll#x86-64_1791163961_1490944#public: virtual long __cdecl XamlIslandViewAdapter::get_DesiredSizeInPhysicalPixels(struct tagSIZE *)#884192

@@ -1,1 +1,1 @@
-1;stobject.dll;arm64-3839386809-765952;void __cdecl UpdateFlyoutUI(void);181408
+1;stobject.dll;arm64_3839386809_765952;void __cdecl UpdateFlyoutUI(void);181408

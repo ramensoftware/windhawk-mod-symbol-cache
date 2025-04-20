@@ -1,1 +1,1 @@
-1;uxtheme.dll;arm64-3964630772-1323008;public: long __cdecl CThemeSignature::Verify(void *);368288
+1;uxtheme.dll;arm64_3964630772_1323008;public: long __cdecl CThemeSignature::Verify(void *);368288

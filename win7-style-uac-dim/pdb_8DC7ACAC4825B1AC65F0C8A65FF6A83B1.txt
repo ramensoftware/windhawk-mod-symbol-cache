@@ -1,1 +1,1 @@
-1#consent.exe#x86-64-4254610812-229376#void __cdecl OnPaint(struct HWND__ *)#42144
+1#consent.exe#x86-64_4254610812_229376#void __cdecl OnPaint(struct HWND__ *)#42144

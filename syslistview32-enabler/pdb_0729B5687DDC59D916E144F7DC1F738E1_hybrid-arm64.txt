@@ -1,1 +1,1 @@
-1;shell32.dll;arm64-384536471-14602240;private: int __cdecl CDefView::_UseItemsView(void);280224
+1;shell32.dll;arm64_384536471_14602240;private: int __cdecl CDefView::_UseItemsView(void);280224

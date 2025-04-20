@@ -1,1 +1,1 @@
-1#taskbar.view.dll#x86-64-1741134550-10534912#bool __cdecl ShouldCycleWindows(void)#7935932
+1#taskbar.view.dll#x86-64_1741134550_10534912#bool __cdecl ShouldCycleWindows(void)#7935932

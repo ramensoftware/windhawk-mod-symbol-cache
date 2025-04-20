@@ -1,1 +1,1 @@
-1#uxtheme.dll#x86-64-232299856-651264#int __cdecl ThemePostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,__int64 *,void * *)#68944
+1#uxtheme.dll#x86-64_232299856_651264#int __cdecl ThemePostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,__int64 *,void * *)#68944

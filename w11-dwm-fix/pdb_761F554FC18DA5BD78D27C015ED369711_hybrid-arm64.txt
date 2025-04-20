@@ -1,1 +1,1 @@
-1;user32.dll;arm64-3733438705-884736;int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int);
+1;user32.dll;arm64_3733438705_884736;int __cdecl RealSystemParametersInfoW(unsigned int,unsigned int,void *,unsigned int);

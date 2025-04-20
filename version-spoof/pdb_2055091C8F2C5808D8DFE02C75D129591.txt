@@ -1,1 +1,1 @@
-1#ntdll.dll#x86-64-2741627031-2019328#SwitchedRtlGetVersion#318796
+1#ntdll.dll#x86-64_2741627031_2019328#SwitchedRtlGetVersion#318796

@@ -1,1 +1,1 @@
-1#pnidui.dll#arm64-3499553466-2220032#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#301408
+1#pnidui.dll#arm64_3499553466_2220032#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#301408
