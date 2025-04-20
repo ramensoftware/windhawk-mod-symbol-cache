@@ -220,7 +220,7 @@ def create_mod_cache_for_symbols_file(
             symbol_cache_file_path,
             sep,
             binary_name.replace(sep, '_'),
-            f'{timestamp}-{image_size}',
+            f'{arch_mapping[arch]}_{timestamp}_{image_size}',
             mod_archs[arch][binary_name],
             symbols,
             arch if is_hybrid else '',
