@@ -1,0 +1,1 @@
+1#2383412240#1044480#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#
