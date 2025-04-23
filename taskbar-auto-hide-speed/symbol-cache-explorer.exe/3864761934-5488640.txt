@@ -1,1 +1,0 @@
-1#3864761934#5488640#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#1924224
