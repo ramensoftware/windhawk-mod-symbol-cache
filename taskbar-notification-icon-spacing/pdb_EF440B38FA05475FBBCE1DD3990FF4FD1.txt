@@ -1,0 +1,1 @@
+1#taskbar.view.dll#x86-64_1741723429_10534912#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#518048#private: void __cdecl winrt::SystemTray::OverflowXamlIslandManager::InitializeIfNeeded(void)#3231340
