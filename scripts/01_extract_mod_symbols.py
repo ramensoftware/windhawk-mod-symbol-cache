@@ -449,16 +449,20 @@ def get_mod_symbol_blocks(mod_source: str, arch: Architecture):
         condition2 = sub_match.group(3)
         body2 = sub_match.group(4)
 
-        if match := re.fullmatch(r'(?:if defined|ifdef|if)\b(.*)', condition1.strip()):
+        condition1 = remove_comments_from_code(condition1).strip()
+        if condition2 is not None:
+            condition2 = remove_comments_from_code(condition2).strip()
+
+        if match := re.fullmatch(r'(?:if defined|ifdef|if)\b(.*)', condition1):
             expression = match.group(1).strip()
             negative = False
-        elif match := re.fullmatch(r'(?:|if !defined|ifndef|if !)\b(.*)', condition1.strip()):
+        elif match := re.fullmatch(r'(?:|if !defined|ifndef|if !)\b(.*)', condition1):
             expression = match.group(1).strip()
             negative = True
         else:
             raise Exception(f'Unsupported condition1: {condition1}')
 
-        if condition2 is not None and condition2.strip() != 'else':
+        if condition2 is not None and condition2 != 'else':
             raise Exception(f'Unsupported condition2: {condition2}')
 
         if expression.startswith('(') and expression.endswith(')'):
