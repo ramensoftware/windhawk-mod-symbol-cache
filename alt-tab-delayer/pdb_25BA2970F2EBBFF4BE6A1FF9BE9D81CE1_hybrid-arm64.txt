@@ -1,1 +1,1 @@
-1;twinui.pcshell.dll;arm64_2260991934_19980288;private: void __cdecl XamlAltTabViewHost::DisplayAltTab(void);;public: virtual long __cdecl CAltTabViewHost::Show(struct IImmersiveMonitor *,enum ALT_TAB_VIEW_FLAGS,struct IApplicationView *);3871488
+1;twinui.pcshell.dll;arm64_2260991934_19980288;public: virtual long __cdecl XamlAltTabViewHost::ViewLoaded(void);6477408;private: void __cdecl XamlAltTabViewHost::DisplayAltTab(void);;public: virtual long __cdecl CAltTabViewHost::Show(struct IImmersiveMonitor *,enum ALT_TAB_VIEW_FLAGS,struct IApplicationView *);3871488
