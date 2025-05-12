@@ -1,1 +1,0 @@
-1#taskbar.view.dll#arm64_1738624441_14155776#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskbarFrame,struct winrt::Windows::UI::Xaml::Controls::IControlOverrides>::OnPointerWheelChanged(void *)#1892512

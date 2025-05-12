@@ -1,1 +1,0 @@
-1;windows.ui.fileexplorer.dll;arm64_1487240505_3362816;public: virtual long __cdecl XamlIslandViewAdapter::get_DesiredSizeInPhysicalPixels(struct tagSIZE *);1101168
