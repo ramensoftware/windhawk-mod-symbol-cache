@@ -1,1 +1,0 @@
-1;ntdll.dll;arm64_2159118569_4399104;SwitchedRtlGetVersion;252536
