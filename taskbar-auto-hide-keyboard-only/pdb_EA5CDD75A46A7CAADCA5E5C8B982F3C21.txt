@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_4011199180_3657728#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#101344#public: virtual void __cdecl TrayUI::SetUnhideTimer(long,long)#701984
