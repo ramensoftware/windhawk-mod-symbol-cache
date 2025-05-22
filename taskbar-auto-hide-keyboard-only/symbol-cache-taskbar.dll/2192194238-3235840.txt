@@ -1,1 +1,1 @@
-1#2192194238#3235840#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#391968#public: virtual void __cdecl TrayUI::SetUnhideTimer(long,long)#201456
+1#2192194238#3235840#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#391968
