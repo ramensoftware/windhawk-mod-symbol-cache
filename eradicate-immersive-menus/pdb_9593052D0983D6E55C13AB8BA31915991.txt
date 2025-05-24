@@ -1,1 +1,0 @@
-1#twinui.pcshell.dll#x86-64_3940442912_9269248#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#6510184
