@@ -1,0 +1,24 @@
+name: Download cached symbols
+
+defaults:
+  run:
+    shell: bash
+
+on:
+  workflow_dispatch:
+
+concurrency: download-cached-symbols
+
+jobs:
+  run:
+    runs-on: windows-latest
+    steps:
+      - name: Restore cache - binaries and symbols
+        uses: actions/cache/restore@v4
+        with:
+          path: binaries
+          key: cache-binaries-and-symbols-key-v1
+      - name: Upload cache as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          path: binaries
