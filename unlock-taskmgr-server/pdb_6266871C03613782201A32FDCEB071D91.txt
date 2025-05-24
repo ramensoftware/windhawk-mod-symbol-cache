@@ -1,0 +1,1 @@
+1#taskmgr.exe#arm64_1238436765_6111232#public: bool __cdecl RunTimeSettings::IsServer(void)#107872
