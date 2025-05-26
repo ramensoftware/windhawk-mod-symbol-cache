@@ -499,7 +499,7 @@ def get_mod_symbol_blocks(mod_source: str, arch: Architecture):
 
     # Extract symbol blocks.
     symbol_blocks = []
-    p = r'^[ \t]*(?:const[ \t]+)?(?:CMWF_|WindhawkUtils::)?SYMBOL_HOOK[ \t]+(\w+)[\[ \t][\s\S]*?\};[ \t]*$'
+    p = r'^[ \t]*(?:const[ \t]+)?(?:CMWF_|WindhawkUtils::)?SYMBOL_HOOK[ \t]+(\w+)\s*[\[={][\s\S]*?\};[ \t]*$'
     for match in re.finditer(p, mod_source, flags=re.MULTILINE):
         symbol_block = process_symbol_block(mod_source, match, string_definitions)
         symbol_blocks.append(symbol_block)
