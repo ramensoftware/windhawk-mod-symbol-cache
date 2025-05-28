@@ -1,0 +1,1 @@
+1#512440856#6414336#private: void __thiscall CDefView::_SwitchToViewModeAndIconSize(enum FOLDERVIEWMODE,int)#3329253#private: void __thiscall CListViewHost::_SwitchToViewModeAndIconSizeWorker(enum FOLDERVIEWMODE,enum FOLDERVIEWMODE,unsigned int)#1131792#private: unsigned int __thiscall CDefView::GetMenuIDFromViewModeAndIconSize(unsigned int,unsigned int,int)#3264025
