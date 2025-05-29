@@ -1,0 +1,1 @@
+1#explorer.exe#arm64_1210616713_6377472#public: virtual enum eTBGROUPTYPE __cdecl CTaskBtnGroup::GetGroupType(void)#155872#protected: void __cdecl CTaskListWnd::_HandleClick(struct ITaskBtnGroup *,int,enum CTaskListWnd::eCLICKACTION,int,int)#3077720#public: virtual long __cdecl CTaskListWnd::HandleWinNumHotKey(short,unsigned short)#3052896
