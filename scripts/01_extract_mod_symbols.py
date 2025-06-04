@@ -329,8 +329,18 @@ def get_mod_metadata(mod_source: str):
 
 
 def remove_comments_from_code(code: str):
-    code = re.sub(r'[ \t]*//.*', '', code)
-    code = re.sub(r'/\*[\s\S]*?\*/', '', code)
+    added_newline = False
+    if not code.endswith('\n'):
+        code += '\n'
+        added_newline = True
+
+    # https://stackoverflow.com/a/36455937
+    p = r'''(?:\/\/(?:\\\n|[^\n])*\n)|(?:\/\*[\s\S]*?\*\/)|((?:R"([^(\\\s]{0,16})\([^)]*\)\2")|(?:@"[^"]*?")|(?:"(?:\?\?'|\\\\|\\"|\\\n|[^"])*?")|(?:'(?:\\\\|\\'|\\\n|[^'])*?'))'''
+    code = re.sub(p, r'\g<1>', code)
+
+    if added_newline:
+        code = code.rstrip('\n')
+
     return code
 
 
