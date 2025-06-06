@@ -1,0 +1,1 @@
+1#regedit.exe#x86-64_3622016771_868352#public: void __cdecl RegEdit::Navigate(void)#79264
