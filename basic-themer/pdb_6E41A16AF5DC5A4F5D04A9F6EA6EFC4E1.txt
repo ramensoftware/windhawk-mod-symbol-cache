@@ -1,0 +1,1 @@
+1#udwm.dll#arm64_4038574241_1056768#public: long __cdecl CWindowList::GetSyncedWindowDataByHwnd(struct HWND__ *,class CWindowData * *)#203784#public: long __cdecl CWindowList::SyncWindowData(struct IDwmWindow *,class CWindowData *)#198920
