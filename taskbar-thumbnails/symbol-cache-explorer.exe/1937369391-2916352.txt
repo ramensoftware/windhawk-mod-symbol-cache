@@ -1,1 +1,0 @@
-1#1937369391#2916352#protected: long __cdecl CTaskListWnd::_DisplayExtendedUI(struct ITaskBtnGroup *,int,unsigned long,int)##private: int __cdecl CTaskListThumbnailWnd::_CanShowThumbnails(class CDPA<struct ITaskThumbnail,class CTContainer_PolicyUnOwned<struct ITaskThumbnail> > const *,int,int)##protected: void __cdecl CTaskListWnd::_ShowToolTip(enum ShowToolTipFlags)#
