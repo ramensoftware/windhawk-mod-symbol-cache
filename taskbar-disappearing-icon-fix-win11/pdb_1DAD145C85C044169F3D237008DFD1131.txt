@@ -1,1 +1,0 @@
-1#taskbar.view.dll#arm64_1741391570_14180352#public: void __cdecl winrt::Taskbar::implementation::TaskListButton::DisplayName(struct winrt::hstring)#8406688#public: void __cdecl winrt::Taskbar::implementation::TaskListButton::DisplayName(struct winrt::hstring) __ptr64#
