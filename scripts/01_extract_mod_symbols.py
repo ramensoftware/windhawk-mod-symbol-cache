@@ -584,7 +584,7 @@ def main():
             try:
                 mod_symbols = get_mod_symbols(mod_version_path, MOD_PATCHES.get(relative_path, []))
             except Exception as e:
-                print(f'Failed to extract symbols from {relative_path}: {e}')
+                print(f'Failed to extract symbols from mod {relative_path}: {e}')
                 continue
 
             for arch in mod_symbols:

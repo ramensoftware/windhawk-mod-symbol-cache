@@ -153,7 +153,7 @@ def extract_all_symbols_worker(path: Path,
         path.unlink()
         return None
     except Exception as e:
-        return f'Failed to extract symbols from {path}: {e}'
+        return f'Failed to extract symbols from binary {path}: {e}'
 
 
 def extract_all_symbols(binaries_folder: Path,
