@@ -1,0 +1,1 @@
+1#1741652209#10530816#public: __cdecl winrt::impl::consume_Windows_UI_Xaml_IUIElement<struct winrt::Windows::UI::Xaml::IUIElement>::Arrange(struct winrt::Windows::Foundation::Rect const &)const #1566428#public: void __cdecl winrt::Taskbar::implementation::TaskbarFrame::SystemTrayExtent(double)#8172764

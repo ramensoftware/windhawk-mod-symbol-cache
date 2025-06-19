@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_867696589_5517312#protected: void __cdecl CTaskListWnd::_HandleContextMenu(int,int,int)#2636272#protected: void __thiscall CTaskListWnd::_HandleContextMenu(int,int,int)#

@@ -1,0 +1,1 @@
+1#1744136459#10604544#public: void __cdecl winrt::SystemTray::implementation::VolumeSystemTrayIconDataModel::OnIconClicked(struct winrt::SystemTray::IconClickedEventArgs const &)#1081380
