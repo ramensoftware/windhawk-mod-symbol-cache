@@ -1,1 +1,0 @@
-1#shell32.dll#x86_4072789457_20226048#int __stdcall _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#2811576#int __stdcall _SetIconToCPLStubWindow(struct HWND__ *,struct CPLMODULE *,struct CPLITEM *,unsigned short const *)#2436802
