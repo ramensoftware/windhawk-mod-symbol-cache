@@ -150,10 +150,11 @@ def extract_all_symbols_worker(path: Path,
                                    path,
                                    output_path)
         append_pe_information(path, output_path)
-        path.unlink()
         return None
     except Exception as e:
         return f'Failed to extract symbols from binary {path}: {e}'
+    finally:
+        path.unlink()
 
 
 def extract_all_symbols(binaries_folder: Path,
