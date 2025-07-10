@@ -1,0 +1,1 @@
+1#106812436#21192704#private: long __cdecl COpenDefaultLocationCommand::_GetNavTarget(struct IShellItem * *)#3660288
