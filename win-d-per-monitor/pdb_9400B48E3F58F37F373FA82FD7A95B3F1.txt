@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_4273620219_3895296#protected: void __cdecl CTray::_HandleGlobalHotkey(unsigned __int64,__int64)#40612
