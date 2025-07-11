@@ -1,0 +1,1 @@
+1#taskbar.view.dll#x86-64_1750898779_10752000#public: __cdecl winrt::impl::consume_Windows_UI_Xaml_IUIElement<struct winrt::Windows::UI::Xaml::IUIElement>::Arrange(struct winrt::Windows::Foundation::Rect const &)const #1901172#public: void __cdecl winrt::Taskbar::implementation::TaskbarFrame::SystemTrayExtent(double)#632572
