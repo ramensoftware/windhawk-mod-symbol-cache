@@ -1,1 +1,0 @@
-1#488743376#2289664#public: virtual struct tagSIZE __thiscall DirectUI::CCPushButton::GetContentSize(int,int,class DirectUI::Surface *)#1418512
