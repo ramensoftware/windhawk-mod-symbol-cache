@@ -37,12 +37,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// shell32.dll\n\g<0>'
         ),
     ],
-    'classic-desktop-icons/1.3.0.wh.cpp': [
-        (
-            r'^const WindhawkUtils::SYMBOL_HOOK marqueeHooks\b',
-            r'// comctl32.dll\n\g<0>'
-        ),
-    ],
     'classic-maximized-windows-fix/2.1.wh.cpp': [
         (
             r'^[ \t]*CMWF_SYMBOL_HOOK symbolHooks\b',
@@ -67,23 +61,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// ApplicationFrame.dll\n\g<0>'
         ),
     ],
-    'custom-shutdown-dialog/1.1.0.wh.cpp': [
-        (r'^\};\\$', r'};'),
-        (
-            r'^WindhawkUtils::SYMBOL_HOOK shutdownuxDllHooks\b',
-            r'// shutdownux.dll\n\g<0>'
-        ),
-        (
-            r'^WindhawkUtils::SYMBOL_HOOK shell32DllHooks\b',
-            r'// shell32.dll\n\g<0>'
-        ),
-    ],
-    'custom-shutdown-dialog/1.0.0.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
-            r'// shutdownux.dll\n\g<0>'
-        ),
-    ],
     'desktop-watermark-tweaks/1.0.0.wh.cpp': [
         (
             r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
@@ -102,12 +79,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// dwmghost.dll\n\g<0>'
         ),
     ],
-    'dwm-unextend-frames/1.3.0.wh.cpp': [
-        (
-            r'^const WindhawkUtils::SYMBOL_HOOK comctl32_hook\b',
-            r'// comctl32.dll\n\g<0>'
-        ),
-    ],
     'eradicate-immersive-menus/1.1.0.wh.cpp': [
         (
             r'[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
@@ -122,12 +93,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
             r'// shell32.dll\n\g<0>'
-        ),
-    ],
-    'fix-basic-caption-text/1.0.0.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
-            r'// uxtheme.dll\n\g<0>'
         ),
     ],
     'isretailready-false/1.wh.cpp': [
@@ -160,12 +125,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// notepad.exe\n\g<0>'
         ),
     ],
-    'pinned-items-double-click/1.0.1.wh.cpp': [
-        (
-            r'^[ \t]*SYMBOL_HOOK symbolHooks\b',
-            r'// taskbar.dll, explorer.exe\n\g<0>'
-        ),
-    ],
     'regedit-auto-trim-whitespace-on-navigation-bar/1.0.0.wh.cpp': [
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
@@ -182,12 +141,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
             r'// regedit.exe\n\g<0>'
-        ),
-    ],
-    'start-menu-all-apps/1.0.2.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK taskbarHooks\b',
-            r'// StartMenu.dll\n\g<0>'
         ),
     ],
     'suppress-run-box-error-message/1.0.0.wh.cpp': [
@@ -208,66 +161,10 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// taskbar.dll, explorer.exe\n\g<0>'
         ),
     ],
-    'taskbar-button-scroll/1.0.6.wh.cpp': [
-        (
-            r'(^bool HookTaskbarViewDllSymbols\(\)[\s\S]*?)(^[ \t]*SYMBOL_HOOK symbolHooks\b)',
-            r'\g<1>// Taskbar.View.dll, ExplorerExtensions.dll\n\g<2>',
-        ),
-        (
-            r'(^BOOL HookTaskbarDllSymbols\(\)[\s\S]*?)(^[ \t]*SYMBOL_HOOK symbolHooks\b)',
-            r'\g<1>// taskbar.dll\n\g<2>',
-        ),
-    ],
-    'taskbar-clock-customization/1.3.3.wh.cpp': [
-        (
-            r'^[ \t]*SYMBOL_HOOK taskbarHooks11\b',
-            r'// Taskbar.View.dll, ExplorerExtensions.dll\n\g<0>'
-        ),
-        (
-            r'^[ \t]*SYMBOL_HOOK taskbarHooks10\b',
-            r'// explorer.exe\n\g<0>'
-        ),
-    ],
-    'taskbar-notification-icon-spacing/1.0.2.wh.cpp': [
-        (
-            r'(^bool HookTaskbarViewDllSymbols\(\)[\s\S]*?)(^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b)',
-            r'\g<1>// Taskbar.View.dll, ExplorerExtensions.dll\n\g<2>',
-        ),
-        (
-            r'(^BOOL HookTaskbarDllSymbols\(\)[\s\S]*?)(^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b)',
-            r'\g<1>// taskbar.dll\n\g<2>',
-        ),
-    ],
-    'taskbar-volume-control/1.2.1.wh.cpp': [
-        (
-            r'^[ \t]*SYMBOL_HOOK symbolHooks\b',
-            r'// Taskbar.View.dll\n\g<0>'
-        ),
-    ],
     'unlock-taskmgr-server/1.0.0.wh.cpp': [
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
             r'// Taskmgr.exe\n\g<0>'
-        ),
-    ],
-    'uxtheme-hook/1.1.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
-            r'// uxtheme.dll, uxinit.dll, themeui.dll\n\g<0>'
-        ),
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK duiHooks\b',
-            r'// dui70.dll\n\g<0>'
-        ),
-    ],
-    'w11-dwm-fix/1.1.0.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooksUser32\b',
-            r'// user32.dll\n\g<0>'
-        ),
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK symbolHooks\b',
-            r'// udwm.dll\n\g<0>'
         ),
     ],
     'win32-tray-clock-experience/1.0.0.wh.cpp': [
