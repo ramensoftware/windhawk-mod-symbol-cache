@@ -1,0 +1,1 @@
+1#1926310327#593920#void __stdcall Progress_Paint(struct PRO_DATA *,struct HDC__ *)##void __stdcall Progress_SetMarqueeTimer(struct PRO_DATA *,int)##bool __stdcall Progress_SetAnimateTimer(struct PRO_DATA *,int)##void __stdcall Progress_SetHighlightTimer(struct PRO_DATA *,bool)##long __stdcall Progress_WndProc(struct HWND__ *,unsigned int,unsigned int,long)#
