@@ -1,1 +1,0 @@
-1#shell32.dll#x86_2058897098_6418432#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#5602272
