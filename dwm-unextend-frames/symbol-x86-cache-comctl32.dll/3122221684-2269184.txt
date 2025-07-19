@@ -1,0 +1,1 @@
+1#3122221684#2269184#public: long __thiscall DirectUI::DUIXmlParser::_InitializeTables(void)#333093
