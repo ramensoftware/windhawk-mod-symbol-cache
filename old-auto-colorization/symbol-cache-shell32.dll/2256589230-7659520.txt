@@ -1,0 +1,1 @@
+1#2256589230#7659520#long __cdecl SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int)#2053676#unsigned long __cdecl StartMenuColor::ApplyLuminanceCap(unsigned long)#2033076#protected: void __cdecl CDesktopBrowser::_SetDWMAndImmersiveColor(unsigned long)#4751620

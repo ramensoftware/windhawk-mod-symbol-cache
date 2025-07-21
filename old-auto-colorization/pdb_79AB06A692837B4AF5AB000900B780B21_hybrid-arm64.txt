@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_2479061912_14942208;long __cdecl SetDwmColorizationColor(unsigned long,enum DWMPGLASSATTRIBUTE,int);4140248;unsigned long __cdecl StartMenuColor::ApplyLuminanceCap(unsigned long);5097024;protected: void __cdecl CDesktopBrowser::_SetDWMAndImmersiveColor(unsigned long);4150288
