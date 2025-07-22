@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_3585659274_3674112#public: virtual void __cdecl TrayUI::SlideWindow(struct HWND__ *,struct tagRECT const *,struct HMONITOR__ *,bool,bool)#99680
