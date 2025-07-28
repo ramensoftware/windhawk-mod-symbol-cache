@@ -1,1 +1,1 @@
-1#1556943698#3506176#private: void __cdecl TBS::DockReflowAsNeeded(void)#
+1#1556943698#3506176#private: void __thiscall TBS::DockReflowAsNeeded(void)#1804022#private: void __cdecl TBS::DockReflowAsNeeded(void)#

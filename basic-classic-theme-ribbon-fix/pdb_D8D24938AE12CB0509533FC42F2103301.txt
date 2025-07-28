@@ -1,1 +1,1 @@
-1#uiribbon.dll#x86_940384769_3514368#private: void __cdecl TBS::DockReflowAsNeeded(void)#
+1#uiribbon.dll#x86_940384769_3514368#private: void __thiscall TBS::DockReflowAsNeeded(void)#1712959#private: void __cdecl TBS::DockReflowAsNeeded(void)#
