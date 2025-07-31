@@ -1,1 +1,1 @@
-1#uxinit.dll#x86_1990123244_86016#public: long __stdcall CThemeSignature::Verify(void *)#
+1#uxinit.dll#x86_1990123244_86016#public: long __thiscall CThemeSignature::Verify(void *)#56903#public: long __stdcall CThemeSignature::Verify(void *)#
