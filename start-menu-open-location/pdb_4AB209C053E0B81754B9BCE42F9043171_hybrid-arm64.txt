@@ -1,1 +1,0 @@
-1;twinui.pcshell.dll;arm64_2634595363_23916544;public: bool __cdecl ImmersiveMonitorHelper::ConnectToMonitor(struct HWND__ *,struct tagPOINT);3408964;public: virtual long __cdecl XamlLauncher::ShowStartView(enum IMMERSIVELAUNCHERSHOWMETHOD,enum IMMERSIVELAUNCHERSHOWFLAGS);694448;public: long __cdecl ImmersiveMonitorHelper::AdjustMonitorConnectedIfNeeded(void);1894520

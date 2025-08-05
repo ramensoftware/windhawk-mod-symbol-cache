@@ -1,1 +1,0 @@
-1#4194933394#7061504#protected: virtual __int64 __thiscall CMenuStaticToolbar::_DefWindowProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#
