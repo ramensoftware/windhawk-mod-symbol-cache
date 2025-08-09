@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86_1394128775_2179072#public: virtual long __stdcall CNscTree::AppendRoot(struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *)#405168#long __stdcall OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *)#1322703
