@@ -1,1 +1,0 @@
-1#explorer.exe#x86-64_699125549_5505024#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#1362944
