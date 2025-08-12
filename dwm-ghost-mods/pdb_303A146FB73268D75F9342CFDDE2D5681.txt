@@ -1,0 +1,1 @@
+1#dwmghost.dll#x86-64_1718275160_114688#public: int __cdecl CGhostWindow::CreateGhostWindow(void)#31808#public: static __int64 __cdecl CGhostWindow::s_GhostWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#50144
