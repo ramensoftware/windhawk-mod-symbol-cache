@@ -1,0 +1,1 @@
+1#3748002299#3035136#protected: __int64 __cdecl CTray::_OnSessionChange(unsigned __int64,__int64)#967500

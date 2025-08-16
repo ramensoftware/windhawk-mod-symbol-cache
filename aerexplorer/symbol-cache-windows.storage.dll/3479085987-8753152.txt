@@ -1,0 +1,1 @@
+1#3479085987#8753152#public: long __cdecl CObjectArray::AddItemsFromKeySkip(struct HKEY__ *,unsigned short const *,unsigned long,struct _GUID const &)#2675208

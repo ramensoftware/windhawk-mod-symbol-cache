@@ -1,0 +1,1 @@
+1#dui70.dll#x86-64_495314913_1753088#public: void __cdecl DirectUI::Element::PaintBackground(struct HDC__ *,class DirectUI::Value *,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &)#163904
