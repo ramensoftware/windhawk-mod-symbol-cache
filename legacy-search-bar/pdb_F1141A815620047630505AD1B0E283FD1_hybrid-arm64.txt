@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_1822352082_5533696;private: bool __cdecl CUniversalSearchBand::IsModernSearchBoxEnabled(void);;public: long __cdecl CSearchEditBox::HideSuggestions(void);
