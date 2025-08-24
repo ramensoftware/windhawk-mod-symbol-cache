@@ -1,1 +1,0 @@
-1#3053228294#1687552#struct HFONT__ * __stdcall GetMessageBoxFontForDpi(unsigned int)#420530
