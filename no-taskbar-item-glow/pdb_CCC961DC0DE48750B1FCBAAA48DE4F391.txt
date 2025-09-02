@@ -1,1 +1,0 @@
-1#explorer.exe#x86-64_4112610794_2961408#private: void __cdecl CTaskBtnGroup::_DrawHotTrackingLight(struct HDC__ *,struct ITaskItem *,struct tagRECT const *,int,int,int,int,int,unsigned char)#
