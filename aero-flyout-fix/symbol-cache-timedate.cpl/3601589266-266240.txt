@@ -1,1 +1,0 @@
-1#3601589266#266240#IsolationAwareCreateWindowExW#67772#private: static __int64 __cdecl CTrayClock::s_WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#116560
