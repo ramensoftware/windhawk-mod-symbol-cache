@@ -1,0 +1,1 @@
+1#3229596042#823296#void __cdecl AddSystemImageIcon(struct _IMAGELIST *,enum SHSTOCKICONID)#
