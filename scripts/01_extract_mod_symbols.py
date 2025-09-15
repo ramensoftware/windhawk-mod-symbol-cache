@@ -119,6 +119,12 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// notepad.exe\n\g<0>'
         ),
     ],
+    'old-regedit-tree-icons/1.0.0.wh.cpp': [
+        (
+            r'^' + re.escape('#define STDCALL_STR FOR_64_32(L"__cdecl", L"__stdcall")') + r'$',
+            r'#ifdef _WIN64\n#define STDCALL_STR L"__cdecl"\n#else\n#define STDCALL_STR L"__stdcall"\n#endif'
+        ),
+    ],
     'regedit-auto-trim-whitespace-on-navigation-bar/1.0.0.wh.cpp': [
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
