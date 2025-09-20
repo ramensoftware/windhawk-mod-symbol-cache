@@ -1,0 +1,1 @@
+1#taskbar.view.dll#x86-64_1756852175_10805248#private: void __cdecl winrt::Taskbar::implementation::HoverFlyoutModel::TargetItemKey(struct winrt::hstring const &)#20988#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskItemThumbnailList,struct winrt::Windows::UI::Xaml::Controls::IControlOverrides>::OnPointerMoved(void *)#2377264
