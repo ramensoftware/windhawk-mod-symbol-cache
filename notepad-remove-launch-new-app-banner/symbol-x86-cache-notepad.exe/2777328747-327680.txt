@@ -1,0 +1,1 @@
+1#2777328747#327680#long __stdcall ActivateBanner(bool)#48610

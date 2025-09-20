@@ -1,0 +1,1 @@
+1#1756234969#10792960#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#537048#private: void __cdecl winrt::SystemTray::OverflowXamlIslandManager::InitializeIfNeeded(void)#689320#private: void __cdecl winrt::SystemTray::implementation::StackViewModel::UpdateIconIndexes(void)#123300
