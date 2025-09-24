@@ -1,1 +1,0 @@
-1;wpdshext.dll;arm64_4139196029_1400832;void __cdecl _DrawPie(struct HDC__ *,struct tagRECT const *,unsigned int,unsigned int,unsigned long const *);432008
