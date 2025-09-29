@@ -1,1 +1,0 @@
-1;comctl32.dll;arm64_2469054044_1335296;__int64 __cdecl PropSheetDlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);
