@@ -1,0 +1,1 @@
+1#3212848565#1605632#public: virtual long __cdecl XamlIslandViewAdapter::get_DesiredSizeInPhysicalPixels(struct tagSIZE *)#482000

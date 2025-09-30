@@ -1,0 +1,1 @@
+1#searchux.ui.dll#x86-64_1757540306_12038144#private: void __cdecl Cortana::UI::TaskbarSearchAppStateManager::OnHideViewRequested(class Platform::Object ^,class WindowsUdk::UI::Shell::HideViewRequestedEventArgs ^)#1915440
