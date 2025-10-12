@@ -1,0 +1,1 @@
+1;cmd.exe;arm64_3322428916_782336;unsigned short * __cdecl CmdGetBrandingString(unsigned short const *,int);101608;int __cdecl CmdPutChars(unsigned short const *,int);162408;void __cdecl PrintPrompt(void);113088;int __cdecl PutMsg(unsigned int,int,unsigned int,char * *);24952;int __cdecl Init(unsigned short * *,int);107672
