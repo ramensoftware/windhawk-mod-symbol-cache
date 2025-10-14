@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_239708050_14966784;private: static bool __cdecl CDesktopWatermark::s_IsRetailReady(void);
