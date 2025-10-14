@@ -1,1 +1,0 @@
-1#taskmgr.exe#arm64_3174783824_6148096#wWinMain#1058424#public: bool __cdecl TaskManager::Core::Settings::IsRejuvenatedViewEnabled(void)const #51248#public: bool __cdecl TaskManager::Core::Settings::IsDarkModeEnabled(void)const #50960#bool __cdecl IsRejuvenatedViewEnabledHelper(void)#223888#bool __cdecl ShouldTaskManagerUseDarkMode(void)#225920
