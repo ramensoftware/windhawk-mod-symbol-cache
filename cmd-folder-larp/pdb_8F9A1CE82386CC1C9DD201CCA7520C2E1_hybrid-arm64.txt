@@ -1,0 +1,1 @@
+1;cmd.exe;arm64_1035881876_827392;void __cdecl PrintPrompt(void);60248
