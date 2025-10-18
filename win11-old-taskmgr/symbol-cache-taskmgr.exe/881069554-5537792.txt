@@ -1,0 +1,1 @@
+1#881069554#5537792#wWinMain#839224#public: bool __cdecl TaskManager::Core::Settings::IsRejuvenatedViewEnabled(void)const #119228#public: bool __cdecl TaskManager::Core::Settings::IsDarkModeEnabled(void)const #118672#bool __cdecl IsRejuvenatedViewEnabledHelper(void)#117764#bool __cdecl ShouldTaskManagerUseDarkMode(void)#118896
