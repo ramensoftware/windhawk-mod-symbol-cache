@@ -1,1 +1,0 @@
-1#1910365163#249856#void __cdecl OnPaint(struct HWND__ *)#43680
