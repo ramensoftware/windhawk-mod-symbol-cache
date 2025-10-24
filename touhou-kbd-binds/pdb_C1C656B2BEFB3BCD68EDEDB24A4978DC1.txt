@@ -1,0 +1,1 @@
+1#dinput8.dll#x86_4075751445_229376#_CKbd_GetDeviceState@8#81712
