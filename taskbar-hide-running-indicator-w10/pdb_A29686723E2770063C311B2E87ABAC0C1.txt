@@ -1,0 +1,1 @@
+1#explorer.exe#x86_3604325575_2797568#private: void __thiscall CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#
