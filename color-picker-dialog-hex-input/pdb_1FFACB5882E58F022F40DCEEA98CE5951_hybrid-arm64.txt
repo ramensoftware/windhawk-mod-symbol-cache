@@ -1,0 +1,1 @@
+1;comdlg32.dll;arm64_2271602106_1679360;ColorDlgProc;48272;ChangeColorSettings;56856;SetRGBEdit;;SetHLSEdit;;CrossHairPaint;57280;bMouseCapture;1601904

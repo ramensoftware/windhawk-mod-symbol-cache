@@ -1,0 +1,1 @@
+1#comdlg32.dll#x86-64_1979394898_995328#ColorDlgProc#298016#ChangeColorSettings#307204#SetRGBEdit#313348#SetHLSEdit#313176#CrossHairPaint#307508#bMouseCapture#937904
