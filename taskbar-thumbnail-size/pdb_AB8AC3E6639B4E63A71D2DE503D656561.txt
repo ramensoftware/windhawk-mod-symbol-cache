@@ -1,0 +1,1 @@
+1#taskbar.view.dll#arm64_1761166286_15167488#struct winrt::Windows::Foundation::Size __cdecl winrt::Taskbar::implementation::ThumbnailHelpers::GetScaledThumbnailSize(struct winrt::Windows::Foundation::Size,float)#9186576#public: void __cdecl winrt::Taskbar::implementation::TaskItemThumbnailView::OnApplyTemplate(void)#8619672

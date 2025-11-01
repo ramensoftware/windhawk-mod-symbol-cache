@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_1361133104_3674112#const CTaskBand::`vftable'{for `ITaskListWndSite'}#2144416#public: virtual class std::shared_ptr<class TaskbarHost> __cdecl CTaskBand::GetTaskbarHost(void)const #881600#public: int __cdecl TaskbarHost::FrameHeight(void)const #1028872#public: void __cdecl std::_Ref_count_base::_Decref(void)#115936
