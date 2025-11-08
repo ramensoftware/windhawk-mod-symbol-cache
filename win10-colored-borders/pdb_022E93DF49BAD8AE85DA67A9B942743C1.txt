@@ -1,0 +1,1 @@
+1#udwm.dll#x86-64_2535917143_1241088#public: void __cdecl CGlassColorizationParameters::AdjustWindowColorization(union GpCC const *,float,struct TMILFlagsEnum<enum ColorizationFlags::FlagsEnum>)#131200
