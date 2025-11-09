@@ -1,1 +1,0 @@
-1#explorerframe.dll#x86_2632564371_2088960#private: bool __thiscall CUniversalSearchBand::IsModernSearchBoxEnabled(void)##public: long __thiscall CSearchEditBox::HideSuggestions(void)#1358933
