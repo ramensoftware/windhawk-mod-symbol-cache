@@ -1,1 +1,1 @@
-1#185746738#413696#void __cdecl PrintPrompt(void)#170300
+1#185746738#413696#void __cdecl PrintPrompt(void)#170300#long __cdecl StringCchPrintfW(unsigned short *,unsigned __int64,unsigned short const *,...)#80120
