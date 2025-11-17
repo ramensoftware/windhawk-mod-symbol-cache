@@ -1,1 +1,0 @@
-1#explorer.exe#arm64_2236240916_3039232#public: virtual enum eTBGROUPTYPE __cdecl CTaskBtnGroup::GetGroupType(void)##protected: void __cdecl CTaskListWnd::_HandleClick(struct ITaskBtnGroup *,int,enum CTaskListWnd::eCLICKACTION,int,int)##protected: void __cdecl CTaskListWnd::_HandleMouseButtonDown(unsigned __int64,struct tagPOINT const &,bool)#
