@@ -1,0 +1,1 @@
+1;twinui.pcshell.dll;arm64_2053287969_20467712;public: virtual long __cdecl CVirtualDesktopManager::SwitchDesktopWithAnimation(struct IVirtualDesktop *);5139408;public: virtual long __cdecl CVirtualDesktopManager::SwitchDesktop(struct IVirtualDesktop *);5136016;private: long __cdecl CVirtualDesktopHotkeyHandler::_CycleInDirection(enum VirtualDesktopSwitchDirection);5152752
