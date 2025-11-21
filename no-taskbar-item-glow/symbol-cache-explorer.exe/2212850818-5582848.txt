@@ -1,0 +1,1 @@
+1#2212850818#5582848#private: void __cdecl CTaskBtnGroup::_DrawHotTrackingLight(struct HDC__ *,struct ITaskItem *,struct tagRECT const *,int,int,int,int,int,unsigned char)#
