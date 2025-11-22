@@ -1,0 +1,1 @@
+1;uxtheme.dll;arm64_2251559892_1159168;public: unsigned long __cdecl _NCWNDMET::GetCaptionColor(bool);;struct HICON__ * __cdecl _GetWindowIcon(struct HWND__ *,int);212992
