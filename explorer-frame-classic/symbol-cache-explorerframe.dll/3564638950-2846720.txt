@@ -1,1 +1,0 @@
-1#3564638950#2846720#bool __cdecl CanShowModernNavBar(void)#1966680#public: static bool __cdecl CachedExplorerExtensionState::IsModernNavBarAvailable(void)#
