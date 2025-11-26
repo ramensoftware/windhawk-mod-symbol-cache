@@ -1,1 +1,1 @@
-1#1761190870#20799488#int __stdcall _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#3153273#int __stdcall _SetIconToCPLStubWindow(struct HWND__ *,struct CPLMODULE *,struct CPLITEM *,unsigned short const *)#2770218
+1#1761190870#20799488#int __stdcall _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#3153273
