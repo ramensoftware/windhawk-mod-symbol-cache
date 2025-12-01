@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_3435186210_208896;int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *);
