@@ -1,1 +1,0 @@
-1#udwm.dll#x86-64_2385532582_1040384#private: enum CORNER_STYLE __cdecl CTopLevelWindow::GetEffectiveCornerStyle(void)#
