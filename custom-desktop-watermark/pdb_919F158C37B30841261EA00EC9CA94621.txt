@@ -1,0 +1,1 @@
+1#shell32.dll#x86-64_1465291957_7798784#public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void)#550760#private: static void __cdecl CDesktopWatermark::s_DesktopBuildPaint(struct HDC__ *,struct tagRECT const *,struct HFONT__ *)#550944
