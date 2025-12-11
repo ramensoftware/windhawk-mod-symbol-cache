@@ -1,0 +1,1 @@
+1#1759931835#1470464#public: long __cdecl DirectUI::DUIXmlParser::SetXML(unsigned short const *,struct HINSTANCE__ *,struct HINSTANCE__ *)#
