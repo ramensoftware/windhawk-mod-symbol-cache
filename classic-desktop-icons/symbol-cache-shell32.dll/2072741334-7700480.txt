@@ -1,0 +1,1 @@
+1#2072741334#7700480#protected: long __cdecl CDesktopBrowser::SetDesktopWorkAreas(struct HWND__ *,struct tagRECT *)#1239568

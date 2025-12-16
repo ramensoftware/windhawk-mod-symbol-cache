@@ -1,0 +1,1 @@
+1#cmd.exe#x86_2822281994_389120#unsigned short * __stdcall CmdGetBrandingString(unsigned short const *,int)#184028#int __stdcall CmdPutChars(unsigned short const *,int)#56002#void __stdcall PrintPrompt(void)#185546#int __stdcall PutMsg(unsigned int,int,unsigned int,char * *)#41284#int __stdcall Init(unsigned short * *,int)#46691
