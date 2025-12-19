@@ -1,0 +1,1 @@
+1#395388964#3149824#public: virtual struct HMONITOR__ * __cdecl CSecondaryTray::GetMonitor(void)#521184#public: virtual unsigned int __cdecl TrayUI::GetAutoHideFlags(void)#411440#public: void __cdecl TrayUI::_Hide(void)#923016#private: long __cdecl CSecondaryTray::_LoadSettings(void)#308516#public: virtual void __cdecl CSecondaryTray::CheckSize(int)#522640

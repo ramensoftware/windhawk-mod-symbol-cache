@@ -1,0 +1,1 @@
+1#2406438835#4235264#private: int __cdecl CTray::RecomputeWorkArea(struct HMONITOR__ *,struct tagRECT *)#

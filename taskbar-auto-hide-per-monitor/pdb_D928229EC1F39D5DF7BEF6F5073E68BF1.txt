@@ -1,0 +1,1 @@
+1#taskbar.dll#x86-64_3415006191_3887104#public: virtual struct HMONITOR__ * __cdecl CSecondaryTray::GetMonitor(void)#43792#public: virtual unsigned int __cdecl TrayUI::GetAutoHideFlags(void)#39792#public: void __cdecl TrayUI::_Hide(void)#1154188#private: long __cdecl CSecondaryTray::_LoadSettings(void)#1720344#public: virtual void __cdecl CSecondaryTray::CheckSize(int)#1710784
