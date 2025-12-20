@@ -1,1 +1,1 @@
-1;shell32.dll;arm64_3146433618_15159296;GetDragImageMsg;1820160;private: static __int64 __cdecl CListViewHost::s_ListViewSubclassWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64);1146768
+1;shell32.dll;arm64_3146433618_15159296;private: long __thiscall CDragDropHelper::_AddInfoToWindow(void);;GetDragImageMsg;1820160;private: static __int64 __cdecl CListViewHost::s_ListViewSubclassWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64);1146768
