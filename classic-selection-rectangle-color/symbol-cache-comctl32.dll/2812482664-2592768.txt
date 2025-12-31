@@ -1,0 +1,1 @@
+1#2812482664#2592768#private: void __cdecl CLVDrawManager::_PaintMarquee(struct HDC__ *,void *,struct tagRECT const *)#1810776#public: __int64 __cdecl CListView::WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#319616#FillRectClr#209904
