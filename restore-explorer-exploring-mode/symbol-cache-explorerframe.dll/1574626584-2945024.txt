@@ -1,0 +1,1 @@
+1#1574626584#2945024#private: int __cdecl CShellBrowser::_IsExplorerBandVisible(void)#1162920#public: virtual long __cdecl CBrowserHost::SetTitle(unsigned short const *)#482848#private: void __cdecl CShellBrowser::_SetTitle(void)#480860#private: void __cdecl CShellBrowser::_SetIcon(void)#485924#private: long __cdecl CShellBrowser::_OnCreate(struct tagCREATESTRUCTW *)#1281780
