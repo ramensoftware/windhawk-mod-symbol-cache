@@ -1,1 +1,1 @@
-1#explorer.exe#x86-64_1020808176_3059712#private: void __cdecl CTaskBtnGroup::_ComputeRenderPropsBar(struct BUTTONRENDERINFO &)##private: void __cdecl CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#
+1#explorer.exe#x86-64_1020808176_3059712#private: void __cdecl CTaskBtnGroup::_ComputeRenderPropsBar(struct BUTTONRENDERINFO &)#
