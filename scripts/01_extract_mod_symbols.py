@@ -113,6 +113,11 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// notepad.exe\n\g<0>'
         ),
     ],
+    'old-explorer-sysmenu-behavior/1.0.0.wh.cpp': [
+        # Exclude.
+        # https://github.com/ramensoftware/windhawk-mods/pull/2905#issuecomment-3703476284
+        (r'^#include[\s\S]*', r''),
+    ],
     'regedit-auto-trim-whitespace-on-navigation-bar/1.0.0.wh.cpp': [
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
