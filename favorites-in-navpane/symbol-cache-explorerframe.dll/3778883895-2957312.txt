@@ -1,0 +1,1 @@
+1#3778883895#2957312#private: long __cdecl CNscTree::_InsertRoot(struct _TREEITEM *,struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *)#1189112#long __cdecl OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *)#1816676

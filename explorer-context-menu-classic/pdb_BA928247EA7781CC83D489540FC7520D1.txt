@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_3778883895_2957312#private: bool __cdecl CNscTree::ShouldShowMiniMenu(struct _TREEITEM *)#1874988
