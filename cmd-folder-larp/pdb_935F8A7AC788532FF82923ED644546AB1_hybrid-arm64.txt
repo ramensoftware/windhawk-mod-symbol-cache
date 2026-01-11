@@ -1,1 +1,0 @@
-1;cmd.exe;arm64_1537692946_798720;void __cdecl PrintPrompt(void);117648;long __cdecl StringCchPrintfW(unsigned short *,unsigned __int64,unsigned short const *,...);56152
