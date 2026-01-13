@@ -1,0 +1,1 @@
+1;windows.storage.dll;arm64_2962704194_18788352;unsigned int __cdecl GetThumbnailCutoffFromType(unsigned short const *);5746080;private: unsigned int __cdecl CImageManager::_GetThumbnailCutoff(struct IItemImageStore *);;private: long __cdecl CImageManager::_GetItem(struct IItemImageStore *,struct _GUID const &,void * *);1955480
