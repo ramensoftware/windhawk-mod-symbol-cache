@@ -1,0 +1,1 @@
+1#1458350175#974848#public: void __cdecl CGlassColorizationParameters::AdjustWindowColorization(union GpCC const *,float,struct TMILFlagsEnum<enum ColorizationFlags::FlagsEnum>)#96304
