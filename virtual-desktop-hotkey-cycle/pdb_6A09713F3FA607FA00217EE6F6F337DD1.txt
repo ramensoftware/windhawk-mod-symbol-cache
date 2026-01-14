@@ -1,0 +1,1 @@
+1#twinui.pcshell.dll#x86-64_2732185468_5632000#public: virtual long __cdecl CVirtualDesktopCollection::GetAdjacentVirtualDesktop(struct IVirtualDesktop *,unsigned int,struct _GUID const &,void * *)#3685008

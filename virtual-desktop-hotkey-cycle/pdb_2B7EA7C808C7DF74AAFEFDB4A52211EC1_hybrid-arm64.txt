@@ -1,0 +1,1 @@
+1;twinui.dll;arm64_184592316_11587584;public: virtual long __cdecl CVirtualDesktopCollection::GetAdjacentVirtualDesktop(struct IVirtualDesktop *,unsigned int,struct _GUID const &,void * *);
