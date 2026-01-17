@@ -1,1 +1,0 @@
-1#udwm.dll#arm64_421141052_1310720#public: long __cdecl CTrackingTooltip::Initialize(struct tagPOINT const *,unsigned short *)#751896#public: void __cdecl CTrackingTooltip::Update(struct tagPOINT const *,unsigned short *)#752040#protected: void __cdecl CTrackingTooltip::UpdateTooltipLocation(void)#752216

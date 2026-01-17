@@ -1,1 +1,0 @@
-1#shell32.dll#x86_3531666075_81920#protected: virtual __int64 __thiscall CMenuStaticToolbar::_DefWindowProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#
