@@ -1,0 +1,1 @@
+1#2098389125#2899968#private: void __thiscall CTaskBtnGroup::_ComputeRenderPropsBar(struct BUTTONRENDERINFO &)#
