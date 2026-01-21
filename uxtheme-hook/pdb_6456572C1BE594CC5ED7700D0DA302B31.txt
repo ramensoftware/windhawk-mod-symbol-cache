@@ -1,1 +1,0 @@
-1#uxtheme.dll#x86_1082268131_528384#public: long __thiscall CThemeSignature::Verify(void *)#416854
