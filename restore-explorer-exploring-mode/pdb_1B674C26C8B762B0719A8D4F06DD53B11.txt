@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86_3127647525_2232320#protected: long __thiscall CExecuteFolder::ShowFolder(struct _ITEMIDLIST_ABSOLUTE const *,bool)#1271454
