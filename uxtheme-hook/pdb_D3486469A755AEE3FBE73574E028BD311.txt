@@ -1,0 +1,1 @@
+1#themeui.dll#x86-64_3605551488_634880#public: long __cdecl CThemeSignature::Verify(void *)#459484

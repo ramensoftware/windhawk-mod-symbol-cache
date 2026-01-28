@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86_3619325363_1961984#private: void __stdcall CSearchEditBox::_Draw(struct HDC__ *,struct tagRECT *)#

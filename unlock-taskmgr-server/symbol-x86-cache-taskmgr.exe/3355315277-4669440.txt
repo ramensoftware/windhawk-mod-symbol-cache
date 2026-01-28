@@ -1,0 +1,1 @@
+1#3355315277#4669440#public: bool __thiscall RunTimeSettings::IsServer(void)#1275272

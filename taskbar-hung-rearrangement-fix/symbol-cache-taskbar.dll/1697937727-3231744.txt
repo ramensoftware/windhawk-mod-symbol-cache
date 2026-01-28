@@ -1,0 +1,1 @@
+1#1697937727#3231744#protected: __int64 __cdecl CTaskBand::_HandleReplaceWindow(struct HWND__ *,struct HWND__ *)#366888#public: virtual struct HWND__ * __cdecl CWindowTaskItem::GetWindow(void)#444288#public: virtual long __cdecl CWindowTaskItem::SetWindow(struct HWND__ *)#1333168
