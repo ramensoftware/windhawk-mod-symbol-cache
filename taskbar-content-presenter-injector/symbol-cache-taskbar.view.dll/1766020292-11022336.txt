@@ -1,0 +1,1 @@
+1#1766020292#11022336#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateVisualStates(void)#48612#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateButtonPadding(void)#849620#private: void __cdecl winrt::Taskbar::implementation::ExperienceToggleButton::UpdateVisualStates(void)#
