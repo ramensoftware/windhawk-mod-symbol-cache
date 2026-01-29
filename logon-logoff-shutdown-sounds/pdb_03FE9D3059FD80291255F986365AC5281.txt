@@ -1,0 +1,1 @@
+1#explorer.exe#x86_4278437825_2883584#protected: long __thiscall CTray::_OnSessionChange(unsigned int,long)#308133
