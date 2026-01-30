@@ -1,0 +1,1 @@
+1#2905580351#794624#private: int __thiscall RegEdit::ExpandKeyPath(unsigned short const *,bool)#48795

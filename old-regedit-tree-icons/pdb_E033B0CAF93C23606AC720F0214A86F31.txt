@@ -1,0 +1,1 @@
+1#regedit.exe#arm64_3207979208_843776#void __cdecl AddSystemImageIcon(struct _IMAGELIST *,enum SHSTOCKICONID)##AddSystemImageIcon#
