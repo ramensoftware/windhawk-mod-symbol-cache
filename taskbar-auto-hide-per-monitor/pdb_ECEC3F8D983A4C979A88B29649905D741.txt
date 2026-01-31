@@ -1,0 +1,1 @@
+1#taskbar.view.dll#arm64_1769197851_15212544#public: bool __cdecl winrt::Taskbar::implementation::ViewCoordinator::ShouldTaskbarBeExpanded(unsigned __int64,bool)#1856360
