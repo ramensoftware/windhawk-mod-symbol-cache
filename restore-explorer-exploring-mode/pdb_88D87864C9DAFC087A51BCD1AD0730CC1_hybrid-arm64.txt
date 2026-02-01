@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_2044837671_14995456;private: long __cdecl CDUISizerElement::_WriteVisibleToPropBag(int);825208
