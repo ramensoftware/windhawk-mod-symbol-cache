@@ -1,1 +1,0 @@
-1#taskbar.view.dll#arm64_1763604181_15474688#public: void __cdecl winrt::Taskbar::implementation::ViewCoordinator::ShouldStayExpandedChanged(unsigned __int64,bool)#9270840#public: void __cdecl winrt::Taskbar::implementation::ViewCoordinator::HandleIsPointerOverTaskbarFrameChanged(unsigned __int64,bool,enum winrt::WindowsUdk::UI::Shell::InputDeviceKind)#1859328
