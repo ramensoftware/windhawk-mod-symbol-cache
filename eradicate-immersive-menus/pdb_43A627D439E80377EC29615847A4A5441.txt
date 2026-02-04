@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86_2644454747_2244608#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#1895215

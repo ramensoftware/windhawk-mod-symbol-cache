@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_530447444_2973696#long __cdecl FileCabinet_CreateViewWindow2(struct IShellBrowser *,struct tagFolderSetDataBase *,struct IShellView *,struct IShellView *,struct tagRECT *,struct HWND__ * *)#678220
