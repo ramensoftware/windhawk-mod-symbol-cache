@@ -1,1 +1,0 @@
-1;propsys.dll;arm64_486256841_1925120;public: virtual long __cdecl CMemPropStore::Write(unsigned short const *,struct tagVARIANT *);93200
