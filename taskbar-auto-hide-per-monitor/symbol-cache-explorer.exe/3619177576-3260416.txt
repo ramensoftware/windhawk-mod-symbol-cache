@@ -1,1 +1,1 @@
-1#3619177576#3260416#private: int __cdecl CTray::RecomputeWorkArea(struct HMONITOR__ *,struct tagRECT *)#272092
+1#3619177576#3260416#private: int __cdecl CTray::RecomputeWorkArea(struct HMONITOR__ *,struct tagRECT *)#272092#public: virtual int __cdecl CTray::AppBarSetAutoHideBar(struct HWND__ *,int,unsigned int,struct HMONITOR__ *)#108096#protected: __int64 __cdecl CTray::_OnAppBarMessage(struct tagCOPYDATASTRUCT *)#399040
