@@ -1,0 +1,1 @@
+1#144381491#49152#private: void __thiscall CToolTipsMgr::DoShowBubble(void)##public: long __stdcall CToolTipsMgr::ToolTipsWndProc(struct HWND__ *,unsigned int,unsigned int,long)#
