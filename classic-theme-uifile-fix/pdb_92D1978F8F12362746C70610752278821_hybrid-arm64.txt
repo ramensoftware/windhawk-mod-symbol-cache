@@ -1,1 +1,0 @@
-1;dui70.dll;arm64_2828955629_3522560;public: long __cdecl DirectUI::DUIXmlParser::SetXML(unsigned short const *,struct HINSTANCE__ *,struct HINSTANCE__ *);377104

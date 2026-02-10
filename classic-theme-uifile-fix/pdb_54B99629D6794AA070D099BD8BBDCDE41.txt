@@ -1,1 +1,0 @@
-1#dui70.dll#x86_1071019856_1437696#public: long __cdecl DirectUI::DUIXmlParser::SetXML(unsigned short const *,struct HINSTANCE__ *,struct HINSTANCE__ *)#
