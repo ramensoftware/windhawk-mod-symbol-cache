@@ -76,8 +76,14 @@ def make_symbol_server_candidate_urls(file_name,
 
 
 def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, target_arch: str, insider=False):
+    def djb2_hash(s):
+        h = 5381
+        for c in s:
+            h = ((h << 5) + h + ord(c)) & 0xFFFFFFFF
+        return h
+
     if insider:
-        url = f'https://m417z.com/winbindex-data-insider/by_filename_compressed/{name}.json.gz'
+        url = f'https://m417z.com/winbindex-data-insider/by_filename_compressed/{djb2_hash(name) & 0xFF:02x}/{name}.json.gz'
     elif target_arch == 'arm64':
         url = f'https://m417z.com/winbindex-data-arm64/by_filename_compressed/{name}.json.gz'
     else:
