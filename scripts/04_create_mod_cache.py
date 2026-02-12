@@ -5,6 +5,7 @@ from argparse import ArgumentParser
 from enum import StrEnum
 from pathlib import Path
 
+# For Windhawk older than v1.5.
 MOD_CACHE_LEGACY_SEPARATORS = {
     'taskbar-button-click': '@',
     'taskbar-clock-customization': '@',
