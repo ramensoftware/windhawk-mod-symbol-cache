@@ -1,0 +1,1 @@
+1#taskbar.view.dll#arm64_1769127916_15699968#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskbarFrame,struct winrt::Windows::UI::Xaml::Controls::IControlOverrides>::OnPointerPressed(void *)#9061904
