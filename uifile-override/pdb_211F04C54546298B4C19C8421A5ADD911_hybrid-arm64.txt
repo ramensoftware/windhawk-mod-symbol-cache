@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_1022261921_15163392;long __cdecl DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *);1420840;long __cdecl _AllocArray<unsigned short,class CTLocalAllocPolicy>(void *,unsigned long,unsigned __int64,unsigned short * *);133336

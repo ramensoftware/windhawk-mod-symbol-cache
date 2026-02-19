@@ -1,0 +1,1 @@
+1#securityhealthsso.dll#arm64_952097422_1425408#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#
