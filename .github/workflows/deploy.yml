@@ -122,15 +122,23 @@ jobs:
             steps.cache-file-list-changed.outputs.changed == 'true' ||
             steps.last-deploy-commit-message-changed.outputs.changed == 'true'
           }}
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./symbol_cache
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          publish_branch: 'gh-pages'
-          full_commit_message: 'deploy: ${{ github.sha }}, mods@${{ steps.checkout-windhawk-mods.outputs.commit }}'
-          allow_empty_commit: true
+        run: |
+          src_dir=symbol_cache
+          deploy_dir="${{ runner.temp }}/deploy"
+          deploy_branch=gh-pages
+
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          echo Cloning the repository
+          git clone --branch $deploy_branch --single-branch --depth 1 --no-checkout https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git "$deploy_dir"
+          echo Adding generated files to the repository
+          git --git-dir="$deploy_dir/.git" --work-tree="$src_dir" add -A
+          touch "$deploy_dir/.nojekyll"
+          git -C "$deploy_dir" add .nojekyll
+          echo Committing changes
+          git -C "$deploy_dir" commit -m "deploy: ${{ github.sha }}, mods@${{ steps.checkout-windhawk-mods.outputs.commit }}" --allow-empty
+          echo Pushing to GitHub
+          git -C "$deploy_dir" push origin $deploy_branch
 
       # Workaround for updating cache:
       # https://github.com/actions/cache/issues/342#issuecomment-1363953531
