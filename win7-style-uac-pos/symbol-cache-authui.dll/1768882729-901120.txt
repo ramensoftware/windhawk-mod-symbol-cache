@@ -1,0 +1,1 @@
+1#1768882729#901120#private: long __cdecl CCredDialog::CalculateWindowPosition(struct tagSIZE,struct tagRECT,struct tagRECT *)#115864#private: bool __cdecl CCredDialog::_IsOnSecureDesktop(void)#130476#public: struct HWND__ * __cdecl CCredUI::_GetHwndParent(void)#74616

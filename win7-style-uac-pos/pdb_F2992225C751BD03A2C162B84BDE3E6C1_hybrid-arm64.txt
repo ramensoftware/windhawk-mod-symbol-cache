@@ -1,0 +1,1 @@
+1;authui.dll;arm64_2238283340_520192;private: long __cdecl CCredDialog::CalculateWindowPosition(struct tagSIZE,struct tagRECT,struct tagRECT *);;private: bool __cdecl CCredDialog::_IsOnSecureDesktop(void);;public: struct HWND__ * __cdecl CCredUI::_GetHwndParent(void);
