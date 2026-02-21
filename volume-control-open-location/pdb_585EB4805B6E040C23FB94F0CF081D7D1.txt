@@ -1,0 +1,1 @@
+1#windows.internal.hardwareconfirmator.dll#x86-64_188706379_622592#private: struct winrt::Windows::Foundation::Rect __cdecl winrt::Windows::Internal::HardwareConfirmator::implementation::HardwareConfirmatorHost::GetPositionRect(struct winrt::Windows::Foundation::Rect const &)#125184

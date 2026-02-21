@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_2717178808_3198976#long __cdecl DrawRadialGradient(struct HDC__ *,struct tag_TASKBAND_RADIALGRADIENT *)##private: void __cdecl CTaskBtnGroup::_DrawHotTrackingLight(struct HDC__ *,struct ITaskItem *,struct tagRECT const *,int,int,int,int,int,unsigned char)#
