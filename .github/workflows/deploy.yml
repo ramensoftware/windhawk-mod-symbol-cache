@@ -130,7 +130,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           echo Cloning the repository
-          git clone --branch $deploy_branch --single-branch --depth 1 --no-checkout https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git "$deploy_dir"
+          git clone --branch $deploy_branch --depth 1 --filter=blob:none --no-checkout https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git "$deploy_dir"
           echo Adding generated files to the repository
           git --git-dir="$deploy_dir/.git" --work-tree="$src_dir" add -A
           touch "$deploy_dir/.nojekyll"
