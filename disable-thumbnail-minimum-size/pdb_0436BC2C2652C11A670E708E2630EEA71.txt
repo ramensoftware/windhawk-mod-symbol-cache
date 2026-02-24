@@ -1,0 +1,1 @@
+1#shell32.dll#x86_2103241854_53248#unsigned int __stdcall GetThumbnailCutoffFromType(unsigned short const *)#
