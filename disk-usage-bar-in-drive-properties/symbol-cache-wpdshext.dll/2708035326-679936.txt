@@ -1,0 +1,1 @@
+1#2708035326#679936#void __cdecl _DrawPie(struct HDC__ *,struct tagRECT const *,unsigned int,unsigned int,unsigned long const *)#444868

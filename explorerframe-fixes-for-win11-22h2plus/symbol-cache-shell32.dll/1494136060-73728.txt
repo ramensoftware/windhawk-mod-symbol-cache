@@ -1,0 +1,1 @@
+1#1494136060#73728#public: virtual long __cdecl CListViewHost::CreateControl(struct HWND__ *,struct IListControlHost *,struct IViewSettings *)#

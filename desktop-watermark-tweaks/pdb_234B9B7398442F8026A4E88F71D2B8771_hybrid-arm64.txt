@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_1879092284_15110144;public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void);679136;private: static void __cdecl CDesktopWatermark::s_GetProductBuildString(unsigned short *,unsigned int);675040
