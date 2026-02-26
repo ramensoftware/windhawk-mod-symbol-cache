@@ -1,1 +1,1 @@
-1#winlogon.exe#arm64_4190860803_917504#unsigned long __cdecl WLGeneric_InitiateLock_Execute(struct _StateMachineCallContext *)#376992
+1#winlogon.exe#arm64_4190860803_917504#int __cdecl WMsgPSPHandler(unsigned long,struct tagPOWERSTATEPARAMS *,struct _RPC_ASYNC_STATE *,long *)#222736#unsigned long __cdecl WLGeneric_InitiateLock_Execute(struct _StateMachineCallContext *)#376992

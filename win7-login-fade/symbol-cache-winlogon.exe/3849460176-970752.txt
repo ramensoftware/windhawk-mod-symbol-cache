@@ -1,1 +1,1 @@
-1#3849460176#970752#unsigned long __cdecl WLGeneric_InitiateLock_Execute(struct _StateMachineCallContext *)#414640
+1#3849460176#970752#int __cdecl WMsgPSPHandler(unsigned long,struct tagPOWERSTATEPARAMS *,struct _RPC_ASYNC_STATE *,long *)#31184#unsigned long __cdecl WLGeneric_InitiateLock_Execute(struct _StateMachineCallContext *)#414640
