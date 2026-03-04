@@ -1,0 +1,1 @@
+1#2174846071#737280#private: long __cdecl CTitleBar::_CreateTitleBarWindow(void)#166536#private: long __cdecl CTitleBar::_PaintButton(struct IDCompositionSurface *,enum CTitleBar::TitleBarControl,enum TITLE_BAR_BITMAP_TYPE,struct tagRECT const &,struct tagRECT const &)#139792

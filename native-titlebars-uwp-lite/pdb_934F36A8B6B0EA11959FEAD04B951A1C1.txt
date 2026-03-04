@@ -1,0 +1,1 @@
+1#applicationframe.dll#arm64_2613919964_790528#private: long __cdecl CTitleBar::_CreateTitleBarWindow(void)#108688#private: long __cdecl CTitleBar::_PaintButton(struct IDCompositionSurface *,enum CTitleBar::TitleBarControl,enum TITLE_BAR_BITMAP_TYPE,struct tagRECT const &,struct tagRECT const &)#123048
