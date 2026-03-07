@@ -1,0 +1,1 @@
+1;twinui.pcshell.dll;arm64_1711317450_20684800;public: virtual long __cdecl XamlAltTabViewHost::ViewLoaded(void);6672928;private: void __cdecl XamlAltTabViewHost::DisplayAltTab(void);;public: virtual long __cdecl CAltTabViewHost::Show(struct IImmersiveMonitor *,enum ALT_TAB_VIEW_FLAGS,struct IApplicationView *);3997488

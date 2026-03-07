@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_791347997_15134720;unsigned int __cdecl GetThumbnailCutoffFromType(unsigned short const *);981784
