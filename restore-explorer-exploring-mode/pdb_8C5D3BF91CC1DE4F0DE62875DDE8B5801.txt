@@ -1,1 +1,1 @@
-1#explorer.exe#arm64_4234415259_3190784#void __cdecl _InvokeVerbOnParsingName(struct HWND__ *,unsigned short const *,unsigned short const *)#419472#wWinMain#224072
+1#explorer.exe#arm64_4234415259_3190784#void __cdecl _InvokeVerbOnParsingName(struct HWND__ *,unsigned short const *,unsigned short const *)#419472
