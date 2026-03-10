@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_3829867654_5869568;protected: virtual long __cdecl CBandSite::_Initialize(struct HWND__ *);144416;public: virtual long __cdecl CShellBrowser::SetFlags(unsigned long,unsigned long);581536
