@@ -1,0 +1,1 @@
+1#1994363503#3252224#public: virtual long __cdecl CTaskBand::SwitchTo(struct ITaskItem *,int)#
