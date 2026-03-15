@@ -1,0 +1,1 @@
+1#uxtheme.dll#x86-64_2046350974_696320#int __cdecl _GetNcBtnMetrics(struct _NCWNDMET *,struct _NCTHEMEMET const *,struct HICON__ *,int)#192560#ClassicGetSystemMetrics#194272
