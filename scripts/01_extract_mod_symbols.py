@@ -171,6 +171,8 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
 SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     # Win7 only.
     'win7-alttab-loader': ['alttab.dll'],
+    # Office, uses noUndecoratedSymbols.
+    'word-pdf-lossless-export': ['mso.dll'],
 }
 
 
