@@ -101,12 +101,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
             r'// shell32.dll\n\g<0>'
         ),
     ],
-    'no-taskbar-item-glow/1.0.0.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
-            r'// explorer.exe\n\g<0>'
-        ),
-    ],
     'notepad-remove-launch-new-app-banner/1.0.0.wh.cpp': [
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hook\b',
@@ -137,12 +131,6 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
         ),
     ],
     'suppress-run-box-error-message/1.0.0.wh.cpp': [
-        (
-            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
-            r'// shell32.dll\n\g<0>'
-        ),
-    ],
-    'syslistview32-enabler/1.0.2.wh.cpp': [
         (
             r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\b',
             r'// shell32.dll\n\g<0>'
