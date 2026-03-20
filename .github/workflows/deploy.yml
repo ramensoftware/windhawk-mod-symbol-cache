@@ -19,18 +19,18 @@ jobs:
       actions: write  # for writing to the cache
     steps:
       - name: Checkout main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: main
       - name: Checkout windhawk-mods
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         id: checkout-windhawk-mods
         with:
           repository: ramensoftware/windhawk-mods
           ref: pages
           path: windhawk-mods
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
           cache: 'pip'
@@ -41,7 +41,7 @@ jobs:
       # Workaround for updating cache:
       # https://github.com/actions/cache/issues/342#issuecomment-1363953531
       - name: Restore cache - binaries and symbols
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         id: cache-binaries-and-symbols
         with:
           path: binaries
@@ -154,7 +154,7 @@ jobs:
           gh cache delete cache-binaries-and-symbols-key-v1 -R ${{ github.repository }}
       - name: Save cache - binaries and symbols
         if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: binaries
           key: cache-binaries-and-symbols-key-v1
