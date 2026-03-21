@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_333225690_5967872;bool __cdecl CanShowModernNavBar(void);2012728;public: static bool __cdecl CachedExplorerExtensionState::IsModernNavBarAvailable(void);
