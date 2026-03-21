@@ -164,6 +164,8 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
 }
 
 SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
+    # Office, uses noUndecoratedSymbols.
+    'office-ui-reverter-universal': ['mso40uiwin32client.dll'],
     # https://github.com/ramensoftware/windhawk-mods/pull/2905#issuecomment-3703476284
     'old-explorer-sysmenu-behavior': ['explorerframe.dll'],
     # Win7 only.
