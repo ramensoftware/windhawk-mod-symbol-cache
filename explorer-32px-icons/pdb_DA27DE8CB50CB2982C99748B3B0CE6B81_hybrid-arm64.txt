@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_3260620734_15167488;private: void __cdecl CDefView::_SwitchToViewModeAndIconSize(enum FOLDERVIEWMODE,int);2182576;private: void __cdecl CListViewHost::_SwitchToViewModeAndIconSizeWorker(enum FOLDERVIEWMODE,enum FOLDERVIEWMODE,unsigned int);3798048;private: unsigned int __cdecl CDefView::GetMenuIDFromViewModeAndIconSize(unsigned int,unsigned int,int);2068648
