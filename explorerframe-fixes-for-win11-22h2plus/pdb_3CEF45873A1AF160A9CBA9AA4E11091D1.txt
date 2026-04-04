@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_2836614557_3002368#private: virtual __int64 __cdecl CExplorerFrame::v_WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#1192912#protected: virtual long __cdecl CBandSite::_Initialize(struct HWND__ *)#950688#public: virtual long __cdecl CShellBrowser::SetFlags(unsigned long,unsigned long)#1101600
