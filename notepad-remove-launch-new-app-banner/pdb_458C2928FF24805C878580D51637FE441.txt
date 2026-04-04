@@ -1,0 +1,1 @@
+1#notepad.exe#x86-64_2647668351_364544#long __cdecl ActivateBanner(bool)#39764
