@@ -1,1 +1,1 @@
-1#udwm.dll#x86-64_1809648309_1040384#private: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)##private: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#
+1#udwm.dll#x86-64_1809648309_1040384#private: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)##private: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)##public: long __cdecl CWindowBorder::SetBorderParameters(struct tagRECT const &,float,int,struct _D3DCOLORVALUE const &,enum CWindowBorder::BorderStyle,enum CWindowBorder::ShadowStyle)#

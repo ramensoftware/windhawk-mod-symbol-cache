@@ -1,1 +1,1 @@
-1#1625097635#1245184#private: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)#141296#private: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#136696
+1#1625097635#1245184#private: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)#141296#private: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#136696#public: long __cdecl CWindowBorder::SetBorderParameters(struct tagRECT const &,float,int,struct _D3DCOLORVALUE const &,enum CWindowBorder::BorderStyle,enum CWindowBorder::ShadowStyle)#154652
