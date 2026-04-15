@@ -1,0 +1,1 @@
+1#taskmgr.exe#x86-64_4271247455_5492736#public: long __cdecl CAdapter::Update(bool *,unsigned long)#244848#public: unsigned __int64 __cdecl CAdapter::GetAdapterStat(unsigned long,enum NETCOLUMNID,int)#245692#private: void __cdecl CAdapter::UpdateDNSName(unsigned short const *,struct ADAPTER_INFOEX *)#242576
