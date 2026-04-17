@@ -1,0 +1,1 @@
+1#4144728971#6561792#private: long __thiscall CDragDropHelper::_AddInfoToWindow(void)#3198349#GetDragImageMsg##private: static long __stdcall CListViewHost::s_ListViewSubclassWndProc(struct HWND__ *,unsigned int,unsigned int,long,unsigned int,unsigned long)#1239808
