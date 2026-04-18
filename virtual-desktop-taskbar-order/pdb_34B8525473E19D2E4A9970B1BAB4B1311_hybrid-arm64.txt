@@ -1,0 +1,1 @@
+1;twinui.pcshell.dll;arm64_1672055381_20754432;public: virtual long __cdecl CApplicationViewManager::GetViewInFocus(struct IApplicationView * *);261968
