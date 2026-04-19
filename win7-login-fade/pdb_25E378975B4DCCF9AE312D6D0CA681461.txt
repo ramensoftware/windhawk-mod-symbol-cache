@@ -1,1 +1,0 @@
-1#winlogon.exe#arm64_2788823649_921600#int __cdecl WMsgPSPHandler(unsigned long,struct tagPOWERSTATEPARAMS *,struct _RPC_ASYNC_STATE *,long *)#222656
