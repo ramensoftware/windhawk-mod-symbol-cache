@@ -1,0 +1,1 @@
+1#4292860192#7700480#public: virtual long __cdecl CDefView::UIActivate(unsigned int)#3089168#long __cdecl CDefView::UIActivate(unsigned int)##public: virtual long __thiscall CDefView::UIActivate(unsigned int)##long __thiscall CDefView::UIActivate(unsigned int)#
