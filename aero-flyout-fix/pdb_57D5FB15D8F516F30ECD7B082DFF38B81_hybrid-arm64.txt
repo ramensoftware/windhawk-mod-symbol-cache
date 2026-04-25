@@ -1,0 +1,1 @@
+1;timedate.cpl;arm64_3438526987_528384;IsolationAwareCreateWindowExW;77096;private: static __int64 __cdecl CTrayClock::s_WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);127776

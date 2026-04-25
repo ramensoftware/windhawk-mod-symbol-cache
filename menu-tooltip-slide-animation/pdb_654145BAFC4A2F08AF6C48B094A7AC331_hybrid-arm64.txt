@@ -1,0 +1,1 @@
+1;comctl32.dll;arm64_1542975671_4751360;private: void __cdecl CToolTipsMgr::DoShowBubble(void);298792;public: __int64 __cdecl CToolTipsMgr::ToolTipsWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);314208
