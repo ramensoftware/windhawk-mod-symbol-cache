@@ -164,17 +164,17 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
 }
 
 SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
-    # Office, uses noUndecoratedSymbols.
-    'office-ui-reverter-universal': ['mso40uiwin32client.dll'],
     # https://github.com/ramensoftware/windhawk-mods/pull/2905#issuecomment-3703476284
     'old-explorer-sysmenu-behavior': ['explorerframe.dll'],
+
     # Win7 only.
     'win7-alttab-loader': ['alttab.dll'],
-    # Office, uses noUndecoratedSymbols.
+
+    # Office mods, use noUndecoratedSymbols.
+    'office-ui-reverter-universal': ['mso40uiwin32client.dll'],
     'word-image-resize-anti-flip': ['oart.dll'],
-    # Office, uses noUndecoratedSymbols.
     'word-mathtype-dark-fix': ['wwlib.dll'],
-    # Office, uses noUndecoratedSymbols.
+    'word-omath-shade-fix': ['wwlib.dll'],
     'word-pdf-lossless-export': ['mso.dll'],
 }
 
