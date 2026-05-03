@@ -14,11 +14,11 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Restore cache - binaries and symbols
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: binaries
           key: cache-binaries-and-symbols-key-v1
       - name: Upload cache as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           path: binaries
