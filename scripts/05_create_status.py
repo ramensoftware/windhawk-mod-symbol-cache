@@ -424,14 +424,11 @@ def availability_cell(url: str | None, available: bool) -> str:
 def pdb_availability_cell(url: str | None, available: bool) -> str:
     # The PDB GUID+age comes from inspecting the binary, so without local info
     # we have no URL to query - PDB availability on the symbol server is
-    # genuinely unknown rather than absent. When we do have a URL but never
-    # extracted locally (manual-mapping fallback), the URL is a best guess and
-    # the cell still flags it as unverified.
+    # genuinely unknown rather than absent.
     if url is None:
         return '❓'
-    if not available:
-        return f'[❓]({url})'
-    return f'[🟢]({url})'
+    text = '🟢' if available else '🔴'
+    return f'[{text}]({url})'
 
 
 def render_update_id_cell(update_id: str, insider: bool) -> str:

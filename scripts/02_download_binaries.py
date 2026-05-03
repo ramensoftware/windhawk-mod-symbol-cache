@@ -12,6 +12,8 @@ from pathlib import Path
 
 import requests
 
+from manual_pdb import synthesize_pdb_lookup_pe
+
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
 BINARY_MAX_AGE_DAYS_BEFORE_DELETION = 60
 
@@ -22,7 +24,20 @@ NAMES_TO_ALLOW_404 = [
     'systemtray.dll',
 ]
 
+# Manual (binary, timestamp, image_size) -> (pdb_filename, pdb_fingerprint)
+# mappings extracted from Windhawk debug logs. When a binary isn't on the symbol
+# server we drop a synthetic PE here instead so script 03 can resolve the PDB
+# normally.
+MANUAL_PDB_MAPPINGS_PATH = Path(__file__).parent / 'manual_pdb_mappings.json'
+
 VERBOSE_OUTPUT = False
+
+
+def load_manual_pdb_mappings(path: Path) -> dict:
+    if not path.is_file():
+        return {}
+    with path.open(encoding='utf-8') as f:
+        return json.load(f)
 
 
 def get_modules_from_extracted_symbols(extracted_symbols: Path):
@@ -77,7 +92,7 @@ def make_symbol_server_candidate_urls(file_name,
     return urls
 
 
-def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, target_arch: str, insider=False):
+def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, manual_pdb_mapping: dict, target_arch: str, insider=False):
     def djb2_hash(s):
         h = 5381
         for c in s:
@@ -113,6 +128,8 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
     data = json.loads(data_json_str)
 
     aria2c_list = ''
+    # (file_path, machine, timestamp, image_size, manual_entry) per entry.
+    manual_synth_candidates: list[tuple[Path, int, int, int, dict]] = []
 
     hashes = sorted(data)
 
@@ -208,6 +225,24 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         aria2c_list += f'  out={file_path.name}\n'
         aria2c_list += f'  auto-file-renaming=false\n'
 
+        # Match the manual mapping by timestamp; the (timestamp, image_size) key
+        # is unique per build but Winbindex's virtualSize is sometimes absent or
+        # differs slightly, so we don't compare on size and pull image_size out
+        # of the mapping itself for the synth PE later.
+        for key, entry in manual_pdb_mapping.get(name, {}).items():
+            if not entry['pdb_filename']:
+                continue
+            ts_str, _, size_str = key.partition('-')
+            if int(ts_str) == hash_file_info['timestamp']:
+                manual_synth_candidates.append((
+                    file_path,
+                    hash_file_info['machineType'],
+                    hash_file_info['timestamp'],
+                    int(size_str),
+                    entry,
+                ))
+                break
+
     if aria2c_list:
         # Can't use stdin due to the following bug:
         # https://github.com/aria2/aria2/issues/2138
@@ -223,8 +258,24 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         finally:
             os.unlink(aria2c_list_tmp.name)
 
+    # For any manual-mapping hashes whose real binary didn't land, drop a
+    # synthetic PE in its place so script 03 can resolve symbols normally. We
+    # still attempted the download above, so MSDL restorations are picked up
+    # automatically; synth PEs only appear when the download genuinely failed.
+    for file_path, machine, timestamp, image_size, manual_entry in manual_synth_candidates:
+        if file_path.exists():
+            continue
+        file_path.write_bytes(synthesize_pdb_lookup_pe(
+            machine=machine,
+            timestamp=timestamp,
+            image_size=image_size,
+            pdb_filename=manual_entry['pdb_filename'],
+            pdb_fingerprint=manual_entry['pdb_fingerprint'],
+        ))
+        print(f'Wrote synth PE for {file_path.name}')
 
-def download_modules(module: tuple[str, str], binaries_folder: Path, previous_binaries_folder: Path):
+
+def download_modules(module: tuple[str, str], binaries_folder: Path, previous_binaries_folder: Path, manual_pdb_mapping: dict):
     arch, module_name = module
 
     target_folder = binaries_folder / module_name / arch
@@ -232,8 +283,8 @@ def download_modules(module: tuple[str, str], binaries_folder: Path, previous_bi
 
     previous_folder = previous_binaries_folder / module_name / arch
 
-    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch)
-    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, arch, insider=True)
+    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, manual_pdb_mapping, arch)
+    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, manual_pdb_mapping, arch, insider=True)
 
 
 def main():
@@ -248,9 +299,10 @@ def main():
     previous_binaries_folder = args.previous_binaries_folder
 
     modules = get_modules_from_extracted_symbols(extracted_symbols)
+    manual_pdb_mapping = load_manual_pdb_mappings(MANUAL_PDB_MAPPINGS_PATH)
 
     for module in modules:
-        download_modules(module, binaries_folder, previous_binaries_folder)
+        download_modules(module, binaries_folder, previous_binaries_folder, manual_pdb_mapping)
 
     if previous_binaries_folder.exists():
         shutil.rmtree(previous_binaries_folder)
