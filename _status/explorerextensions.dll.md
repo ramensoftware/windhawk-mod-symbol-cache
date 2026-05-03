@@ -1,13 +1,13 @@
 # explorerextensions.dll
 
-## x64
+## x64 (release builds)
 
 _No data._
 
-## ARM64
+## ARM64 (release builds)
 
 _No data._
 
-## insider
+## Insider (preview builds)
 
 _No data._
