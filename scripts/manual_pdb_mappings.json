@@ -1,0 +1,30 @@
+{
+  "dui70.dll": {
+    "914794386-1744896": {
+      "pdb_filename": "DUI70.pdb",
+      "pdb_fingerprint": "A272FF3A4F39D809014B69DA40F204A71"
+    }
+  },
+  "taskbar.dll": {
+    "1255184617-3198976": {
+      "pdb_filename": "Taskbar.pdb",
+      "pdb_fingerprint": "C822F5C4F274D666C4E4456CA26AB8D71"
+    },
+    "1656373583-3194880": {
+      "pdb_filename": "Taskbar.pdb",
+      "pdb_fingerprint": "E633EA63ABB49A64A77BF22D47D3A5FE1"
+    },
+    "1761780106-3182592": {
+      "pdb_filename": "Taskbar.pdb",
+      "pdb_fingerprint": "5E661E65A2C3C746FD01EE55C6BE011F1"
+    },
+    "2636079898-3182592": {
+      "pdb_filename": "Taskbar.pdb",
+      "pdb_fingerprint": "4CCFEC4F5FB1A882472AB1CE88968CE91"
+    },
+    "2276112077-3194880": {
+      "pdb_filename": "Taskbar.pdb",
+      "pdb_fingerprint": "C1FF261D350947724E8BFEAC2AD5D8DD1"
+    }
+  }
+}

@@ -53,6 +53,11 @@ DATA_MAX_AGE_DAYS = 60
 # written by append_pe_information in script 03.
 PDB_FINGERPRINT_GUID_LEN = 32
 
+# Manual (binary, timestamp, image_size) -> (pdb_filename, pdb_fingerprint)
+# mappings extracted from Windhawk debug logs by extract_pdb_mappings_from_logs.py.
+# Used as a fallback for binaries we couldn't download or extract locally.
+MANUAL_PDB_MAPPINGS_PATH = Path(__file__).parent / 'manual_pdb_mappings.json'
+
 
 @dataclass
 class LocalFileInfo:
@@ -309,6 +314,45 @@ def pdb_url_from_local(local: LocalFileInfo | None) -> str | None:
     return make_pdb_url(local.pdb_filename, guid, age)
 
 
+def pdb_url_from_manual_mapping(
+    binary_name: str, file_info: dict, manual_mapping: dict
+) -> str | None:
+    timestamp = file_info.get('timestamp')
+    if timestamp is None:
+        return None
+
+    virtual_size = file_info.get('virtualSize')
+    binary_entries = manual_mapping.get(binary_name, {})
+    if virtual_size is not None:
+        entry = binary_entries.get(f'{timestamp}-{virtual_size}')
+    else:
+        # Winbindex sometimes lacks virtualSize for a hash. Timestamp alone is
+        # unique enough in practice.
+        prefix = f'{timestamp}-'
+        matches = [v for k, v in binary_entries.items() if k.startswith(prefix)]
+        if len(matches) > 1:
+            raise ValueError(
+                f'Multiple manual mapping entries match {binary_name} '
+                f'timestamp {timestamp}: {len(matches)} candidates'
+            )
+        entry = matches[0] if matches else None
+
+    # Entries can carry an empty pdb_filename when the logs didn't include a
+    # symsrv BYINDEX line; the entry is a stub waiting for manual fill-in and
+    # can't yet be turned into a valid URL.
+    if entry is None or not entry['pdb_filename']:
+        return None
+    guid, age = parse_pdb_fingerprint(entry['pdb_fingerprint'])
+    return make_pdb_url(entry['pdb_filename'], guid, age)
+
+
+def load_manual_pdb_mappings(path: Path) -> dict:
+    if not path.is_file():
+        return {}
+    with path.open(encoding='utf-8') as f:
+        return json.load(f)
+
+
 def file_url_from_info(name: str, file_info: dict) -> str | None:
     timestamp = file_info.get('timestamp')
     size = file_info.get('virtualSize') or file_info.get('size')
@@ -323,6 +367,7 @@ def collect_rows(
     insider: bool,
     data: dict | None,
     local_map: dict[str, LocalFileInfo],
+    manual_pdb_mapping: dict,
     now: datetime,
 ) -> list[StatusRow]:
     if not data:
@@ -346,6 +391,9 @@ def collect_rows(
         version = (file_info.get('version') or '').split(' (', 1)[0]
 
         local = local_map.get(hash_value)
+        pdb_url = pdb_url_from_local(local)
+        if pdb_url is None:
+            pdb_url = pdb_url_from_manual_mapping(name, file_info, manual_pdb_mapping)
 
         rows.append(StatusRow(
             sha256=hash_value,
@@ -355,7 +403,7 @@ def collect_rows(
             assembly_version=assembly_version or '',
             file_url=file_url_from_info(name, file_info),
             file_available=bool(local and local.file_present),
-            pdb_url=pdb_url_from_local(local),
+            pdb_url=pdb_url,
             pdb_available=bool(local and local.extraction_done),
         ))
 
@@ -376,11 +424,14 @@ def availability_cell(url: str | None, available: bool) -> str:
 def pdb_availability_cell(url: str | None, available: bool) -> str:
     # The PDB GUID+age comes from inspecting the binary, so without local info
     # we have no URL to query - PDB availability on the symbol server is
-    # genuinely unknown rather than absent.
+    # genuinely unknown rather than absent. When we do have a URL but never
+    # extracted locally (manual-mapping fallback), the URL is a best guess and
+    # the cell still flags it as unverified.
     if url is None:
         return '❓'
-    text = '🟢' if available else '🔴'
-    return f'[{text}]({url})'
+    if not available:
+        return f'[❓]({url})'
+    return f'[🟢]({url})'
 
 
 def render_update_id_cell(update_id: str, insider: bool) -> str:
@@ -431,6 +482,7 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_fo
     status_folder.mkdir(parents=True, exist_ok=True)
 
     modules = sorted(get_modules_from_extracted_symbols(extracted_symbols_path))
+    manual_pdb_mapping = load_manual_pdb_mappings(MANUAL_PDB_MAPPINGS_PATH)
 
     print(f'Fetching Winbindex data for {len(modules)} binaries')
     winbindex_cache = fetch_all_winbindex_data(modules)
@@ -444,7 +496,9 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_fo
         tables: dict[str, str] = {}
         for label, target_arch, insider in ARCH_VARIANTS:
             data = winbindex_cache.get((name, label))
-            rows = collect_rows(name, target_arch, insider, data, local_map, now)
+            rows = collect_rows(
+                name, target_arch, insider, data, local_map, manual_pdb_mapping, now
+            )
             tables[label] = render_table(rows, insider)
 
         page = render_binary_page(name, tables)
