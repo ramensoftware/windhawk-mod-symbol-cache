@@ -171,6 +171,7 @@ SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     'win7-alttab-loader': ['alttab.dll'],
 
     # Office mods, use noUndecoratedSymbols.
+    'office-fix-account-disp-name': ['mso30win32client.dll'],
     'office-ui-reverter-universal': ['mso40uiwin32client.dll'],
     'word-image-resize-anti-flip': ['oart.dll'],
     'word-mathtype-dark-fix': ['wwlib.dll'],
