@@ -116,6 +116,19 @@ jobs:
             binaries \
             extracted_symbols.json \
             symbol_cache
+
+      - name: Run 05_create_status
+        if: >-
+          ${{
+            steps.cache-file-list-changed.outputs.changed == 'true' ||
+            steps.last-deploy-commit-message-changed.outputs.changed == 'true'
+          }}
+        run: |
+          python -u main/scripts/05_create_status.py \
+            extracted_symbols.json \
+            binaries \
+            symbol_cache/_status
+
       - name: Deploy
         if: >-
           ${{
