@@ -8,6 +8,6 @@ _No data._
 
 _No data._
 
-## Insider (preview builds)
+## x64 (insider preview builds)
 
 _No data._

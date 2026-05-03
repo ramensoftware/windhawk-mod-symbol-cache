@@ -8,7 +8,7 @@ _No data._
 
 _No data._
 
-## Insider (preview builds)
+## x64 (insider preview builds)
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
