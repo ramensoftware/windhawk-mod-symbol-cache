@@ -314,9 +314,14 @@ def pdb_url_from_local(local: LocalFileInfo | None) -> str | None:
     return make_pdb_url(local.pdb_filename, guid, age)
 
 
-def pdb_url_from_manual_mapping(
+def find_manual_pdb_entry(
     binary_name: str, file_info: dict, manual_mapping: dict
-) -> str | None:
+) -> dict | None:
+    """Look up a manual-mapping entry for a Winbindex hash by (binary,
+    timestamp). Returns the entry dict if there's a match with a non-empty
+    pdb_filename, else None. Entries with an empty pdb_filename are placeholders
+    awaiting manual fill-in and are skipped here.
+    """
     timestamp = file_info.get('timestamp')
     if timestamp is None:
         return None
@@ -337,13 +342,9 @@ def pdb_url_from_manual_mapping(
             )
         entry = matches[0] if matches else None
 
-    # Entries can carry an empty pdb_filename when the logs didn't include a
-    # symsrv BYINDEX line; the entry is a stub waiting for manual fill-in and
-    # can't yet be turned into a valid URL.
     if entry is None or not entry['pdb_filename']:
         return None
-    guid, age = parse_pdb_fingerprint(entry['pdb_fingerprint'])
-    return make_pdb_url(entry['pdb_filename'], guid, age)
+    return entry
 
 
 def load_manual_pdb_mappings(path: Path) -> dict:
@@ -391,9 +392,19 @@ def collect_rows(
         version = (file_info.get('version') or '').split(' (', 1)[0]
 
         local = local_map.get(hash_value)
+        manual_entry = find_manual_pdb_entry(name, file_info, manual_pdb_mapping)
+
         pdb_url = pdb_url_from_local(local)
-        if pdb_url is None:
-            pdb_url = pdb_url_from_manual_mapping(name, file_info, manual_pdb_mapping)
+        if pdb_url is None and manual_entry is not None:
+            guid, age = parse_pdb_fingerprint(manual_entry['pdb_fingerprint'])
+            pdb_url = make_pdb_url(manual_entry['pdb_filename'], guid, age)
+
+        # A matching manual mapping means the binary itself isn't on the symbol
+        # server (that's why we synthesize a PE in script 02), so report the
+        # File column as unavailable even though we have a local .txt.
+        file_available = (
+            bool(local and local.file_present) and manual_entry is None
+        )
 
         rows.append(StatusRow(
             sha256=hash_value,
@@ -402,7 +413,7 @@ def collect_rows(
             version=version,
             assembly_version=assembly_version or '',
             file_url=file_url_from_info(name, file_info),
-            file_available=bool(local and local.file_present),
+            file_available=file_available,
             pdb_url=pdb_url,
             pdb_available=bool(local and local.extraction_done),
         ))
