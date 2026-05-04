@@ -127,8 +127,8 @@ def fetch_all_winbindex_data(modules: list[str]) -> dict[tuple[str, str], dict |
     return cache
 
 
-def make_file_url(file_name: str, timestamp: int, size: int) -> str:
-    return f'{SYMBOL_SERVER_BASE}/{file_name}/{timestamp:08X}{size:x}/{file_name}'
+def make_file_url(file_name: str, timestamp: int, virtual_size: int) -> str:
+    return f'{SYMBOL_SERVER_BASE}/{file_name}/{timestamp:08X}{virtual_size:x}/{file_name}'
 
 
 def make_pdb_url(pdb_name: str, signature: str, age: int) -> str:
@@ -356,10 +356,10 @@ def load_manual_pdb_mappings(path: Path) -> dict:
 
 def file_url_from_info(name: str, file_info: dict) -> str | None:
     timestamp = file_info.get('timestamp')
-    size = file_info.get('virtualSize') or file_info.get('size')
-    if timestamp is None or size is None:
+    virtual_size = file_info.get('virtualSize')
+    if timestamp is None or virtual_size is None:
         return None
-    return make_file_url(name, timestamp, size)
+    return make_file_url(name, timestamp, virtual_size)
 
 
 def collect_rows(
