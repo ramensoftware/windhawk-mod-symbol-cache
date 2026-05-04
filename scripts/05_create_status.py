@@ -75,6 +75,7 @@ class StatusRow:
     version: str
     assembly_version: str
     file_url: str | None
+    file_attempted: bool
     file_available: bool
     pdb_url: str | None
     pdb_available: bool
@@ -160,15 +161,19 @@ def truncate_with_full_in_comment(prefix: str, full: str) -> str:
     return f'{prefix}...<!-- {full} -->'
 
 
-def get_modules_from_extracted_symbols(extracted_symbols_path: Path) -> set[str]:
+def get_modules_from_extracted_symbols(extracted_symbols_path: Path) -> dict[str, set[str]]:
+    """Map each module to the set of architectures it appears under in
+    extracted_symbols.json. Used to tell apart "binary not on the symbol server"
+    from "we never attempted this arch because no mod uses it here".
+    """
     with extracted_symbols_path.open() as f:
         data = json.load(f)
 
-    modules: set[str] = set()
+    modules: dict[str, set[str]] = {}
     for archs in data.values():
-        for binaries in archs.values():
+        for arch, binaries in archs.items():
             for module in binaries:
-                modules.add(module)
+                modules.setdefault(module, set()).add(arch)
     return modules
 
 
@@ -366,6 +371,7 @@ def collect_rows(
     name: str,
     target_arch: str,
     insider: bool,
+    attempted: bool,
     data: dict | None,
     local_map: dict[str, LocalFileInfo],
     manual_pdb_mapping: dict,
@@ -413,6 +419,7 @@ def collect_rows(
             version=version,
             assembly_version=assembly_version or '',
             file_url=file_url_from_info(name, file_info),
+            file_attempted=attempted,
             file_available=file_available,
             pdb_url=pdb_url,
             pdb_available=bool(local and local.extraction_done),
@@ -425,8 +432,14 @@ def collect_rows(
     return rows
 
 
-def availability_cell(url: str | None, available: bool) -> str:
-    text = '🟢' if available else '🔴'
+def availability_cell(url: str | None, attempted: bool, available: bool) -> str:
+    # `attempted` is False when no mod targets this binary at this arch, so
+    # script 02 never tried to fetch it - we genuinely don't know whether it's
+    # on the symbol server, regardless of any local cache state.
+    if not attempted:
+        text = '❓'
+    else:
+        text = '🟢' if available else '🔴'
     if url:
         return f'[{text}]({url})'
     return text
@@ -462,7 +475,7 @@ def render_table(rows: list[StatusRow], insider: bool) -> str:
         sha_cell = truncate_with_full_in_comment(row.sha256[:6], row.sha256)
         date_str = row.date.strftime('%Y-%m-%d')
         update_id_cell = render_update_id_cell(row.update_id, insider)
-        file_cell = availability_cell(row.file_url, row.file_available)
+        file_cell = availability_cell(row.file_url, row.file_attempted, row.file_available)
         pdb_cell = pdb_availability_cell(row.pdb_url, row.pdb_available)
         lines.append(
             f'| {sha_cell} | {date_str} | {update_id_cell} | {row.version} | {row.assembly_version} | {file_cell} | {pdb_cell} |'
@@ -489,7 +502,8 @@ def render_toc(names: list[str]) -> str:
 def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_folder: Path):
     status_folder.mkdir(parents=True, exist_ok=True)
 
-    modules = sorted(get_modules_from_extracted_symbols(extracted_symbols_path))
+    module_archs = get_modules_from_extracted_symbols(extracted_symbols_path)
+    modules = sorted(module_archs)
     manual_pdb_mapping = load_manual_pdb_mappings(MANUAL_PDB_MAPPINGS_PATH)
 
     print(f'Fetching Winbindex data for {len(modules)} binaries')
@@ -500,12 +514,14 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_fo
     for name in modules:
         print(f'Processing {name}')
         local_map = build_local_info_map(binaries_folder, name)
+        attempted_archs = module_archs[name]
 
         tables: dict[str, str] = {}
         for label, target_arch, insider in ARCH_VARIANTS:
+            attempted = target_arch in attempted_archs
             data = winbindex_cache.get((name, label))
             rows = collect_rows(
-                name, target_arch, insider, data, local_map, manual_pdb_mapping, now
+                name, target_arch, insider, attempted, data, local_map, manual_pdb_mapping, now
             )
             tables[label] = render_table(rows, insider)
 
