@@ -26,5 +26,11 @@
       "pdb_filename": "Taskbar.pdb",
       "pdb_fingerprint": "C1FF261D350947724E8BFEAC2AD5D8DD1"
     }
+  },
+  "udwm.dll": {
+    "3203342482-1331200": {
+      "pdb_filename": "uDWM.pdb",
+      "pdb_fingerprint": "789099190E7A229EEA6D3B151C8245A41"
+    }
   }
 }
