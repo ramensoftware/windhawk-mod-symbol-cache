@@ -10,6 +10,8 @@ _No data._
 
 ## x64 (insider preview builds)
 
+### 10.0.26100
+
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e972b7...<!-- e972b70fa8e0f453d0cc68c8277aab64dca30dcd29fddd3b62b20234cb31ec66 --> | 2026-05-01 | 5412fa31...<!-- 5412fa31-e6a6-4b63-afb9-bf025fc2b346 --> | 2604.14000.200.0 | 10.0.26100.8340 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69E8125B1f3000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/A52EF4443E42492F88FCFAF3A2E24A611/SystemTray.pdb) |
