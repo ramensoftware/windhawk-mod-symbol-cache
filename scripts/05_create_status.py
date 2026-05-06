@@ -154,6 +154,16 @@ def parse_version_for_sort(version: str) -> tuple[int, ...]:
     return tuple(int(p) for p in version.split('.'))
 
 
+def assembly_version_group_key(version: str) -> str:
+    """Return the major.minor.build prefix of an a.b.c.d assembly version.
+    Used to group rows under an arch heading. Empty input returns '', which
+    sorts after populated keys when groups are ordered high to low.
+    """
+    if not version:
+        return ''
+    return '.'.join(version.split('.')[:3])
+
+
 def truncate_with_full_in_comment(prefix: str, full: str) -> str:
     """Render a truncated value followed by an HTML comment carrying the full
     string, so it stays searchable in the rendered markdown.
@@ -425,8 +435,10 @@ def collect_rows(
             pdb_available=bool(local and local.extraction_done),
         ))
 
+    # Sort by day only so same-day entries fall through to the version sort;
+    # otherwise an h:m:s difference would dominate over the version ordering.
     rows.sort(
-        key=lambda r: (r.date, parse_version_for_sort(r.assembly_version), r.sha256),
+        key=lambda r: (r.date.date(), parse_version_for_sort(r.assembly_version), r.sha256),
         reverse=True,
     )
     return rows
@@ -464,9 +476,9 @@ def render_update_id_cell(update_id: str, insider: bool) -> str:
 
 
 def render_table(rows: list[StatusRow], insider: bool) -> str:
-    if not rows:
-        return '_No data._\n'
-
+    """Render a single markdown table for a list of rows. Callers handle
+    empty-row and grouping concerns.
+    """
     lines = [
         '| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |',
         '| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |',
@@ -483,12 +495,37 @@ def render_table(rows: list[StatusRow], insider: bool) -> str:
     return '\n'.join(lines) + '\n'
 
 
-def render_binary_page(name: str, tables: dict[str, str]) -> str:
+def render_arch_section(rows: list[StatusRow], insider: bool) -> str:
+    """Render the body of an arch sub-section: one h3 heading per
+    major.minor.build group, each followed by a table. Group keys are sorted
+    high to low; within a group the order from collect_rows is preserved.
+    """
+    if not rows:
+        return '_No data._\n'
+
+    groups: dict[str, list[StatusRow]] = {}
+    for row in rows:
+        groups.setdefault(assembly_version_group_key(row.assembly_version), []).append(row)
+
+    sorted_keys = sorted(groups, key=parse_version_for_sort, reverse=True)
+
+    parts: list[str] = []
+    for key in sorted_keys:
+        # Empty key means the assembly version was missing; surface it rather
+        # than rendering a heading-less table that would visually merge into
+        # the previous group.
+        parts.append(f'### {key or "Unknown"}')
+        parts.append('')
+        parts.append(render_table(groups[key], insider))
+    return '\n'.join(parts)
+
+
+def render_binary_page(name: str, arch_sections: dict[str, str]) -> str:
     parts = [f'# {name}', '']
     for label, _, _ in ARCH_VARIANTS:
         parts.append(f'## {label}')
         parts.append('')
-        parts.append(tables[label])
+        parts.append(arch_sections[label])
     return '\n'.join(parts)
 
 
@@ -516,16 +553,16 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_fo
         local_map = build_local_info_map(binaries_folder, name)
         attempted_archs = module_archs[name]
 
-        tables: dict[str, str] = {}
+        arch_sections: dict[str, str] = {}
         for label, target_arch, insider in ARCH_VARIANTS:
             attempted = target_arch in attempted_archs
             data = winbindex_cache.get((name, label))
             rows = collect_rows(
                 name, target_arch, insider, attempted, data, local_map, manual_pdb_mapping, now
             )
-            tables[label] = render_table(rows, insider)
+            arch_sections[label] = render_arch_section(rows, insider)
 
-        page = render_binary_page(name, tables)
+        page = render_binary_page(name, arch_sections)
         (status_folder / f'{name}.md').write_text(page, encoding='utf-8')
 
     toc = render_toc(modules)
