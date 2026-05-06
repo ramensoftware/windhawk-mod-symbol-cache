@@ -35,9 +35,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f38c02...<!-- f38c02eff2d454f9a06439b8bdbb1758d1983035aca0ace3b491abf7db4edbd8 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
-| 431d80...<!-- 431d80d43e9662c4f770b4cf0f89748a7ecf9af8f3e28c5483dc2a78e8fbbbfc --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
-| e4ab9d...<!-- e4ab9d469880893ac3485438225fc564e533db6d0745cb56d52a1f4a758ae927 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🔴 | ❓ |
+| f38c02...<!-- f38c02eff2d454f9a06439b8bdbb1758d1983035aca0ace3b491abf7db4edbd8 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/BD54BED33D2EB8B1CC50066B211098981/user32.pdb) |
+| 431d80...<!-- 431d80d43e9662c4f770b4cf0f89748a7ecf9af8f3e28c5483dc2a78e8fbbbfc --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/2116C285167DA5654637D0006EBCA9F21/user32.pdb) |
+| e4ab9d...<!-- e4ab9d469880893ac3485438225fc564e533db6d0745cb56d52a1f4a758ae927 --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🔴](https://msdl.microsoft.com/download/symbols/user32.dll/7DB11D4027c000/user32.dll) | ❓ |
 | 39aef2...<!-- 39aef21f320e03428b2f6f3c85065977a6a3c8341792b1a98ef20fd887810b34 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🔴 | ❓ |
 | e32ed1...<!-- e32ed19d38a094b68517342bbd560bb8c26329fbf67c077077b817ed0dfa8008 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/AA142AC727e000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/08CFBA5DE708DFE655A83EE7FDD6E4321/user32.pdb) |
 | 17f16e...<!-- 17f16e65586f20ea1bc1213a5f353eb39f44ad52a35c511430518e7f2f7bbf76 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/EABBFD2B84000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/0F21C40E36EAB7D703E65C41B3A8A2331/user32.pdb) |

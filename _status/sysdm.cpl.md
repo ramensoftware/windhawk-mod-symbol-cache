@@ -15,7 +15,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 29fa07...<!-- 29fa07c81da8b3c267f4f9e85b5ad58616bcae29f5d2bfbc20fba65715380609 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
+| 29fa07...<!-- 29fa07c81da8b3c267f4f9e85b5ad58616bcae29f5d2bfbc20fba65715380609 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/719A877F6FCAFE41678A7205165659C31/sysdm.pdb) |
 | b527a8...<!-- b527a868d42771880e5d9f0b19bde0f525778811436048cf0a864ae6fd5a59ea --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/5345AB5B2f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/94CAB26FB6EA009E8B1A08FFA36852131/sysdm.pdb) |
 | 9768a8...<!-- 9768a83425d7c1bddc344e683f1254d6197c366ec4434eba8c4902fc8faa23bd --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1516 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/C29A26372f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/3AAA14E40D169DAE76B2411B346AED391/sysdm.pdb) |
 | 1388b3...<!-- 1388b3ee0741c6a1aa29f6c26b7f0e66406e35a4607aad1e84571c052d90c294 --> | 2026-04-14 | KB5082052 |  | 10.0.22621.3527 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/F264E47A2f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/2C2B3DBA8E51182806FA2D195F6D29A91/sysdm.pdb) |

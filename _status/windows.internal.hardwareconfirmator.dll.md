@@ -16,7 +16,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0b7430...<!-- 0b743045d76108a7387debcf3a922dfcd0afd30c44395175737903de65992f90 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
+| 0b7430...<!-- 0b743045d76108a7387debcf3a922dfcd0afd30c44395175737903de65992f90 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/C807D8002124E76031E55E0AF83BCDFA1/Windows.Internal.HardwareConfirmator.pdb) |
 | 631005...<!-- 6310050f783112a3f5fff5767aea8c014f32029aa79dbbdd80e3ed2dd5e10dd4 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🔴 | ❓ |
 | e81d84...<!-- e81d84b70497bbf91ffcc1bade91d17d3b70b867eea6064b3ad930676588a27b --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/E8348AE2c3000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/D0E2FEE3E154FB6343838202E0ABDE0D1/Windows.Internal.HardwareConfirmator.pdb) |
 | 328ec4...<!-- 328ec41ef078f426c2fe61d126150294f7b156f07e09e5ee915c4307928d7fb6 --> | 2026-04-14 | KB5083769 |  | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/2CECE3CAc1000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/ADA0DE2BCCABC81C7E791AD319EB3ACF1/Windows.Internal.HardwareConfirmator.pdb) |

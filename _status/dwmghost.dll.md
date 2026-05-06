@@ -18,7 +18,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2986d7...<!-- 2986d78bcfbf0e46f6bbc4335eeaa3806b3fb314132b232061543a2cca17274b --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
+| 2986d7...<!-- 2986d78bcfbf0e46f6bbc4335eeaa3806b3fb314132b232061543a2cca17274b --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/2BA695BE170D039A6FF6C76C6E1EACE81/dwmghost.pdb) |
 | 9e5935...<!-- 9e5935370d763bbf390a7c7b42620707ad7e1ba336101d9bfeaf8428be10c075 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/7B0E98C517000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B6EA3D42EC273F7A553F81A440F5146C1/dwmghost.pdb) |
 | 23aaad...<!-- 23aaad10aa4c6c6ef2ec7a256d94c5e78ef63c1be46e6815006d5fe98bd42f11 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1516 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/C062670E18000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/8FBA8D9F9803437EFCFDF78BB96CEE741/dwmghost.pdb) |
 | 3a31ca...<!-- 3a31caa65c7bf44a667d1a25aeb09e769a64f8833b344e88e2c0b85e80ac3871 --> | 2026-04-14 | KB5082052 |  | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/D1136F4C17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/36D4AAE9BA9C2DFF54CD6C2BA835FDE11/dwmghost.pdb) |

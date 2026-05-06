@@ -4,7 +4,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 234480...<!-- 234480f78bbfe70d20a0e0e24549a58e72610d05d1bb6434a98f40b61190074b --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
+| 234480...<!-- 234480f78bbfe70d20a0e0e24549a58e72610d05d1bb6434a98f40b61190074b --> | 2026-04-30 | KB5083806 | 10.0.28000.1896 | 10.0.28000.1896 | [🔴](https://msdl.microsoft.com/download/symbols/shell32.dll/F84A98E1771000/shell32.dll) | ❓ |
 | 03cd27...<!-- 03cd2737afae507d92af2f144b74cb32c6a516ae6c5895cc93cef6ba264e4161 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
 | a1f399...<!-- a1f399f774a66dd68e83d0f0f0eb86a51685b897eb7163a22397ea802a772a70 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🔴 | ❓ |
 | 7324cb...<!-- 7324cb7e00d39f26e9d9e8039d2ca5c39877a72c6aca7d4a9850d10015383973 --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🔴](https://msdl.microsoft.com/download/symbols/shell32.dll/5E20C26C76e000/shell32.dll) | ❓ |
@@ -39,8 +39,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b3e4e0...<!-- b3e4e023bc2c581c2e34c5760863a7dbd242af6dfb3584bea729849fb38b9fb8 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
-| 475a96...<!-- 475a964495d676de6d255786a5898cd9f588f10cf6628e841a4bdda1d0b63739 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🔴 | ❓ |
+| b3e4e0...<!-- b3e4e023bc2c581c2e34c5760863a7dbd242af6dfb3584bea729849fb38b9fb8 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/721232997F2A14F956633949BC9037771/shell32.pdb) |
+| 475a96...<!-- 475a964495d676de6d255786a5898cd9f588f10cf6628e841a4bdda1d0b63739 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/F0050E9182D8427692EDFB5064A800C71/shell32.pdb) |
 | 4d55dd...<!-- 4d55dd1f7d99d8bf683502149504bd603c96f89e9f36f61740240fc8d368b0d0 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🔴 | ❓ |
 | 42c5aa...<!-- 42c5aa0d1116237f4f8990c756b39cb53aec47cd50235c4a8a9fb989c7920cb9 --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🔴](https://msdl.microsoft.com/download/symbols/shell32.dll/027A1F94e89000/shell32.dll) | ❓ |
 | d64f02...<!-- d64f02c756f4b3ce8d84ed69a37a1d35c6b1cb3c3c1cb2dfb5fe385f39eeaa16 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/5CB54D67e96000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/B871548FB9BDA7458696BCE9CE1B7A1E1/shell32.pdb) |
