@@ -1,0 +1,1 @@
+1#1809648309#1040384#private: int __cdecl CTopLevelWindow::EdgeBorderMustBeOpaque(void)##private: int __cdecl CTopLevelWindow::EdgeBorderMustBeOpaque(void)const##public: long __cdecl CWindowBorder::SetBorderParameters(struct tagRECT const &,float,int,struct _D3DCOLORVALUE const &,enum CWindowBorder::BorderStyle,enum CWindowBorder::ShadowStyle)#
