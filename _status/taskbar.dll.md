@@ -50,6 +50,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| f06976...<!-- f069760b3b3269c9e209e0af54c49b754f549f724cbe104a1513eca92df39035 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/EDE6D294319000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/A3E8A2A5C6466AAC64145A45A802B09B1/Taskbar.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

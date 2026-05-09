@@ -97,6 +97,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 188c0c...<!-- 188c0c10724d4e326d6d246e5b6f64969caf7058684d087ae0d5b58cd81486fa --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/3E8597EF65000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/A3E73CA2B7C97C4BFB60DBDA8BC0E6CF1/shlwapi.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

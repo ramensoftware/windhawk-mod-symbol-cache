@@ -66,6 +66,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| df6be2...<!-- df6be2be81058af07c7b640235868bb769534aef6277a9668b2f340286e6668f --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/C75DE7A6194000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/093B321548BF31F482652983AEAD64A31/windows.ui.fileexplorer.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

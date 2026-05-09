@@ -73,6 +73,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 00d6f8...<!-- 00d6f81c1f1f86fe37b7cfdb0f1401ad6d45cade8f54f673b9801018cf672600 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/92EAEC8A44000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/AFFDB075B3382F88036E8ACD61B6F6B21/timedate.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

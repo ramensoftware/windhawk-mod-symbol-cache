@@ -72,6 +72,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| e28efc...<!-- e28efccb5975a3a7ac2fd45d4f72152b7597b83055c33fde771d9b0fda489e65 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/B445251C59000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/C8D89E66E46A4E5043C2B851063C8D5D1/notepad.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

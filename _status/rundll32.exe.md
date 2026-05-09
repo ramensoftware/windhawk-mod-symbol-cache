@@ -72,6 +72,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 74a96a...<!-- 74a96a00f4baf5773592d48621ca7af176012f81434bc6f415b431488e1d80f8 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/8186020617000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/42A6FDEA99D1A4723B9EDE60E492E1EC1/rundll32.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

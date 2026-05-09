@@ -101,6 +101,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 39b66d...<!-- 39b66d29a4022f052779b8409c8ff8991b537d63511d981b12939e9c7bbb5e88 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/1CA3869F1c5000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/8443D1002D67F5E320C93BC56AD3177C1/user32.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -48,11 +48,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29580
+### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4d319f...<!-- 4d319fb27bc314462fb3881f82e88cf2446a9c64dc30f3f64509fe5e2ec7e88a --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 2126.6302.30.6000 | 10.0.29580.1000 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/69B45DDDbd8000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/597CC078638C4A93AD7F706AF3B8EB601/SearchUx.UI.pdb) |
+| 4d319f...<!-- 4d319fb27bc314462fb3881f82e88cf2446a9c64dc30f3f64509fe5e2ec7e88a --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 2126.6302.30.6000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/69B45DDDbd8000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/597CC078638C4A93AD7F706AF3B8EB601/SearchUx.UI.pdb) |
 
 ### 10.0.29576
 

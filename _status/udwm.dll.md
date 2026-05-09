@@ -84,6 +84,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 556bc6...<!-- 556bc6a57555c3393760b83ffd03463ebfb5af0eb635fa405e43093f08f4f2d2 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/5711EC29137000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/FCB85DDFD7FC6CB1D037A2A815CCBE841/uDWM.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -74,6 +74,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| bf6a11...<!-- bf6a110c2b6cb4b7abf9fbacb216e3f89a74393c5aab22e8778a1d6312b5bc96 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/0F0B0BE93e000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/9CF42ACD1657690D917AFB1D6C01C74A1/consent.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

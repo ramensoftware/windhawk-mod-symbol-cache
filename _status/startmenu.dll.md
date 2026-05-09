@@ -50,11 +50,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29580
+### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 69b91b...<!-- 69b91b6f125a0e214cc3264da5ef11ce5d53080f72c15fdb620daf0d3a4b27df --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 2126.6300.0.0 | 10.0.29580.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/69A8AE714b9000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/F647EB4F26F24284B8FA5492FC3F0C2E1/StartMenu.pdb) |
+| 69b91b...<!-- 69b91b6f125a0e214cc3264da5ef11ce5d53080f72c15fdb620daf0d3a4b27df --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 2126.6300.0.0 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/69A8AE714b9000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/F647EB4F26F24284B8FA5492FC3F0C2E1/StartMenu.pdb) |
 
 ### 10.0.29565
 

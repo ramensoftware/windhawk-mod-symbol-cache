@@ -77,6 +77,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 254534...<!-- 254534f1b09cead6c6bc415320cc749a75101af28ef2c199530fa05af90f89da --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/A115A86944000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/86F4BB10AA0E6C28C88DDF7C51C1E1711/authui.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

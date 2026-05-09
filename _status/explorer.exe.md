@@ -77,6 +77,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 240bf8...<!-- 240bf8e98f66e8943441f02a8a7481c06ff9af1b06e8d8899800fb78dc3d5d10 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/E913E7C230f000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/60F20A2F0CD1178BAE35B5E85B1B463D1/explorer.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

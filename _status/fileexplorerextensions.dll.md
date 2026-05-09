@@ -48,11 +48,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29580
+### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 50843c...<!-- 50843ce61f07cef790ff7e225d4439e68c3e70d6a68efce0396bed38d03dbff0 --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 2126.6301.0.6000 | 10.0.29580.1000 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/69A8B0415bd000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/8B6F32A0E28647148B5AF343621A387D1/FileExplorerExtensions.pdb) |
+| 50843c...<!-- 50843ce61f07cef790ff7e225d4439e68c3e70d6a68efce0396bed38d03dbff0 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 2126.6301.0.6000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/69A8B0415bd000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/8B6F32A0E28647148B5AF343621A387D1/FileExplorerExtensions.pdb) |
 
 ### 10.0.29565
 

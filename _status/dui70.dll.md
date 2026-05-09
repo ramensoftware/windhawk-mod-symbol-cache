@@ -79,6 +79,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| ef7fba...<!-- ef7fba904de6e4b2c2bb8fcd403a59d8a3ccdec5cb3959678754e74b161526a2 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/B6052A7A1a6000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/A989E0BA9962C84947A24AD45F1356CA1/DUI70.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

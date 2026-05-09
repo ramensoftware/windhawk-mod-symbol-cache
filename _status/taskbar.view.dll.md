@@ -56,11 +56,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29580
+### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6e3c4a...<!-- 6e3c4a4f06fc3f5359eb65ffed4d000e75cf76f55c1efc08af58d925413e175d --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 2126.6301.10.6000 | 10.0.29580.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69AF51C4af6000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/7ADFDA59D38E482AAF5933048CF177C31/Taskbar.View.pdb) |
+| 6e3c4a...<!-- 6e3c4a4f06fc3f5359eb65ffed4d000e75cf76f55c1efc08af58d925413e175d --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 2126.6301.10.6000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69AF51C4af6000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/7ADFDA59D38E482AAF5933048CF177C31/Taskbar.View.pdb) |
 
 ### 10.0.29576
 

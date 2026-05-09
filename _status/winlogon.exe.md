@@ -75,6 +75,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29585
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| f6b574...<!-- f6b574842b3d1787635a0ea6285d7b8a89a65f37c6e8c286a643b2ee10126ca3 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/3E9E4E10e9000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/977DE3663BD14A84186BD2E22313CFB11/winlogon.pdb) |
+
 ### 10.0.29580
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
