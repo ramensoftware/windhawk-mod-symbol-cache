@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | dd8aa8...<!-- dd8aa83ccc9058bdb66ac0d1945a488943feda98fe7d6ceda7d7c5c2cba625ad --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/42A27CBC13074510C9C02B84169121B21/ApplicationFrame.pdb) |
 | 0fd7fa...<!-- 0fd7faeccf63c52e406f400c817a62ac57e12e640c6628404505a497f35a4900 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/52A95D87b7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/5E0AB445616108551031E20E042C0F4C1/ApplicationFrame.pdb) |
-| 63109d...<!-- 63109d29fc4658a0815555b0630cf5bf6ecbea3fef61ef694ae23ff0d1f8ad54 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/62565D9Bb7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/7284A02078D1103103C818A44F4F20AB1/ApplicationFrame.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 273d3a...<!-- 273d3ac3f3e7e7cdb36255016520c0eeef9887d3ead306af11aa51d80603fbc5 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/0A0ECB28EF228A5580B5A058719BA4BE1/ApplicationFrame.pdb) |
 | 91c656...<!-- 91c65623ab859e8a78d08c48da52d75999bbbfd7b790e9ed54c805ddf4c650e1 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/D8C3DB89c7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/995D1D87D02100768A311D089BCB0CF51/ApplicationFrame.pdb) |
-| e7cbbf...<!-- e7cbbf261da0fb4720291ac604f0ef559260461f0762d8d292099c0dd7520f15 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/E626B08Dc7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/94B7335437D62D47E0525F86BF03C7E41/ApplicationFrame.pdb) |
 
 ### 10.0.26100
 

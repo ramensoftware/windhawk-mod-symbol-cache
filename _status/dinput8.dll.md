@@ -29,7 +29,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9d99b7...<!-- 9d99b7391db036310faae3454d99c7e5d0da0ea7cd5f5473dcfd6c2b751188bf --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | ❓ | ❓ |
 | 432ec6...<!-- 432ec6af37aa1b1a841bb5f0f7bd2b710204ea7e48e93f9f4f75ea7d2f3c816e --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/76C54DFC84000/dinput8.dll) | ❓ |
-| 2477b6...<!-- 2477b6fddd8a680d1113b46f55a8608c964dd57836c3e328d5ce211d0c76ce0b --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1643 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/B25BD36F84000/dinput8.dll) | ❓ |
 
 ### 10.0.26100
 

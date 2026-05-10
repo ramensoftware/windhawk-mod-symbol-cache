@@ -49,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 604142...<!-- 6041429a4efb5e13cbb1a9cd73bd5f1f638213ffdf18c39236dae160f6d81752 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/C317FC3EEA2E0640CA2D7DE919532FC11/timedate.pdb) |
 | 95368a...<!-- 95368abbcb6b31c184566acfd5393c955a75e86487e4a8cda5aa88581afb2ff8 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/ECBAB36C7c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/1A63EC7F3CA7625A419DA3C139648CDC1/timedate.pdb) |
-| 253312...<!-- 2533123c7e5a848cbe452db66ca390a7ad324af35329832fa03adaac3b79c604 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/F2D8E7EE7c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/BB967C1B45313A66015C7E54C2B55C641/timedate.pdb) |
 
 ### 10.0.26100
 

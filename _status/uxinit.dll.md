@@ -49,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e9a6e4...<!-- e9a6e4ebc2cca5b4cb79aba7b51767033c15c2a45b6b755e812549d63cf4c3f4 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/9BBFA95B9ED4AD545A92EDAEB0D6D3AF1/UXInit.pdb) |
 | 52be49...<!-- 52be497977ebeadae7952052d5ede75aa01dcd918e1e5d87436a025c7e3ff541 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/064332FB46000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/1CE0DEAFB29D1390704AE09F0A2B1E111/UXInit.pdb) |
-| af0bb6...<!-- af0bb6b5048a4fbae64facce8b41c600cab8518545dac4af826719df5b04c819 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/5B81FFA846000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/04F2ACE9A6DE51137CDCB707A8B936191/UXInit.pdb) |
 
 ### 10.0.26100
 

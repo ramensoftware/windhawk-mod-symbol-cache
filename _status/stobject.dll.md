@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 195718...<!-- 195718a51a00727d492d1861802a517680f7b58e42e07041b43f9ee837bc0477 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/CE0E371C727995445D2FE32F2DDD1E181/stobject.pdb) |
 | 569ca2...<!-- 569ca24ae204a8109f40c385deb0bf74d5f72f9e1bd6e8be011f73a5c2b81c22 --> | 2026-04-14 | KB5083768 | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/046104495f000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/3AF9EFD0E9CC6DEB1BF57F814D37C1B71/stobject.pdb) |
-| 455301...<!-- 45530139c8033f12fd19b02aab215937be6a4e33b1485fca53b55484af86a715 --> | 2026-03-10 | KB5079466 | 10.0.28000.1643 | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/9F72C17D60000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/F52025288597EEEFF4661E4273D1A1C81/stobject.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 6737a4...<!-- 6737a4ab29de495ccda125d82b9417e9b23ec3f1891bf306d2eb5581b514f4c7 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/EE0B4764B78B6A9738C266395FC452AB1/stobject.pdb) |
 | 162d3c...<!-- 162d3c0347c8de63ba3bdac295fd8cc5cd6fbd4512fc3f005a8448eac8e0892e --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/2EB1F946b3000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/2F04E7D15598DA24E0C5CD37A5834BCA1/stobject.pdb) |
-| ffb5c0...<!-- ffb5c00e42508f08fb5fe3f3df183cbc6d0585d8aa1e652c7aaadc0bfe90f919 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1719 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/F3CD6685b5000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/34C85345BCBF74B1390CC509F4726E871/stobject.pdb) |
 
 ### 10.0.26100
 

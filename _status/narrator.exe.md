@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 3ece45...<!-- 3ece4583b50f81becf4dea4c658009ed35f9eda3f4a129f338b296a59aedbe72 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/EF0B216ED2421F284E37995B02C79C421/Narrator.pdb) |
 | cc2d11...<!-- cc2d11ac4075735d239b081d446ae2bcb672ac1608430b8462364431b09df1b6 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/F7AFC74012f000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/90647482BF05929CEB57B8DC0697A8F21/Narrator.pdb) |
-| fef6cb...<!-- fef6cb95907937cfb452754ce45766283a9490cc0e46bf3ddf0a5cca41eb2d11 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1719 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/81DBB750126000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/ABC5BDD23B20C9142FBAABD3892E59BB1/Narrator.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 57af70...<!-- 57af70f37a0ee0df876a34b9c02e9c670f2d39541fff24cc588d17a8b0458415 --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/8110C7A3C36D8E46F417BB69CF359E8C1/Narrator.pdb) |
 | 2ebd58...<!-- 2ebd58d93246f04d4b99241d5cf806d2f8ccfe8b7b58a84a6ad52278d6555c27 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/2CE27E4314e000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/1ED3A84A6269EAF0C6972FB0BD8806591/Narrator.pdb) |
-| 0640bb...<!-- 0640bb5a51e34932bbc29cc125db702558368348e31d44e3e07852a4a26ce438 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1719 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/668EAA9D146000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/B71A76A20887DE4DD61626C2DD9B75321/Narrator.pdb) |
 
 ### 10.0.26100
 

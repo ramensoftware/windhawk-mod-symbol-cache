@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | fb1192...<!-- fb11920ba4f67604d79ea0dc2ba873f976676166919c8d5d60efb19f501e173e --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/9D6771EE35F8C74DA248099D2FC578591/ExplorerFrame.pdb) |
 | 36a618...<!-- 36a618c53dd94507839a2ab334d03b70ad9700950a287d9d0928cf47d61db170 --> | 2026-04-14 | KB5083768 | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/94041AF32d3000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/433C17BECFB4C1B319C2626768F065891/ExplorerFrame.pdb) |
-| 420d27...<!-- 420d274ba198b72e2bc9dd622d629d56c97aec16bdec296ea9c402828b2b98ff --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/3DC29C392cf000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/7DB60907B6D306CC1A1B3A15E0802A7E1/ExplorerFrame.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | f3babe...<!-- f3babe5378c7aa1640750e5a684ac9df95271694a063e7b3534691e48127542e --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/7D964897EC708F56BDEF0ADF30668CBC1/ExplorerFrame.pdb) |
 | fe37dc...<!-- fe37dc0fa50e30c2b3eb6882ec798421f797a165c19d8d900e9905b8d9df07f6 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/EC806C825a8000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/A5FFF7EA58529F51E2EA40CDD731ECA51/ExplorerFrame.pdb) |
-| d95632...<!-- d9563271b531a9d48c76f97c5ac701ceeed326b8898dc39dfa522a830b7df62e --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1719 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/EBA370FD5a3000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/87405C817E6FF1BEFB2B78DE1CF8401B1/ExplorerFrame.pdb) |
 
 ### 10.0.26100
 

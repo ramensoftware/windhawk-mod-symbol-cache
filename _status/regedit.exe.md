@@ -49,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | fe8223...<!-- fe82232f53c6359f4e7fd114e4a7e09faee83966966ae98fc77fbcb947ba01cd --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/92DAF8B6BE131F647E92E457642534141/regedit.pdb) |
 | 37b6b9...<!-- 37b6b940b09bdacfee47aa7bfe9d0f828ce851d70d743b17dca31a4f1b630d46 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/FD35D5CCd0000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/47CA641F4F9A0BB778B5963D3AF847271/regedit.pdb) |
-| 7a2621...<!-- 7a26211af7c3687b4853aba2bbfd408508f43b5da9e6c5622a1d2d51a2b87557 --> | 2026-03-10 | KB5079466 |  | 10.0.28000.1516 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/F1A312D0d0000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/E6DF42CE0D5EF92F9F01EB72903FAD101/regedit.pdb) |
 
 ### 10.0.26100
 
