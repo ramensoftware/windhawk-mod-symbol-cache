@@ -135,7 +135,6 @@
 | 61da05...<!-- 61da0570385041284d6233b0a7ce34daf4b02a2804d4243b6f2640811029b198 --> | 2026-03-30 | 1b60203c...<!-- 1b60203c-4b18-4c7b-ba72-feb408898336 --> | 10.0.28000.1743 | 10.0.28000.1743 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/2EDC62FA71000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/B816171824286FE567C7CB2D5285D6911/cmd.pdb) |
 | b16633...<!-- b166338d79a2e0d01cb23d037126682f3ac499d46a9fb80748c5c1a314a76e4a --> | 2026-03-13 | 72bcbf71...<!-- 72bcbf71-d733-4d2a-a21e-23e2b05efce3 --> | 10.0.28000.1673 | 10.0.28000.1673 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/E09CEEBF71000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/6240A8DD9C9DBD28B563BACDEA07BDDC1/cmd.pdb) |
 | f60bdb...<!-- f60bdb6a89a40e9ef0e9112ad6133699cdb94d898fe778c68f7ded01669bf712 --> | 2026-03-12 | e81cf107...<!-- e81cf107-825c-4a19-a1e1-55390981ef7c --> |  | 10.0.28000.1758 | 🔴 | ❓ |
-| 501842...<!-- 501842d7d5010c6ca8c8f4201f4c1b6e0773bc187883dc31216343351c964937 --> | 2026-03-10 | 40a89789...<!-- 40a89789-cad6-4281-8e18-35c208f7b1d2 --> | 10.0.28000.1643 | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/2AE4AA2271000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/73818720968445B97E59C7E1418DEDDC1/cmd.pdb) |
 
 ### 10.0.26100
 

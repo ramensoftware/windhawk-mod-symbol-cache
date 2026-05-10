@@ -156,7 +156,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 2fcadf...<!-- 2fcadfc3a746e3334dbe9e50d6f690d3e2ee2d50d80c072c9c85ad0773cb1bbc --> | 2026-04-14 | 59fd22e9...<!-- 59fd22e9-ef3d-4734-8a78-4354718ad854 --> |  | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/CF8EA2D317000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/D4EF2F946DD0F8D0A5F349E2C70599B71/dwmghost.pdb) |
 | 65dc7d...<!-- 65dc7d265ac4203c8fd7529bcabc012b399607f9cfee0b6e121709ece0ae3481 --> | 2026-04-14 | 59fd22e9...<!-- 59fd22e9-ef3d-4734-8a78-4354718ad854 --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/DB350DB017000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/26FC0D228B106E36A2046E6130DED8EC1/dwmghost.pdb) |
-| 679aaf...<!-- 679aaf95dc0ac2d971f17f536a7cb7cdde48038829e911e2352ac4e8cbecc8e1 --> | 2026-03-10 | 088c2bda...<!-- 088c2bda-3548-4961-8d26-2f9594265915 --> | 10.0.22621.5766 | 10.0.22621.5766 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/666ACC581c000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/303A146FB73268D75F9342CFDDE2D5681/dwmghost.pdb) |
 
 ### 10.0.19041
 

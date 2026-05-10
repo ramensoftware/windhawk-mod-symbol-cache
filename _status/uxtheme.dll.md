@@ -142,7 +142,6 @@
 | 276db4...<!-- 276db41f96f5940201df59161cac5f69f5e4ed1199ebdeca3188aea0d46478e4 --> | 2026-03-30 | 1b60203c...<!-- 1b60203c-4b18-4c7b-ba72-feb408898336 --> |  | 10.0.28000.1743 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/5C34A333aa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/8451262A89F4CA4B1B8801B019335B201/uxtheme.pdb) |
 | de8299...<!-- de8299f4eecb4b5bfefebdfb50d85e7dacd928e531fffeb8726550f8fe65c63d --> | 2026-03-13 | 72bcbf71...<!-- 72bcbf71-d733-4d2a-a21e-23e2b05efce3 --> |  | 10.0.28000.1737 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/99AD2B9Eaa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/879B6008F56E3D200794E593D04D99491/uxtheme.pdb) |
 | e9439b...<!-- e9439b075bae63f8f5fd29cf30bd59026e7984572e3c7d8619a2eec0b0cec323 --> | 2026-03-12 | e81cf107...<!-- e81cf107-825c-4a19-a1e1-55390981ef7c --> |  | 10.0.28000.1758 | 🔴 | ❓ |
-| c8df95...<!-- c8df9586ca539c271f28c03cfd0e634b38048251aceb2214cf3c269f37d347bb --> | 2026-03-10 | 40a89789...<!-- 40a89789-cad6-4281-8e18-35c208f7b1d2 --> |  | 10.0.28000.1643 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/062049D1aa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/98429B9D89D11C72C3F9531959CF40161/uxtheme.pdb) |
 
 ### 10.0.26100
 
