@@ -135,7 +135,6 @@
 | 8ef39a...<!-- 8ef39a1adef69b6a4dcbfdb23d5356a001951ce78cdfb2c02ed1fc0def6ae9de --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/2D1790D330000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/8117A039E954717D2E53754F5BA0BAD91/sysdm.pdb) |
 | 9703a8...<!-- 9703a8f0c4a6015d862252a8d590e3cdfe5d8971f8c021d4d1f108e73e1fe43e --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/A101FABA30000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/8A233B2BC64B1ECE7686829BC0B4D5F01/sysdm.pdb) |
 | b3ffd4...<!-- b3ffd46e95ddb7745be6e15a71949b2599a9e65d1d14dea4f40eeb9b7db038f4 --> | 2026-03-27 | 423a4fe8...<!-- 423a4fe8-e093-4176-8b5b-ef29f4cba0f0 --> | 10.0.26100.7309 | 10.0.26100.7309 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/475BDCF330000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/CED543F383CEFEAA7628AE7566C32FE51/sysdm.pdb) |
-| c55565...<!-- c555652464a2a745d4603ecdc77ac676a0e25cfbcef36c0aa51cebee6b1bd69e --> | 2026-03-12 | 1b87d59d...<!-- 1b87d59d-9241-4422-b5c6-1f6109d93583 --> |  | 10.0.26100.8106 | 🔴 | ❓ |
 
 ### 10.0.22621
 

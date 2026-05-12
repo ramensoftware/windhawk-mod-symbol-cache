@@ -148,7 +148,6 @@
 | 156673...<!-- 156673039afad8ad0821c69d32d60c357abe110f8186d7293f8bb18dfb1148a0 --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.1150 | 10.0.26100.1150 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/8323884818000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/C5A440FFAEA07ED3BCA98A6772BB62A51/dwmghost.pdb) |
 | 2ec5fd...<!-- 2ec5fdd8567d90851f0741b54c23ee05afbeef449b1998eba6f4c8073418d88f --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/DDADC8FE18000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/A818E68EDBCE414E2B743E41AEE682191/dwmghost.pdb) |
 | c4627b...<!-- c4627b58550d0b2d4c058e2a86e122b559d277527f20e88cb2406505fdfe5a3e --> | 2026-03-27 | 423a4fe8...<!-- 423a4fe8-e093-4176-8b5b-ef29f4cba0f0 --> | 10.0.26100.7309 | 10.0.26100.7309 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/F42E2BB518000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B7FB8A771E779EB59CBDED3FB443F8801/dwmghost.pdb) |
-| b3306a...<!-- b3306a2454bcc90147f9757dc6a0c0a6d3aaeb96aae107448f299b849c61e2f2 --> | 2026-03-12 | 1b87d59d...<!-- 1b87d59d-9241-4422-b5c6-1f6109d93583 --> |  | 10.0.26100.8106 | 🔴 | ❓ |
 
 ### 10.0.22621
 
