@@ -33,7 +33,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1850ea...<!-- 1850eacdc583ef7b08db356c60c9e919df4eb5a14a6628d94122e70f09570106 --> | 2026-04-19 | KB5091573 | 10.0.17763.2989 | 10.0.17763.2989 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/6E804100e8000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/30EB8CC9FD0BC65E270921E4BA5481251/SecurityHealthSSO.pdb) |
+| 1850ea...<!-- 1850eacdc583ef7b08db356c60c9e919df4eb5a14a6628d94122e70f09570106 --> | 2026-05-12 | KB5087538 | 10.0.17763.2989 | 10.0.17763.2989 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/6E804100e8000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/30EB8CC9FD0BC65E270921E4BA5481251/SecurityHealthSSO.pdb) |
 
 ## ARM64 (release builds)
 
@@ -62,7 +62,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 043160...<!-- 04316055922405a5c5b2ec6507ba6b7880e081c4710e2d9f588b9c1662f1fdc0 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/121AEF56f0000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/E68E5E8CBDDBE35FB87506B4C1C026EF1/SecurityHealthSSO.pdb) |
+| 043160...<!-- 04316055922405a5c5b2ec6507ba6b7880e081c4710e2d9f588b9c1662f1fdc0 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/121AEF56f0000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/E68E5E8CBDDBE35FB87506B4C1C026EF1/SecurityHealthSSO.pdb) |
 
 ## x64 (insider preview builds)
 

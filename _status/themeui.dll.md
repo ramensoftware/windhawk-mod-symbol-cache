@@ -33,13 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 72c574...<!-- 72c5748841003b16b168c38cc84cebcd45edd7a586059fde82d3d0f78613177c --> | 2026-04-19 | KB5091573 | 10.0.17763.7131 | 10.0.17763.7131 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/143576ED2ca000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/FD92FB153A6390F7CB4CE8A0D17C062F1/ThemeUI.pdb) |
+| 72c574...<!-- 72c5748841003b16b168c38cc84cebcd45edd7a586059fde82d3d0f78613177c --> | 2026-05-12 | KB5087538 | 10.0.17763.7131 | 10.0.17763.7131 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/143576ED2ca000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/FD92FB153A6390F7CB4CE8A0D17C062F1/ThemeUI.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b6dd2f...<!-- b6dd2fd0485a592a8e8c0fc05d95804e5b21cfdcdea13a00c64827962e235be3 --> | 2026-04-19 | KB5091572 | 10.0.14393.7962 | 10.0.14393.7962 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/67D4EA432c2000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/44A0002C2D51453DA0F3B5F8EDFA30E81/ThemeUI.pdb) |
+| b6dd2f...<!-- b6dd2fd0485a592a8e8c0fc05d95804e5b21cfdcdea13a00c64827962e235be3 --> | 2026-05-12 | KB5087537 | 10.0.14393.7962 | 10.0.14393.7962 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/67D4EA432c2000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/44A0002C2D51453DA0F3B5F8EDFA30E81/ThemeUI.pdb) |
 
 ## ARM64 (release builds)
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4529fb...<!-- 4529fb19f68be220f25d11ce5edf106aa9e2a6d46196c6065d83941012c35ad0 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/1B830EDE7a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/C55F7E973402BD7ACF8BC248313C5DEC1/ThemeUI.pdb) |
+| 4529fb...<!-- 4529fb19f68be220f25d11ce5edf106aa9e2a6d46196c6065d83941012c35ad0 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/1B830EDE7a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/C55F7E973402BD7ACF8BC248313C5DEC1/ThemeUI.pdb) |
 
 ## x64 (insider preview builds)
 

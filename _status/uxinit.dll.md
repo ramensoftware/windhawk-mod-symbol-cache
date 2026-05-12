@@ -33,13 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 93573e...<!-- 93573e68d273ab0714e12a7081951e862836c99314f75ef8fdbdbe2169dba5c2 --> | 2026-04-19 | KB5091573 | 10.0.17763.7919 | 10.0.17763.7919 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/6CDD4E091d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/65F2FCA9ADABC783F06129F8C85CA0671/UXInit.pdb) |
+| 93573e...<!-- 93573e68d273ab0714e12a7081951e862836c99314f75ef8fdbdbe2169dba5c2 --> | 2026-05-12 | KB5087538 | 10.0.17763.7919 | 10.0.17763.7919 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/6CDD4E091d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/65F2FCA9ADABC783F06129F8C85CA0671/UXInit.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| cfe0c1...<!-- cfe0c15e07a678e0928317cb2b7eac6c5bcaa44dd72a76a76e73997499a2bf02 --> | 2026-04-19 | KB5091572 | 10.0.14393.8519 | 10.0.14393.8519 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/68E664D51d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/3EDA5A45ABB94DB89E13330EFA330C241/UXInit.pdb) |
+| cfe0c1...<!-- cfe0c15e07a678e0928317cb2b7eac6c5bcaa44dd72a76a76e73997499a2bf02 --> | 2026-05-12 | KB5087537 | 10.0.14393.8519 | 10.0.14393.8519 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/68E664D51d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/3EDA5A45ABB94DB89E13330EFA330C241/UXInit.pdb) |
 
 ## ARM64 (release builds)
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 87a153...<!-- 87a1535e3c59d415b81fa88e739ccb2d5ea43ca2cf65ea722fde6dab5fc68b02 --> | 2026-04-14 | KB5082200 | 10.0.19041.6093 | 10.0.19041.6093 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/C6E0CC571f000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/227E2502F31D2B21F9699F8E3EA96F631/UXInit.pdb) |
+| 87a153...<!-- 87a1535e3c59d415b81fa88e739ccb2d5ea43ca2cf65ea722fde6dab5fc68b02 --> | 2026-05-12 | KB5087544 | 10.0.19041.6093 | 10.0.19041.6093 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/C6E0CC571f000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/227E2502F31D2B21F9699F8E3EA96F631/UXInit.pdb) |
 
 ## x64 (insider preview builds)
 

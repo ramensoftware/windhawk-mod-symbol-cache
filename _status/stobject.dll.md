@@ -33,13 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e13fa1...<!-- e13fa1b892b93c45c3d14290ed0790e54f786c3716d5bf248f55f87513c86d2b --> | 2026-04-19 | KB5091573 | 10.0.17763.2989 | 10.0.17763.2989 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/37BCA60F6d000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/2165E10981FF428E950175F29B93B1FD1/stobject.pdb) |
+| e13fa1...<!-- e13fa1b892b93c45c3d14290ed0790e54f786c3716d5bf248f55f87513c86d2b --> | 2026-05-12 | KB5087538 | 10.0.17763.2989 | 10.0.17763.2989 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/37BCA60F6d000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/2165E10981FF428E950175F29B93B1FD1/stobject.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3dda15...<!-- 3dda1525355d7038c1e0b6951087e43b25cbd711a17e5758d90f13245e056361 --> | 2026-04-19 | KB5091572 | 10.0.14393.7426 | 10.0.14393.7426 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/66F601D965000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/9922C6EA06EB4C339A5BF05E45BAACBE1/stobject.pdb) |
+| 3dda15...<!-- 3dda1525355d7038c1e0b6951087e43b25cbd711a17e5758d90f13245e056361 --> | 2026-05-12 | KB5087537 | 10.0.14393.7426 | 10.0.14393.7426 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/66F601D965000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/9922C6EA06EB4C339A5BF05E45BAACBE1/stobject.pdb) |
 
 ## ARM64 (release builds)
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1c02d2...<!-- 1c02d2b98d08478d5b28fdd66435f6f97e1c525538f42642f1d41fa8eabd64dc --> | 2026-04-14 | KB5082200 |  | 10.0.19041.6691 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/0D2304D253000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/DB09A789559486728B4D2F6ACB2622DB1/stobject.pdb) |
+| 1c02d2...<!-- 1c02d2b98d08478d5b28fdd66435f6f97e1c525538f42642f1d41fa8eabd64dc --> | 2026-05-12 | KB5087544 |  | 10.0.19041.6691 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/0D2304D253000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/DB09A789559486728B4D2F6ACB2622DB1/stobject.pdb) |
 
 ## x64 (insider preview builds)
 

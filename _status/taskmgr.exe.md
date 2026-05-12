@@ -40,14 +40,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a1d96f...<!-- a1d96f27f3249b6421a45631c3b69702dffa52f0c1bffc7c517604a8c9ba0ffd --> | 2026-04-19 | KB5091573 | 10.0.17763.2989 | 10.0.17763.2989 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/AA59AA2B15a000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/F3E183A9A6EE8C7F5F9F006A5761056F1/Taskmgr.pdb) |
-| e70555...<!-- e70555457964c20480bee5aefe59cdca3ad774e9c8d7e36ed5fee46abcf25c88 --> | 2026-04-19 | KB5091573 | 10.0.17763.1554 | 10.0.17763.1554 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/FCA46F7243000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/DEC7FA0AA73B151605CC2B59CDBDB45E1/taskmgr.pdb) |
+| a1d96f...<!-- a1d96f27f3249b6421a45631c3b69702dffa52f0c1bffc7c517604a8c9ba0ffd --> | 2026-05-12 | KB5087538 | 10.0.17763.2989 | 10.0.17763.2989 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/AA59AA2B15a000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/F3E183A9A6EE8C7F5F9F006A5761056F1/Taskmgr.pdb) |
+| e70555...<!-- e70555457964c20480bee5aefe59cdca3ad774e9c8d7e36ed5fee46abcf25c88 --> | 2026-05-12 | KB5087538 | 10.0.17763.1554 | 10.0.17763.1554 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/FCA46F7243000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/DEC7FA0AA73B151605CC2B59CDBDB45E1/taskmgr.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7a6b67...<!-- 7a6b67ab0c3632296e1e2d88cd79e23badb68b006d5e4fb41416196724afa40e --> | 2026-04-19 | KB5091572 | 1, 0, 0, 1 | 10.0.14393.7254 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/66AC715413a000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/1A339D5F8F564E02AC359BABAC85568A1/Taskmgr.pdb) |
+| 7a6b67...<!-- 7a6b67ab0c3632296e1e2d88cd79e23badb68b006d5e4fb41416196724afa40e --> | 2026-05-12 | KB5087537 | 1, 0, 0, 1 | 10.0.14393.7254 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/66AC715413a000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/1A339D5F8F564E02AC359BABAC85568A1/Taskmgr.pdb) |
 
 ## ARM64 (release builds)
 
@@ -82,8 +82,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 86199a...<!-- 86199af7c608f2dbacc7c17045d0310c12c545f9f9f9255bdb92a619252130de --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/5FB5129B15e000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/0485FE4525DB21BF28828BA49791EEDF1/Taskmgr.pdb) |
-| 1517c9...<!-- 1517c94cec8b5445d960ab8247f11b730dc51197299cd2fc0759c6670024c4e5 --> | 2026-04-14 | KB5082200 | 10.0.19041.6157 | 10.0.19041.6157 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/4D742DC247000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/61FF201AB7649DF8F3C974F871B821751/taskmgr.pdb) |
+| 86199a...<!-- 86199af7c608f2dbacc7c17045d0310c12c545f9f9f9255bdb92a619252130de --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/5FB5129B15e000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/0485FE4525DB21BF28828BA49791EEDF1/Taskmgr.pdb) |
+| 1517c9...<!-- 1517c94cec8b5445d960ab8247f11b730dc51197299cd2fc0759c6670024c4e5 --> | 2026-05-12 | KB5087544 | 10.0.19041.6157 | 10.0.19041.6157 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/4D742DC247000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/61FF201AB7649DF8F3C974F871B821751/taskmgr.pdb) |
 
 ## x64 (insider preview builds)
 

@@ -32,13 +32,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| fb2322...<!-- fb23225a79d766c42ada5b273b657aff575510b563080a00c7cb22b73e7411d8 --> | 2026-04-19 | KB5091573 | 10.0.17763.8024 | 10.0.17763.8024 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/7AFEB25914000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/56B3D4CC4CD0F1FBF925D9357E0E11611/dwmghost.pdb) |
+| fb2322...<!-- fb23225a79d766c42ada5b273b657aff575510b563080a00c7cb22b73e7411d8 --> | 2026-05-12 | KB5087538 | 10.0.17763.8024 | 10.0.17763.8024 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/7AFEB25914000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/56B3D4CC4CD0F1FBF925D9357E0E11611/dwmghost.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 33d6d9...<!-- 33d6d9407e364ca400dcae84f5a3bbac25e1b392ebfb78d395c782c01a35f8cd --> | 2026-04-19 | KB5091572 | 10.0.14393.8592 | 10.0.14393.8592 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/68F9A1CB17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B987C80F37AE4A4CAA997CBCD06AE5641/dwmghost.pdb) |
+| 33d6d9...<!-- 33d6d9407e364ca400dcae84f5a3bbac25e1b392ebfb78d395c782c01a35f8cd --> | 2026-05-12 | KB5087537 | 10.0.14393.8592 | 10.0.14393.8592 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/68F9A1CB17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B987C80F37AE4A4CAA997CBCD06AE5641/dwmghost.pdb) |
 
 ## ARM64 (release builds)
 
@@ -66,7 +66,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0b9597...<!-- 0b9597875ad4287902c6fb7a82b114c0453266e6b6cd9190422e987545a28309 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.6216 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/59E56C921c000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/168023FD3CA3B785041736639EE3EE4F1/dwmghost.pdb) |
+| 0b9597...<!-- 0b9597875ad4287902c6fb7a82b114c0453266e6b6cd9190422e987545a28309 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.6216 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/59E56C921c000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/168023FD3CA3B785041736639EE3EE4F1/dwmghost.pdb) |
 
 ## x64 (insider preview builds)
 

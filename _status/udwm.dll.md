@@ -35,13 +35,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4a5de7...<!-- 4a5de7f3614976dd999a6bb1720ec45c47cf6f4e6402b1d45a7893dcfad8e62f --> | 2026-04-19 | KB5091573 |  | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/DFB50806ee000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/A60660CC8CA7644E8663C9C0999ADC0B1/uDWM.pdb) |
+| 4a5de7...<!-- 4a5de7f3614976dd999a6bb1720ec45c47cf6f4e6402b1d45a7893dcfad8e62f --> | 2026-05-12 | KB5087538 |  | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/DFB50806ee000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/A60660CC8CA7644E8663C9C0999ADC0B1/uDWM.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0ec5f1...<!-- 0ec5f1a97c018693d5ab0c45724627a6c8cb2ccf95acfda8837315bb0dd28822 --> | 2026-04-19 | KB5091572 | 10.0.14393.9060 | 10.0.14393.9060 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/69DBD516d2000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/BCD847E0C18A46F0B762EA2ECD35A3401/uDWM.pdb) |
+| 0ec5f1...<!-- 0ec5f1a97c018693d5ab0c45724627a6c8cb2ccf95acfda8837315bb0dd28822 --> | 2026-05-12 | KB5087537 | 10.0.14393.9060 | 10.0.14393.9060 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/69DBD516d2000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/BCD847E0C18A46F0B762EA2ECD35A3401/uDWM.pdb) |
 
 ## ARM64 (release builds)
 
@@ -72,7 +72,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0204ac...<!-- 0204ac17dee0a999ab58b689dc6e9fb5a4ed7807407cffe4a20d364431deb181 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/75A4F9BA101000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/4729451B977F5FA1E6A266A4CEC9AFB91/uDWM.pdb) |
+| 0204ac...<!-- 0204ac17dee0a999ab58b689dc6e9fb5a4ed7807407cffe4a20d364431deb181 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/75A4F9BA101000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/4729451B977F5FA1E6A266A4CEC9AFB91/uDWM.pdb) |
 
 ## x64 (insider preview builds)
 

@@ -32,13 +32,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c97a0a...<!-- c97a0a8278e5c3afa196c3429c577a1d79e2ec444221a1d3eeb9d46ea202914a --> | 2026-04-19 | KB5091573 | 10.0.17763.5830 | 10.0.17763.7309 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/B91BD9E945000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/707318EF98F58578B3EB66B9D24D71DE1/SndVol.pdb) |
+| c97a0a...<!-- c97a0a8278e5c3afa196c3429c577a1d79e2ec444221a1d3eeb9d46ea202914a --> | 2026-05-12 | KB5087538 | 10.0.17763.5830 | 10.0.17763.7309 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/B91BD9E945000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/707318EF98F58578B3EB66B9D24D71DE1/SndVol.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 273292...<!-- 2732928784b876ed541310f26bce97785e8999f4d2b4e6e02996c5dc28bc4a9f --> | 2026-04-19 | KB5091572 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/66BAD42E41000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C06073396C204441A396269FBE862DBD1/SndVol.pdb) |
+| 273292...<!-- 2732928784b876ed541310f26bce97785e8999f4d2b4e6e02996c5dc28bc4a9f --> | 2026-05-12 | KB5087537 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/66BAD42E41000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C06073396C204441A396269FBE862DBD1/SndVol.pdb) |
 
 ## ARM64 (release builds)
 
@@ -66,7 +66,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 67aef0...<!-- 67aef00c08201afbbc884188a74ec76657b2fa3b1ef83fcdacf178320515ecae --> | 2026-04-14 | KB5082200 |  | 10.0.19041.5848 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/5960BF4A4a000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/1608FEE63EC930504C017995F36293DA1/SndVol.pdb) |
+| 67aef0...<!-- 67aef00c08201afbbc884188a74ec76657b2fa3b1ef83fcdacf178320515ecae --> | 2026-05-12 | KB5087544 |  | 10.0.19041.5848 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/5960BF4A4a000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/1608FEE63EC930504C017995F36293DA1/SndVol.pdb) |
 
 ## x64 (insider preview builds)
 

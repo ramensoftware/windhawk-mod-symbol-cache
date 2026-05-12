@@ -33,13 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| dfff27...<!-- dfff27821489c707c6c47741885251ad54e1daceae82408c6be47c27bcd6638e --> | 2026-04-19 | KB5091573 | 10.0.17763.8510 | 10.0.17763.8510 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/2257D75B81000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/4AC89AC0173A1C8CF2B7C0F3A106C7B41/timedate.pdb) |
+| dfff27...<!-- dfff27821489c707c6c47741885251ad54e1daceae82408c6be47c27bcd6638e --> | 2026-05-12 | KB5087538 | 10.0.17763.8510 | 10.0.17763.8510 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/2257D75B81000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/4AC89AC0173A1C8CF2B7C0F3A106C7B41/timedate.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 313b1b...<!-- 313b1b35c2150fe044a331bbc7c4bde0a81fd4fa8d8eba3a56e8d73025f2a36c --> | 2026-04-19 | KB5091572 | 10.0.14393.8957 | 10.0.14393.8957 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/69A2C55B89000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/550AD2646CE94307AE5982E36A1737081/timedate.pdb) |
+| 313b1b...<!-- 313b1b35c2150fe044a331bbc7c4bde0a81fd4fa8d8eba3a56e8d73025f2a36c --> | 2026-05-12 | KB5087537 | 10.0.14393.8957 | 10.0.14393.8957 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/69A2C55B89000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/550AD2646CE94307AE5982E36A1737081/timedate.pdb) |
 
 ## ARM64 (release builds)
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b60324...<!-- b60324fe0c1b821fba9e7ff31668bf6ff292bb430911afc778e3f05351517621 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7058 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/2243B62A46000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/B8D8BBF384FA84D3C5203D859E2D16CF1/timedate.pdb) |
+| b60324...<!-- b60324fe0c1b821fba9e7ff31668bf6ff292bb430911afc778e3f05351517621 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7058 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/2243B62A46000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/B8D8BBF384FA84D3C5203D859E2D16CF1/timedate.pdb) |
 
 ## x64 (insider preview builds)
 

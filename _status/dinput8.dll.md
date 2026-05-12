@@ -19,7 +19,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a266ba...<!-- a266baf25193931d3f112589f175dafd3f4cc4e6072f488a0ef0a755980b7f5c --> | 2026-04-19 | KB5091572 | 10.0.14393.1737 | 10.0.14393.1770 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/59BB036540000/dinput8.dll) | ❓ |
+| a266ba...<!-- a266baf25193931d3f112589f175dafd3f4cc4e6072f488a0ef0a755980b7f5c --> | 2026-05-12 | KB5087537 | 10.0.14393.1737 | 10.0.14393.1770 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/59BB036540000/dinput8.dll) | ❓ |
 
 ## ARM64 (release builds)
 

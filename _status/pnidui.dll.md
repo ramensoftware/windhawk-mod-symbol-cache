@@ -18,13 +18,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0cacd7...<!-- 0cacd761c4f56ec07609294583fff9293fbdde5f4aef463c6c253f02a41e289d --> | 2026-04-19 | KB5091573 | 10.0.17763.1911 | 10.0.17763.1911 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/E7DF501520b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/B829563D2AC2685C147D5C0CDEB1D0841/pnidui.pdb) |
+| 0cacd7...<!-- 0cacd761c4f56ec07609294583fff9293fbdde5f4aef463c6c253f02a41e289d --> | 2026-05-12 | KB5087538 | 10.0.17763.1911 | 10.0.17763.1911 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/E7DF501520b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/B829563D2AC2685C147D5C0CDEB1D0841/pnidui.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b4fb42...<!-- b4fb421224319ae7c4f80513c7aa887b6dbaab54535459bd9b8cf91a12ff5465 --> | 2026-04-19 | KB5091572 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/66BAD2961d3000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/49877C9E082C4335BD260A315519F0B51/pnidui.pdb) |
+| b4fb42...<!-- b4fb421224319ae7c4f80513c7aa887b6dbaab54535459bd9b8cf91a12ff5465 --> | 2026-05-12 | KB5087537 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/66BAD2961d3000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/49877C9E082C4335BD260A315519F0B51/pnidui.pdb) |
 
 ## ARM64 (release builds)
 
@@ -38,7 +38,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2f42b2...<!-- 2f42b2897b7b57dd951d3d6e1cd9c9e9c4a210c86ae605c1be73b48edd597816 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/EA0C5DA621e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/6DA9110BB0D778CEA97EB688887E3EA81/pnidui.pdb) |
+| 2f42b2...<!-- 2f42b2897b7b57dd951d3d6e1cd9c9e9c4a210c86ae605c1be73b48edd597816 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/EA0C5DA621e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/6DA9110BB0D778CEA97EB688887E3EA81/pnidui.pdb) |
 
 ## x64 (insider preview builds)
 

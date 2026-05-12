@@ -33,12 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f49d16...<!-- f49d162521d3a3b615d2ebb94e21ca45ea10a63a0f09c078b74944b4c178a7d2 --> | 2026-04-19 | KB5091573 | 10.0.17763.8510 | 10.0.17763.8510 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/E8A763341b5000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/512162AE0550AEB68DD12D5D9C8A53BA1/DUI70.pdb) |
+| f49d16...<!-- f49d162521d3a3b615d2ebb94e21ca45ea10a63a0f09c078b74944b4c178a7d2 --> | 2026-05-12 | KB5087538 | 10.0.17763.8510 | 10.0.17763.8510 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/E8A763341b5000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/512162AE0550AEB68DD12D5D9C8A53BA1/DUI70.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| db29a4...<!-- db29a4aba8f4ecaa121604f13acac0b37c4d9ef7dff67a6ff368607c09ba4351 --> | 2026-05-12 | KB5087537 | 10.0.14393.9140 | 10.0.14393.9140 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/69FB54291a8000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/2AA0DAA715674FB399027571CD31AA541/DUI70.pdb) |
 | 8bf99f...<!-- 8bf99f7fa20e06608dabf7995370e8dbce2d3c941747b3b44168a182d7c1cae1 --> | 2026-04-19 | KB5091572 | 10.0.14393.9060 | 10.0.14393.9060 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/69DBD4A31a8000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/5A78298EAB754E29B0F82AEE4440E8AA1/DUI70.pdb) |
 
 ## ARM64 (release builds)
@@ -70,6 +71,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| dca998...<!-- dca9981cf4182e2999043ec346e35269b69740a24638cdb5973bfe5222d07851 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/25CD2B0A1931E82D8A5A1D987784E0271/DUI70.pdb) |
 | 3df073...<!-- 3df0736cd3d0b846be43dfd5fb3f7c7ba208b3b75b84f1f0fb66bc1ab96218d7 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/4603C4ED1b8000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/3EF2FFCCD103C9E918BBA91C176E978C1/DUI70.pdb) |
 
 ## x64 (insider preview builds)

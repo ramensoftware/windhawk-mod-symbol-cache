@@ -33,13 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e15abe...<!-- e15abe77d7ded95990bcf17ed2471161068329e274eccc396e80b914b00e1c84 --> | 2026-04-19 | KB5091573 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/B1B20C239f000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/30419A797E6E54F14EEF2E34856E51E21/regedit.pdb) |
+| e15abe...<!-- e15abe77d7ded95990bcf17ed2471161068329e274eccc396e80b914b00e1c84 --> | 2026-05-12 | KB5087538 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/B1B20C239f000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/30419A797E6E54F14EEF2E34856E51E21/regedit.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 254b18...<!-- 254b18a8cc6589af666ee17ce4e76c67350aecf578206cc7678745ed47a32d63 --> | 2026-04-19 | KB5091572 | 10.0.14393.953 | 10.0.14393.953 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/58BA5C3B96000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/98A5EE311A49445CA32A012E538E9F311/regedit.pdb) |
+| 254b18...<!-- 254b18a8cc6589af666ee17ce4e76c67350aecf578206cc7678745ed47a32d63 --> | 2026-05-12 | KB5087537 | 10.0.14393.953 | 10.0.14393.953 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/58BA5C3B96000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/98A5EE311A49445CA32A012E538E9F311/regedit.pdb) |
 
 ## ARM64 (release builds)
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 993ac5...<!-- 993ac5b60af1a30d54bc4b51923f66fe2fe8087ae6a4be4cfa5f19192acfb4e5 --> | 2026-04-14 | KB5082200 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/8B31CFEFa1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/7F818AA2F5A0B09D703EE20AC78DA9211/regedit.pdb) |
+| 993ac5...<!-- 993ac5b60af1a30d54bc4b51923f66fe2fe8087ae6a4be4cfa5f19192acfb4e5 --> | 2026-05-12 | KB5087544 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/8B31CFEFa1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/7F818AA2F5A0B09D703EE20AC78DA9211/regedit.pdb) |
 
 ## x64 (insider preview builds)
 

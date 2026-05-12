@@ -18,13 +18,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7173c8...<!-- 7173c8bb3c0f69a9ffa23fa0c5b8056ba7c6d949af5532bd5153c16a3cb3137d --> | 2026-04-19 | KB5091573 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/1C7B61573e2000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/C5BCD4B5C76F694BF8CD3FD834A7051B1/UIRibbon.pdb) |
+| 7173c8...<!-- 7173c8bb3c0f69a9ffa23fa0c5b8056ba7c6d949af5532bd5153c16a3cb3137d --> | 2026-05-12 | KB5087538 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/1C7B61573e2000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/C5BCD4B5C76F694BF8CD3FD834A7051B1/UIRibbon.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ccbcb2...<!-- ccbcb2185e26dfdca2f4e1602c30f5765ec1513cccee0b78eb4dd8a5e881d6ee --> | 2026-04-19 | KB5091572 | 10.0.14393.2969 | 10.0.14393.2969 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/5CCD15B83e7000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/B99C367847FA40FEB13F5B50BFF6C9E81/UIRibbon.pdb) |
+| ccbcb2...<!-- ccbcb2185e26dfdca2f4e1602c30f5765ec1513cccee0b78eb4dd8a5e881d6ee --> | 2026-05-12 | KB5087537 | 10.0.14393.2969 | 10.0.14393.2969 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/5CCD15B83e7000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/B99C367847FA40FEB13F5B50BFF6C9E81/UIRibbon.pdb) |
 
 ## ARM64 (release builds)
 

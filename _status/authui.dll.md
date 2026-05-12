@@ -34,13 +34,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 95429c...<!-- 95429cef50c8130f0712cdbf537194e999d0ffdb6a9dd81ed220d415827efe24 --> | 2026-04-19 | KB5091573 | 10.0.17763.7786 | 10.0.17763.7786 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/BB29F75281000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/E6995B0D3BC91277A546E4B30687B3851/authui.pdb) |
+| 95429c...<!-- 95429cef50c8130f0712cdbf537194e999d0ffdb6a9dd81ed220d415827efe24 --> | 2026-05-12 | KB5087538 | 10.0.17763.7786 | 10.0.17763.7786 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/BB29F75281000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/E6995B0D3BC91277A546E4B30687B3851/authui.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1c6eb0...<!-- 1c6eb045fe74f5a8c4b5fb650d5282142e01948387312c164dc964b35b40d979 --> | 2026-04-19 | KB5091572 | 10.0.14393.8957 | 10.0.14393.8957 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/69A2C224dc000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/E02AA996B276462DA2D5B9521FA3315A1/authui.pdb) |
+| 1c6eb0...<!-- 1c6eb045fe74f5a8c4b5fb650d5282142e01948387312c164dc964b35b40d979 --> | 2026-05-12 | KB5087537 | 10.0.14393.8957 | 10.0.14393.8957 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/69A2C224dc000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/E02AA996B276462DA2D5B9521FA3315A1/authui.pdb) |
 
 ## ARM64 (release builds)
 
@@ -71,7 +71,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1f8be7...<!-- 1f8be73424676344d0a60c15a299b774cf16319957432d4bcf95a5116ba405a6 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.6691 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/B447526751000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/17AA35C7F9BC550CB09CA11415E8A2811/authui.pdb) |
+| 1f8be7...<!-- 1f8be73424676344d0a60c15a299b774cf16319957432d4bcf95a5116ba405a6 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.6691 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/B447526751000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/17AA35C7F9BC550CB09CA11415E8A2811/authui.pdb) |
 
 ## x64 (insider preview builds)
 

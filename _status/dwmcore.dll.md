@@ -35,12 +35,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| d32c9c...<!-- d32c9ca42cef13f9ddb8433af62547a48e4b7e84c3d42d95edc509710562b3f0 --> | 2026-05-12 | KB5087538 |  | 10.0.17763.8755 | 🔴 | ❓ |
 | 0bef20...<!-- 0bef2010d541ad3902d940393798cd0e20d19e85f06a6ffc54f011d31c53c1c6 --> | 2026-04-19 | KB5091573 |  | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/91FC563B360000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/FC99C91C0DC03783FF904EA21DB937D71/dwmcore.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| f17f4f...<!-- f17f4f2897f1d318c1fc8fcbb52f1951a6872c4be9eb0f7a7e1dff48513509b4 --> | 2026-05-12 | KB5087537 | 10.0.14393.9140 | 10.0.14393.9140 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/69FB5440236000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/CF683376B0374B9DBB0AC4D2159528661/dwmcore.pdb) |
 | d8fea4...<!-- d8fea4d0e9fe694b0de4df87c4853a3b226c11a2326816097f0403bef204285d --> | 2026-04-19 | KB5091572 | 10.0.14393.9060 | 10.0.14393.9060 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/69DBD4CA236000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/E2A77FDC316D4EB1BAE9FCF215ADD13F1/dwmcore.pdb) |
 
 ## ARM64 (release builds)
@@ -72,6 +74,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 733835...<!-- 733835a6d4b5ef179f081c2d7a5f4e8f88a4c43a454724c56fedaf87f4521b14 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/D93C21841C273F4908227437C6027CD51/dwmcore.pdb) |
 | d0e04b...<!-- d0e04bf7d17c77c77923bbdaaca4beacebc169b6e3ca4f6c6e8ce47fd209b7b6 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/2CAD00BD35d000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/03893B28BB96E4CCEF4568F1B3EF46261/dwmcore.pdb) |
 
 ## x64 (insider preview builds)

@@ -33,13 +33,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7e2d72...<!-- 7e2d721e8967cf5773ccf6c77ef0397b8275afa35f5f8839bc61b87be45a14a7 --> | 2026-04-19 | KB5091573 | 10.0.17763.8510 | 10.0.17763.8510 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/8F79C582c4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/85C698DC261D2849D9C83392744DEDA51/winlogon.pdb) |
+| 7e2d72...<!-- 7e2d721e8967cf5773ccf6c77ef0397b8275afa35f5f8839bc61b87be45a14a7 --> | 2026-05-12 | KB5087538 | 10.0.17763.8510 | 10.0.17763.8510 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/8F79C582c4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/85C698DC261D2849D9C83392744DEDA51/winlogon.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7844ba...<!-- 7844bab72b2a6c92d11b715bf6823f00a05f8421d2258ad367170569b762511d --> | 2026-04-19 | KB5091572 | 10.0.14393.8957 | 10.0.14393.8957 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/69A2C235aa000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/4F47671B653B4835B33683B64EC787D41/winlogon.pdb) |
+| 7844ba...<!-- 7844bab72b2a6c92d11b715bf6823f00a05f8421d2258ad367170569b762511d --> | 2026-05-12 | KB5087537 | 10.0.14393.8957 | 10.0.14393.8957 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/69A2C235aa000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/4F47671B653B4835B33683B64EC787D41/winlogon.pdb) |
 
 ## ARM64 (release builds)
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9dbf69...<!-- 9dbf69aae664428e4d64e281de3316f61ab9246a719eb10a488c4264bb6e1fa5 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/24470332db000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0CB9F8850D489961DFC807883D7D68551/winlogon.pdb) |
+| 9dbf69...<!-- 9dbf69aae664428e4d64e281de3316f61ab9246a719eb10a488c4264bb6e1fa5 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/24470332db000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0CB9F8850D489961DFC807883D7D68551/winlogon.pdb) |
 
 ## x64 (insider preview builds)
 

@@ -33,7 +33,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bc866c...<!-- bc866cfcdda37e24dc2634dc282c7a0e6f55209da17a8fa105b07414c0e7c527 --> | 2026-04-19 | KB5091573 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/483F4B2565000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/8323CDEB72C1639112D9574928FAAEF81/cmd.pdb) |
+| bc866c...<!-- bc866cfcdda37e24dc2634dc282c7a0e6f55209da17a8fa105b07414c0e7c527 --> | 2026-05-12 | KB5087538 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/483F4B2565000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/8323CDEB72C1639112D9574928FAAEF81/cmd.pdb) |
 
 ## ARM64 (release builds)
 
@@ -62,7 +62,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c979fc...<!-- c979fc31375bcebbc6fd24b4b411a8d70875c8bbec1a4dbbe08b1f2bf6d15fe9 --> | 2026-04-14 | KB5082200 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/8BF95A9E61000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/CC1669F1D27245906ED85A36EA9084371/cmd.pdb) |
+| c979fc...<!-- c979fc31375bcebbc6fd24b4b411a8d70875c8bbec1a4dbbe08b1f2bf6d15fe9 --> | 2026-05-12 | KB5087544 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/8BF95A9E61000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/CC1669F1D27245906ED85A36EA9084371/cmd.pdb) |
 
 ## x64 (insider preview builds)
 

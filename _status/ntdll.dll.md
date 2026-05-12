@@ -35,12 +35,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4bcde5...<!-- 4bcde52e77a71a8475fd068ce6c4c03601e342ca9a62271c8af0fb2bb12592a4 --> | 2026-05-12 | KB5087538 |  | 10.0.17763.8755 | 🔴 | ❓ |
 | 07708e...<!-- 07708ed58f8421f9aa54265d33316dea75933b7cb2f28eca7a8ca8008ba4184b --> | 2026-04-19 | KB5091573 | 10.0.17763.8641 | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/CC9140901ee000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/C1DA634CBF96E3C8DD10F2BBFCD017631/ntdll.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| c7f655...<!-- c7f65573f08e417869dd5fd1c1fbeb86abee5d9185ea68b94bc4d7cf4efc7f4f --> | 2026-05-12 | KB5087537 | 10.0.14393.9140 | 10.0.14393.9140 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/69FB538E1d1000/ntdll.dll) | ❓ |
 | 5bd153...<!-- 5bd153bd39e10f1d36f485897eb3abd812be6bf4665377492e550f24671507df --> | 2026-04-19 | KB5091572 | 10.0.14393.9060 | 10.0.14393.9060 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/69DBD3DA1d1000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/BFEDEA91714343C0ACB0A02101634F031/ntdll.pdb) |
 
 ## ARM64 (release builds)
@@ -73,6 +75,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 62fb58...<!-- 62fb58ef037b7704311dd3929e07a4625740527488a53c3890aae19515e35590 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/B12DBD01FA70CB0F1226295A314236221/ntdll.pdb) |
 | a77548...<!-- a775484a83b31ad5053b03b39cebceaa8afff8c7bbeb60603f6fb2392b5ac2d9 --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/65793F351e8000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/7873629E5CE1B9E6B99B64B72DEAEA911/ntdll.pdb) |
 
 ## x64 (insider preview builds)
