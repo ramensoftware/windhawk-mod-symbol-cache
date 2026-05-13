@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 42d0f2...<!-- 42d0f2c673a43e3ea7d0670f14873d7057bcf5d6f8a9419b0774b8942ccaf5ef --> | 2026-04-30 | KB5083806 | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/A74D6B9188b000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/FEA5FD948BB5DF65066A742946F8CD431/Windows.Storage.pdb) |
+| 42d0f2...<!-- 42d0f2c673a43e3ea7d0670f14873d7057bcf5d6f8a9419b0774b8942ccaf5ef --> | 2026-05-12 | KB5089548 | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/A74D6B9188b000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/FEA5FD948BB5DF65066A742946F8CD431/Windows.Storage.pdb) |
 | 690eca...<!-- 690ecaf141d64230146bbb60e18241c6fad47628ed5b18e026f330f9fb35a13a --> | 2026-04-14 | KB5083768 | 10.0.28000.1830 | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/7E67A888886000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/89428E2C5137BEDA98BB2135F444DCCE1/Windows.Storage.pdb) |
 | d1cb80...<!-- d1cb80aeb4fa12cf5fa22fc5ea5eecdb7007871b2291ed655ad20a233dded702 --> | 2026-03-26 | KB5079489 | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/FBC14E18884000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/558269A537877874698A16048F067C6B1/Windows.Storage.pdb) |
 
@@ -14,6 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 3e004a...<!-- 3e004a8a74e5cb4c637016b7bf7c5a8d1ae7c37f7bb4c577826ba378cedf2e1a --> | 2026-05-12 | KB5089549 |  | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/3732FBCC86c000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/355D65E38B203CF8E006313F22AA208D1/Windows.Storage.pdb) |
 | 141724...<!-- 141724298704f97ad930987dd2d8122ac73a63b31aceb42090dfeefa9e80aa44 --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/697AB70286c000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/0FA772373CB19B7250351A482D64A0461/Windows.Storage.pdb) |
 | 1e0c43...<!-- 1e0c4360bd9a30fb792e7fd8a45bb2f6683370f6f2033c5ca86ead64abdf0ce3 --> | 2026-04-14 | KB5083769 | 10.0.26100.8246 | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/23658BB4868000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/EE432453C4A3B701AE654F3DDDAC66301/Windows.Storage.pdb) |
 | 58913c...<!-- 58913c25f0a23000ce497f0b269a86ef7bc209e7d80cc6b4dafc2962ee19893b --> | 2026-03-31 | KB5086672 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/E5890A1C865000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/2F78D447C2D66B3D965970E627F8B89C1/Windows.Storage.pdb) |
@@ -23,21 +24,21 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9a6814...<!-- 9a6814e82efff081b66ad73968f6e945fbe713e3c24be429cc58358bc241a1b7 --> | 2026-05-12 | KB5087420 |  | 10.0.22621.7079 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/73E666127183A2DE5EDF336CCE66CB721/Windows.Storage.pdb) |
+| 9a6814...<!-- 9a6814e82efff081b66ad73968f6e945fbe713e3c24be429cc58358bc241a1b7 --> | 2026-05-12 | KB5087420 |  | 10.0.22621.7079 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/7368C25B912000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/73E666127183A2DE5EDF336CCE66CB721/Windows.Storage.pdb) |
 | 630be6...<!-- 630be650192d6c6f1cde5cf86d8d3b21b0241c7ac2b55757b884fe3f8b7eab65 --> | 2026-04-14 | KB5082052 | 10.0.22621.6931 | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/DD8D6FF2913000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/8A7EABC32337B2BA451C0AC9EF9018571/Windows.Storage.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 298f70...<!-- 298f70fcca3fde309544c22d628a891142d46bde36c24219446c504a629bfced --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/4B334EEFD8C092C17ECD1A4DC59DE9141/Windows.Storage.pdb) |
+| 298f70...<!-- 298f70fcca3fde309544c22d628a891142d46bde36c24219446c504a629bfced --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/8D277E2C7a6000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/4B334EEFD8C092C17ECD1A4DC59DE9141/Windows.Storage.pdb) |
 | 632b1f...<!-- 632b1f86d0e1b24394513c68b07de13e230096ea0aefd4d9ec2c593217db1a77 --> | 2026-04-14 | KB5082200 | 10.0.19041.7181 | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/EEB964E07a6000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/DDAC0D387EA51FAD2BB3A3C78D89639A1/Windows.Storage.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b5a7ef...<!-- b5a7ef9e38fbe3c359de637e02b9de5095e9cf0040c0bdd994e71c041896ee34 --> | 2026-05-12 | KB5087538 |  | 10.0.17763.8755 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/AE3E85116B6B755E4A93634E55FA22531/Windows.Storage.pdb) |
+| b5a7ef...<!-- b5a7ef9e38fbe3c359de637e02b9de5095e9cf0040c0bdd994e71c041896ee34 --> | 2026-05-12 | KB5087538 |  | 10.0.17763.8755 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/59368E46749000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/AE3E85116B6B755E4A93634E55FA22531/Windows.Storage.pdb) |
 | 00d9c6...<!-- 00d9c64dafd8ce0479b8097740c670d71361fa07a7993db8808c1edfcd30d0b4 --> | 2026-04-19 | KB5091573 | 10.0.17763.8641 | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/48D9FBA1749000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/A0D912709246F33BC0E87F94AF2CBC8B1/Windows.Storage.pdb) |
 
 ### 10.0.14393
@@ -53,7 +54,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c78811...<!-- c78811f29cafd4035aa4af7a67b9eb44647cc1d42f344514456199776c6a306e --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/509BECA2C796BD52D9A67C3E059989441/Windows.Storage.pdb) |
+| c78811...<!-- c78811f29cafd4035aa4af7a67b9eb44647cc1d42f344514456199776c6a306e --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/9F6724141236000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/509BECA2C796BD52D9A67C3E059989441/Windows.Storage.pdb) |
 | 77e534...<!-- 77e53442111e9009c83379c3e3fd2f29a8812240daedf1cf82d4094276aaeb9e --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/D7AF1247122d000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/9CEFEDDE35FEB31C5BD3F0A681A84E861/Windows.Storage.pdb) |
 | 45fa21...<!-- 45fa215423b07c9e9e2aec8e62f0865a27ef2587433e372f2ac4d0d6300933c5 --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/EA45509B1236000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/5838CD95CA4FD7A72621CFAA0450C12C1/Windows.Storage.pdb) |
 
@@ -61,6 +62,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4d6876...<!-- 4d687642e2fc35bdce4bf3b04e175e1f5caefb1e1be81efd4e2205e290570cb0 --> | 2026-05-12 | KB5089549 |  | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/CE617C0811f6000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/CB98CB6CD8CD0E8A2BC500A1920B45EA1/Windows.Storage.pdb) |
 | 83047e...<!-- 83047e3c0cdac179ef5899a02c42a99a870c14203efe10ea73c60915e9a5b58f --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/D4B3B55C6FBDC17CFD8C0D53196C22271/Windows.Storage.pdb) |
 | a04560...<!-- a04560cdc8056f1a0e489a33ca148dd48f90dfc1202a78142331674e917fcd25 --> | 2026-04-14 | KB5083769 | 10.0.26100.8246 | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/FB3D705E11f0000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/FF3165DAF7D7538FCB739FF0393787241/Windows.Storage.pdb) |
 | 55e089...<!-- 55e0893706318f7edf34f8f63b566294e7a78eb037a116649c7d24ffa642b289 --> | 2026-03-31 | KB5086672 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/07390F7511fa000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/B4EE846446070F702AB5AA4DB0B3CDEC1/Windows.Storage.pdb) |
@@ -70,14 +72,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9c86da...<!-- 9c86da7d06d9afff514ba58e768a38ad3d4bf84a9b21be0aeff43e930c3dbde2 --> | 2026-05-12 | KB5087420 |  | 10.0.22621.7079 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/E793C28C88A945A191924A6492E27B8E1/Windows.Storage.pdb) |
+| 9c86da...<!-- 9c86da7d06d9afff514ba58e768a38ad3d4bf84a9b21be0aeff43e930c3dbde2 --> | 2026-05-12 | KB5087420 |  | 10.0.22621.7079 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/6652ADE013aa000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/E793C28C88A945A191924A6492E27B8E1/Windows.Storage.pdb) |
 | a70a16...<!-- a70a16fe7c8e9369abbc66d9c245ac306da28839d49a6a0346eabef6a89b0a0a --> | 2026-04-14 | KB5082052 |  | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/56283BC113ad000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/3DE1A97659854B7B6567B776EC73E75A1/Windows.Storage.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f6221c...<!-- f6221c99656bcf3ac90383aca83e1b49d4a00030a9ef33118e946b939dd18056 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/FAFEA87C0DF91888E54843866816D5311/Windows.Storage.pdb) |
+| f6221c...<!-- f6221c99656bcf3ac90383aca83e1b49d4a00030a9ef33118e946b939dd18056 --> | 2026-05-12 | KB5087544 |  | 10.0.19041.7291 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/C2D922CD930000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/FAFEA87C0DF91888E54843866816D5311/Windows.Storage.pdb) |
 | 11ef8b...<!-- 11ef8b21bcf72b997a5b2e6ae3d123c9b81c4fc05c2b7f60cb4400aa42e0397c --> | 2026-04-14 | KB5082200 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/8CF1597A930000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/F06B6FD0943CE201CB982F5248719A161/Windows.Storage.pdb) |
 
 ## x64 (insider preview builds)
@@ -162,6 +164,10 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 3e004a...<!-- 3e004a8a74e5cb4c637016b7bf7c5a8d1ae7c37f7bb4c577826ba378cedf2e1a --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> |  | 10.0.26100.8457 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/355D65E38B203CF8E006313F22AA208D1/Windows.Storage.pdb) |
+| 27168c...<!-- 27168cd7762a1f13d3d28564ea48c4ca1d82e5e5e83f030807b6d77f92511374 --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> |  | 10.0.26100.8455 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/8A7148086E57AFB359979F6BCEFE19C71/Windows.Storage.pdb) |
+| 39c738...<!-- 39c73800ec523783c67cd743b3f55403708515bd055bbf909ab4648eb6cad76e --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> | 10.0.26100.1742 | 10.0.26100.1742 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/474D8B6482a000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/302843AD51A15B7D4AB6542F9297EAD51/Windows.Storage.pdb) |
+| f2e186...<!-- f2e186e7a31e420537994a7bd7eefee41d3ce8b16c422421a4ecbbc492954a60 --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/C6E5CBB382b000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/6FC1B3AD12937DF32586AE3D2487AC071/Windows.Storage.pdb) |
 | e9c340...<!-- e9c340ec13c5cf6695147db1addc45ae473177a6a8d2e550070760caf624b745 --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> |  | 10.0.26100.8376 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/A445F16F876000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/49A279A8C214243549FDD6F7EA52E2DE1/Windows.Storage.pdb) |
 | 1a8ac1...<!-- 1a8ac12aab6abb34bff538ee2cc983fca90af8b3569c817f49f0ca17f4ba66c1 --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> | 10.0.26100.8367 | 10.0.26100.8367 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/04FB9425876000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/0F9E13BACD5E1762498105AC5FBBF75B1/Windows.Storage.pdb) |
 | f1702a...<!-- f1702a85d1dbb038dbdd58666e3e9306fee56979f1fd1395c59dc7757f6d3bcc --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> |  | 10.0.26100.1743 | 🔴 | ❓ |
@@ -170,8 +176,6 @@
 | 37134a...<!-- 37134ae6d672826153b6b13bb5f3e9625e3efb017928d9269e4e866d4e6e2acd --> | 2026-05-01 | 5412fa31...<!-- 5412fa31-e6a6-4b63-afb9-bf025fc2b346 --> | 10.0.26100.8340 | 10.0.26100.8340 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/A7810937875000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/40CEF72F7B44DEF52140547E36BCB2A11/Windows.Storage.pdb) |
 | 141724...<!-- 141724298704f97ad930987dd2d8122ac73a63b31aceb42090dfeefa9e80aa44 --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/697AB70286c000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/0FA772373CB19B7250351A482D64A0461/Windows.Storage.pdb) |
 | 34cd52...<!-- 34cd52b5df487262d1b92837118cda7b647aefe487b559634b69c0dfcd58a66d --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> |  | 10.0.26100.8309 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/5751CDE19780CA6E6C739232C98D01771/Windows.Storage.pdb) |
-| 39c738...<!-- 39c73800ec523783c67cd743b3f55403708515bd055bbf909ab4648eb6cad76e --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.1742 | 10.0.26100.1742 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/474D8B6482a000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/302843AD51A15B7D4AB6542F9297EAD51/Windows.Storage.pdb) |
-| f2e186...<!-- f2e186e7a31e420537994a7bd7eefee41d3ce8b16c422421a4ecbbc492954a60 --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/C6E5CBB382b000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/6FC1B3AD12937DF32586AE3D2487AC071/Windows.Storage.pdb) |
 | 02e825...<!-- 02e825f206db5e6d1b27490a355f65232e6d24a5fa6ea98fa8e2a46849067e19 --> | 2026-04-24 | 68a83d5d...<!-- 68a83d5d-1488-4519-87ef-6009eb03d1fc --> | 10.0.26100.8289 | 10.0.26100.8289 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/5594087A872000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/285407ACB5103FE8DF80577103C385CE1/Windows.Storage.pdb) |
 | 1d9c83...<!-- 1d9c8353e5d0529b07ee26bce5c2b785ce4b0a2d84fcecfe00ba93424a6e664b --> | 2026-04-24 | cd113f65...<!-- cd113f65-3026-488f-b258-94ceba1d208d --> | 10.0.26100.8283 | 10.0.26100.8283 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/2D9B3E9E872000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/E5B98F113894D42EA69FA59B99B7194A1/Windows.Storage.pdb) |
 | 861c01...<!-- 861c0195389eb7173cdf059f8f318a37d2e007b1aa53da211671fadd85cc99e1 --> | 2026-04-17 | 038c7416...<!-- 038c7416-2aa2-4174-85a2-158aa9b11289 --> | 10.0.26100.8313 | 10.0.26100.8313 | [🔴](https://msdl.microsoft.com/download/symbols/windows.storage.dll/4FDCD36286c000/windows.storage.dll) | ❓ |
