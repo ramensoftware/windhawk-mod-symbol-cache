@@ -1,0 +1,1 @@
+1#3679304251#7639040#unsigned int __cdecl GetThumbnailCutoffFromType(unsigned short const *)#4998484#private: unsigned int __cdecl CImageManager::_GetThumbnailCutoff(struct IItemImageStore *)#1387260#private: long __cdecl CImageManager::_GetItem(struct IItemImageStore *,struct _GUID const &,void * *)#285208
