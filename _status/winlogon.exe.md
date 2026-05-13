@@ -122,12 +122,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 04f6a4...<!-- 04f6a495a88ef1969f9b7fdf2f50e65f27a3720b9889cb202c4af7833d73e00c --> | 2026-03-20 | ad7080e3...<!-- ad7080e3-5f4a-43b3-afea-65450cf1cd34 --> | 10.0.29553.1000 | 10.0.29553.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/2F62033Dea000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/167FBB51643038A75DA84519A21D5AC01/winlogon.pdb) |
 
-### 10.0.29550
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e93fd1...<!-- e93fd11ae8d1c3cd99231b0bc545c10cc47c49f82d3bda7eeba56befcc71c3d3 --> | 2026-03-13 | 2308caa5...<!-- 2308caa5-b5ba-4909-b027-1f393e3253e5 --> | 10.0.29550.1000 | 10.0.29550.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/81E6164Fec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0FAF4022A6727CD7FF4FE9B690426E761/winlogon.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

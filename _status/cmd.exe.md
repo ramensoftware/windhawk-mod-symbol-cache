@@ -114,12 +114,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 080680...<!-- 080680c99a0f3c5953fcd24051232edf7f31e3bdc2b1d2ae63ccbfb3ed8b2d82 --> | 2026-03-20 | ad7080e3...<!-- ad7080e3-5f4a-43b3-afea-65450cf1cd34 --> | 10.0.29553.1000 | 10.0.29553.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/AD0FCD996e000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/451CB38FB06BF953840A53ECEB410FB71/cmd.pdb) |
 
-### 10.0.29550
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a9ddf2...<!-- a9ddf215732074bd775d9e06fbfd1f9331659e4af87f75924471d769b7444b7c --> | 2026-03-13 | 2308caa5...<!-- 2308caa5-b5ba-4909-b027-1f393e3253e5 --> | 10.0.29550.1000 | 10.0.29550.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/DB28871370000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/DC7B188D9A36BA1F4AD40884B8FD51D81/cmd.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

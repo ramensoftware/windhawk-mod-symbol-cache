@@ -121,12 +121,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 1eb161...<!-- 1eb161910c411ecfc99d20058b9cb767f2779222a730708e085c5b085d03fee5 --> | 2026-03-20 | ad7080e3...<!-- ad7080e3-5f4a-43b3-afea-65450cf1cd34 --> | 10.0.29553.1000 | 10.0.29553.1000 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/9B74559828000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/64F575727BD0E85C1458D0857B415C181/UXInit.pdb) |
 
-### 10.0.29550
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bf5adc...<!-- bf5adc0b693f3da36359cdd34f477a48dbe454c87b3ce93ae01350c0e11b7cab --> | 2026-03-13 | 2308caa5...<!-- 2308caa5-b5ba-4909-b027-1f393e3253e5 --> | 10.0.29550.1000 | 10.0.29550.1000 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E01B989029000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/F466086D7B873EB47C5669DC33161C8C1/UXInit.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
