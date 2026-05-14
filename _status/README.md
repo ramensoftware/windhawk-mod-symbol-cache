@@ -5,6 +5,7 @@
 | [actioncenter.dll](actioncenter.dll.md) |
 | [applicationframe.dll](applicationframe.dll.md) |
 | [authui.dll](authui.dll.md) |
+| [cbdhsvc.dll](cbdhsvc.dll.md) |
 | [cmd.exe](cmd.exe.md) |
 | [comctl32.dll](comctl32.dll.md) |
 | [comdlg32.dll](comdlg32.dll.md) |
