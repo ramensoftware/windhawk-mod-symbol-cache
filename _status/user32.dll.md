@@ -188,7 +188,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b877cc...<!-- b877cc6671e3fdd1da298d5170ccdac1cda2a8e8759ce0a5327a18db9fb9fdbf --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> |  | 10.0.26100.8514 | 🔴 | ❓ |
+| b877cc...<!-- b877cc6671e3fdd1da298d5170ccdac1cda2a8e8759ce0a5327a18db9fb9fdbf --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8514 | 10.0.26100.8514 | [🔴](https://msdl.microsoft.com/download/symbols/user32.dll/092842D91c7000/user32.dll) | ❓ |
 | 4488de...<!-- 4488de6935aafcf3f5e693b6e435802610fc5a3b5251502c53beb66a2e780541 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> |  | 10.0.26100.8514 | 🔴 | ❓ |
 | e9e0ca...<!-- e9e0ca48b864b3d82c9c3fd35943dba23d422cc4e544438038f89636c77523cc --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> |  | 10.0.26100.8455 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/AB0AACCC36000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/88304238DD22E8802AE1DF3B7E89FF931/user32.pdb) |
 | 8bb27e...<!-- 8bb27effaae2de0bbf7750176a12828ef04cd03a02d4f480d77467143678b2ac --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> |  | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/57B46DCC64000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/B5901D814AB61A305066AAEBD6A105B41/user32.pdb) |
