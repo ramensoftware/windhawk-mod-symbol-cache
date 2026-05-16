@@ -1,0 +1,1 @@
+1#explorer.exe#x86_3424553924_2957312#private: void __thiscall CTaskBtnGroup::_ComputeRenderPropsBar(struct BUTTONRENDERINFO &)#
