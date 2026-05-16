@@ -108,6 +108,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| a7150f...<!-- a7150f1d6b1fa7b59d17e8ce0a1f4f3332f48bc673b234983a7d14996b5f0b3d --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/E1D647ED720000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/5BF6E1A3E334C7C363B195BF1D8D20131/shell32.pdb) |
+
 ### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

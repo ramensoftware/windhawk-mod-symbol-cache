@@ -77,6 +77,12 @@
 
 ## x64 (insider preview builds)
 
+### 7.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 22cb1b...<!-- 22cb1be16e6f5510a0cb527f6e5942d21b549c2024e64bcaefb32099f6cc6734 --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 7.0.29591.1000 | 7.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.dll/4BA29BAB103000/propsys.dll) | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/2B043FDFA27FB6FE2CCCB0260ABFCCE11/propsys.pdb) |
+
 ### 7.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

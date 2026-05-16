@@ -72,6 +72,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| e4b9bc...<!-- e4b9bc49ad6ef6d40ce8e724203d005b00b59ffc445de8c9420a5a075d515e3f --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/DD69B2CA9e000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/2786E9E0F27C0161B53C17A2F54EC0621/wpdshext.pdb) |
+
 ### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

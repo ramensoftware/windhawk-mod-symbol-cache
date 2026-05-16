@@ -83,6 +83,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| e76e99...<!-- e76e99061553d9850d88dcb32ac6c059fcba60d0f850fddbfa7648784615dff9 --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/DCD5FF0C501000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/24D2D9BB50944D5525C9A556D70EFAC51/twinui.pdb) |
+
 ### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

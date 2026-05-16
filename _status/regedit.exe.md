@@ -72,6 +72,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| f0ab5d...<!-- f0ab5dfcc07457e0f68b3303c739fbf904c6bb1d81586b1b19172898299ec29e --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/5A93BDA6cd000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/8F197C2F5FED607793B10EF8851CF8061/regedit.pdb) |
+
 ### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

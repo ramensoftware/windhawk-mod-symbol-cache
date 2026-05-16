@@ -75,6 +75,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 76198d...<!-- 76198d65a9e5c1f88f9ecc30545fa574001dc4b092dcc724087a11580c47a7f1 --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/AD33A2EC126000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/7E68AE2E1366D38F69C16CFCA620A1B81/Narrator.pdb) |
+
 ### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

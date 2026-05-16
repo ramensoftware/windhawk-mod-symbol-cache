@@ -74,6 +74,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29591
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 9db3bf...<!-- 9db3bf6063a7c9f79116104fd8af77891e098f128a8c65afc100881710af4a7d --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/74A204B35d000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/1EDC5D6922A27E8B77DC1E7D205CC7641/stobject.pdb) |
+
 ### 10.0.29585
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
