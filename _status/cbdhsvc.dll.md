@@ -24,7 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7fa714...<!-- 7fa714d0b02c6c7dd02e5c9eea059089f4c74867faabc321b5d88b1d866d4d7f --> | 2026-05-12 | KB5087420 |  | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/14CEAB97103000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/E620DC1D03198D9158E427E8E12860481/CBDHSvc.pdb) |
+| 7fa714...<!-- 7fa714d0b02c6c7dd02e5c9eea059089f4c74867faabc321b5d88b1d866d4d7f --> | 2026-05-12 | KB5087420 | 10.0.22621.6931 | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/14CEAB97103000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/E620DC1D03198D9158E427E8E12860481/CBDHSvc.pdb) |
 
 ### 10.0.19041
 
