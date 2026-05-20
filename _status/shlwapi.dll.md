@@ -146,12 +146,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 258fab...<!-- 258fab1900489fef8dac7716e6ddf5f002e2fefef27ef9f505ed9a392965e744 --> | 2026-03-30 | 42164137...<!-- 42164137-8d57-4e99-bad0-3bbb230f0df4 --> | 10.0.29558.1000 | 10.0.29558.1000 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/5136809464000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/AE023A9D4144C191B09DE2D19CF525B31/shlwapi.pdb) |
 
-### 10.0.29553
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 34bbbd...<!-- 34bbbd0f685fb5103a7dffd1bdd5980549453f5e6770e750a6e8176e39e279ae --> | 2026-03-20 | ad7080e3...<!-- ad7080e3-5f4a-43b3-afea-65450cf1cd34 --> | 10.0.29553.1000 | 10.0.29553.1000 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/00D306FE64000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/B639CECEBFF144A6143DE572E85F3FFE1/shlwapi.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -226,8 +220,6 @@
 | 4049ef...<!-- 4049efb8615e40adf53ac48b5277cb76a60ed653dbf8c5ccf453345758dd20cd --> | 2026-03-27 | 423a4fe8...<!-- 423a4fe8-e093-4176-8b5b-ef29f4cba0f0 --> |  | 10.0.26100.8036 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/6316E4A414000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/C3D33E09B85583149D531502E766162C1/shlwapi.pdb) |
 | 4501a5...<!-- 4501a56c77a45afdf7a1211c82fb81132ca41b6ab737d05281746a119da98a9b --> | 2026-03-27 | 423a4fe8...<!-- 423a4fe8-e093-4176-8b5b-ef29f4cba0f0 --> |  | 10.0.26100.8031 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/16E7432214000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/597B3326C6DC63859F5376D3A69FFF611/shlwapi.pdb) |
 | 5e0c00...<!-- 5e0c00480bb4801cf9f511daf7d38751f68fa3421708d14032e4cabb14771966 --> | 2026-03-27 | 423a4fe8...<!-- 423a4fe8-e093-4176-8b5b-ef29f4cba0f0 --> | 10.0.26100.7920 | 10.0.26100.7920 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/D1A954DE67000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/BED020ABE44996A562FBA056CC41D8F51/shlwapi.pdb) |
-| 4a1f1e...<!-- 4a1f1e3e215d48cb7fd230a50611bdc7be8fcdb60b078aecf06603160c8d1f36 --> | 2026-03-20 | 0cc48915...<!-- 0cc48915-24ce-405f-bb8d-889da939773d --> | 10.0.26100.8079 | 10.0.26100.8079 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/3CB8A05266000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/144146FF5C5C8640BB72A1A3EC9622B01/shlwapi.pdb) |
-| 7a3e1f...<!-- 7a3e1fb1db13183222151d47f22afacfc4bf421a2d17eed2f0e6d98ba441c0da --> | 2026-03-20 | c63adb02...<!-- c63adb02-090b-495b-ac5f-f395d36ed7a4 --> | 10.0.26100.8068 | 10.0.26100.8068 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/18C4549766000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/2A55974B6F879F0968053CD1391BD0981/shlwapi.pdb) |
 
 ### 10.0.22621
 
