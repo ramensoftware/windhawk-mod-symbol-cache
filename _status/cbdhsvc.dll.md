@@ -18,7 +18,6 @@
 | 8715c3...<!-- 8715c37f626d69fb889bf5b8bc31e4e350e599a8052986da0b38f8f345f287da --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/B25C0836db000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/28ECD1D8DD4C76AAFBA66C3D9D99C7491/CBDHSvc.pdb) |
 | ebcffd...<!-- ebcffd7fe13635299ebab4420897591da36b1205310a911f1add40e56dab47c9 --> | 2026-04-14 | KB5083769 | 10.0.26100.8246 | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/61ED8D14db000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/7261842B5EBB3D1A8F5053FA5F387CE31/CBDHSvc.pdb) |
 | 16fc31...<!-- 16fc316ae2cbc18ed617314c53c9d6a7616bce3154b0c208007c882a448affd2 --> | 2026-03-31 | KB5086672 | 10.0.26100.8115 | 10.0.26100.8115 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/BC141F2Dda000/cbdhsvc.dll) | ❓ |
-| 38dfa1...<!-- 38dfa11bd4e41ac17682d9fc90cb709f7c84d75bca731c7e88fb36d7e4193f94 --> | 2026-03-21 | KB5085516 | 10.0.26100.7309 | 10.0.26100.7309 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/BA820B6Eda000/cbdhsvc.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -56,7 +55,6 @@
 | 955829...<!-- 95582979cf9d57d76da490dd9ce7cc1146e2382ad135e997920ae9a90613b663 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/14DA9B4CB792239DD18B990FF37DD2B61/CBDHSvc.pdb) |
 | 5207fd...<!-- 5207fda10071bac041969444c3053d2e4af6f01a2312d5e0418b7bef19c2898f --> | 2026-04-14 | KB5083769 |  | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/4BA1326Afe000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/578F98FC614D001FEDBE2DFD3F8889701/CBDHSvc.pdb) |
 | 4a0074...<!-- 4a007406221824e7639f6f2ca809b21e8ab28fa1dc8207d7df79f5a092c5989d --> | 2026-03-31 | KB5086672 |  | 10.0.26100.8115 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/D07BB18Bfe000/cbdhsvc.dll) | ❓ |
-| 82ac0a...<!-- 82ac0ad699015af89ce7233465c9546393b2beaa4682cb84e1153556693d1557 --> | 2026-03-21 | KB5085516 | 10.0.26100.7824 | 10.0.26100.7824 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/B05B9D38fd000/cbdhsvc.dll) | ❓ |
 
 ### 10.0.22621
 

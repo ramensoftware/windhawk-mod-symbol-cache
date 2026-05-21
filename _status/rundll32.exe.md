@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4d90ff...<!-- 4d90fff3e33bf3cb2bea5e08e648732503a3116f8c26359d39cb1daa6e29a964 --> | 2026-05-12 | KB5089549 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/40B8E19518000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/78606129F203B97F8B32624F26E7C0211/rundll32.pdb) |
 | 63fcc4...<!-- 63fcc4d99e809534e9dfc17e4495acee691137dc5ad532de2e2dab43e657b75e --> | 2026-04-14 | KB5083769 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/23D9737418000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/A4500E1FAD6AE664C3FE7B281C0CC92E1/rundll32.pdb) |
-| 4193f5...<!-- 4193f529bff2729769d82cb83ee206d2af16c59208d6dc5cd8b54cd9c6703a11 --> | 2026-03-21 | KB5085516 | 10.0.26100.7309 | 10.0.26100.7309 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/62BBFC1118000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/3690A8B9A4659672EF4989AAA551BE611/rundll32.pdb) |
 
 ### 10.0.22621
 
@@ -56,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | a63e0e...<!-- a63e0e0734069a839a39e8bc19000e64c73b83616ccec99242367db93b4e765a --> | 2026-05-12 | KB5089549 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/831E39D62d000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/7D73ADA6357DC454294D4ED746E4B8E81/rundll32.pdb) |
 | 3f23f8...<!-- 3f23f863d5f27cce8f93b6b84acfe3bb2aea40b0e670c1cb3f96453c646fa445 --> | 2026-04-14 | KB5083769 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/1485262E2d000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/8B68A93B4D70B96DECB05EF30C165C691/rundll32.pdb) |
-| c13352...<!-- c13352c8f419bde378d3044c69950d0b438ed22b75802042846018c38f38e002 --> | 2026-03-21 | KB5085516 | 10.0.26100.7309 | 10.0.26100.7309 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/135C40ED2d000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/3857573869251F20AA99882E074A6D381/rundll32.pdb) |
 
 ### 10.0.22621
 

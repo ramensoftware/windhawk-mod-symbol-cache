@@ -36,7 +36,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4413d8...<!-- 4413d87a9c2f8b1be2f84367e1e02127652f3f1b8c30193fe0d9badd53bf63e0 --> | 2026-05-12 | KB5089549 |  | 10.0.26100.8457 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/A734A1D77b000/dinput8.dll) | ❓ |
 | a45d08...<!-- a45d089dcb5fbb111b97829921a90b1d4fd60fcf87d0d1c9d0a387b83a88dc2b --> | 2026-04-14 | KB5083769 |  | 10.0.26100.8246 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/95E5F6C97b000/dinput8.dll) | ❓ |
-| 6ff828...<!-- 6ff8289d976d98ec56294b74a0f487105d8a07a4624f7c432809d1a40096ddcf --> | 2026-03-21 | KB5085516 |  | 10.0.26100.7920 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/FDAB719A7b000/dinput8.dll) | ❓ |
 
 ### 10.0.22621
 

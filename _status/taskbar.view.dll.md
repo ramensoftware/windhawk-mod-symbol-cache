@@ -16,8 +16,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | a920c9...<!-- a920c97ace9f336855ebfea221101eb03739398c8b75ac6dcf28d82ed645aed5 --> | 2026-05-12 | KB5089549 | 2126.8901.10.0 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69D4766Bafe000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/0AE0E302E8E34BE29CC303A7A62ABCA71/Taskbar.View.pdb) |
 | 0c0d65...<!-- 0c0d65a618373da36ccdf5e04a3e97db1e459ae460c74da4e6fce2106e35e1ab --> | 2026-04-14 | KB5083769 | 2126.5501.20.0 | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A22F5Eab6000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/C2DF1C2B236946B7A8AB9E6B7B1AB98B1/Taskbar.View.pdb) |
-| a34520...<!-- a345205856b1d549ca4a273fec93355261f0ad1e6d1c8ad5ef28fe821288aa7d --> | 2026-03-21 | KB5085516 | 2126.2400.20.0 | 10.0.26100.8036 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A219D8aaa000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/30F7005E3EB041C5A16EF5EE68EDBDC61/Taskbar.View.pdb) |
-| 662d4c...<!-- 662d4cbfcbe2547ee2c66f68245acaaceb10c4280e6568b35c95aff295e20030 --> | 2026-03-21 | KB5085516 | 2126.2400.20.0 | 10.0.26100.8036 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A2194Baaa000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/3BDAB54247D84B12B537B850D095757E1/Taskbar.View.pdb) |
 
 ### 10.0.22621
 
@@ -41,8 +39,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 38f6e5...<!-- 38f6e57c6ed6a6522bd7de86bab8f774a195af87071a909d2d2f23a14aa4fbe3 --> | 2026-05-12 | KB5089549 | 2126.8901.10.0 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69D47457f26000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/FAD98CBE218E4D30B0C4FF77A6ED83681/Taskbar.View.pdb) |
 | 9a1b37...<!-- 9a1b377d42730a710e29eb0d93abd617e08c94748af849d7ef3d4aa2feb8df9e --> | 2026-04-14 | KB5083769 | 2126.5501.20.0 | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A22D33ed1000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/7198B69F0F7945CFA4435DCECC6C25841/Taskbar.View.pdb) |
-| 46c0c4...<!-- 46c0c42ee35318860e5c9c2b3be1eb0eb4d2a4de0d262b7b277b62522d1ec6bb --> | 2026-03-21 | KB5085516 | 2126.2400.20.0 | 10.0.26100.8036 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A216C1eb6000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/6A51AD763B584AE7AA74D454CD7736201/Taskbar.View.pdb) |
-| 0a4cbf...<!-- 0a4cbf0fd98dfa1c86720f16b0bdc446eb293b6a5b514bf85431d5a9b5ac9e57 --> | 2026-03-21 | KB5085516 | 2126.2400.20.0 | 10.0.26100.8036 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A21A4Beb8000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/4721E989DBA142308DB8AC264D2C65191/Taskbar.View.pdb) |
 
 ### 10.0.22621
 
