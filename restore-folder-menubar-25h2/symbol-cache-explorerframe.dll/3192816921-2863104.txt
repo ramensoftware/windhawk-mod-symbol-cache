@@ -1,0 +1,1 @@
+1#3192816921#2863104#protected: virtual long __cdecl CBandSite::_Initialize(struct HWND__ *)#880032#public: virtual long __cdecl CShellBrowser::SetFlags(unsigned long,unsigned long)#1029232
