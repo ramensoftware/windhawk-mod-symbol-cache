@@ -1,0 +1,1 @@
+1#systemtray.dll#arm64_1777679944_2670592#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#255600#private: void __cdecl winrt::SystemTray::OverflowXamlIslandManager::InitializeIfNeeded(void)#824992#private: void __cdecl winrt::SystemTray::implementation::StackViewModel::UpdateIconIndexes(void)#528472
