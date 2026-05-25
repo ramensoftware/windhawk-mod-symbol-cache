@@ -10,6 +10,7 @@
 | [comctl32.dll](comctl32.dll.md) |
 | [comdlg32.dll](comdlg32.dll.md) |
 | [consent.exe](consent.exe.md) |
+| [d2d1.dll](d2d1.dll.md) |
 | [dinput8.dll](dinput8.dll.md) |
 | [dui70.dll](dui70.dll.md) |
 | [dwmcore.dll](dwmcore.dll.md) |
@@ -18,6 +19,7 @@
 | [explorerextensions.dll](explorerextensions.dll.md) |
 | [explorerframe.dll](explorerframe.dll.md) |
 | [fileexplorerextensions.dll](fileexplorerextensions.dll.md) |
+| [mshtml.dll](mshtml.dll.md) |
 | [narrator.exe](narrator.exe.md) |
 | [notepad.exe](notepad.exe.md) |
 | [ntdll.dll](ntdll.dll.md) |
