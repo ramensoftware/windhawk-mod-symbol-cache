@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9d8deb...<!-- 9d8deb21cdd4586cca4aba7ee8a5c768ecde8dc4eee24bba12ddc9bfa19e2e34 --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/737DC97596f000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/CD6219FE85E1B1C28E63006450762A071/twinui.pcshell.pdb) |
 | 782eaf...<!-- 782eaf1abd4afb0687410193beddc5f35b78a9a8cec5403dc4f091a9dfc3a06b --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/7D3B7C21962000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/5496559ED86B6518D2657F069FDE9C9F1/twinui.pcshell.pdb) |
-| 845d65...<!-- 845d65c06c854dd3a922bf26228112a6c4067f776c34f15b642996e4055e4e92 --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/79411C6B962000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/B31DDDC9F3D1A5261BA21E4FDE2717351/twinui.pcshell.pdb) |
 
 ### 10.0.26100
 
@@ -52,7 +51,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 8dfdc8...<!-- 8dfdc8e3a51bde7d962e09f18e7691da1698d22c371b1610377757220ab093bb --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/801E8B7313dc000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/6BB1BB65C658B5A6E71BEF00C3D8DEAF1/twinui.pcshell.pdb) |
 | c9cb2d...<!-- c9cb2d1f7ff013c6508d2a35da859501b56fc87fad103cb5e7709ab750cfb4e8 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/139C3FF013c1000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/07B8098F519573163D5F4E69C8EFFFF51/twinui.pcshell.pdb) |
-| 5df077...<!-- 5df0779bc6789e322be52806b12d77532d01497a2999c8024e4c0a6d51d1fff4 --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/1F6244D213c1000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/0F51CC2654443A7399C68FD694F6EDEE1/twinui.pcshell.pdb) |
 
 ### 10.0.26100
 

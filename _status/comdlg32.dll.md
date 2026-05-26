@@ -11,7 +11,6 @@
 | 9c9121...<!-- 9c9121e72470d1dc5166b00187a32e8f8e3e53d884cd65785a9fc080bda22a0d --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/3AC7EC0CFB2911A0AE4C730FB1F677631/comdlg32.pdb) |
 | c19f57...<!-- c19f574b80f8e11bd208877172eb65193cf34bd168870fd7fdc75995dda10b31 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/E7CE6E5A1AEACFE729B1D4A437E2CF721/comdlg32.pdb) |
 | f3b4d1...<!-- f3b4d1c53c708a49e9dd6a26ef65c1f5b38783ac5ac4e7d33727be4a231e2f61 --> | 2026-04-14 | KB5083768 | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/128858BCee000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/D63E187BA7A8548E397D792F195D2F431/comdlg32.pdb) |
-| 3f12ed...<!-- 3f12ed5f5a79867e3ef7728b73382fd6410321439d231511e3051afa188f428b --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/68D54132a000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4C527EEEC5062C01617A1ED3029123C61/comdlg32.pdb) |
 
 ### 10.0.26100
 
@@ -66,7 +65,6 @@
 | ce7b3f...<!-- ce7b3f740a44bc304a54a3c0e870112f13fbfa4f6b9e9f630aff86e7d309d7eb --> | 2026-04-30 | KB5083806 |  | 10.0.28000.1896 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/9ECB2A8F917E2C5C9BEC885573A276311/comdlg32.pdb) |
 | 8b2f54...<!-- 8b2f542c85a7aa5e6d74c793e1278cbdb1cd6eeb0fb81861911c5631291f1d44 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/4706466114000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/328B33480C99916DC0DBF0F1A6852A141/comdlg32.pdb) |
 | 361b4c...<!-- 361b4cb04b2f5da9c2a74063e66921bd0228fcdcd957b36e00be2d8674db6a20 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/DAE2E91D1c2000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/DFE13CFED7247C8F133E1F509EF2C7161/comdlg32.pdb) |
-| 0b48b4...<!-- 0b48b406c6f4ee4b4645a5a58455b3e670120a9620e70b94a15187a9a54eb6eb --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/DB01962514000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/31B3C33E1DEA91209067D81DE371CE1C1/comdlg32.pdb) |
 
 ### 10.0.26100
 

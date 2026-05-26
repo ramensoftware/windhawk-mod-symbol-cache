@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 863172...<!-- 86317232c1221e2ce6488bc056eda35495f779568143e2074f010d58377a9358 --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/A26BB413d8000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/06E3F1058689C065F3C79AB34008DEFF1/CBDHSvc.pdb) |
 | ef26ef...<!-- ef26efcf12dbcc317691da03a9a3886eeb800d5e2d1353538976b624fe8794b4 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/0A26E7F9d8000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/B4FAE7C4BACA60C48361D454D2737E2F1/CBDHSvc.pdb) |
-| e071f5...<!-- e071f53fab10584600022ce39afe1476538b1bab4bbf2c4b18338276d1b377d8 --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1516 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/A0AB1F3Bd8000/cbdhsvc.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -45,7 +44,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 3bf0dc...<!-- 3bf0dccc5da4e2a8cf54eeace93e402fdf34e078f8272a9cf461161be90d7866 --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/CD64D490f7000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/6976FA8ACDC9B7AB174434E3BD61AF0A1/CBDHSvc.pdb) |
 | 7a6abe...<!-- 7a6abe36521e4d6a648a496ebd067eaa39246d6ecaccb3f79628df39cc632c8e --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/D48ECE74f7000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/3AEAE1AFEE4E2D68D300A9339A3398931/CBDHSvc.pdb) |
-| 4bbb93...<!-- 4bbb9311e4d0a14360514596e7ea47ce1e67cb80e7984de53c3f2970fc53e4f7 --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/F7C4A82Af7000/cbdhsvc.dll) | ❓ |
 
 ### 10.0.26100
 

@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 6d77bd...<!-- 6d77bd4ca7a9ba4129e6351d0ee3da9f1ce430ee3e313c5ce6757220f862467e --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/3D5C962243000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/BB8B7A8B9CBC02E0BB29F5224EA5C3B91/authui.pdb) |
 | fc9cde...<!-- fc9cde1f5a47ecabdcbd9de6f1e4ccd2acbf063a22c94efb22cc9a9c66930974 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/8CC561E7687A06A8C7E700A2553677771/authui.pdb) |
-| 545b83...<!-- 545b8345fea4f60045155068380ef0e0af7be6e069c5943f4dfca7330b0db5c7 --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/80D525CB43000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/74202F50F3A8D7A6F59836130C47AE3A1/authui.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9134a7...<!-- 9134a7f151aa8181586de08425771ef413e81dcf3d693dac7214e1bdfaf776ec --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/1608E92086000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/C883F9209DCF78CFD488BAF2B5850C881/authui.pdb) |
 | 1c23e6...<!-- 1c23e60bb344055eddb9a996d84cfd0751613e27833d56c6e7ad344149da46a7 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/FE0DB6E285000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/8ADE56CB050F8ABC76369FDBA6DDDEDF1/authui.pdb) |
-| 966123...<!-- 966123d667e4351cbf6e9c4d5a7e8bc52e894fd51a8995b007e01bb8d5b4f05f --> | 2026-03-26 | KB5079489 |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/352FADAC85000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/39DF35B41B3023C8374E615CA40F05691/authui.pdb) |
 
 ### 10.0.26100
 
