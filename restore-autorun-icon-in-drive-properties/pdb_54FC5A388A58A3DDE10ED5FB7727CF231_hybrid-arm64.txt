@@ -1,1 +1,0 @@
-1;shell32.dll;arm64_862401984_143360;DrawPie;

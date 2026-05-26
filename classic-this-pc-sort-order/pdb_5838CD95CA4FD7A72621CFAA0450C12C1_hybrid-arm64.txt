@@ -1,1 +1,0 @@
-1;windows.storage.dll;arm64_3930411163_19095552;public: virtual long __cdecl CRegFolder::Initialize(struct REGITEMSINFO const *);2307376;public: virtual long __cdecl CDesktopFolder::ShouldShow(struct IShellFolder *,struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMID_CHILD const __unaligned *);1485424

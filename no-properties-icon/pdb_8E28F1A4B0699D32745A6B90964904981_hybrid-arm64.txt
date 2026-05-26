@@ -1,0 +1,1 @@
+1;rundll32.exe;arm64_1934817542_184320;__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);29840
