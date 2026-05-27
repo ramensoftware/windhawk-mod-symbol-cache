@@ -1,0 +1,1 @@
+1#1776726613#2031616#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#218500#public: void __cdecl winrt::SystemTray::implementation::TextIconContent::ShowContextMenu(void)#613196#public: void __cdecl winrt::SystemTray::implementation::DateTimeIconContent::ShowContextMenu(void)#172732
