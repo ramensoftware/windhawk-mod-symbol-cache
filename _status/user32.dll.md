@@ -192,8 +192,6 @@
 | da3acd...<!-- da3acd24f4cee9cc129936621e7f3cc627d29d3b4ebc79cb1490e80945239a55 --> | 2026-04-10 | 63ef212c...<!-- 63ef212c-dec4-4307-ada7-82f38b7859be --> |  | 10.0.28000.1562 | 🔴 | ❓ |
 | 99f059...<!-- 99f059bb24a137a0ca06c6f7ce78c7fcf1ef28a1898cfc1bdd8a88ee5cf266c4 --> | 2026-04-03 | 3f564740...<!-- 3f564740-afb3-4237-8402-15241b854452 --> |  | 10.0.28000.1803 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/1F42A2D01c8000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/5A675596878C03DB8F96E0CC61B152241/user32.pdb) |
 | 3262ba...<!-- 3262ba4aba9abdbff7acff11e9969daf8901d56827755263e5ebadc299b0fbf4 --> | 2026-03-30 | 1b60203c...<!-- 1b60203c-4b18-4c7b-ba72-feb408898336 --> |  | 10.0.28000.1797 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/5BFF5A301c7000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/A2F9F1404A06D8B83879D2A521F741A91/user32.pdb) |
-| bedf94...<!-- bedf941fe0596c5252885fdc7c85756901749cfbf97d283153c3d980775a832a --> | 2026-03-27 | bc5ad58e...<!-- bc5ad58e-6bec-470b-b7ff-76ddd94393d2 --> | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/250F40EC1c8000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/263AEE148215FE6CB6CBE5DB075397A21/user32.pdb) |
-| 19b378...<!-- 19b3789c2a41a7b349d8b0b34103583f4e888e675ce7544ff523cc670c9413c7 --> | 2026-03-27 | bc5ad58e...<!-- bc5ad58e-6bec-470b-b7ff-76ddd94393d2 --> |  | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/0B8DE27636000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/8DB5260976D71BDE2BFE8A7844476D4E1/user32.pdb) |
 
 ### 10.0.26100
 
