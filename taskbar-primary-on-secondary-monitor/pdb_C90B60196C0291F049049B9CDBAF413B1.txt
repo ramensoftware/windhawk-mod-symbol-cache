@@ -1,0 +1,1 @@
+1#taskbar.dll#x86-64_3320753425_3244032#public: long __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#554548#public: void __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#

@@ -1,0 +1,1 @@
+1;user32.dll;arm64_883341836_2650112;struct HFONT__ * __cdecl GetMessageBoxFontForDpi(unsigned int);123096
