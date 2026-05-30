@@ -1,0 +1,1 @@
+1#explorer.exe#arm64_1419896322_3297280#long __cdecl DrawRadialGradient(struct HDC__ *,struct tag_TASKBAND_RADIALGRADIENT *)#
