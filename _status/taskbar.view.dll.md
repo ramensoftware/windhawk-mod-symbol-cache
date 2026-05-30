@@ -77,13 +77,6 @@
 | f939a8...<!-- f939a8928417610fbe8f49621111d5403912ef6de81a63f39852cb7930bb616b --> | 2026-04-10 | 475e5ea4...<!-- 475e5ea4-7695-422f-9acb-66dbfdb7ee6b --> | 2126.5000.0.6000 | 10.0.29565.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69970C95af4000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/D7FFE65351594E998B2B9F7B10E2C9691/Taskbar.View.pdb) |
 | dd5426...<!-- dd5426e065aabc1283bbcc04ad0e17c4122d1bd976805a400f63eb6152b188b0 --> | 2026-04-10 | 475e5ea4...<!-- 475e5ea4-7695-422f-9acb-66dbfdb7ee6b --> | 2126.5000.0.6000 | 10.0.29565.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69970B01af4000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/92C9649EDEFE4AAC87C0BD4A7A0D2ADB1/Taskbar.View.pdb) |
 
-### 10.0.29558
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f4a6b3...<!-- f4a6b3511d18b1770002a94964115c6e0816f466e1c8652f4afbb9cdc25af918 --> | 2026-03-30 | 42164137...<!-- 42164137-8d57-4e99-bad0-3bbb230f0df4 --> | 2126.3200.10.6000 | 10.0.29558.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69816D24adb000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/8ED35EF9A1DD4172B349CAEDD9F4DD9B1/Taskbar.View.pdb) |
-| 2489ca...<!-- 2489ca6daa8dd2ee0f2022b6c0bc42983631c83473368001c2b67c4bf5842213 --> | 2026-03-30 | 42164137...<!-- 42164137-8d57-4e99-bad0-3bbb230f0df4 --> | 2126.3200.10.6000 | 10.0.29558.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69816D44ada000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/47391C96F77846A49FE2342292984E0D1/Taskbar.View.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

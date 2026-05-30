@@ -1,1 +1,0 @@
-1;user32.dll;arm64_3665955004_2605056;GetWindowBordersForDpi;218984;struct tagWND * __cdecl ValidateHwnd(struct HWND__ *);201160;_HasCaptionIcon;577192

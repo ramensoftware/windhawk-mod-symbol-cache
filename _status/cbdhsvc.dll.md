@@ -126,12 +126,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | da7951...<!-- da795109f5b84c7ad09c6d88b897f873aeaeceda47de8f664dac9b160b0d32d6 --> | 2026-04-03 | 35ba2737...<!-- 35ba2737-fb8c-4ae7-947b-e078a3d63aee --> | 10.0.29560.1000 | 10.0.29560.1000 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/3C3CF802d5000/cbdhsvc.dll) | ❓ |
 
-### 10.0.29558
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c09de9...<!-- c09de9032c3b8d652bef71dd4a11de4947e730f0bffa38fdd34f85242169aea5 --> | 2026-03-30 | 42164137...<!-- 42164137-8d57-4e99-bad0-3bbb230f0df4 --> | 10.0.29558.1000 | 10.0.29558.1000 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/698EA1CFd5000/cbdhsvc.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -151,7 +145,6 @@
 | ef26ef...<!-- ef26efcf12dbcc317691da03a9a3886eeb800d5e2d1353538976b624fe8794b4 --> | 2026-04-14 | e4053eff...<!-- e4053eff-92dd-432d-b429-fed7d587d890 --> |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/0A26E7F9d8000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/B4FAE7C4BACA60C48361D454D2737E2F1/CBDHSvc.pdb) |
 | 876272...<!-- 8762728c46990b8ef1b91ba5a978539bc83f14d3daf338425b5908f7410f28aa --> | 2026-04-10 | 63ef212c...<!-- 63ef212c-dec4-4307-ada7-82f38b7859be --> |  | 10.0.28000.1812 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/DD197232d8000/cbdhsvc.dll) | ❓ |
 | c054bc...<!-- c054bca3bda8252d8782a4863747aa25e7b9caafd67c7447f08a0cff637f36a3 --> | 2026-04-03 | 3f564740...<!-- 3f564740-afb3-4237-8402-15241b854452 --> |  | 10.0.28000.1803 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/C7C83D89d8000/cbdhsvc.dll) | ❓ |
-| a656e6...<!-- a656e6d993f9efa26c5c3870d81897a6ea8d08c16c6af9ac9627f444e0ea7413 --> | 2026-03-30 | 1b60203c...<!-- 1b60203c-4b18-4c7b-ba72-feb408898336 --> |  | 10.0.28000.1743 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/09BDB070d8000/cbdhsvc.dll) | ❓ |
 
 ### 10.0.26100
 
