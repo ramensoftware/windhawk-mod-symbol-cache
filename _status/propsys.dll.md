@@ -62,7 +62,6 @@
 | c922c4...<!-- c922c4af85bbfb67a70c511580c6f8ad22318878b7c2369a04d6d840504e1266 --> | 2026-05-12 | KB5089549 |  | 7.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.dll/7EA1CC281de000/propsys.dll) | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/C41265911F48F1B0EB2594E3EDB390BF1/propsys.pdb) |
 | 58e838...<!-- 58e838c75aa8248d6ed89ec4da61b69fcb87239272dab8dec6f697d9dceccdf1 --> | 2026-04-30 | KB5083631 |  | 7.0.26100.8328 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/272EE06C9FF605E753C239508C5CEB4A1/propsys.pdb) |
 | 7aa2d4...<!-- 7aa2d4bc75320278b6bd3b93591380621a2d2131feb5eccc6d23438f44be1e2b --> | 2026-04-14 | KB5083769 | 7.0.26100.8246 | 7.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.dll/C05BB33A1d7000/propsys.dll) | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/CD9F3583ACB33D58C045361D483A7A151/propsys.pdb) |
-| a5805b...<!-- a5805bd14df272bcf8470a181b041e45df847fa91079bbc48dddc7fad5f53a93 --> | 2026-03-31 | KB5086672 |  | 7.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.dll/12A83DA11d7000/propsys.dll) | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/F452C2011D2B6427A3A2B9ADF471659F1/propsys.pdb) |
 
 ### 7.0.22621
 
