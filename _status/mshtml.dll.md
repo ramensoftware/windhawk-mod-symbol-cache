@@ -188,7 +188,6 @@
 | f0d5ee...<!-- f0d5eec15aa75bed7d54862d7a9ea41ae7ae20a9c2d1ab1246194048542cadc2 --> | 2026-04-10 | 8e9e3464...<!-- 8e9e3464-5127-41f4-9046-76c7d3063efd --> | 11.00.26100.8165 | 11.0.26100.8165 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/EDD71B761700000/mshtml.dll) | ❓ |
 | 082245...<!-- 082245ed145f6234332a94be56ad1cb3d4fa3841f098e26f968429a438e800ab --> | 2026-04-03 | 0c35741e...<!-- 0c35741e-485c-4b40-abd8-8632196f683c --> |  | 11.0.26100.8155 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/4D7C51451700000/mshtml.dll) | ❓ |
 | 7c3f6d...<!-- 7c3f6d85a063cab8e6022ac58e2529b6280a0510bc72e6ed234257fa95e98b2c --> | 2026-04-03 | 0e5d1abb...<!-- 0e5d1abb-0acc-435b-ac8a-9866e5ee4acb --> | 11.00.26100.8148 | 11.0.26100.8148 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/0C7885D11700000/mshtml.dll) | ❓ |
-| 412eb6...<!-- 412eb664e8e93b43633837cfa477355ef12743334466d4e5f5462080d8ba46aa --> | 2026-04-01 | 254d7cee...<!-- 254d7cee-0049-4003-84f7-9daf43428799 --> | 11.00.26100.8115 | 11.0.26100.8115 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/B5BD58391703000/mshtml.dll) | ❓ |
 
 ### 11.0.22621
 
