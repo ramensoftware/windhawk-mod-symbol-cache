@@ -1,1 +1,0 @@
-1;explorerframe.dll;arm64_1260571472_5849088;public: virtual long __cdecl CNscTree::AppendRoot(struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *);1384992;private: static __int64 __cdecl CNscTree::s_SubClassTreeWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64);244032

@@ -132,12 +132,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | d895f2...<!-- d895f26ca30744c655afbef409736b35f76064dc4a88919db2bd4499e52089af --> | 2026-04-10 | 475e5ea4...<!-- 475e5ea4-7695-422f-9acb-66dbfdb7ee6b --> | 10.0.29565.1000 | 10.0.29565.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/85569EB63f6000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/1A26CD05490C932C5AF8BF5D2E3BB7F41/dwmcore.pdb) |
 
-### 10.0.29560
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f16ce7...<!-- f16ce7ca5362e15c9239bc3269e4c5350a0807c537fca244adcb45c5ea18ccca --> | 2026-04-03 | 35ba2737...<!-- 35ba2737-fb8c-4ae7-947b-e078a3d63aee --> | 10.0.29560.1000 | 10.0.29560.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/16F16C0D3f6000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/670B2529971D555490F83536F08F9CC91/dwmcore.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -159,7 +153,6 @@
 | ad48a1...<!-- ad48a1f804992434bf7ad3337f478e2e2368fda45379a5f96699c964be3e59b9 --> | 2026-04-17 | c2e44ddc...<!-- c2e44ddc-1ddb-4dca-b8a6-f72aacd8407d --> |  | 10.0.28000.1863 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/4C417E46416000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/0F4F03CCF5E98AFD1A919F8B7E38839A1/dwmcore.pdb) |
 | 8f2fb9...<!-- 8f2fb988e7ca8d7008af03c0b3498ddf9f391874d13b6f68a863fa2688780b94 --> | 2026-04-14 | e4053eff...<!-- e4053eff-92dd-432d-b429-fed7d587d890 --> |  | 10.0.28000.1830 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/63ED1CD0412000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/25441E80569883C4F11EA2E0E91F1A9A1/dwmcore.pdb) |
 | c0e4cb...<!-- c0e4cbbc3141583c29558b5cb1a768c94d7a2ba5e6d70fe0d8495b8b8374c05a --> | 2026-04-10 | 63ef212c...<!-- 63ef212c-dec4-4307-ada7-82f38b7859be --> |  | 10.0.28000.1812 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/51FD2FDF415000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/CE33CB4ABB5AF277DC11C0599B6BB9161/dwmcore.pdb) |
-| 9937de...<!-- 9937def9c9596b64a82ae4da6c5c0c7627b163103ce646c2aec6e65508b5f4d4 --> | 2026-04-03 | 3f564740...<!-- 3f564740-afb3-4237-8402-15241b854452 --> |  | 10.0.28000.1803 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/E69215EF415000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/3F4A35D8BE25DFC0AB82BA06448E78AA1/dwmcore.pdb) |
 
 ### 10.0.26100
 
@@ -189,8 +182,6 @@
 | 4b3c3c...<!-- 4b3c3cea4b7a35b2ab931ed173ada708624ba3994fb00d0a3cc09a21ab82331b --> | 2026-04-14 | a6042b7d...<!-- a6042b7d-8a13-4890-8f71-ecbb73ccc08b --> | 10.0.26100.8246 | 10.0.26100.8246 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/3205EC17431000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/7910B123F05F305968C80C176DCBED7E1/dwmcore.pdb) |
 | 2b2f6a...<!-- 2b2f6ab65bd46076563e45421cfac9ae5fc6e89e7164dc5c3e458863d0eb0a55 --> | 2026-04-10 | dd4ba689...<!-- dd4ba689-e767-4b3c-a6b1-76a44f4d65cb --> |  | 10.0.26100.8170 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/5AF3A68C432000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/A718FC30ED9F878AA21DDC6A7471549D1/dwmcore.pdb) |
 | 8838d4...<!-- 8838d4bd7ca35f41d2eb720f33f30c13e13af0da30b1b0743a765aae07ab775a --> | 2026-04-10 | 8e9e3464...<!-- 8e9e3464-5127-41f4-9046-76c7d3063efd --> | 10.0.26100.8165 | 10.0.26100.8165 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/4352CD97432000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/362BACF741F3B7134394CD96B86E38041/dwmcore.pdb) |
-| c93e18...<!-- c93e1880d444903551aee66542769d46da481e27b9f5b3a66796a8446a5ef71d --> | 2026-04-03 | 0c35741e...<!-- 0c35741e-485c-4b40-abd8-8632196f683c --> |  | 10.0.26100.8155 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/DC8F8F26432000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/279A75146D86083BA008E12F1B0A00371/dwmcore.pdb) |
-| c2a765...<!-- c2a7651fd2b5d694e797cc50e7a2d4f877b780a0caabb5daac6f0d299c54b2a1 --> | 2026-04-03 | 0e5d1abb...<!-- 0e5d1abb-0acc-435b-ac8a-9866e5ee4acb --> |  | 10.0.26100.8148 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/86166E91432000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/55C72BD97BC38E6AB1EDCDDF9716E6F11/dwmcore.pdb) |
 
 ### 10.0.22621
 

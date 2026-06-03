@@ -122,12 +122,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 8c9258...<!-- 8c9258275c8d9ecfcde92c656f223cacfe3d5c8d35f2e4905a9ff28c31bc8578 --> | 2026-04-10 | 475e5ea4...<!-- 475e5ea4-7695-422f-9acb-66dbfdb7ee6b --> | 10.0.29565.1000 | 10.0.29565.1000 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/8730975D17000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/F637A14DD8C502B40F9195E81FFED3351/rundll32.pdb) |
 
-### 10.0.29560
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9265b6...<!-- 9265b69d5eadd7d1548f4caa329034dbd39fbe9f5b2717d15e093ce0036e7e69 --> | 2026-04-03 | 35ba2737...<!-- 35ba2737-fb8c-4ae7-947b-e078a3d63aee --> | 10.0.29560.1000 | 10.0.29560.1000 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/01A30D4417000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/388B3D5D0F8F9E0C9A96D1D5509DB62F1/rundll32.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -142,7 +136,6 @@
 | 480e20...<!-- 480e203a92ee47b6a4a0dce13a660930accea4e9a966af2be13b5332cec0c2db --> | 2026-04-17 | 1a10e53e...<!-- 1a10e53e-a491-45e9-990c-7172c6a265d1 --> |  | 10.0.28000.1890 | 🔴 | ❓ |
 | 5e8dc4...<!-- 5e8dc441b4edca1dbaf0b1a945dbac118d7477ede0076e54ac88ca8300cebdb5 --> | 2026-04-17 | c2e44ddc...<!-- c2e44ddc-1ddb-4dca-b8a6-f72aacd8407d --> | 10.0.28000.1812 | 10.0.28000.1812 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/2AB5601E18000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/B602DBD5FD587746DA1308BE96BAFA8D1/rundll32.pdb) |
 | a89988...<!-- a89988c77cd4a63ee1dddbe62c17c18b85555d61ef48640bc6fc2241b7aee089 --> | 2026-04-14 | e4053eff...<!-- e4053eff-92dd-432d-b429-fed7d587d890 --> | 10.0.28000.1516 | 10.0.28000.1516 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/B720F0A818000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/EB326CBD09880F8E86DB12A69E05BDB01/rundll32.pdb) |
-| c94192...<!-- c94192c914f46891dc3af7d763faa69b6ce4d1de277a2cc4b62d7f73ff257ae0 --> | 2026-04-03 | 3f564740...<!-- 3f564740-afb3-4237-8402-15241b854452 --> | 10.0.28000.1803 | 10.0.28000.1803 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/974F37AB18000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/928DA3BC3EE45FFA6F2AA84EB0FDBFDF1/rundll32.pdb) |
 
 ### 10.0.26100
 
@@ -164,8 +157,6 @@
 | e9368f...<!-- e9368fd03ee585eea445f42cb3fa6f044124e0c83b8bd7db702b0d2d109182e1 --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> | 10.0.26100.8165 | 10.0.26100.8165 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/A920662318000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/BA8362F40BA72858A0A481FFC6A33A401/rundll32.pdb) |
 | a6c006...<!-- a6c006cefd67f1141eea0f80d135676d7a5fe2df9642d7880861a003988da467 --> | 2026-04-17 | 038c7416...<!-- 038c7416-2aa2-4174-85a2-158aa9b11289 --> | 10.0.26100.8313 | 10.0.26100.8313 | [🔴](https://msdl.microsoft.com/download/symbols/rundll32.exe/7C4F25BD18000/rundll32.exe) | ❓ |
 | 63fcc4...<!-- 63fcc4d99e809534e9dfc17e4495acee691137dc5ad532de2e2dab43e657b75e --> | 2026-04-14 | a6042b7d...<!-- a6042b7d-8a13-4890-8f71-ecbb73ccc08b --> | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/23D9737418000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/A4500E1FAD6AE664C3FE7B281C0CC92E1/rundll32.pdb) |
-| 382740...<!-- 38274012d8685ec0a13dbf4dc3baea988d8d9ca040b1f89885afb51bbb838b21 --> | 2026-04-03 | 0c35741e...<!-- 0c35741e-485c-4b40-abd8-8632196f683c --> | 10.0.26100.8155 | 10.0.26100.8155 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/9B13995D18000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/3704B745339728A9047598728E615E051/rundll32.pdb) |
-| 94f7b5...<!-- 94f7b56b7fc942a4772e0107546728abb0658fd6e96634022b028c008db48539 --> | 2026-04-03 | 0e5d1abb...<!-- 0e5d1abb-0acc-435b-ac8a-9866e5ee4acb --> | 10.0.26100.8148 | 10.0.26100.8148 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/FCAC4C2F18000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/8170C311E22010E6EC7A5DB20CE8CCCF1/rundll32.pdb) |
 
 ### 10.0.22621
 
