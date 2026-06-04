@@ -67,7 +67,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 87337a...<!-- 87337afdf8be29efbc46179d4bae24d6d7a0aa1eee8bced2f6e409e8e51b194e --> | 2026-05-12 | KB5087420 |  | 7.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.dll/BB55FD871e2000/propsys.dll) | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/7FFA33EA37C033F22227B510C8C0D7A81/propsys.pdb) |
+| 87337a...<!-- 87337afdf8be29efbc46179d4bae24d6d7a0aa1eee8bced2f6e409e8e51b194e --> | 2026-05-12 | KB5087420 | 7.0.22621.5983 | 7.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.dll/BB55FD871e2000/propsys.dll) | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/7FFA33EA37C033F22227B510C8C0D7A81/propsys.pdb) |
 
 ### 7.0.19041
 

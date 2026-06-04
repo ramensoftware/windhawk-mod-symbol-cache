@@ -67,7 +67,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6b1063...<!-- 6b1063e2583a4746037cd7e9120894862a38504c54517365e18a84ff073712fd --> | 2026-05-12 | KB5087420 |  | 10.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/5AAFEA17141000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/56F09C080949442E719B332197DB0BD61/uxtheme.pdb) |
+| 6b1063...<!-- 6b1063e2583a4746037cd7e9120894862a38504c54517365e18a84ff073712fd --> | 2026-05-12 | KB5087420 | 10.0.22621.5983 | 10.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/5AAFEA17141000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/56F09C080949442E719B332197DB0BD61/uxtheme.pdb) |
 
 ### 10.0.19041
 
