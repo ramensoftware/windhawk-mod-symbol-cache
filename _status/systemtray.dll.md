@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 98af9c...<!-- 98af9ccd94bdee6c34fcad10a748f8d73e9a7d303900a9bbdb6702bf5d702b29 --> | 2026-05-26 | KB5089573 | 2604.28002.0.0 | 10.0.26100.8524 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69F11F431f8000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/0D2A2D78C61E463DB1F79D17BD695B5D1/SystemTray.pdb) |
+| 98af9c...<!-- 98af9ccd94bdee6c34fcad10a748f8d73e9a7d303900a9bbdb6702bf5d702b29 --> | 2026-06-09 | KB5094126 | 2604.28002.0.0 | 10.0.26100.8524 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69F11F431f8000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/0D2A2D78C61E463DB1F79D17BD695B5D1/SystemTray.pdb) |
 
 ## ARM64 (release builds)
 
@@ -14,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a98957...<!-- a989577f27dec164cfa0da2c4f5582cd604b139df701d42e8c7af0e8cf5c3233 --> | 2026-05-26 | KB5089573 | 2604.28002.0.0 | 10.0.26100.8524 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69F1206B28c000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/7FCDAC5054234E3F969F0016C313800A1/SystemTray.pdb) |
+| a98957...<!-- a989577f27dec164cfa0da2c4f5582cd604b139df701d42e8c7af0e8cf5c3233 --> | 2026-06-09 | KB5094126 | 2604.28002.0.0 | 10.0.26100.8524 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69F1206B28c000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/7FCDAC5054234E3F969F0016C313800A1/SystemTray.pdb) |
 
 ## x64 (insider preview builds)
 
