@@ -1,1 +1,0 @@
-1#comctl32.dll#x86_4093627465_2273280#public: int __thiscall CListGroup::GetGroupRect(struct tagRECT *)const #361836#private: void __thiscall CListGroup::_PaintHeader(unsigned long,struct tagNMLVCUSTOMDRAW *)#377564#public: int __thiscall CListGroup::HeaderHeight(void)const #376253#private: void __thiscall CListGroup::_PaintCollapse(struct tagNMLVCUSTOMDRAW *)#1257664

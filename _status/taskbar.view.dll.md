@@ -70,13 +70,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 38ce84...<!-- 38ce84bee658a3d0f0105030151b222082681c3f9e93b649686e6317cac36072 --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 2126.6301.0.6000 | 10.0.29576.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69A8B68Aaf6000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/5D8FDF546F0541CBB5FAB00778DD132B1/Taskbar.View.pdb) |
 
-### 10.0.29565
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f939a8...<!-- f939a8928417610fbe8f49621111d5403912ef6de81a63f39852cb7930bb616b --> | 2026-04-10 | 475e5ea4...<!-- 475e5ea4-7695-422f-9acb-66dbfdb7ee6b --> | 2126.5000.0.6000 | 10.0.29565.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69970C95af4000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/D7FFE65351594E998B2B9F7B10E2C9691/Taskbar.View.pdb) |
-| dd5426...<!-- dd5426e065aabc1283bbcc04ad0e17c4122d1bd976805a400f63eb6152b188b0 --> | 2026-04-10 | 475e5ea4...<!-- 475e5ea4-7695-422f-9acb-66dbfdb7ee6b --> | 2126.5000.0.6000 | 10.0.29565.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/69970B01af4000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/92C9649EDEFE4AAC87C0BD4A7A0D2ADB1/Taskbar.View.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
