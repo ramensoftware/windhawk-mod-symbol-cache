@@ -1,0 +1,1 @@
+1#1881511202#1929216#_GetWindowBordersForDpi@20#767217#struct tagWND * __fastcall ValidateHwnd(struct HWND__ *)#165056#__HasCaptionIcon@8#768160
