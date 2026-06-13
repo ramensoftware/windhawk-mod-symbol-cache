@@ -1,1 +1,0 @@
-1#516912503#3248128#public: virtual enum eTBGROUPTYPE __cdecl CTaskBtnGroup::GetGroupType(void)#238304#protected: void __cdecl CTaskListWnd::_HandleClick(struct ITaskBtnGroup *,int,enum CTaskListWnd::eCLICKACTION,int,int)#634296#public: virtual long __cdecl CTaskListWnd::HandleWinNumHotKey(short,unsigned short)#1445088
