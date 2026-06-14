@@ -1,1 +1,1 @@
-1#1928869944#2940928#protected: void __cdecl CTray::_RaiseDesktop(enum RAISEDESKTOPFLAGS)##protected: void __cdecl CTray::_HandleGlobalHotkey(unsigned __int64,__int64)#
+1#1928869944#2940928#protected: void __cdecl CTray::_RaiseDesktop(enum RAISEDESKTOPFLAGS)#

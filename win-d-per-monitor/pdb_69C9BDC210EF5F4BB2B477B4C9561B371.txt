@@ -1,1 +1,1 @@
-1#explorer.exe#arm64_4069729756_3280896#protected: void __cdecl CTray::_RaiseDesktop(enum RAISEDESKTOPFLAGS)#165736#protected: void __cdecl CTray::_HandleGlobalHotkey(unsigned __int64,__int64)#748496
+1#explorer.exe#arm64_4069729756_3280896#protected: void __cdecl CTray::_RaiseDesktop(enum RAISEDESKTOPFLAGS)#165736
