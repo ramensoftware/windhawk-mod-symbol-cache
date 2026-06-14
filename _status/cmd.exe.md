@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9de56a...<!-- 9de56a89dd4691c883a873f259fdafae5d7ab8b8eefb624aa3d18ced325c8fe5 --> | 2026-06-09 | KB5095051 | 10.0.28000.2179 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/988108A470000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/3283F90DBFFCC399B30F344B07CC5BD91/cmd.pdb) |
 | 39b54d...<!-- 39b54da10e91f5372184bc5e8d44e30d739ae19c0931583557dbd4f809e3d40b --> | 2026-05-12 | KB5089548 | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/A7DA323170000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/426FB7364D58FB2D38C3794132BC81221/cmd.pdb) |
-| 213f56...<!-- 213f56032012e86c8c76f0b7f2f0fbaeb6699bff8a23a98bba09ca2e87654f83 --> | 2026-04-14 | KB5083768 | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/1DD35C2571000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/30784CC86559CC4D465F85C06008666D1/cmd.pdb) |
 
 ### 10.0.26100
 
@@ -16,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 75320a...<!-- 75320a519959cc6d089ea3eba33c38caccb7f138a025ea439bc9686cdb79ded4 --> | 2026-06-09 | KB5094126 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/E60CAC0671000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/8E252BA4C528242EDFCD55DC5CE7976D1/cmd.pdb) |
 | d5697f...<!-- d5697fef6995e992b9232a2b19665a297743427316c7225a5b772f0032f20fca --> | 2026-05-12 | KB5089549 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/9B21481C6f000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/052DB5FDA61206D4987978EB453E1AEA1/cmd.pdb) |
-| 14cc8a...<!-- 14cc8ab1dcf0d9f19e8fb82deb547cf8c462c56a0e43f7addc02641ab3c81651 --> | 2026-04-14 | KB5083769 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/E4E11C326f000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/057B5D6F347CDE9037A27FAD6F53E3341/cmd.pdb) |
 
 ### 10.0.22621
 
@@ -44,7 +42,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | bee69f...<!-- bee69f2218f6445ef15b53f85e2e7162cbbc52868bef9891af4f15e15b117fe2 --> | 2026-06-09 | KB5095051 | 10.0.28000.2179 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/2BC3E1F9cb000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/8001512BDBA4099381F592576097EF381/cmd.pdb) |
 | 2451ae...<!-- 2451ae1d01e07793756769c643db6ae9a41c7ab453bfffe71eb8c3bb98d8a5b6 --> | 2026-05-12 | KB5089548 | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/4C0EADEAcb000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/5C842EE1187CD9A5ECA38E172D8BD49F1/cmd.pdb) |
-| d1fcf6...<!-- d1fcf68bc8dce5137347d111bd5cb955a05c481075110bb382f360db35bacb2c --> | 2026-04-14 | KB5083768 | 10.0.28000.1761 | 10.0.28000.1761 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/498C436Fcb000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/0F2E9013AC0D9E88A4EFE4D01206B2051/cmd.pdb) |
 
 ### 10.0.26100
 
@@ -52,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c80f36...<!-- c80f36da6ba8233450e04699453f7781ff33d7cd509a468fd59c9040b57dd653 --> | 2026-06-09 | KB5094126 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/2F214534c7000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/D435670D32BCEB8C5754F5B3F9706BE61/cmd.pdb) |
 | e40511...<!-- e405112d99f801a85c913968621892368349ea59e3562401b7e48247bc784cfe --> | 2026-05-12 | KB5089549 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/4F52BFB4c4000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/0611E41CFB463B69C01940DA596CACD11/cmd.pdb) |
-| 663252...<!-- 663252914ca1d260ea570e1e20f023d4cbe3adf5dec8505e2fa497975a788144 --> | 2026-04-14 | KB5083769 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/85A5F845c4000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/AB40F9457FF89EC6B3A55E520D8D41B91/cmd.pdb) |
 
 ### 10.0.22621
 

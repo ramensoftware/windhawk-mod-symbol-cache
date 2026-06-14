@@ -7,7 +7,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b56a01...<!-- b56a0175c88f20e70687b757dc2777330a20aee8f9f4b86d3941e4d394442f25 --> | 2026-06-09 | KB5095051 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/F791D8BB31000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/950D3D553E146A8AA9802E47FF8A136D1/sysdm.pdb) |
-| 22edd6...<!-- 22edd65ce090ead541aada8efaf3a124c8824c1c5cb49237bc6399b03f8c00a2 --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1516 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/1E3D882C31000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/4B19D6008062BCC12A66F27EC01E8C391/sysdm.pdb) |
 
 ### 10.0.26100
 
@@ -40,7 +39,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 29fa07...<!-- 29fa07c81da8b3c267f4f9e85b5ad58616bcae29f5d2bfbc20fba65715380609 --> | 2026-06-09 | KB5095051 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/3A231C702f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/719A877F6FCAFE41678A7205165659C31/sysdm.pdb) |
-| 9768a8...<!-- 9768a83425d7c1bddc344e683f1254d6197c366ec4434eba8c4902fc8faa23bd --> | 2026-04-14 | KB5083768 |  | 10.0.28000.1516 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/C29A26372f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/3AAA14E40D169DAE76B2411B346AED391/sysdm.pdb) |
 
 ### 10.0.26100
 
