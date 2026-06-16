@@ -56,7 +56,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ca9371...<!-- ca93712273d62b162388531051b288214ac4523252be85fe0d6c4bd27144f974 --> | 2026-06-09 | KB5094126 |  | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/9BB19C4F11a000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/8C938ADEFE872134D251D6F4EF6817DE1/uxtheme.pdb) |
+| ca9371...<!-- ca93712273d62b162388531051b288214ac4523252be85fe0d6c4bd27144f974 --> | 2026-06-09 | KB5094126 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/9BB19C4F11a000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/8C938ADEFE872134D251D6F4EF6817DE1/uxtheme.pdb) |
 | 67d2a0...<!-- 67d2a0eb64712379efd34d8a98e3339bdd67ee0762b8bcc0e1ff8b339264f743 --> | 2026-05-12 | KB5089549 | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/54DB300111b000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/50F2F76BBC0684D974D9F5A6DC52D7D41/uxtheme.pdb) |
 | b4214c...<!-- b4214c86d6facb915f28b9683fccf27c2c52693dfd906c0fc1f3981fe154e098 --> | 2026-04-30 | KB5083631 |  | 10.0.26100.8328 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/A9A8DED2F23D63D3BA1151A6743EDF4B1/uxtheme.pdb) |
 
