@@ -1,1 +1,1 @@
-1#shell32.dll#x86-64_3997307287_7802880#int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#2991856
+1#shell32.dll#x86-64_3997307287_7802880#int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#2991856#__int64 __cdecl StubWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#2087344

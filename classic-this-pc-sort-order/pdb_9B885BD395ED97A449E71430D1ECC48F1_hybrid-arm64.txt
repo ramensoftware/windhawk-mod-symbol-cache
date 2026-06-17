@@ -1,1 +1,0 @@
-1;shell32.dll;arm64_2139224804_15220736;public: virtual long __cdecl CDrivesViewCallback::ShouldShow(struct IShellFolder *,struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMID_CHILD const __unaligned *);578240;CLSID_ControlPanel;12709416;CLSID_ControlPanelCategory;11859968

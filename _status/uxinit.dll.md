@@ -123,12 +123,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 790e10...<!-- 790e103fa9790f80a924fe4830ae04f3d7c7e21aeb674589b0596ebb22c7cfc1 --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/0164EFA128000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/132BF204922890DB31F051F1F45A72481/UXInit.pdb) |
 
-### 10.0.29570
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a3553e...<!-- a3553e0c7152ea63534c28d206fbbbb51d6f52c9f6fae6195f0b92b26eb804e8 --> | 2026-04-17 | 56c13762...<!-- 56c13762-cf6d-4597-ba11-d6ee9c20dbde --> | 10.0.29570.1000 | 10.0.29570.1000 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/1513F0DF28000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/0B27746A0AA14FA8FDD6C40552197F731/UXInit.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -146,8 +140,6 @@
 | 902650...<!-- 90265036cd1ce5ded4c0e7b45e3a74ec03586f39e43cf2287cede8a33cc30c7a --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
 | 2e1c17...<!-- 2e1c170c8500cd69f767de3b2a35386bac33d39bef807b9f103a332fa2fc7193 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/375664A52b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/BBAEF15A869B2F0CB8B7F638BEE4BFDA1/UXInit.pdb) |
 | fb6c08...<!-- fb6c087833042e22ead2eae4d0a40480b64ba93a7343cdca007b7753c2c74491 --> | 2026-05-08 | 6c23b160...<!-- 6c23b160-936e-4f50-8380-5848e404dea7 --> |  | 10.0.28000.1873 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/2B9B7F762b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/0FEA3FE9CEB54842FA4674CF45227E121/UXInit.pdb) |
-| 8939b1...<!-- 8939b1f3c2c669bf2be79c6120b71cf07ffec51aa76ac34d504adf8ea116a9e9 --> | 2026-04-17 | 1a10e53e...<!-- 1a10e53e-a491-45e9-990c-7172c6a265d1 --> |  | 10.0.28000.1890 | 🔴 | ❓ |
-| 07aa5a...<!-- 07aa5a21f94816055bacf4cdd0fcaccdaaa8e68977e6469623f8a4cf63720f20 --> | 2026-04-17 | c2e44ddc...<!-- c2e44ddc-1ddb-4dca-b8a6-f72aacd8407d --> |  | 10.0.28000.1812 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E0BE885D2b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/FAB3A7F2D5CFC505D26757F711FB31881/UXInit.pdb) |
 
 ### 10.0.26100
 
@@ -171,7 +163,6 @@
 | fa2e33...<!-- fa2e33c96da4b22cdabf4521835f1338359a45e88bd511d9df1e39cec00f22d3 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/8069D42B29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/0414C3F58D1D530C4B797B4AAF118F771/UXInit.pdb) |
 | a13c40...<!-- a13c4047de523c7ae2a97b1a1c32f71b94acc87fd4ec6cae05da24aed42d324e --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> |  | 10.0.26100.8170 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/B70DA5B229000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/F47F401D871D8502BDA5265B9EE102221/UXInit.pdb) |
 | e190bc...<!-- e190bc23565910ed675c4d1b14a5e88b820e18f34fd855a0b034dbeb0d92dda1 --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> |  | 10.0.26100.8165 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/12F632B129000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/2FF376469B9435C329E2FC698544C2481/UXInit.pdb) |
-| 7fa383...<!-- 7fa3838de05a8cb315f0354aa9138776a3a60fb399e3613a89cf066f2f4b4f38 --> | 2026-04-17 | 038c7416...<!-- 038c7416-2aa2-4174-85a2-158aa9b11289 --> |  | 10.0.26100.8313 | 🔴 | ❓ |
 
 ### 10.0.22621
 

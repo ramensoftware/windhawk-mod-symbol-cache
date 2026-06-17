@@ -1,1 +1,1 @@
-1;shell32.dll;arm64_1666533802_15470592;int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *);2336552
+1;shell32.dll;arm64_1666533802_15470592;int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *);2336552;__int64 __cdecl StubWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);1504000

@@ -1,0 +1,1 @@
+1;twinui.pcshell.dll;arm64_4061561252_21057536;public: bool __cdecl ImmersiveMonitorHelper::ConnectToMonitor(struct HWND__ *,struct tagPOINT);1301664;public: long __cdecl ImmersiveMonitorHelper::AdjustMonitorConnectedIfNeeded(void);4122312

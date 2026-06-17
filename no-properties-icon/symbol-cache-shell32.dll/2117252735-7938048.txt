@@ -1,1 +1,1 @@
-1#2117252735#7938048#int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#3057036
+1#2117252735#7938048#int __cdecl _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#3057036#__int64 __cdecl StubWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#1614656

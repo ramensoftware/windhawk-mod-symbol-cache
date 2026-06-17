@@ -1,1 +1,0 @@
-1#2973509024#3207168#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#

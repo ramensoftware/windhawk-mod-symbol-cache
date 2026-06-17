@@ -117,12 +117,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 659ac0...<!-- 659ac02b72d404a74b547b95ca81c5145e78d1042e046e941a5cacee9fd748b4 --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/41FC63B12d2000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/B07D6014A29257F76D5908C3598668231/ExplorerFrame.pdb) |
 
-### 10.0.29570
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c762c8...<!-- c762c8cea61cc53f67fa8d7f5d06c86047d8f5ade44ef29afa24d33ac1bbd675 --> | 2026-04-17 | 56c13762...<!-- 56c13762-cf6d-4597-ba11-d6ee9c20dbde --> | 10.0.29570.1000 | 10.0.29570.1000 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/01748C442d0000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/0C52D2B3CBABE757F96EF6092534AC841/ExplorerFrame.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -142,8 +136,6 @@
 | fb1192...<!-- fb11920ba4f67604d79ea0dc2ba873f976676166919c8d5d60efb19f501e173e --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/CE64567E2df000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/9D6771EE35F8C74DA248099D2FC578591/ExplorerFrame.pdb) |
 | 945b76...<!-- 945b76dc0d0e7480f172833e27c8b98c4cd59ffb5bd12d2ec2432100eafe8851 --> | 2026-05-08 | 6c23b160...<!-- 6c23b160-936e-4f50-8380-5848e404dea7 --> |  | 10.0.28000.2075 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/34B62A652e0000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/BD42EC4BC785080CD18D954D2B0235FF1/ExplorerFrame.pdb) |
 | 861012...<!-- 861012ec1e9de4d7db4a0aeff3214a2af115d5cee8e6b8a8aed0bd2d73490812 --> | 2026-05-01 | 7d43e9fd...<!-- 7d43e9fd-b51d-462c-9700-99c64447d119 --> |  | 10.0.28000.1873 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/58F58F6F2df000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/0289D82E1BF599950C0EEBFAA5FC971F1/ExplorerFrame.pdb) |
-| 17a9b4...<!-- 17a9b4a992565042fb3027542273f3e3406970d1d9135dd5b355525a88e9d245 --> | 2026-04-17 | 1a10e53e...<!-- 1a10e53e-a491-45e9-990c-7172c6a265d1 --> |  | 10.0.28000.1890 | 🔴 | ❓ |
-| 8b4cc6...<!-- 8b4cc6ac699754655f58d857776569566fcd58f23c61a2ae3cceb12f23674aa8 --> | 2026-04-17 | c2e44ddc...<!-- c2e44ddc-1ddb-4dca-b8a6-f72aacd8407d --> |  | 10.0.28000.1863 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/A90A6E4B2df000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/4DD8599B15476499EDBF666EF4A413A71/ExplorerFrame.pdb) |
 
 ### 10.0.26100
 
@@ -173,9 +165,6 @@
 | 55139b...<!-- 55139bd1c6f7fdc6a463ec5ae161b327f159dbb336289d70a288fc7901dff87c --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/B2AFA62B2e6000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/216177BCDEB0393701AFEDAE6EBFD9FD1/ExplorerFrame.pdb) |
 | 7137ce...<!-- 7137ce23640e4bef89468d40d43ff6709e0bf6ff5df9998c3ef07569baaad3f0 --> | 2026-04-24 | 68a83d5d...<!-- 68a83d5d-1488-4519-87ef-6009eb03d1fc --> |  | 10.0.26100.8289 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/B28631312eb000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/47CB6D10C216B56CF1E7F2C60EA10D4B1/ExplorerFrame.pdb) |
 | 302c6c...<!-- 302c6c7d8de95858cd50882f24bb80e0aee59b21796c3e6938091561c9cf39c6 --> | 2026-04-24 | cd113f65...<!-- cd113f65-3026-488f-b258-94ceba1d208d --> |  | 10.0.26100.8283 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/189BC0BF2eb000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/297F11B86CE0ACF27477F3B01536F65B1/ExplorerFrame.pdb) |
-| 7a5b82...<!-- 7a5b82edb340ebf6012d608c54af663b82ac42518a62992bdc3e85f47aa16e0c --> | 2026-04-17 | 038c7416...<!-- 038c7416-2aa2-4174-85a2-158aa9b11289 --> | 10.0.26100.8313 | 10.0.26100.8313 | [🔴](https://msdl.microsoft.com/download/symbols/explorerframe.dll/0CEB25D32e6000/explorerframe.dll) | ❓ |
-| 7977fa...<!-- 7977fad54f872df26b8b2fa5f5bbba1c3bc71379279d7c90d9fdba446b43e0d5 --> | 2026-04-17 | 5941633b...<!-- 5941633b-aa48-42eb-91e0-245ef51bdb9c --> |  | 10.0.26100.8276 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/63E7E1852e6000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/6B3073510668E846E714484E7E0DDA201/ExplorerFrame.pdb) |
-| c6129f...<!-- c6129f850ee47c62bed738eefb76bc4f7cb084c14a53209259d961756ef9668c --> | 2026-04-17 | 4f156928...<!-- 4f156928-0000-42e0-9392-2cae59ab9f9f --> |  | 10.0.26100.8271 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/5CB698FA2e6000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/E0F269E3C264008FEB3D24C7FEB873A11/ExplorerFrame.pdb) |
 
 ### 10.0.22621
 

@@ -86,12 +86,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 230710...<!-- 230710439f9f71283c40ffa61b628f6ac4f2dc4c2c3ca7fbbd72d1ad59566120 --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/6A7D2CFB48000/dinput8.dll) | ❓ |
 
-### 10.0.29570
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b09420...<!-- b0942053c5de2f26f6a029acdb109197cb6a45b3b4e66e7ce3d68482ebef853c --> | 2026-04-17 | 56c13762...<!-- 56c13762-cf6d-4597-ba11-d6ee9c20dbde --> | 10.0.29570.1000 | 10.0.29570.1000 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/9693984348000/dinput8.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -104,7 +98,6 @@
 | 868453...<!-- 868453972f19961206c59033dbb39d473cd3194e4a8f4484af3f943bc3ea5f4e --> | 2026-06-12 | 229e9adb...<!-- 229e9adb-7829-4524-978d-7b5fe79263e3 --> | 10.0.28000.1 | 10.0.28000.1 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/CE27D1754b000/dinput8.dll) | ❓ |
 | 2fc753...<!-- 2fc753c1ef918829fd20c3ef74a5a5d99db652c37ec804ec871415793c7a2d23 --> | 2026-06-09 | 413372f8...<!-- 413372f8-51db-4ea1-970a-8dce91db00aa --> |  | 10.0.28000.1896 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/4BE7CF414b000/dinput8.dll) | ❓ |
 | b9e615...<!-- b9e615e989984360bc75748ad98ff5863e6de5e6915533582740e8bdd01a33bf --> | 2026-06-08 | 9de97840...<!-- 9de97840-1a6e-4241-b83b-56c8470d9cd7 --> | 10.0.28000.1743 | 10.0.28000.1743 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/6881985E4b000/dinput8.dll) | ❓ |
-| ab662a...<!-- ab662a337d802a08cb9eeb6ce2c61434d3c1de71acf9c8dbb31caaac04b56804 --> | 2026-04-17 | 1a10e53e...<!-- 1a10e53e-a491-45e9-990c-7172c6a265d1 --> |  | 10.0.28000.1890 | ❓ | ❓ |
 
 ### 10.0.26100
 
