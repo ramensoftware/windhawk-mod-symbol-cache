@@ -39,7 +39,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | db29a4...<!-- db29a4aba8f4ecaa121604f13acac0b37c4d9ef7dff67a6ff368607c09ba4351 --> | 2026-06-09 | KB5094122 | 10.0.14393.9140 | 10.0.14393.9140 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/69FB54291a8000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/2AA0DAA715674FB399027571CD31AA541/DUI70.pdb) |
-| 8bf99f...<!-- 8bf99f7fa20e06608dabf7995370e8dbce2d3c941747b3b44168a182d7c1cae1 --> | 2026-04-19 | KB5091572 | 10.0.14393.9060 | 10.0.14393.9060 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/69DBD4A31a8000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/5A78298EAB754E29B0F82AEE4440E8AA1/DUI70.pdb) |
 
 ## ARM64 (release builds)
 

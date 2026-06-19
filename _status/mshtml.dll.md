@@ -35,7 +35,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | f9201f...<!-- f9201fdda3f99e53c2f1c3704bc9a57e9893c93d36dbce466116c527d6d92d91 --> | 2026-06-09 | KB5094123 |  | 11.0.17763.8880 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/F998FEDE1681000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/498BC16C7B5A1301F3C8556D02E0A4AC1/mshtml.pdb) |
 | 139f63...<!-- 139f63173da723e6d99df15c30e97beb67882377b1acb87987b7cddc8d02644d --> | 2026-05-12 | KB5087538 | 11.00.17763.8755 | 11.0.17763.8755 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/3A32B4FA1681000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/959FE637CBA340E267A5B28655C90D881/mshtml.pdb) |
-| 90f686...<!-- 90f68632e346e49c4ccd19c418fad8f780a2d41ea8ebaf10ed1cd72e3b1552e9 --> | 2026-04-19 | KB5091573 | 11.00.17763.8641 | 11.0.17763.8641 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/50DF171B1681000/mshtml.dll) | ❓ |
 
 ### 11.0.14393
 
@@ -43,7 +42,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 8edd8a...<!-- 8edd8a26079c90a36f789ba983ed382597116750aa5f9dd276306437daea7fe5 --> | 2026-06-09 | KB5094122 | 11.00.14393.9234 | 11.0.14393.9234 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/6A23A55116ba000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/12A827831F4B40A2A0820638081CCD651/mshtml.pdb) |
 | 04330b...<!-- 04330bdda78fb082d5949b94002458436f62e79b07196c843fe93da137ae0669 --> | 2026-05-12 | KB5087537 | 11.00.14393.9140 | 11.0.14393.9140 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/69FB556D16bb000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/EB6EF7935F0449BBA7EBB9B70B2328BC1/mshtml.pdb) |
-| ce0ae9...<!-- ce0ae9a13e3f248630633d7e75b4eb090cb3b8f574a9202f01bf02379f731593 --> | 2026-04-19 | KB5091572 | 11.00.14393.9060 | 11.0.14393.9060 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/69DBD61A16bb000/mshtml.dll) | ❓ |
 
 ## ARM64 (release builds)
 
