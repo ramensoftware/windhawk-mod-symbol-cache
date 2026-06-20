@@ -1,0 +1,1 @@
+1#3441820536#3219456#public: long __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#320164#public: void __cdecl TrayUI::_SetStuckMonitor(struct HMONITOR__ *)#

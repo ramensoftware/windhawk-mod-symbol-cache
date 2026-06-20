@@ -1,0 +1,1 @@
+1#2644201209#5517312#public: bool __cdecl RunTimeSettings::IsServer(void)#359872
