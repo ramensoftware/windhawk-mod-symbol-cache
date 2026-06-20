@@ -136,8 +136,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| d0e910...<!-- d0e9105cfa25d082c5c9920e033abf11d7c8eb2725dc9e13db771c6c92c584a4 --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> |  | 10.0.28000.2315 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/545ADFB318DC7C9796A53E2E568965721/dwmcore.pdb) |
+| 93cf52...<!-- 93cf529c49a94a87927203c1241fb4f6e035a59d291428cee5c350bea2babdec --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/DEFD4CC4413000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/14BD81D0E23008E7EECE589B8D29E6EA1/dwmcore.pdb) |
 | 7df512...<!-- 7df51264d65b09dfe0341e3a902ea0d4692cd47c66770fc3e57f59edb09b0cd4 --> | 2026-06-19 | 67081123...<!-- 67081123-2436-4e87-b455-d12222ebe016 --> |  | 10.0.28000.2307 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/137A0C86C6C024F1BD298BBE6D33FBCF1/dwmcore.pdb) |
-| 93cf52...<!-- 93cf529c49a94a87927203c1241fb4f6e035a59d291428cee5c350bea2babdec --> | 2026-06-19 | 67081123...<!-- 67081123-2436-4e87-b455-d12222ebe016 --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/DEFD4CC4413000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/14BD81D0E23008E7EECE589B8D29E6EA1/dwmcore.pdb) |
 | 5da1cc...<!-- 5da1cc8dc167bd30bb16be6afa6fcdfde85e630b841b56ceac05a2cca04f086a --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2155 | 🔴 | ❓ |
 | 22f312...<!-- 22f312de0c01ea403e74888a5e6f65b1b774030395e6b7ba3b33fd6ca0955e97 --> | 2026-06-12 | 229e9adb...<!-- 229e9adb-7829-4524-978d-7b5fe79263e3 --> |  | 10.0.28000.2333 | 🔴 | ❓ |
 | 57cb4f...<!-- 57cb4f6350c69ac70a7a7f86759ac8a47dd0eb0c1747ea7ce568cbb4c10a0978 --> | 2026-06-12 | 229e9adb...<!-- 229e9adb-7829-4524-978d-7b5fe79263e3 --> |  | 10.0.28000.2330 | 🔴 | ❓ |

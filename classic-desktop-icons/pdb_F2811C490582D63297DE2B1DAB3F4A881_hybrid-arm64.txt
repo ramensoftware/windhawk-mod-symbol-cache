@@ -1,0 +1,1 @@
+1;comctl32.dll;arm64_3800366622_4739072;private: void __cdecl CLVDrawManager::_PaintWorkArea(struct HDC__ *,struct tagRECT const *);909920;public: void __cdecl CLVSelectionManager::DragSelect(int,int);925808;public: bool __cdecl CListView::IsDoubleBuffer(void)const ;329832
