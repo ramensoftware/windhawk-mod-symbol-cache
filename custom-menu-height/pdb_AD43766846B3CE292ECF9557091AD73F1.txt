@@ -1,0 +1,1 @@
+1#monotificationux.exe#arm64_15255200_696320#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#

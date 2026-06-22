@@ -19,7 +19,9 @@
 | [explorerextensions.dll](explorerextensions.dll.md) |
 | [explorerframe.dll](explorerframe.dll.md) |
 | [fileexplorerextensions.dll](fileexplorerextensions.dll.md) |
+| [monotificationux.exe](monotificationux.exe.md) |
 | [mshtml.dll](mshtml.dll.md) |
+| [museuxdocked.dll](museuxdocked.dll.md) |
 | [narrator.exe](narrator.exe.md) |
 | [notepad.exe](notepad.exe.md) |
 | [ntdll.dll](ntdll.dll.md) |
@@ -29,6 +31,8 @@
 | [rundll32.exe](rundll32.exe.md) |
 | [searchux.ui.dll](searchux.ui.dll.md) |
 | [securityhealthsso.dll](securityhealthsso.dll.md) |
+| [securityhealthssoudk.dll](securityhealthssoudk.dll.md) |
+| [securityhealthsystray.exe](securityhealthsystray.exe.md) |
 | [shell32.dll](shell32.dll.md) |
 | [shlwapi.dll](shlwapi.dll.md) |
 | [sndvol.exe](sndvol.exe.md) |

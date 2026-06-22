@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_3590918827_5586944#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#3002160
