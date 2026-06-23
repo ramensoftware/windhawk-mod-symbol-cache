@@ -1,0 +1,1 @@
+1#2789694595#802816#public: void __thiscall RegEdit::Navigate(void)#47772
