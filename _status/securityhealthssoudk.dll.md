@@ -92,12 +92,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c0152a...<!-- c0152a4b61d61c9bedb3f87ed86e4cc621da431a1fce6f9f7c0036cec98f9676 --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 10.0.29580.1000 | 10.0.29580.1000 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/7079EE791b000/securityhealthssoudk.dll) | ❓ |
 
-### 10.0.29576
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 07721a...<!-- 07721a5b5b6c9fdfb9cc70a7283025e649044bf3584c8b0f9b182061bb0f8981 --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/9215DBB51b000/securityhealthssoudk.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

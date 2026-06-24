@@ -118,12 +118,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 549f6e...<!-- 549f6e7eb1c9eb3f842d9aff50984fd64560d66f96def7c650710145fc658a9b --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 10.0.29580.1000 | 10.0.29580.1000 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/BB1CDAB743000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/98DC95B66B3D5DD2A42B0D4E587FC18C1/authui.pdb) |
 
-### 10.0.29576
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 900657...<!-- 900657cea90b7b672db078f6244e3219901221b0ded221c512dd574a98ac0e7b --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/636AB1FF43000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/5A7282FD4F4A7C0FE42DC327703AAEFE1/authui.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -171,8 +165,6 @@
 | a91c68...<!-- a91c680e43d579ef8702f9c2f3c5ee607beb06e0c7473652d8dbe5c3d96e8294 --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> |  | 10.0.26100.8346 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/832E41E643000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/B76BD452B0407D88FF13DF6B439465D51/authui.pdb) |
 | 218657...<!-- 21865745aac6e2674b664b9f9661e7d8e0361ffeba43599fd3b1d48b059994cb --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> |  | 10.0.26100.8340 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/1522DDB043000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/9F117D9B1ED432E3E05295C4F1AF227A1/authui.pdb) |
 | 811605...<!-- 8116053396369d4f4c480a3b5ec4d43c6900818163322effe82dd3132cf425d7 --> | 2026-04-30 | 4949cbc1...<!-- 4949cbc1-234b-421f-9cc8-2128aaa46edf --> | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/05188E1543000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/037B8BD1BC0666B1D16D42BE67B3D9521/authui.pdb) |
-| 5bcd94...<!-- 5bcd9485e1bdeb0b91d0a877b4a830d4a10d0af3a6773d44d83ab2e47a261565 --> | 2026-04-24 | cd113f65...<!-- cd113f65-3026-488f-b258-94ceba1d208d --> |  | 10.0.26100.8283 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/D79CB16044000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/1ED864A54071FD86AD5348853406DEC21/authui.pdb) |
-| 2efdb8...<!-- 2efdb840e23456c132de2de9ccc4a1e9325d3a0857960418dfa826d43510371f --> | 2026-04-24 | 68a83d5d...<!-- 68a83d5d-1488-4519-87ef-6009eb03d1fc --> |  | 10.0.26100.8170 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/39FECAE144000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/CF4EDE3BF85790845011A7A9462F5E2F1/authui.pdb) |
 
 ### 10.0.22621
 

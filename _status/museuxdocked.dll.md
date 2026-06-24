@@ -92,12 +92,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 20d2f7...<!-- 20d2f7568a76848e5acade3888392a6facc739afacb36c3263b950ef8f413ca9 --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 10.0.29580.1000 | 10.0.29580.1000 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/D98DCC231b000/museuxdocked.dll) | ❓ |
 
-### 10.0.29576
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6b08c0...<!-- 6b08c0a977f49d6bd02f84729e74f17c403fcf4263cf1599422543858220b7a4 --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/B1CC7DC61b000/museuxdocked.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

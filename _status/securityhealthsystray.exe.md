@@ -102,12 +102,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 2d5387...<!-- 2d538798863e45eb14889ec5f346813f9cf34a2148295d33ccb72711c3350264 --> | 2026-05-01 | ff3415b7...<!-- ff3415b7-aa40-403a-b0f4-5e51d54a0de0 --> | 10.0.29580.1000 | 10.0.29580.1000 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/0365E18A30000/securityhealthsystray.exe) | ❓ |
 
-### 10.0.29576
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3818ce...<!-- 3818ce50c0821dd628c4cb1ab3fe1a8a9fb0eab9d924a8a5051a22a2dafa452a --> | 2026-04-24 | 1528d8b3...<!-- 1528d8b3-0d3c-4f26-8f5c-18d5d525532c --> | 10.0.29576.1000 | 10.0.29576.1000 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/E83111E630000/securityhealthsystray.exe) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -1,1 +1,0 @@
-1#shell32.dll#x86_1901834890_6606848#int __stdcall _SetPropertySheetIcon(struct IDataObject *,struct _ITEMIDLIST_ABSOLUTE *,struct _PROPSHEETHEADERW_V2 *)#3589696#long __stdcall StubWndProc(struct HWND__ *,unsigned int,unsigned int,long)#3113888
