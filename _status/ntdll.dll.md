@@ -83,6 +83,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29617
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| a3ebc2...<!-- a3ebc25873af7cf9fc067138d7c99b8be3838d83820c4b2e2e28c8355fccf502 --> | 2026-06-26 | f7fcb055...<!-- f7fcb055-e79b-4095-a4b1-2cea9a32ba4d --> | 10.0.29617.1000 | 10.0.29617.1000 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/2DF9EB49265000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/3B883B7E87BB465A8F4FB641EBD2DB2B1/ntdll.pdb) |
+
 ### 10.0.29613
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -159,14 +165,15 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 603c71...<!-- 603c7171deac043e55e4fdc46cd258e841337b525c5319c87797f83a99c09475 --> | 2026-06-26 | 8f247bc8...<!-- 8f247bc8-f5ba-4467-ac18-8a9d87e9f6d0 --> |  | 10.0.26100.8758 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/612E2CB1124C60049161C5B704B31F6C1/ntdll.pdb) |
+| 4ff9b1...<!-- 4ff9b145880df072a57e55716cb5e9dd1776141f19072625e486730fe6d8d311 --> | 2026-06-26 | 8f247bc8...<!-- 8f247bc8-f5ba-4467-ac18-8a9d87e9f6d0 --> | 10.0.26100.8697 | 10.0.26100.8697 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/75633DBE266000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/0C27700C8F46A835F4CFFADCF9FA1CD61/ntdll.pdb) |
+| 05c6fd...<!-- 05c6fda184c2e357d023b12c161ad62639aa656227c082f3a5cf7a6b46e98522 --> | 2026-06-26 | 8f247bc8...<!-- 8f247bc8-f5ba-4467-ac18-8a9d87e9f6d0 --> |  | 10.0.26100.1743 | 🔴 | ❓ |
+| 0d1f4f...<!-- 0d1f4fa508087cb9e420def7a29d5d41ebdef6b166254d00922eb85a3ac44782 --> | 2026-06-26 | 8f247bc8...<!-- 8f247bc8-f5ba-4467-ac18-8a9d87e9f6d0 --> | 10.0.26100.2 | 10.0.26100.2 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/6ECBEEA1255000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/635F7828FA46DCC65D520528797FE2E61/ntdll.pdb) |
 | e50952...<!-- e5095254aa74a9195c46c8ecf35f6076c79f775592b397e597575eb807db43ac --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/7B64C48F266000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/160B530311E6D1FD60940620A15E50F01/ntdll.pdb) |
 | 4dfbbd...<!-- 4dfbbd3d58225196603c6e61a9a61a7f71b9712ee63c79431998e51b393b63e6 --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/B97E84A2263000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/219D0663E9DBAD581E64D9EC8618F5421/ntdll.pdb) |
 | 473a02...<!-- 473a02e37fd071620029c844ed3df71646b18208d8806e33e00ddd72e908534f --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/7F327B0F255000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/FF23FE26A9A059D3AB8CDC9EF7F284F41/ntdll.pdb) |
-| 4ff9b1...<!-- 4ff9b145880df072a57e55716cb5e9dd1776141f19072625e486730fe6d8d311 --> | 2026-06-19 | 3ba75aca...<!-- 3ba75aca-e2a3-469b-893f-f84f9bc23af3 --> | 10.0.26100.8697 | 10.0.26100.8697 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/75633DBE266000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/0C27700C8F46A835F4CFFADCF9FA1CD61/ntdll.pdb) |
 | d085f9...<!-- d085f921817e4aa4a5a0c963db1cdb3bacbecea5f8042212f24fe779be860338 --> | 2026-06-19 | 3454ed2d...<!-- 3454ed2d-2ed8-4ce1-af37-35b27924a39a --> | 10.0.26100.8690 | 10.0.26100.8690 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/357146C7266000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/B418049710ADDD4C86D00E06BAD300E81/ntdll.pdb) |
 | 5094bb...<!-- 5094bb4a73bea8642943e0ffb386b893b3cc1a9b199236d41cb06b76f5a5b931 --> | 2026-06-19 | 3454ed2d...<!-- 3454ed2d-2ed8-4ce1-af37-35b27924a39a --> |  | 10.0.26100.8678 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/F8AA8F3A266000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/0DAC3E03B4DF354CEEFE13E8ABE9AEDF1/ntdll.pdb) |
-| 05c6fd...<!-- 05c6fda184c2e357d023b12c161ad62639aa656227c082f3a5cf7a6b46e98522 --> | 2026-06-19 | 3454ed2d...<!-- 3454ed2d-2ed8-4ce1-af37-35b27924a39a --> |  | 10.0.26100.1743 | 🔴 | ❓ |
-| 0d1f4f...<!-- 0d1f4fa508087cb9e420def7a29d5d41ebdef6b166254d00922eb85a3ac44782 --> | 2026-06-19 | 3454ed2d...<!-- 3454ed2d-2ed8-4ce1-af37-35b27924a39a --> | 10.0.26100.2 | 10.0.26100.2 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/6ECBEEA1255000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/635F7828FA46DCC65D520528797FE2E61/ntdll.pdb) |
 | 07400b...<!-- 07400ba2346d2b187c178d022c55eab298a0ae22c89c8d77f839b3cb4de0bcb6 --> | 2026-06-12 | c67fc453...<!-- c67fc453-ef0f-47a4-8876-3de4aaa0a2dc --> | 10.0.26100.8728 | 10.0.26100.8728 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/F7771C03266000/ntdll.dll) | ❓ |
 | deec2e...<!-- deec2edd4161b7d05bb1f0e48e935f7d023cf9da4e3d8dad832036ce8104151d --> | 2026-06-12 | c67fc453...<!-- c67fc453-ef0f-47a4-8876-3de4aaa0a2dc --> |  | 10.0.26100.8727 | 🔴 | ❓ |
 | c5fb58...<!-- c5fb582419f439a7f432e31ced5da481958216162351435e41f7f5264a1b49c7 --> | 2026-06-12 | 8da7b1d1...<!-- 8da7b1d1-905c-47d9-826f-d97710dd886e --> | 10.0.26100.8687 | 10.0.26100.8687 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/D6486026266000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/36D7CBA301364CB4C81E358F08AEEDCB1/ntdll.pdb) |
