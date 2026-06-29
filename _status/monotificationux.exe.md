@@ -31,7 +31,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7285ff...<!-- 7285fffa6c8b97c734067507125cd4e662d273c437d3555230ba11b330fa0207 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/7E900263b3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/69992191D3924D7C7DD9766385CB0B9A1/MoNotificationUx.pdb) |
+| 7285ff...<!-- 7285fffa6c8b97c734067507125cd4e662d273c437d3555230ba11b330fa0207 --> | 2026-06-23 | KB5095091 | 1507.2605.4052.0 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/7E900263b3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/69992191D3924D7C7DD9766385CB0B9A1/MoNotificationUx.pdb) |
 | c6784c...<!-- c6784ca20c3c843bd5cb50846606e860aa2924c26183da4e72a6a30fa6dcd2e3 --> | 2026-06-09 | KB5095051 | 1507.2604.4012.0 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/C8EC72FBb3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/92FB6ECF2AF2448ED0B0950EF9DC83341/MoNotificationUx.pdb) |
 | 644a01...<!-- 644a012eeab1b2029a76bc02406eee41bad1f41861ae472c3392043469fcb7d7 --> | 2026-05-12 | KB5089548 | 1507.2603.10052.0 | 10.0.28000.1896 | [🔴](https://msdl.microsoft.com/download/symbols/monotificationux.exe/56C775EFb3000/monotificationux.exe) | ❓ |
 
