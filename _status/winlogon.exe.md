@@ -19,7 +19,6 @@
 | 66ff0b...<!-- 66ff0b98a0937bb267e6340d9aa3bdec655d5de05c41953664c72ad3f88c2974 --> | 2026-06-09 | KB5094126 | 10.0.26100.8655 | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/FC76723Aec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/66A54F88CA7342836D9EC4E300A507011/winlogon.pdb) |
 | 6e2fda...<!-- 6e2fda71d530ae04ace30dca6746956cf94516eb6a3df65fe93db26798f57f3f --> | 2026-05-26 | KB5089573 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/15C2683Fec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/F6DE3716BF70B640F0D1520ED4B859211/winlogon.pdb) |
 | e579f1...<!-- e579f1e918191d60b216adb6047fd1e06325ac5d3c853c0ec091db33388db468 --> | 2026-05-12 | KB5089549 | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/BE88072Cec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/60A50596282712EACB663DC00B384D6C1/winlogon.pdb) |
-| b19daa...<!-- b19daad96b5462aef7e91bdf962df1dcd150c3224a76101bf8a66891df261cd2 --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/1F7C464Dec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/D573594338E70AE75BB18FAE2F6FC9531/winlogon.pdb) |
 
 ### 10.0.22621
 
@@ -68,7 +67,6 @@
 | 02ef6a...<!-- 02ef6a70879484edfd38a709193668912e3179c2471dd7e3d8f78c8a74b17009 --> | 2026-06-09 | KB5094126 | 10.0.26100.8655 | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/812E9065d8000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/BF49424138755CDFB456B6F5683FB35F1/winlogon.pdb) |
 | a9fe0d...<!-- a9fe0d5890f5c540c5e929e50bf9d44d1928b428cb2112389ac81cca79691d60 --> | 2026-05-26 | KB5089573 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/9089FF03d8000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/BE18AC8652DD70C0AC79484F6C63341B1/winlogon.pdb) |
 | 4c9a22...<!-- 4c9a221b93676ed8fac3de2cefa24ff948cce156b03c69ba44ba72efc6f88abc --> | 2026-05-12 | KB5089549 | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/B1EE139Bd8000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/68516DE82AD1DB271BF6E403144437BA1/winlogon.pdb) |
-| a2a64d...<!-- a2a64deadd67b32a97fdc7c264a458b5a367b37c488dcd876ba8856242efec99 --> | 2026-04-30 | KB5083631 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/5E146C51d8000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/FC8A8A18E52CF2DEB6B85BED9C91EBAB1/winlogon.pdb) |
 
 ### 10.0.22621
 
