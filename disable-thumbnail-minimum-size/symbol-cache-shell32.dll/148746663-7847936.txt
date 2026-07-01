@@ -1,1 +1,0 @@
-1#148746663#7847936#unsigned int __cdecl GetThumbnailCutoffFromType(unsigned short const *)#
