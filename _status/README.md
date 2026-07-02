@@ -22,6 +22,7 @@
 | [monotificationux.exe](monotificationux.exe.md) |
 | [mshtml.dll](mshtml.dll.md) |
 | [museuxdocked.dll](museuxdocked.dll.md) |
+| [musnotifyicon.exe](musnotifyicon.exe.md) |
 | [narrator.exe](narrator.exe.md) |
 | [notepad.exe](notepad.exe.md) |
 | [ntdll.dll](ntdll.dll.md) |
@@ -51,6 +52,7 @@
 | [udwm.dll](udwm.dll.md) |
 | [uiribbon.dll](uiribbon.dll.md) |
 | [user32.dll](user32.dll.md) |
+| [usoapi.dll](usoapi.dll.md) |
 | [uxinit.dll](uxinit.dll.md) |
 | [uxtheme.dll](uxtheme.dll.md) |
 | [van.dll](van.dll.md) |

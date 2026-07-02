@@ -1,0 +1,1 @@
+1#usoapi.dll#x86_102592221_110592#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#
