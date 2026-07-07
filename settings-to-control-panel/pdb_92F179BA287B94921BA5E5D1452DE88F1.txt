@@ -1,0 +1,1 @@
+1#shell32.dll#x86_783279904_6574080#bool __stdcall CDevicesAndPrintersFolder::_HandleContextMenu(struct HMENU__ *,unsigned int)#
