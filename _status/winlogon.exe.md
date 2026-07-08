@@ -120,12 +120,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 8e7295...<!-- 8e7295feb06e90602da60f3a09cdc187cc526bd9ddf8da701a1dd8757a50248a --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/ADB2164Ae2000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0974AA12C2D8C71E95EF2831E4315DA81/winlogon.pdb) |
 
-### 10.0.29585
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f6b574...<!-- f6b574842b3d1787635a0ea6285d7b8a89a65f37c6e8c286a643b2ee10126ca3 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/3E9E4E10e9000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/977DE3663BD14A84186BD2E22313CFB11/winlogon.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -155,7 +149,6 @@
 | 3e5006...<!-- 3e50067820933b5a7bee13449e37880a15f961d749b7e95b953c2b4eb6e9ef1c --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
 | 4af39c...<!-- 4af39c9333ebe4db1ffb5de967afc2d7eb8b4bed747cb58ee3aae4959725b090 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.2110 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/8C652418eb000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/8A53F03CD0E66185FB783E7EC05B43A11/winlogon.pdb) |
 | e0b94a...<!-- e0b94ac329fba0b9849779d1afb213441d1c0af06163e8aa0f51cd0e832f4300 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/5C904AAAeb000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/5EB1D63709E849012909C822E7B85EC31/winlogon.pdb) |
-| e7e1e2...<!-- e7e1e2f8aca599ebfa112de2860d3bcb501336ada7a6b75a352aa0bc6653989c --> | 2026-05-08 | 6c23b160...<!-- 6c23b160-936e-4f50-8380-5848e404dea7 --> |  | 10.0.28000.2075 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/67CA502Cec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/938722880B2CDBDA128CB9838E74B5661/winlogon.pdb) |
 
 ### 10.0.26100
 
@@ -190,8 +183,6 @@
 | 6badec...<!-- 6badec028c9bb043e790867a82c3c61dfd3ff17632e2abdf74d19f6f777c4fd0 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8455 | 10.0.26100.8455 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/9F1C2454ec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/539424ECABBA0C561853DD5CC5FA7BD11/winlogon.pdb) |
 | e579f1...<!-- e579f1e918191d60b216adb6047fd1e06325ac5d3c853c0ec091db33388db468 --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/BE88072Cec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/60A50596282712EACB663DC00B384D6C1/winlogon.pdb) |
 | 934721...<!-- 93472128178519b89b665aca46602596017c92d5237a6e48ea2c0d9cd54056ba --> | 2026-05-12 | 0d2cde6d...<!-- 0d2cde6d-8a1b-4bb4-bc9d-047bc0c1f915 --> | 10.0.26100.8235 | 10.0.26100.8235 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/342362B8ec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/917B6D9A60F252147F3B5BB7158E9DEA1/winlogon.pdb) |
-| 9454b7...<!-- 9454b70132fbed07adcd18aa35bd2476ac0e1c88879e9fb8279a0e9828d09e2d --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> | 10.0.26100.8376 | 10.0.26100.8376 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/7E86C13Aed000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/214C06FB8793D4E9EAB2CB2B65239FB11/winlogon.pdb) |
-| 0a9138...<!-- 0a91388db4afc83d63882a1ceb7be9edb2faaa6d828133d25943b28bf297217b --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> | 10.0.26100.8367 | 10.0.26100.8367 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/1D84AE8Bed000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/4DCA0358D9447F7A1A98533BAB83CE591/winlogon.pdb) |
 
 ### 10.0.22621
 

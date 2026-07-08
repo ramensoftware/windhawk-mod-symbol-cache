@@ -104,12 +104,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4a5b9b...<!-- 4a5b9bc643c7c188c0c5f9a6d587bbaba77e55bae2d68822df99313d5c2307e4 --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/A44BB7526b000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/66EB1B7E38DBDF807CEEC69338EF10EF1/cmd.pdb) |
 
-### 10.0.29585
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 74ed6b...<!-- 74ed6b005d14430f56793e92bf0142fa1ae28ecd7a64e87b8afb73f3f5b59623 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/5B7DABFA6d000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/70484B67BD0EF781E2E9617F816EF1C71/cmd.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -156,8 +150,6 @@
 | 20a108...<!-- 20a108304093ab364cd268cc56021a5f5d7b1076f96f3d30c98ee4de513a7cf8 --> | 2026-05-15 | 62b2f983...<!-- 62b2f983-c1f3-4c14-93d6-128fc2a55d8d --> | 10.0.26100.8493 | 10.0.26100.8493 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/E38FA70D71000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/C5459B261AF4B931B6FEBC3A15CCDEB51/cmd.pdb) |
 | 6fe8cc...<!-- 6fe8ccf5435b1a5e509a2f40cc00e7710e80df41099efebcf42aa0bf24041752 --> | 2026-05-15 | bc6c4fa4...<!-- bc6c4fa4-2151-463f-b2be-4d9f9b552583 --> | 10.0.26100.8474 | 10.0.26100.8474 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/E2EE3C3971000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/F5A19298189DA1C76F475D63523639631/cmd.pdb) |
 | d5697f...<!-- d5697fef6995e992b9232a2b19665a297743427316c7225a5b772f0032f20fca --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/9B21481C6f000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/052DB5FDA61206D4987978EB453E1AEA1/cmd.pdb) |
-| 82ce1c...<!-- 82ce1c1b3a17c4db9a6343903a49643b069cc573d64731533a127dd5c7fb5887 --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> | 10.0.26100.8170 | 10.0.26100.8170 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/328EB9BA6f000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/5A22A61A363708A6BA1D2A1E4D4CFBEB1/cmd.pdb) |
-| 9372fb...<!-- 9372fb8d0167feb2393a0a7c386f2c86ac690c4e7bcaf8c2e6e40a8d72608987 --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> | 10.0.26100.8165 | 10.0.26100.8165 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/EC259A386f000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/93EB4AC9C9F823B18D1B9AAEDE1871921/cmd.pdb) |
 
 ### 10.0.22621
 

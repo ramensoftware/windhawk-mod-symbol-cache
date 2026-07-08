@@ -1,1 +1,0 @@
-1#propsys.dll#x86-64_2816281532_1069056#public: virtual long __cdecl CMemPropStore::Write(unsigned short const *,struct tagVARIANT *)#150512

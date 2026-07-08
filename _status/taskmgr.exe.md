@@ -128,12 +128,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e6cec6...<!-- e6cec681b8cc211886ad95843465d464549ed2a2cc37456f58fa4713cd6ca713 --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/7A3A857653f000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/843D141CB1D5DBD840510A5A9F447AE91/Taskmgr.pdb) |
 
-### 10.0.29585
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 935e99...<!-- 935e9947961e0c6e58b7dd664c07c995a5494a047e19e46d9b0d7580b09de95b --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/7F93DC1D550000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/B032D0EC795AFAF0DBC94063729FAD6A1/Taskmgr.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -174,7 +168,6 @@
 | 25d8e8...<!-- 25d8e8e6cbf942a35ca8d89c55af8678e23d88bcfa12077c2e7aa4dfbf3a6ef9 --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
 | e78dd9...<!-- e78dd95c35141c64db6227b2754906c97f67030f1399523fa6d52e82c0e89fb5 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/5D830918555000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/21D0AF3AB6E3458F7B404DB4C75ABC0C1/Taskmgr.pdb) |
 | 6ada9c...<!-- 6ada9c008a8164fe1c26c32ae7b354c40b5922bd1f616190482cc93e0b7eda26 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/E0CC85FD52000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/F76860DE9614073A9628C83F7D78C9921/taskmgr.pdb) |
-| 372fa0...<!-- 372fa019631939a8ef6097f43ae5d11df77e896427869d10eeff1c004573a289 --> | 2026-05-08 | 6c23b160...<!-- 6c23b160-936e-4f50-8380-5848e404dea7 --> | 10.0.28000.2075 | 10.0.28000.2075 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/4A61E2DE557000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/93C74D509A79A117DA93E4E0080213BB1/Taskmgr.pdb) |
 
 ### 10.0.26100
 
@@ -220,10 +213,6 @@
 | 795ff6...<!-- 795ff6dbc8832d8c47284c9b93bb85a07d424cdcf757844852a061f594a06596 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8514 | 10.0.26100.8514 | [🔴](https://msdl.microsoft.com/download/symbols/taskmgr.exe/4284A746566000/taskmgr.exe) | ❓ |
 | 5e80f7...<!-- 5e80f7d5552a749e14b03078803480952d44c99426d93d4dfc65115b06c819a9 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> |  | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/50AA6B6F52000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/79D67CD14CCE734F09533E5C2D8CCBEB1/taskmgr.pdb) |
 | 67012f...<!-- 67012f45b7ad6ea6243ab3a9c8bf3adad32cec432994840a2968bca54944e379 --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/35953B65559000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/B5F028664F96CBE4C8B1555DE29FF5A81/Taskmgr.pdb) |
-| e019aa...<!-- e019aa0e468876fdb4e165f1fc1eefe074842779f7b7010020827462f1e5f3ef --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> | 10.0.26100.8376 | 10.0.26100.8376 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/353025C9566000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/93F4E12965E43A8F6D1267563830BAF31/Taskmgr.pdb) |
-| 3fd9f0...<!-- 3fd9f02091b205736571ae154f254282f1f46c53b52561a31a53b4ceaacb0efc --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> | 10.0.26100.8367 | 10.0.26100.8367 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/1C2C57F4566000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/32B67513AA87196BEC2B3A0CDEAE58401/Taskmgr.pdb) |
-| 57b961...<!-- 57b961493aab40d1f17b399cf9781f535b053f667a465e7b37a41e84c5c20f5f --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> |  | 10.0.26100.8170 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/EC581DAE52000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/4C0D205A9C074A678FF43565E99B40831/taskmgr.pdb) |
-| 080f6d...<!-- 080f6daee79e078c6ece0cee61d2716ceb94fe11694905e74835666edacb1532 --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> |  | 10.0.26100.8165 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/322D6E7C52000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/0EE231B12314D585915EAE98F141510F1/taskmgr.pdb) |
 
 ### 10.0.22621
 

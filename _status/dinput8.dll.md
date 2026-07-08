@@ -82,12 +82,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 999aeb...<!-- 999aeb870c5a767a47aaf1ea6985f6f4684ca22245d45f832929ef8f0b5d15a0 --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/80FE4C1F46000/dinput8.dll) | ❓ |
 
-### 10.0.29585
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d967d1...<!-- d967d1c4163b72e3711a9bbc32390823a35d3ac9804c8446f80d73d76efb75b7 --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/B74FFD2C48000/dinput8.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -114,8 +108,6 @@
 | 4464f4...<!-- 4464f4c112773be3544d0ea3e36c79d0c3aea7968e2ddb7076effd2b6ac2c482 --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> | 10.0.26100.1591 | 10.0.26100.1591 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/452A62C34b000/dinput8.dll) | ❓ |
 | 89b4bc...<!-- 89b4bcadda3701937dfe5a19422ddaaad3962ecf165636f3d9cfb1e4cd2d4adf --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> | 10.0.26100.1 | 10.0.26100.1 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/2AB224304b000/dinput8.dll) | ❓ |
 | 38f3ea...<!-- 38f3ea0e25422c92ce2a3ce95b32ebcf105a2e62500c527504514267e3c02651 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8115 | 10.0.26100.8115 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/3545DC2D4b000/dinput8.dll) | ❓ |
-| a0bab2...<!-- a0bab292b17bae19c041885a4671157345ab5d6e25951bcc92ed9fcfe818ab04 --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> |  | 10.0.26100.7939 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/AFED11594b000/dinput8.dll) | ❓ |
-| bc0895...<!-- bc0895ec174827931a03cb82eb9d707c89a55ba08426b2a7123f868b7787ec08 --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> | 10.0.26100.7934 | 10.0.26100.7934 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/9D0CFDF64b000/dinput8.dll) | ❓ |
 
 ### 10.0.22621
 

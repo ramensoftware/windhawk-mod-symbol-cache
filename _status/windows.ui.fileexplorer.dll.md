@@ -102,12 +102,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e7d72d...<!-- e7d72dc5e1307bfb6669f407212ba8a948703e842a7a853ca24720bd3dcfcc7e --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/A98567D7191000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/53CC0DFED1B17CE90E83BE20FC85E80D1/windows.ui.fileexplorer.pdb) |
 
-### 10.0.29585
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| df6be2...<!-- df6be2be81058af07c7b640235868bb769534aef6277a9668b2f340286e6668f --> | 2026-05-08 | 2d381cb2...<!-- 2d381cb2-76cc-4b1b-bc25-e10ca3160722 --> | 10.0.29585.1000 | 10.0.29585.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/C75DE7A6194000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/093B321548BF31F482652983AEAD64A31/windows.ui.fileexplorer.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -132,7 +126,6 @@
 | 073e9c...<!-- 073e9ccd3b2076a10c80d484377e9ee5f634997ee4869e5844530a2cdea837f4 --> | 2026-05-15 | 2a77a416...<!-- 2a77a416-ef83-479b-95ac-8271b8df8207 --> |  | 10.0.28000.2134 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/FD1408B4195000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/AD8932D48670E771743C7CA014D1F48C1/windows.ui.fileexplorer.pdb) |
 | b4eb4e...<!-- b4eb4ed28109e3f03aa4b3726afe7b9acdb826f56f45260be1287c2e689767b5 --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
 | f15d3b...<!-- f15d3b4c34133a06ae3468a31da92378d84b21c653cd1bf661838b5f6d0200a9 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/E44C4928198000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/E89FF0C49A59C27E56A3F79A5C7503601/windows.ui.fileexplorer.pdb) |
-| ed45c7...<!-- ed45c7b1a0c627bb2c1dbe821ebe8a95606d074978942f97a03a26dcaa20de04 --> | 2026-05-08 | 6c23b160...<!-- 6c23b160-936e-4f50-8380-5848e404dea7 --> |  | 10.0.28000.2075 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/FC937ED9195000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/BCFA9187126A86BFE401018B4D0622B21/windows.ui.fileexplorer.pdb) |
 
 ### 10.0.26100
 
@@ -163,8 +156,6 @@
 | 62749f...<!-- 62749f0ab77c03151261a0aedc33f832d7418454e97881def77a2384e8918655 --> | 2026-05-15 | bc6c4fa4...<!-- bc6c4fa4-2151-463f-b2be-4d9f9b552583 --> |  | 10.0.26100.8474 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/34D9F16E1a8000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/3B5B0E0CC86F1A780936CCEF2AB5C0FF1/windows.ui.fileexplorer.pdb) |
 | eaf502...<!-- eaf5023fd6026fc9fc6c8303f1834f819d7a8e29a5984950f15a3e0e6b457470 --> | 2026-05-14 | 9b663bbb...<!-- 9b663bbb-2954-4b1f-8c54-01279d04a5a9 --> | 10.0.26100.8514 | 10.0.26100.8514 | [🔴](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/BF6B530E1a3000/windows.ui.fileexplorer.dll) | ❓ |
 | 6753a3...<!-- 6753a3b5d1d25564eab5a4e785ce481d03cac83b25606f3c2305a1b4cdbb10ac --> | 2026-05-12 | 7473f2d4...<!-- 7473f2d4-7295-45d9-9929-ddaeda8b7041 --> | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/C67E0725191000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/A1C18AAB53A1B667E536113BED5F54AA1/windows.ui.fileexplorer.pdb) |
-| 96e668...<!-- 96e668bc3aab05074784172bb3d99fb9ea54cefd869ee685983459e518afc1f1 --> | 2026-05-08 | 575c89c3...<!-- 575c89c3-9ce4-4dfb-bba0-0788e767097f --> |  | 10.0.26100.8376 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/158E8FCF1a3000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/32D8E4379FC90FE6CA483CED9F8EC4811/windows.ui.fileexplorer.pdb) |
-| b94a1e...<!-- b94a1e5fc50d92d306917c94631f9fd042a9063a7aa0be6d4691e8471b6fd6fd --> | 2026-05-08 | 1196be48...<!-- 1196be48-371b-4615-845e-b82a850fff2a --> |  | 10.0.26100.8367 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/7AB12C231a3000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/80ADDFA2EAD6082B36186586F5AF0D901/windows.ui.fileexplorer.pdb) |
 
 ### 10.0.22621
 
