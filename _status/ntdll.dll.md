@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8e7738...<!-- 8e77389e7fbe77da8f1138084dd4ab2b703803e9b23b99217ce3c4e502364c90 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/3D0256C2260000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/9A3851C3FFA36B400BB3FB5B707D0A7B1/ntdll.pdb) |
+| 8e7738...<!-- 8e77389e7fbe77da8f1138084dd4ab2b703803e9b23b99217ce3c4e502364c90 --> | 2026-06-23 | KB5095091 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/3D0256C2260000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/9A3851C3FFA36B400BB3FB5B707D0A7B1/ntdll.pdb) |
 | 14e9ce...<!-- 14e9ceec51c7df513dab8aa25efd18507eee57eab39143502dcf2c25075f8ec7 --> | 2026-06-09 | KB5095051 | 10.0.28000.2179 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/7A0E62FC261000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/B5D1FE80F043F91B8F94A3F96751C54F1/ntdll.pdb) |
 | 2db1d6...<!-- 2db1d6fccdc096dbfdaa223a14d209ffb13a3cad27d32855facbb3b539f33766 --> | 2026-05-12 | KB5089548 |  | 10.0.28000.2113 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/9E7665BA261000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/75F7CCDE5DADB62667C438A0754DF9521/ntdll.pdb) |
 
