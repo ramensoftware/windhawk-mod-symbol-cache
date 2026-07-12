@@ -1,1 +1,0 @@
-1#4223274110#40960#ColorDlgProc##ChangeColorSettings##SetRGBEdit##SetHLSEdit##CrossHairPaint##bMouseCapture#
