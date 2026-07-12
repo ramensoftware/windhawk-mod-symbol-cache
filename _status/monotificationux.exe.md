@@ -75,7 +75,6 @@
 | 096ff2...<!-- 096ff2543a2e7b1086b3e7e0544991e3d794cb9ecc7c41ed756f30bc428ae7e7 --> | 2026-06-09 | 413372f8...<!-- 413372f8-51db-4ea1-970a-8dce91db00aa --> | 1507.2604.4012.0 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/933F5FECa0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/E0FFAA6BB58284546AC6D16FA06981321/MoNotificationUx.pdb) |
 | 6f57b0...<!-- 6f57b06cef87e52c2e3649743167ee9a4493844a2fb6b20b7c77fa46c3689e3c --> | 2026-05-19 | 3cf2a0a8...<!-- 3cf2a0a8-63bf-4416-bc7d-7c313fb6a986 --> |  | 10.0.28000.2176 | [🔴](https://msdl.microsoft.com/download/symbols/monotificationux.exe/933F5FECa0000/monotificationux.exe) | ❓ |
 | 81367a...<!-- 81367a4c9f45431e32b748999df55c2ba19a34872483097dff39ae73b50b84a8 --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | [🔴](https://msdl.microsoft.com/download/symbols/monotificationux.exe/933F5FECa0000/monotificationux.exe) | ❓ |
-| ab5890...<!-- ab5890c551f7fff8816a5e92b48ec6c8a159a27e7a2cf81b1be9c7e642a130c9 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> | 1507.2603.10052.0 | 10.0.28000.1896 | [🔴](https://msdl.microsoft.com/download/symbols/monotificationux.exe/580D614Da0000/monotificationux.exe) | ❓ |
 
 ### 10.0.26100
 

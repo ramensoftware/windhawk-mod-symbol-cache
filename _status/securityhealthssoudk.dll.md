@@ -101,7 +101,6 @@
 | ee2add...<!-- ee2add787b7fdc29c15b9f396c20a7e8fecf893aa548c9ef08a74cca469f1bfc --> | 2026-06-08 | 9de97840...<!-- 9de97840-1a6e-4241-b83b-56c8470d9cd7 --> |  | 10.0.28000.1873 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/3AFEF3B61c000/securityhealthssoudk.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/C68603CA36591DE60496513AA2470F031/SecurityHealthSsoUdk.pdb) |
 | 3e451e...<!-- 3e451ee50c9adee476e1b9c68548c85ac54f6a8f3492744e97bbca577ce0916d --> | 2026-05-19 | 3cf2a0a8...<!-- 3cf2a0a8-63bf-4416-bc7d-7c313fb6a986 --> |  | 10.0.28000.2176 | 🔴 | ❓ |
 | aabd1b...<!-- aabd1b5baa59bdde03fb7cc7c52dc4c2d1bee61d45572f30bd5b1db39580c128 --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
-| 9a17f1...<!-- 9a17f148c6af8619eb9d7f5803b0ce5226c4df807c7baab8379aaaae6469f444 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/FAFC07F11c000/securityhealthssoudk.dll) | ❓ |
 
 ### 10.0.26100
 

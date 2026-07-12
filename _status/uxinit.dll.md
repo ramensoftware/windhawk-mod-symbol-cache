@@ -132,7 +132,6 @@
 | 0d6b20...<!-- 0d6b20886a0fb532f6651655607b81a8ef61fa986dd89996c822d1b6f6b0b820 --> | 2026-05-26 | ebfcd736...<!-- ebfcd736-eb43-42c3-aff2-35445412d076 --> |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/19A0AD192b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/619E35EBDA8D79FF9A02D91FA39AAF621/UXInit.pdb) |
 | b55332...<!-- b55332b235491a54bf2e4843591173c35dd1aeea9b8dff1e68504979d17efa5b --> | 2026-05-19 | 3cf2a0a8...<!-- 3cf2a0a8-63bf-4416-bc7d-7c313fb6a986 --> |  | 10.0.28000.2176 | 🔴 | ❓ |
 | 902650...<!-- 90265036cd1ce5ded4c0e7b45e3a74ec03586f39e43cf2287cede8a33cc30c7a --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
-| 2e1c17...<!-- 2e1c170c8500cd69f767de3b2a35386bac33d39bef807b9f103a332fa2fc7193 --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/375664A52b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/BBAEF15A869B2F0CB8B7F638BEE4BFDA1/UXInit.pdb) |
 
 ### 10.0.26100
 
@@ -181,4 +180,3 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e083d6...<!-- e083d6e03bb622694aafd2950cfac099227b8a24498fffe3f594ceaa6d1641fa --> | 2026-06-09 | 5d17d798...<!-- 5d17d798-994c-4515-ab2c-7dccd2603ce5 --> |  | 10.0.17763.8880 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/D32A29661d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CAB2186A2FB28752DBAE7C2FDABA4E861/UXInit.pdb) |
 | a8d604...<!-- a8d6048fafebeb99c077823e3ef1d575356797d8206e1276163a3a8c6bfca91a --> | 2026-06-09 | 5d17d798...<!-- 5d17d798-994c-4515-ab2c-7dccd2603ce5 --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/C06293C71d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CA3A0B647FD7DCAED238081CA80581071/UXInit.pdb) |
-| 93573e...<!-- 93573e68d273ab0714e12a7081951e862836c99314f75ef8fdbdbe2169dba5c2 --> | 2026-05-12 | 3c072f71...<!-- 3c072f71-441a-4958-a62e-8452a2a47c46 --> | 10.0.17763.7919 | 10.0.17763.7919 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/6CDD4E091d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/65F2FCA9ADABC783F06129F8C85CA0671/UXInit.pdb) |

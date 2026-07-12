@@ -120,7 +120,6 @@
 | ad9025...<!-- ad9025e39287861c48c4410428983f1cdc3f2aeafd38b7345465737f8e503aea --> | 2026-05-19 | 3cf2a0a8...<!-- 3cf2a0a8-63bf-4416-bc7d-7c313fb6a986 --> |  | 10.0.28000.2176 | 🔴 | ❓ |
 | b980cc...<!-- b980cc5ea5f2c82a889590bf22714cf64efd8793de6567a960dd54a9c97aa555 --> | 2026-05-15 | 2a77a416...<!-- 2a77a416-ef83-479b-95ac-8271b8df8207 --> | 10.0.28000.1873 | 10.0.28000.1873 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/764674EA70000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/6C32F7E6678D0ED86653583182118D571/cmd.pdb) |
 | f4e31c...<!-- f4e31c73c30689417b4e93d7225502e7a80c784914d621ad9ff53bdb81b3e675 --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
-| 39b54d...<!-- 39b54da10e91f5372184bc5e8d44e30d739ae19c0931583557dbd4f809e3d40b --> | 2026-05-12 | 7bb2929b...<!-- 7bb2929b-0458-4241-a705-80c73d7c3b32 --> | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/A7DA323170000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/426FB7364D58FB2D38C3794132BC81221/cmd.pdb) |
 
 ### 10.0.26100
 
