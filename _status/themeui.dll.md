@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 262615...<!-- 26261500db79463f511882e1f429aaaa0334eb64b9fbdec1de653d76b1cf9202 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/53DDEB6897000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/6771DBAD5848B7D4CE3E727610DDF0E51/ThemeUI.pdb) |
 | bae555...<!-- bae555a8f9181fba4ac57d761ad950a38092d4e1b14c5ff17f390275fb2d72c4 --> | 2026-06-09 | KB5095051 | 10.0.28000.2179 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/735B3B8296000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/E198E805989388C22B289EE562F977091/ThemeUI.pdb) |
-| 7c8a7c...<!-- 7c8a7c9684afd42611cbe024c0aa8a076c8a935711c88f130831a1f17201428f --> | 2026-05-12 | KB5089548 | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/B2841BCC97000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/26BC6657A5FA6E04D1631BE0C3A54CE81/ThemeUI.pdb) |
 
 ### 10.0.26100
 
@@ -17,7 +16,6 @@
 | f0dd83...<!-- f0dd83397e5c02a18ada62f6bbf0b59b7d8153757818f24f0aa7c24f71273ead --> | 2026-06-23 | KB5095093 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/477C998D96000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/F803D0775B19E3550BC880C2704B3FE11/ThemeUI.pdb) |
 | 651ecc...<!-- 651ecc73861b252bae6355b2ebf6721ae53b6c6f78be6a5ccf8ea46b68cc60fc --> | 2026-06-09 | KB5094126 | 10.0.26100.8655 | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/5702B2A297000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/96947417A1C80948CDE81721BA4A25501/ThemeUI.pdb) |
 | a96b42...<!-- a96b42faa2b08d342d395a813562af3bb4db5e1f86a81be5f6234419c5c2f179 --> | 2026-05-26 | KB5089573 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/D909A4C397000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/371EE2EF205A0B9BF2D37504A08DBAFA1/ThemeUI.pdb) |
-| 2148d9...<!-- 2148d9d33cff54492cb945621b63b17e67b8c227dabbee046654238fc7eb4cef --> | 2026-05-12 | KB5089549 | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/5D576D6F95000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/24930D724490EB79230BE7596C5DE0751/ThemeUI.pdb) |
 
 ### 10.0.22621
 
@@ -52,7 +50,6 @@
 | e8d3d2...<!-- e8d3d2a222824b966a8260e2a25fc174c85e8780762d90e4d573733dde0c93b9 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/CC204C0010b000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/2B755C2CFB166BF4285F5868074C8A5D1/ThemeUI.pdb) |
 | 61fa63...<!-- 61fa638aa0292e410818834369365f75e284485fbc1a0a6d967a0c8c3900dec0 --> | 2026-06-09 | KB5095051 |  | 10.0.28000.2269 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/95FD3DA710a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/CD649872534B5F545F63B5A299901A711/ThemeUI.pdb) |
 | 5fc1df...<!-- 5fc1dfef244330296fa009a9358e82c0b0b3306bdb61c7a7fd34c61dceb6de78 --> | 2026-05-26 | KB5089570 |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/13C0DADB10a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/91D6D93B46A8A122E93A94CE08DA0F7E1/ThemeUI.pdb) |
-| 7599ee...<!-- 7599ee524a9468f2cc86115d0e7a53fadf7a37e504537f59f2adce2763695376 --> | 2026-05-12 | KB5089548 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/42DB405510a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/B1F56681386B19E5177BB5C49987021B1/ThemeUI.pdb) |
 
 ### 10.0.26100
 
@@ -61,7 +58,6 @@
 | 682b48...<!-- 682b48b21cb6e41ac814c7e7b03620ad9c515d28f311cdfdcc82af7a36ab2020 --> | 2026-06-23 | KB5095093 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/B5B165D3102000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/D51FD81F83B93765EBE66B6CC3B4472F1/ThemeUI.pdb) |
 | 229b5e...<!-- 229b5ee6fd8caa0619cabf64e94145459e3cb4d74ffb51fc1abee048c0f62388 --> | 2026-06-09 | KB5094126 | 10.0.26100.8655 | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/3A697D8F102000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/218B8F4681DF88ED6AAC80CAEAE919A11/ThemeUI.pdb) |
 | c6c829...<!-- c6c829fda6e0f306224313e3671e93dcf0674d13f77c974c239a0e87aaa12d50 --> | 2026-05-26 | KB5089573 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/F3A14650102000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/511714E6CC45E69EDF3B60E33886584F1/ThemeUI.pdb) |
-| 9aad16...<!-- 9aad16b3f3d3296a09ecd2d9e3e870ac014c2256255d2184e4bbcfd945cb5392 --> | 2026-05-12 | KB5089549 | 10.0.26100.8457 | 10.0.26100.8457 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/26B9509Bfe000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/4065439B83C78CA952FD8ACEE86BACD61/ThemeUI.pdb) |
 
 ### 10.0.22621
 
