@@ -6,14 +6,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c12e16...<!-- c12e1622cb77578ce8a01b77a2c05f518282c8aa652f2950036b393f6d506e03 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/413184761b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/FB584A302D06BB65E920BE77DCCE521C1/MuseUxDocked.pdb) |
+| c12e16...<!-- c12e1622cb77578ce8a01b77a2c05f518282c8aa652f2950036b393f6d506e03 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/413184761b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/FB584A302D06BB65E920BE77DCCE521C1/MuseUxDocked.pdb) |
 | e13d15...<!-- e13d15904828057109513232701c674e9cf9f0fa6d1b72c100d45e136986b4ee --> | 2026-06-09 | KB5095051 |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/BCDB3A951b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/AC01B1ACC66CAB0B9CC949A730BA35561/MuseUxDocked.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2a9273...<!-- 2a9273faf54de65a6a14180f109039783c120e14d3dcdad8f52adc4d70f7a676 --> | 2026-06-23 | KB5095093 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/34658EBC1b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/C1646CB46AE6E0353F593AA6B059E9EB1/MuseUxDocked.pdb) |
+| 2a9273...<!-- 2a9273faf54de65a6a14180f109039783c120e14d3dcdad8f52adc4d70f7a676 --> | 2026-07-14 | KB5101650 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/34658EBC1b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/C1646CB46AE6E0353F593AA6B059E9EB1/MuseUxDocked.pdb) |
 | 4c6037...<!-- 4c6037efc3f5ab8b0c49b1962f33ae64ebc842bd37b5167bfdd90dca74d2b2b2 --> | 2026-06-09 | KB5094126 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/F19ECDD31b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/FAD8A42DBF46235A279C34EE0EFEF6FA1/MuseUxDocked.pdb) |
 
 ### 10.0.22621

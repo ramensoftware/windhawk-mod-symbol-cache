@@ -6,14 +6,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 63ac89...<!-- 63ac89b6c46eb33b52f821337e488deee948d4fe10dcfc97a73b01ccaa3c0c42 --> | 2026-06-23 | KB5095091 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/C22B625C71000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/C999E6EB6DE47BA28B93AB5A8FA5833C1/cmd.pdb) |
+| 63ac89...<!-- 63ac89b6c46eb33b52f821337e488deee948d4fe10dcfc97a73b01ccaa3c0c42 --> | 2026-07-14 | KB5101649 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/C22B625C71000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/C999E6EB6DE47BA28B93AB5A8FA5833C1/cmd.pdb) |
 | 9de56a...<!-- 9de56a89dd4691c883a873f259fdafae5d7ab8b8eefb624aa3d18ced325c8fe5 --> | 2026-06-09 | KB5095051 | 10.0.28000.2179 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/988108A470000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/3283F90DBFFCC399B30F344B07CC5BD91/cmd.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 65ec26...<!-- 65ec268add3973b6dca64222985da47caeaee44a340b0ec1466782914fd743d9 --> | 2026-06-23 | KB5095093 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/110FF92170000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/200A7190BF7247AECC619B1D278974021/cmd.pdb) |
+| 65ec26...<!-- 65ec268add3973b6dca64222985da47caeaee44a340b0ec1466782914fd743d9 --> | 2026-07-14 | KB5101650 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/110FF92170000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/200A7190BF7247AECC619B1D278974021/cmd.pdb) |
 | 75320a...<!-- 75320a519959cc6d089ea3eba33c38caccb7f138a025ea439bc9686cdb79ded4 --> | 2026-06-09 | KB5094126 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/E60CAC0671000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/8E252BA4C528242EDFCD55DC5CE7976D1/cmd.pdb) |
 
 ### 10.0.22621

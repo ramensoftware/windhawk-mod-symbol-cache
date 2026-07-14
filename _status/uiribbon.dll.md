@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a05f4f...<!-- a05f4f3603f068fd4ed4a5cfc7637e15a9d2660bc1f168e1404e601e8ff9f9a2 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.1251 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/58A5D7DD41d000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/62C460A111C35BB1BF5BED1D8B41577C1/UIRibbon.pdb) |
+| a05f4f...<!-- a05f4f3603f068fd4ed4a5cfc7637e15a9d2660bc1f168e1404e601e8ff9f9a2 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.1251 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/58A5D7DD41d000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/62C460A111C35BB1BF5BED1D8B41577C1/UIRibbon.pdb) |
 
 ### 10.0.22621
 

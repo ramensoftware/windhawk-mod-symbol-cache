@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 61f630...<!-- 61f630c222e2acceff3bf16cd8cb82d6e7117d8b0c80b9c154c21a1b285f5a8f --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/FF6575FC8454293D682E0CF7B3DFBB6A1/ExplorerFrame.pdb) |
 | c69966...<!-- c699663bb12e02883a3bdbc5919849a53807cc44751de89e0e1a91157072325b --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/2B6A22792ef000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/0EE7CE425D60F93B2939C2C587D647601/ExplorerFrame.pdb) |
 | d96b97...<!-- d96b97a4fe504e0e2d211792564bc3c5e717de58fa285cf7b0e9fac647ff93ec --> | 2026-06-09 | KB5095051 |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/4B6EB1032e0000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/6580D5A3D75AD145ECC7C43D187E96F71/ExplorerFrame.pdb) |
 
@@ -13,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e3739e...<!-- e3739ec0513694c4583a4f950dac80a43d5f92807fcb2fbafd12389434ef06f4 --> | 2026-06-23 | KB5095093 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/E30A4FB1301000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/25F6494D233653915E3BC33ED41C9C3B1/ExplorerFrame.pdb) |
+| e3739e...<!-- e3739ec0513694c4583a4f950dac80a43d5f92807fcb2fbafd12389434ef06f4 --> | 2026-07-14 | KB5101650 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/E30A4FB1301000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/25F6494D233653915E3BC33ED41C9C3B1/ExplorerFrame.pdb) |
 | 60a2ab...<!-- 60a2ab6b21312efaf9e4fba3611f5fab255aed68a5450d11ccdd4305a81161f3 --> | 2026-06-09 | KB5094126 | 10.0.26100.8655 | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/8B791C5F2f3000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/02B1900B20AF6948BE5E5C0EC76FCCAC1/ExplorerFrame.pdb) |
 | fb0987...<!-- fb0987c1ed1fc19b67323146a560b919824f7356f18e8a57a3826fd993ee87ec --> | 2026-05-26 | KB5089573 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/55237DE52f3000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/A610550A3A1D79D6B896A3F72E55B3B21/ExplorerFrame.pdb) |
 
@@ -21,7 +22,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b1326f...<!-- b1326f6a84f8e5b0413779561cf9d9b678fbae9e6a9f797d0b6cd5cd9e596c64 --> | 2026-07-14 | KB5099414 |  | 10.0.22621.7376 | 🔴 | ❓ |
+| b1326f...<!-- b1326f6a84f8e5b0413779561cf9d9b678fbae9e6a9f797d0b6cd5cd9e596c64 --> | 2026-07-14 | KB5099414 |  | 10.0.22621.7376 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/D3F3667277683200F68FF5BE3C4187951/ExplorerFrame.pdb) |
 | 1418e2...<!-- 1418e2b75f54474a64d2fb83d8d9762b97f52a79112f5b0917770e36b0c14405 --> | 2026-06-09 | KB5093998 | 10.0.22621.6274 | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/3A57E9B12c0000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/E965506EBD73B626576993D5A64788DA1/ExplorerFrame.pdb) |
 
 ### 10.0.19041
