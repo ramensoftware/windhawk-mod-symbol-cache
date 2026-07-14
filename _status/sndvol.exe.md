@@ -18,25 +18,25 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 32deb4...<!-- 32deb446f0b28fbda14d0450e7cd4a6c7b7cfaf0968cc73f7cd6173f1bdffa4c --> | 2026-06-09 | KB5093998 | 10.0.22621.3527 | 10.0.22621.5415 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/462471D24a000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/3EBDBB75AAFA706ECAF642E8CE7BD6BC1/SndVol.pdb) |
+| 32deb4...<!-- 32deb446f0b28fbda14d0450e7cd4a6c7b7cfaf0968cc73f7cd6173f1bdffa4c --> | 2026-07-14 | KB5099414 | 10.0.22621.3527 | 10.0.22621.5415 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/462471D24a000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/3EBDBB75AAFA706ECAF642E8CE7BD6BC1/SndVol.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8c054e...<!-- 8c054ea9741442fd5f1532d0b643f18687bf1a7f00d104491498959475b17efd --> | 2026-06-09 | KB5094127 | 10.0.19041.4474 | 10.0.19041.5848 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/4A066F2A48000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/F39BA0B84C4F1C5D41CC7873975A961C1/SndVol.pdb) |
+| 8c054e...<!-- 8c054ea9741442fd5f1532d0b643f18687bf1a7f00d104491498959475b17efd --> | 2026-07-14 | KB5099539 | 10.0.19041.4474 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/4A066F2A48000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/F39BA0B84C4F1C5D41CC7873975A961C1/SndVol.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c97a0a...<!-- c97a0a8278e5c3afa196c3429c577a1d79e2ec444221a1d3eeb9d46ea202914a --> | 2026-06-09 | KB5094123 | 10.0.17763.5830 | 10.0.17763.7309 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/B91BD9E945000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/707318EF98F58578B3EB66B9D24D71DE1/SndVol.pdb) |
+| c97a0a...<!-- c97a0a8278e5c3afa196c3429c577a1d79e2ec444221a1d3eeb9d46ea202914a --> | 2026-07-14 | KB5099538 | 10.0.17763.5830 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/B91BD9E945000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/707318EF98F58578B3EB66B9D24D71DE1/SndVol.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 273292...<!-- 2732928784b876ed541310f26bce97785e8999f4d2b4e6e02996c5dc28bc4a9f --> | 2026-06-09 | KB5094122 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/66BAD42E41000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C06073396C204441A396269FBE862DBD1/SndVol.pdb) |
+| 273292...<!-- 2732928784b876ed541310f26bce97785e8999f4d2b4e6e02996c5dc28bc4a9f --> | 2026-07-14 | KB5099535 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/66BAD42E41000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C06073396C204441A396269FBE862DBD1/SndVol.pdb) |
 
 ## ARM64 (release builds)
 
@@ -44,13 +44,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a3ba16...<!-- a3ba1659ae326f63cee7a56ccc5a4331ea61ae2cd5186a403a129d2a82d0ba5f --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/6B772CCF4d000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/AB09584BD8BCD741090CCD3F70C96B511/SndVol.pdb) |
+| a3ba16...<!-- a3ba1659ae326f63cee7a56ccc5a4331ea61ae2cd5186a403a129d2a82d0ba5f --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/6B772CCF4d000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/AB09584BD8BCD741090CCD3F70C96B511/SndVol.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 39c1ee...<!-- 39c1ee6a75e89a81be3a6ceb9d6173b80b1de9b79937cc10cabe4d1eb535e515 --> | 2026-06-23 | KB5095093 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/C6A95FF34d000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/7A44A184AACB20F82D727A88FFB264EF1/SndVol.pdb) |
+| 39c1ee...<!-- 39c1ee6a75e89a81be3a6ceb9d6173b80b1de9b79937cc10cabe4d1eb535e515 --> | 2026-07-14 | KB5101650 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/C6A95FF34d000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/7A44A184AACB20F82D727A88FFB264EF1/SndVol.pdb) |
 
 ### 10.0.22621
 
@@ -116,9 +116,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 281aa0...<!-- 281aa03baf6f6cfc25d535e10593c2576e8803fb650e26ce5dc48c325a883d1d --> | 2026-07-14 | 57ee5844...<!-- 57ee5844-e735-4dc8-a764-66b257e03b5b --> | 10.0.26100.8115 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/84EDE7F54b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C304F458734B967B482426505EDAC4651/SndVol.pdb) |
-| 03f452...<!-- 03f4523ab55deb80ef8d642a7fa59b21ad92b86945863edfe5ce4d828ec1a248 --> | 2026-07-14 | 57ee5844...<!-- 57ee5844-e735-4dc8-a764-66b257e03b5b --> | 10.0.26100.1301 | 10.0.26100.1301 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/3732A6944b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/4715097C05F0EEAA793EC7EDE633EEA11/SndVol.pdb) |
-| c210d7...<!-- c210d77798d22d5972eb690ceff2e1cf4e431f9d652ea0c7eb9b25d92e969fd3 --> | 2026-07-14 | 57ee5844...<!-- 57ee5844-e735-4dc8-a764-66b257e03b5b --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/2E68F6B04b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/4A3BDF86E0DA89954D1A8D4BE5BD79ED1/SndVol.pdb) |
+| 281aa0...<!-- 281aa03baf6f6cfc25d535e10593c2576e8803fb650e26ce5dc48c325a883d1d --> | 2026-07-14 | 84f92676...<!-- 84f92676-c50f-47ba-8877-9cb3aded078f --> | 10.0.26100.8115 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/84EDE7F54b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C304F458734B967B482426505EDAC4651/SndVol.pdb) |
+| 03f452...<!-- 03f4523ab55deb80ef8d642a7fa59b21ad92b86945863edfe5ce4d828ec1a248 --> | 2026-07-14 | 84f92676...<!-- 84f92676-c50f-47ba-8877-9cb3aded078f --> | 10.0.26100.1301 | 10.0.26100.1301 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/3732A6944b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/4715097C05F0EEAA793EC7EDE633EEA11/SndVol.pdb) |
+| c210d7...<!-- c210d77798d22d5972eb690ceff2e1cf4e431f9d652ea0c7eb9b25d92e969fd3 --> | 2026-07-14 | 84f92676...<!-- 84f92676-c50f-47ba-8877-9cb3aded078f --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/2E68F6B04b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/4A3BDF86E0DA89954D1A8D4BE5BD79ED1/SndVol.pdb) |
 | 8c6c98...<!-- 8c6c98cb06ae41a68df124bc547038b6ed55b725f86f66853c778a04a5abba0d --> | 2026-07-06 | 23b8b945...<!-- 23b8b945-cad8-41db-9925-72a522fedffc --> | 10.0.26100.8068 | 10.0.26100.8772 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/71298B8A4b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/6D3AE9208C4299E13720A513E830C42F1/SndVol.pdb) |
 | 08faad...<!-- 08faadcdefbab30360b0f333025d47f1828ed40cb2bb71b1936d7292e705c7f4 --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> | 10.0.26100.8062 | 10.0.26100.8764 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/067E2CCC4b000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/8D3AFA162588CBBA5960DC764694C4CF1/SndVol.pdb) |
 | 5b8047...<!-- 5b804722b11d719be732809b58fd5ca843d9d5011f20cdb2fcdbb4fc2347a0e5 --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> |  | 10.0.26100.1743 | 🔴 | ❓ |

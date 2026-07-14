@@ -22,25 +22,26 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9847be...<!-- 9847bea3fdd52b8697a1a7a8f6be84c5acd88b477b6c2b20da051e7909837b6f --> | 2026-06-09 | KB5093998 |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E4C438C525000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/858178D9C4F1300A6DE7002E463D7CBF1/UXInit.pdb) |
+| 9847be...<!-- 9847bea3fdd52b8697a1a7a8f6be84c5acd88b477b6c2b20da051e7909837b6f --> | 2026-07-14 | KB5099414 |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E4C438C525000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/858178D9C4F1300A6DE7002E463D7CBF1/UXInit.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 97043d...<!-- 97043d9b99e98ac5944a74f718a24af10b2cef04907e6db7676c0421ab98dbce --> | 2026-06-09 | KB5094127 | 10.0.19041.7417 | 10.0.19041.7417 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E54778CE23000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CEBE2A8ABC8BB6DF2B34BEF5828E65921/UXInit.pdb) |
+| 97043d...<!-- 97043d9b99e98ac5944a74f718a24af10b2cef04907e6db7676c0421ab98dbce --> | 2026-07-14 | KB5099539 | 10.0.19041.7417 | 10.0.19041.7417 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E54778CE23000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CEBE2A8ABC8BB6DF2B34BEF5828E65921/UXInit.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 1fd392...<!-- 1fd392bd37a41bd506edacd3f05a50bb6a23a51ec0d7a39659883dd7728a17cd --> | 2026-07-14 | KB5099538 |  | 10.0.17763.9020 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CAB2186A2FB28752DBAE7C2FDABA4E861/UXInit.pdb) |
 | e083d6...<!-- e083d6e03bb622694aafd2950cfac099227b8a24498fffe3f594ceaa6d1641fa --> | 2026-06-09 | KB5094123 |  | 10.0.17763.8880 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CAB2186A2FB28752DBAE7C2FDABA4E861/UXInit.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d5c803...<!-- d5c803aa1d3c0732963be86bfb8625cd3385ebe4c22ff995caf216c32865c464 --> | 2026-06-09 | KB5094122 | 10.0.14393.9234 | 10.0.14393.9234 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/6A23A83D1d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/BF05A1E66EA94AB4AA26EB7F6368CE691/UXInit.pdb) |
+| d5c803...<!-- d5c803aa1d3c0732963be86bfb8625cd3385ebe4c22ff995caf216c32865c464 --> | 2026-07-14 | KB5099535 | 10.0.14393.9234 | 10.0.14393.9234 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/6A23A83D1d000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/BF05A1E66EA94AB4AA26EB7F6368CE691/UXInit.pdb) |
 
 ## ARM64 (release builds)
 
@@ -48,6 +49,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| b6147a...<!-- b6147a0e7b4c9b9f67e04caf5c973d1649883e2ec2deb1284655b2155fb56048 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/68F42D4448000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/DAA5C7AB30561312B4C3C75E109AF2871/UXInit.pdb) |
 | fb9294...<!-- fb9294b004c056e7298fc9dac43876ffc1c6883ba3fe69b92e99cc3f713dc759 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E3F6F87548000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/8D9BD47153BA3D371E0976508964D3B81/UXInit.pdb) |
 | 52829b...<!-- 52829b15518b8383cca92e5c387d4f4e82504f36443f22185a03cd96e86d5035 --> | 2026-06-09 | KB5095051 |  | 10.0.28000.2269 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/90403E3C48000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/D80CB0DE341F8F6BD46FDD380DCA76841/UXInit.pdb) |
 | ffc536...<!-- ffc536dd5af4498f64fd8c20d3087351a42bbdd42bc172a98b6b6deaa1e911ff --> | 2026-05-26 | KB5089570 |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/72218A8E48000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/89A75AE6C31B1535BF6BDC2F8C8D33071/UXInit.pdb) |
@@ -56,6 +58,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| a0a7fa...<!-- a0a7fa9f2d68a405b666f849dc2258cef600195fa5bd8baee4473dd4e435d55c --> | 2026-07-14 | KB5101650 |  | 10.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/F498094640000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/C92B8C2A6FA0652E544367A4095872EA1/UXInit.pdb) |
 | 55f41c...<!-- 55f41cb988202380720c1b41c79bd793edad11945ff760d745f7bb2c4ec8ad7b --> | 2026-06-23 | KB5095093 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/EE8474FB40000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/9B4E51C1CBAE8D2E629F491A9DB67A551/UXInit.pdb) |
 | 2b76af...<!-- 2b76af4c865da830eff70657d00b422f736450c15f0c01dcb073fdb067b77804 --> | 2026-06-09 | KB5094126 |  | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/0E563F8D42000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/B38A266845732A127625BFDCE3BBEBEA1/UXInit.pdb) |
 | a01062...<!-- a010620073145fb49dde0d5af825d1debfcb1a668c1c964c1afeaa905a6a6a22 --> | 2026-05-26 | KB5089573 |  | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/DDDF944240000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/D42419833C506B30E1C43A25C4BCB1441/UXInit.pdb) |
@@ -114,7 +117,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| affb64...<!-- affb6410ed7b5e8d49d1703ef3ac5ac3cf7cb65a0da28434e9addf6e10fca6f4 --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> |  | 10.0.28000.2525 | 🔴 | ❓ |
+| affb64...<!-- affb6410ed7b5e8d49d1703ef3ac5ac3cf7cb65a0da28434e9addf6e10fca6f4 --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> |  | 10.0.28000.2525 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/049E96B4311B594882289F7E0C6C23471/UXInit.pdb) |
 | 91496a...<!-- 91496ad8ebdaaf5fa55d34498d0dce595e906f827b2d56dc21c78481879d7a24 --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/DF0F927A2a000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/7DCCEACB335E3231963CD54F244761741/UXInit.pdb) |
 | d57250...<!-- d5725026fff944681744f5e906137d37123e5d4bd39484711b728c6904e54e22 --> | 2026-07-07 | ac945022...<!-- ac945022-cfbe-44e9-9859-bdc079cc6d45 --> |  | 10.0.28000.2387 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/5FD938292b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/C0379EA3A72A84D7D23B6471DF9058651/UXInit.pdb) |
 | edd9c3...<!-- edd9c39de8412c113eb6c4557f648736580cede0c38d2f908f8d1c97369ca623 --> | 2026-07-07 | ac945022...<!-- ac945022-cfbe-44e9-9859-bdc079cc6d45 --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/CA3665602a000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CC7F096ABDED514FE45486D49E1855881/UXInit.pdb) |
@@ -137,9 +140,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a1f3b8...<!-- a1f3b86ab6efb72b4442397d614573c567c6d9853050d0d59534c957110eff0e --> | 2026-07-14 | 57ee5844...<!-- 57ee5844-e735-4dc8-a764-66b257e03b5b --> | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/2E00A00A29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/72C026870C5140B3BA55B154452E050E1/UXInit.pdb) |
-| 408c7c...<!-- 408c7c94b3c7875b0d0e6e242b1775ffe0bb486bd2c0d7603c9ff5b4d790373a --> | 2026-07-14 | 57ee5844...<!-- 57ee5844-e735-4dc8-a764-66b257e03b5b --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/331999E329000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/3454520FEEE7D36CD38C60DF4B53A8221/UXInit.pdb) |
-| 5342a3...<!-- 5342a3e691940d42e7cfc8f4706da82d601748e8f72128cdf31c5fbdfd4ded1f --> | 2026-07-14 | 57ee5844...<!-- 57ee5844-e735-4dc8-a764-66b257e03b5b --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/208413C527000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/7322457934CE9BDF6483692D14547E361/UXInit.pdb) |
+| a1f3b8...<!-- a1f3b86ab6efb72b4442397d614573c567c6d9853050d0d59534c957110eff0e --> | 2026-07-14 | 84f92676...<!-- 84f92676-c50f-47ba-8877-9cb3aded078f --> | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/2E00A00A29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/72C026870C5140B3BA55B154452E050E1/UXInit.pdb) |
+| 408c7c...<!-- 408c7c94b3c7875b0d0e6e242b1775ffe0bb486bd2c0d7603c9ff5b4d790373a --> | 2026-07-14 | 84f92676...<!-- 84f92676-c50f-47ba-8877-9cb3aded078f --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/331999E329000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/3454520FEEE7D36CD38C60DF4B53A8221/UXInit.pdb) |
+| 5342a3...<!-- 5342a3e691940d42e7cfc8f4706da82d601748e8f72128cdf31c5fbdfd4ded1f --> | 2026-07-14 | 84f92676...<!-- 84f92676-c50f-47ba-8877-9cb3aded078f --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/208413C527000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/7322457934CE9BDF6483692D14547E361/UXInit.pdb) |
 | 59a2d9...<!-- 59a2d94b3331a8d2ff80121fa55afd76798b9e1fb4e567e4b94d4b36c752504c --> | 2026-07-06 | 23b8b945...<!-- 23b8b945-cad8-41db-9925-72a522fedffc --> |  | 10.0.26100.8772 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/34F5ABCC29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/3D25D04508E711F48E94F962D74CFF591/UXInit.pdb) |
 | 5fb7a2...<!-- 5fb7a2b76f5a2a9bde56ccc92bac7aa6053f0758aeb7b7c965b77badb850bd1c --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> |  | 10.0.26100.8764 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/193F0CEB29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/7A5E4F543E89B5B5F26BEB1D14D296CB1/UXInit.pdb) |
 | 2b8749...<!-- 2b8749f301909370edc6e2912d803e3985d6d41710d2be0d736bb6587e613c99 --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> |  | 10.0.26100.1743 | 🔴 | ❓ |
