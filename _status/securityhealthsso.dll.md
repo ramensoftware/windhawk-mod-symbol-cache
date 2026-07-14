@@ -112,7 +112,6 @@
 | e2dd3f...<!-- e2dd3fb2355940440862cbc937f1bb931dae37a11824b576304f7da44cffc832 --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2081 | 🔴 | ❓ |
 | 8a3324...<!-- 8a3324d7abb3ff0e74e00c7d268438029a0bf12e4260dc140cb6f785a87a5e3a --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> |  | 10.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/83957DB3ec000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/DA572CC3E7F8B0F414A81D60591D39C41/SecurityHealthSSO.pdb) |
 | cb51a2...<!-- cb51a256450b2d9b8bd35303bb7d025064b9726d7e198b41a0b0f3e468db437a --> | 2026-05-19 | 3cf2a0a8...<!-- 3cf2a0a8-63bf-4416-bc7d-7c313fb6a986 --> |  | 10.0.28000.2176 | 🔴 | ❓ |
-| b8d9f6...<!-- b8d9f6452e7079fee4c556d8063dc4fe9789f86f2f72a21c4d3b3903589f6062 --> | 2026-05-14 | cf4f4f12...<!-- cf4f4f12-1076-48f3-93e1-fd4886a1a13b --> |  | 10.0.28000.2173 | 🔴 | ❓ |
 
 ### 10.0.26100
 
