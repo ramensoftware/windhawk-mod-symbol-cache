@@ -114,8 +114,6 @@
 | 7287f2...<!-- 7287f2ff7e8d365ca0506573123e167f9e64e54adad4e50172610600bec69687 --> | 2026-05-29 | 9087bb22...<!-- 9087bb22-cc58-4ff6-a220-961e4f5da0b8 --> |  | 10.0.26100.8553 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/20F034791c000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/A7F3A9C132CFDE40A22F5CD184015F321/MuseUxDocked.pdb) |
 | e16fdb...<!-- e16fdb7d4c13d0ca99ef8356a5b3809dd77fdc02e151adcab1ca1de85f3e680c --> | 2026-05-22 | 2207dbd6...<!-- 2207dbd6-f0f9-4f99-9e4d-4e239eca14ef --> |  | 10.0.26100.8497 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/835DCD471c000/museuxdocked.dll) | ❓ |
 | 0066c3...<!-- 0066c368deb0e0888fdcdf13ab713f954a3aa3797dc1d137cebf1e6f6fcdc3ca --> | 2026-05-22 | 17f308d6...<!-- 17f308d6-c865-4512-aeac-8aefe0faf3a1 --> |  | 10.0.26100.8491 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/CCB391A81c000/museuxdocked.dll) | ❓ |
-| 800247...<!-- 80024704470c16a333f8e90bb189ee0a15475b99c67fd231ce79d72df75047b4 --> | 2026-05-15 | 62b2f983...<!-- 62b2f983-c1f3-4c14-93d6-128fc2a55d8d --> |  | 10.0.26100.8493 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/91F083E41b000/museuxdocked.dll) | ❓ |
-| fda75d...<!-- fda75d749d82fcd7532a4ace05631a800731ff8b919d381f8373787a543c2e06 --> | 2026-05-15 | bc6c4fa4...<!-- bc6c4fa4-2151-463f-b2be-4d9f9b552583 --> |  | 10.0.26100.8474 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/799039B91b000/museuxdocked.dll) | ❓ |
 
 ### 10.0.22621
 
