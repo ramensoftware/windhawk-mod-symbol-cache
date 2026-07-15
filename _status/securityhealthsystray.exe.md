@@ -128,8 +128,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ead5bb...<!-- ead5bbb7752377bb4d9bf8dcc38a34969e254e5da87889b8d4b4788e3be0b0ef --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.4355 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/4CAD0B8119000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/803A9FD7DCB79764CF50624DBC130F791/SecurityHealthSystray.pdb) |
-| 570b37...<!-- 570b37a7a3ffdafcceccc33cbc1968feb857b73ca3cb4dffedc2e67e9abd0878 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/B06F389519000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/0CF35BE1A727BE31A7A45D3F1A7DF1A01/SecurityHealthSystray.pdb) |
+| ead5bb...<!-- ead5bbb7752377bb4d9bf8dcc38a34969e254e5da87889b8d4b4788e3be0b0ef --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.4355 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/4CAD0B8119000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/803A9FD7DCB79764CF50624DBC130F791/SecurityHealthSystray.pdb) |
+| 570b37...<!-- 570b37a7a3ffdafcceccc33cbc1968feb857b73ca3cb4dffedc2e67e9abd0878 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/B06F389519000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/0CF35BE1A727BE31A7A45D3F1A7DF1A01/SecurityHealthSystray.pdb) |
 
 ### 10.0.17763
 

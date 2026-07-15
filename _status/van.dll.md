@@ -53,8 +53,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 06a71d...<!-- 06a71d96df0291b8d679204ae5b13db69d6a35fc4751090d9642bba4047cd1bb --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/van.dll/3B8AD5C258000/van.dll) | [🟢](https://msdl.microsoft.com/download/symbols/van.pdb/B3EFC1F900ADF9C77A81A1CB935C449D1/van.pdb) |
-| 9b41e5...<!-- 9b41e5923e604609d1efb6cab73a2b77f6182c4b584d185f8ff518edc7b19be9 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/van.dll/43E1B9E257000/van.dll) | [🟢](https://msdl.microsoft.com/download/symbols/van.pdb/1224F8704C6B2F94FFB25A9FC73359581/van.pdb) |
+| 06a71d...<!-- 06a71d96df0291b8d679204ae5b13db69d6a35fc4751090d9642bba4047cd1bb --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/van.dll/3B8AD5C258000/van.dll) | [🟢](https://msdl.microsoft.com/download/symbols/van.pdb/B3EFC1F900ADF9C77A81A1CB935C449D1/van.pdb) |
+| 9b41e5...<!-- 9b41e5923e604609d1efb6cab73a2b77f6182c4b584d185f8ff518edc7b19be9 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/van.dll/43E1B9E257000/van.dll) | [🟢](https://msdl.microsoft.com/download/symbols/van.pdb/1224F8704C6B2F94FFB25A9FC73359581/van.pdb) |
 
 ### 10.0.17763
 

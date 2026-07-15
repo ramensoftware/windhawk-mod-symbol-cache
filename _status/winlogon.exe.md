@@ -184,8 +184,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 014508...<!-- 01450861cad9f6e98ae48dbadf6c29d4b10f2017ff65d9aa67d04b64aa4ab1a2 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/B252040706B689BEE0A8D44BCC4C5D8E1/winlogon.pdb) |
-| fbc2eb...<!-- fbc2eb97a177f7cbd6e38f3a6c45471e988b01978724f9790af0377bb5f3bf8d --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/CACA731Ee2000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/C13FD3300EFB6755187BD27BA103970E1/winlogon.pdb) |
+| 014508...<!-- 01450861cad9f6e98ae48dbadf6c29d4b10f2017ff65d9aa67d04b64aa4ab1a2 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/B252040706B689BEE0A8D44BCC4C5D8E1/winlogon.pdb) |
+| fbc2eb...<!-- fbc2eb97a177f7cbd6e38f3a6c45471e988b01978724f9790af0377bb5f3bf8d --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/CACA731Ee2000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/C13FD3300EFB6755187BD27BA103970E1/winlogon.pdb) |
 | 090851...<!-- 09085126a8892dcb52eddc91c834aedcaf048132364df0b81964ff968368e2fe --> | 2026-06-09 | 9bfb2eb8...<!-- 9bfb2eb8-2ce7-405d-b2d3-40ecef3781ae --> | 10.0.19041.7417 | 10.0.19041.7417 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/885CE182ed000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/362F0976BC35D6B31E67D50A2DE2690C1/winlogon.pdb) |
 
 ### 10.0.17763

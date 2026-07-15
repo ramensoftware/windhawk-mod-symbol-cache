@@ -183,8 +183,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f75a4f...<!-- f75a4fcf3dfea5d5d6eb0463c35dbe5eafa842f49c4809746c57aac8da4cddc0 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/CFAAB04A9E27344E548B0DB6333DDD7C1/explorer.pdb) |
-| 231651...<!-- 23165139c2a7d2d75df54b8fbac69fa37462c43ff971b78f8cbf99be2613655e --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/7AC6EEC3442000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/730F5F9423DBED875B0C75E8756A35EA1/explorer.pdb) |
+| f75a4f...<!-- f75a4fcf3dfea5d5d6eb0463c35dbe5eafa842f49c4809746c57aac8da4cddc0 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/CFAAB04A9E27344E548B0DB6333DDD7C1/explorer.pdb) |
+| 231651...<!-- 23165139c2a7d2d75df54b8fbac69fa37462c43ff971b78f8cbf99be2613655e --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/7AC6EEC3442000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/730F5F9423DBED875B0C75E8756A35EA1/explorer.pdb) |
 | d37b6e...<!-- d37b6ea44707b3d9985083fb83bab3f34ce8a578741c11faa4e0d69f8ea418e9 --> | 2026-06-09 | 9bfb2eb8...<!-- 9bfb2eb8-2ce7-405d-b2d3-40ecef3781ae --> | 10.0.19041.7417 | 10.0.19041.7417 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/1BC1F56D5c9000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/F1C677684A2BFFF3563A92AAC2D32E711/explorer.pdb) |
 
 ### 10.0.17763

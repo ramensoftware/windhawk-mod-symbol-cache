@@ -179,8 +179,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1d7a80...<!-- 1d7a8069caf216340500aff0066554f9796aef1569ef571d7d6dab8b96927fa8 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/20FF029B0AA3C041E0BD70EF776799A41/ExplorerFrame.pdb) |
-| 4c3c52...<!-- 4c3c525bea7707bbaba7c978feef7142034d5830f43518fbd89a55447bf7e833 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/F7EDD2D621f000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/EB6B4034C4AB7E6015B3D2814AF44CF31/ExplorerFrame.pdb) |
+| 1d7a80...<!-- 1d7a8069caf216340500aff0066554f9796aef1569ef571d7d6dab8b96927fa8 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/20FF029B0AA3C041E0BD70EF776799A41/ExplorerFrame.pdb) |
+| 4c3c52...<!-- 4c3c525bea7707bbaba7c978feef7142034d5830f43518fbd89a55447bf7e833 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/F7EDD2D621f000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/EB6B4034C4AB7E6015B3D2814AF44CF31/ExplorerFrame.pdb) |
 | d68129...<!-- d681298ebc2261f8fa388301fa42e71a364744d374e474922cfce596922eb9d1 --> | 2026-06-09 | 9bfb2eb8...<!-- 9bfb2eb8-2ce7-405d-b2d3-40ecef3781ae --> | 10.0.19041.6280 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/63CEFF9C258000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/FBA88F6BFAE364A8601FDF96450580D91/ExplorerFrame.pdb) |
 
 ### 10.0.17763

@@ -184,8 +184,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 499ad8...<!-- 499ad86efdf0a782585d9af36d5b50ee80447731ad45ed706a08519f778ed32d --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/6C73EAF1F5962A5464B9DC9D29F5A8731/twinui.pcshell.pdb) |
-| 4ad971...<!-- 4ad9712221912aaf608fe5985ba905ba79eb2082314792b2d343271663456b1c --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/A11048855cd000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/7889F6B33E1C8D99CD9E604B9AC02A2C1/twinui.pcshell.pdb) |
+| 499ad8...<!-- 499ad86efdf0a782585d9af36d5b50ee80447731ad45ed706a08519f778ed32d --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/6C73EAF1F5962A5464B9DC9D29F5A8731/twinui.pcshell.pdb) |
+| 4ad971...<!-- 4ad9712221912aaf608fe5985ba905ba79eb2082314792b2d343271663456b1c --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/A11048855cd000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/7889F6B33E1C8D99CD9E604B9AC02A2C1/twinui.pcshell.pdb) |
 | 7964c9...<!-- 7964c9156e6e078a8c84066adcf371a64378f7c2bc681a6aeace0e52a7b24039 --> | 2026-06-09 | 9bfb2eb8...<!-- 9bfb2eb8-2ce7-405d-b2d3-40ecef3781ae --> | 10.0.19041.7181 | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.dll/9A33E7F46b4000/twinui.pcshell.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pcshell.pdb/5535821DAF9372887EC2BCE9554DD1D41/twinui.pcshell.pdb) |
 
 ### 10.0.17763

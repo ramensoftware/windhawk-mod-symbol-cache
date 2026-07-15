@@ -162,8 +162,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f1b840...<!-- f1b8409474464e75375166239da9b1af0f590eef99a303caf2d27aaee4b8788f --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.7058 | 10.0.19041.7058 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/07B583FD44000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/D785A0BEC750554190A5F20FE20AB36B1/timedate.pdb) |
-| 0e8a97...<!-- 0e8a97084f62e4dd6c9e26b0d8576ce35f2a1b7f346f7e557b8808d32dd8b476 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/A6F4F5D63f000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/15EF31D3539247E5B8727802E329F3E41/timedate.pdb) |
+| f1b840...<!-- f1b8409474464e75375166239da9b1af0f590eef99a303caf2d27aaee4b8788f --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.7058 | 10.0.19041.7058 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/07B583FD44000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/D785A0BEC750554190A5F20FE20AB36B1/timedate.pdb) |
+| 0e8a97...<!-- 0e8a97084f62e4dd6c9e26b0d8576ce35f2a1b7f346f7e557b8808d32dd8b476 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/A6F4F5D63f000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/15EF31D3539247E5B8727802E329F3E41/timedate.pdb) |
 
 ### 10.0.17763
 

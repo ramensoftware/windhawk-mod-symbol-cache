@@ -172,8 +172,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f0392b...<!-- f0392b4d20768124b4d3b4f99212e732af425c90801e0b1c4e85f4a436a0dcba --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/AF97F6AACCAE1DE7FE9CF655B3A204FB1/ApplicationFrame.pdb) |
-| edbba2...<!-- edbba24e2872de74a27dbeb609477beabf045a9db16efe793b4e9267b2e58d73 --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/B99D5F7Cab000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/1E247C9FF6C02AFD9EE9FE71FBB7D8FE1/ApplicationFrame.pdb) |
+| f0392b...<!-- f0392b4d20768124b4d3b4f99212e732af425c90801e0b1c4e85f4a436a0dcba --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/AF97F6AACCAE1DE7FE9CF655B3A204FB1/ApplicationFrame.pdb) |
+| edbba2...<!-- edbba24e2872de74a27dbeb609477beabf045a9db16efe793b4e9267b2e58d73 --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/B99D5F7Cab000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/1E247C9FF6C02AFD9EE9FE71FBB7D8FE1/ApplicationFrame.pdb) |
 | d8cd6b...<!-- d8cd6b7dc93175717d3c063c439fbdd761bd9fc13c5233d874ca8ebbd07e8fa6 --> | 2026-06-09 | 9bfb2eb8...<!-- 9bfb2eb8-2ce7-405d-b2d3-40ecef3781ae --> | 10.0.19041.5794 | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/A7E90EB9a9000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/0F2ECB65C3618378D712A2726AD510FF1/ApplicationFrame.pdb) |
 
 ### 10.0.17763

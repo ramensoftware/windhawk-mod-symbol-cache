@@ -178,8 +178,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a08df3...<!-- a08df3efee530bd152d09c14fa51fb392b5884f79986de0e44257b94a3175eff --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/A2B76CA2DFF3E05594B76DC21678D61E1/stobject.pdb) |
-| a2f325...<!-- a2f325600c20df59fae00aeca62c4a298e50ed35c1bd526d2669bf3c9ff1166a --> | 2026-07-14 | e02e746f...<!-- e02e746f-e5f1-4df9-9cad-ddc74b388f76 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/DDAA28D351000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/7766D2E237F5D7A1F0531F9EE31402051/stobject.pdb) |
+| a08df3...<!-- a08df3efee530bd152d09c14fa51fb392b5884f79986de0e44257b94a3175eff --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> |  | 10.0.19041.7548 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/A2B76CA2DFF3E05594B76DC21678D61E1/stobject.pdb) |
+| a2f325...<!-- a2f325600c20df59fae00aeca62c4a298e50ed35c1bd526d2669bf3c9ff1166a --> | 2026-07-14 | 6d2607d1...<!-- 6d2607d1-4ca2-4976-a958-8e37a1ddf886 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/DDAA28D351000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/7766D2E237F5D7A1F0531F9EE31402051/stobject.pdb) |
 | 05c255...<!-- 05c255064dd7408c85434170d58cb14cdb9606567b760cf5e01282ed2872b0ab --> | 2026-06-09 | 9bfb2eb8...<!-- 9bfb2eb8-2ce7-405d-b2d3-40ecef3781ae --> | 10.0.19041.5794 | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/0F325CE952000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/9F7F49A8AD3B1BE000FD5760E33E746A1/stobject.pdb) |
 
 ### 10.0.17763
