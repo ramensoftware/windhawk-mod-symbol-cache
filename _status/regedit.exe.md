@@ -99,12 +99,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | afc3d0...<!-- afc3d0dfd646e4b47ba42ddea02ee5fe3ec5663a0260e15bd5127fbeb02d303b --> | 2026-05-22 | 0891407a...<!-- 0891407a-391d-4ded-add6-f92f90048090 --> | 10.0.29595.1000 | 10.0.29595.1000 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/521554C3cd000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/6B7D660EC9417A8A4CE8323B8ECE09961/regedit.pdb) |
 
-### 10.0.29591
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f0ab5d...<!-- f0ab5dfcc07457e0f68b3303c739fbf904c6bb1d81586b1b19172898299ec29e --> | 2026-05-15 | 4a6672d1...<!-- 4a6672d1-0a73-47b7-aa06-44e98218ba56 --> | 10.0.29591.1000 | 10.0.29591.1000 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/5A93BDA6cd000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/8F197C2F5FED607793B10EF8851CF8061/regedit.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
