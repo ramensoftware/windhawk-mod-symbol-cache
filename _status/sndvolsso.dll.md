@@ -55,7 +55,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d68b98...<!-- d68b98935e55808bcdfd28c11cc58a92c61a9ef1925260431894b5d9da8c3788 --> | 2026-07-14 | KB5101650 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/AEE6ADE285000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/61A2836843F27872B13D0795533206771/SndVolSSO.pdb) |
+| d68b98...<!-- d68b98935e55808bcdfd28c11cc58a92c61a9ef1925260431894b5d9da8c3788 --> | 2026-07-14 | KB5101650 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/AEE6ADE285000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/61A2836843F27872B13D0795533206771/SndVolSSO.pdb) |
 | 2472b1...<!-- 2472b1c5c951e0251500d7686761ca4148cfacc4a6923ce02b081b476d016a1d --> | 2026-06-09 | KB5094126 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/6CD3B36D85000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/1D9CBC221AB14621ECE809CEB5F66CDE1/SndVolSSO.pdb) |
 
 ### 10.0.22621
