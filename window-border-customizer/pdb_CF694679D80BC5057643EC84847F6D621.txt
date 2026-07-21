@@ -1,0 +1,1 @@
+1#udwm.dll#arm64_1182196894_1343488#private: int __cdecl CTopLevelWindow::EdgeBorderMustBeOpaque(void)#188928#private: int __cdecl CTopLevelWindow::EdgeBorderMustBeOpaque(void)const##public: long __cdecl CWindowBorder::SetBorderParameters(struct tagRECT const &,float,int,struct _D3DCOLORVALUE const &,enum CWindowBorder::BorderStyle,enum CWindowBorder::ShadowStyle)#279400
