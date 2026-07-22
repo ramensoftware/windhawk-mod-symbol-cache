@@ -194,12 +194,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | bc413f...<!-- bc413faa748a0c88da3461269539b1d75b4ea5d113f07ec26a0da9ac8230ba78 --> | 2026-05-29 | 19f7f5a8...<!-- 19f7f5a8-e7f9-457e-8f8f-94d6846c43bc --> | 5.82 | 10.0.29599.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/E7E54E2Dbd000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32v582.pdb/25C03447F514AA52528075B454B368E11/comctl32v582.pdb) |
 
-### 10.0.29595
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f2fc7e...<!-- f2fc7eeecc4fffd217e334602f360279fb9d946eb6631826f308ad65b265a3cc --> | 2026-05-22 | 0891407a...<!-- 0891407a-391d-4ded-add6-f92f90048090 --> | 5.82 | 10.0.29595.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/F1C201F3bd000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32v582.pdb/8C804A7A1AF9DDB2C2221AEB6F4830601/comctl32v582.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -301,12 +295,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 762c53...<!-- 762c5345286d27c7bec3e6f0944db99868a34baffbe69fbdf32a63518e3a9a8c --> | 2026-05-29 | 19f7f5a8...<!-- 19f7f5a8-e7f9-457e-8f8f-94d6846c43bc --> | 6.10 | 6.0.29599.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/4DC84439279000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/25040BBE9903A69DB1D342450E06B1AB1/comctl32.pdb) |
 
-### 6.0.29595
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b89eae...<!-- b89eaef38ce6c74bf4ddfcc947c249348546b5c898ee267c4f7e3db770fb11c0 --> | 2026-05-22 | 0891407a...<!-- 0891407a-391d-4ded-add6-f92f90048090 --> | 6.10 | 6.0.29595.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/053D5BE2279000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/D15D4AD487F11DCE36188CBE94AB7A911/comctl32.pdb) |
-
 ### 6.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -328,7 +316,6 @@
 | 3a24f2...<!-- 3a24f28b79d2b6c3d92e3b44ea9133313a2a204abd32ae441a0de5174121436a --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> | 6.10 | 6.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/B96E26E1297000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/26C2AE121CB8F9AD6643494F1078A9F81/comctl32.pdb) |
 | 56784d...<!-- 56784dc2e6ee86b1d976fbf4b585e9b79e9019a8b891962ef62968c876355cb8 --> | 2026-06-09 | 413372f8...<!-- 413372f8-51db-4ea1-970a-8dce91db00aa --> | 6.10 | 6.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/987EC3CB297000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/87B705522DD244061E0BD592CBAD0EC11/comctl32.pdb) |
 | c3b339...<!-- c3b33966ee798502fc7ead01dcee2b2a5bf5f42620312a2b9c5c0f49e7011f8c --> | 2026-06-08 | 9de97840...<!-- 9de97840-1a6e-4241-b83b-56c8470d9cd7 --> | 6.10 | 6.0.28000.2206 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/0D56AA2A297000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/FFBC4A5011BE8BA50A11AABE7F4396931/comctl32.pdb) |
-| 320af6...<!-- 320af68a6184579059c03836145c0e96f6411389f8e6d9b8e769df7b63ecc74f --> | 2026-05-22 | 408aa1bb...<!-- 408aa1bb-1ea8-492f-ac44-75663e747a94 --> | 6.10 | 6.0.28000.2149 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/7D6028BE297000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/2CF4B7BCFA156C551C5B103A966DF9441/comctl32.pdb) |
 
 ### 6.0.26100
 
@@ -353,8 +340,6 @@
 | 589171...<!-- 5891716c1337124826ea45a89a1f658defaf2997603aa5018612456b098176bb --> | 2026-06-09 | f7e8991e...<!-- f7e8991e-4fd8-4bfd-a404-0de6dccd4191 --> | 6.10 | 6.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/D1C0F948292000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/5C77833C5C7B03A11A889FF59308DE0D1/comctl32.pdb) |
 | 62ecb1...<!-- 62ecb177ae50e62a5f9a83171e25bdbbdffd6a2979400e6b2189c258175d5f55 --> | 2026-06-08 | a5b4887e...<!-- a5b4887e-422d-4400-b938-5173aaf8e9fa --> | 6.10 | 6.0.26100.8544 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/6AD73B14292000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/EF40E08AA9BCA917AFAE1D6205798C931/comctl32.pdb) |
 | b3ddbb...<!-- b3ddbb87471f3befccd0fff33e9a15e14dff35ee15495bb3bf0154e729f067e2 --> | 2026-05-29 | 9087bb22...<!-- 9087bb22-cc58-4ff6-a220-961e4f5da0b8 --> | 6.10 | 6.0.26100.8553 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/E89062E6292000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/FFCF7C5B8E8BDB085DACB33C5847C71E1/comctl32.pdb) |
-| 11e5f5...<!-- 11e5f5ca3571e53278dc9b13c915e2de71091376e42c92550ae56d625726ee62 --> | 2026-05-22 | 2207dbd6...<!-- 2207dbd6-f0f9-4f99-9e4d-4e239eca14ef --> | 6.10 | 6.0.26100.8497 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/A9774EEA292000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/11A5C399F44AD69058C41B0119B7D2A91/comctl32.pdb) |
-| 4393c4...<!-- 4393c4ab6cafc2725597940c3497b4d196eee68ef412fff4118c0f05ad834457 --> | 2026-05-22 | 17f308d6...<!-- 17f308d6-c865-4512-aeac-8aefe0faf3a1 --> | 6.10 | 6.0.26100.8491 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/AD204CE5292000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/F07019DFBA07C3BFE2A9D731B77C043F1/comctl32.pdb) |
 
 ### 6.0.22621
 

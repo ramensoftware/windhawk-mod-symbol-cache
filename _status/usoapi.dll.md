@@ -92,12 +92,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 669ea2...<!-- 669ea243791614433cf9ab0c679aee8c10921c05225f3b65cf35998aeafb77c0 --> | 2026-05-29 | 19f7f5a8...<!-- 19f7f5a8-e7f9-457e-8f8f-94d6846c43bc --> | 10.0.29599.1000 | 10.0.29599.1000 | [🔴](https://msdl.microsoft.com/download/symbols/usoapi.dll/99EC6BE633000/usoapi.dll) | ❓ |
 
-### 10.0.29595
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6438a9...<!-- 6438a9d73e2e022640af946002c31d245bc9a8d656dcbf4cb2c195f1c5820fcb --> | 2026-05-22 | 0891407a...<!-- 0891407a-391d-4ded-add6-f92f90048090 --> | 10.0.29595.1000 | 10.0.29595.1000 | [🔴](https://msdl.microsoft.com/download/symbols/usoapi.dll/10346FC433000/usoapi.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

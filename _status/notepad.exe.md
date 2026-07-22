@@ -94,12 +94,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c3076d...<!-- c3076d444be1b66cb1f7cc42b50f6953476b86f786388e8fe3a7fbb8cbe3fa2b --> | 2026-05-29 | 19f7f5a8...<!-- 19f7f5a8-e7f9-457e-8f8f-94d6846c43bc --> | 10.0.29599.1000 | 10.0.29599.1000 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/65E5BB2B57000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/4084BCD6ABE0D62FC194F156A56491241/notepad.pdb) |
 
-### 10.0.29595
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 632345...<!-- 632345f40274bafefa16da6b20ec1c8e87633b39af457806b0a6bf60e853e4a9 --> | 2026-05-22 | 0891407a...<!-- 0891407a-391d-4ded-add6-f92f90048090 --> | 10.0.29595.1000 | 10.0.29595.1000 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/FCAE961357000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/6CF3BC4F4BC82FD9FCEAF7194E2F50201/notepad.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -139,8 +133,6 @@
 | ab15a9...<!-- ab15a95de88ab0624307ae0e28e333756a2a522f650a0be78749901f7dc32ecf --> | 2026-06-09 | f7e8991e...<!-- f7e8991e-4fd8-4bfd-a404-0de6dccd4191 --> | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/9344721F5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/819001016BE75ED8CCCE9712D861C9581/notepad.pdb) |
 | a5aa98...<!-- a5aa9854de52e58f620294533f910c6e3617dbb7f40383ff2a21666d98151126 --> | 2026-06-08 | a5b4887e...<!-- a5b4887e-422d-4400-b938-5173aaf8e9fa --> | 10.0.26100.8544 | 10.0.26100.8544 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/45DC1E5D5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/4BEF9974AF2E3C53433817309DCCBBED1/notepad.pdb) |
 | 057c1b...<!-- 057c1b2e5801e2d4a5c217e1ef0b4e51e0c5020a994bf96569a52ec5c41e75c2 --> | 2026-05-29 | 9087bb22...<!-- 9087bb22-cc58-4ff6-a220-961e4f5da0b8 --> | 10.0.26100.8553 | 10.0.26100.8553 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/1136C5A05a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/295B98707EF8F3824CD8C3E3CDDFFFB81/notepad.pdb) |
-| 0e3ac0...<!-- 0e3ac0ba48da4eb2c397032d8bdb1954503464e341d920ae1a4080dc9b20b86f --> | 2026-05-22 | 2207dbd6...<!-- 2207dbd6-f0f9-4f99-9e4d-4e239eca14ef --> | 10.0.26100.8497 | 10.0.26100.8497 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/F42634135a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/45480DFB74135EE676F3E4F2E517701E1/notepad.pdb) |
-| f26e03...<!-- f26e03118550bde594f7366976cabc54acd9bfa455751294ee11e0253f1b8c93 --> | 2026-05-22 | 17f308d6...<!-- 17f308d6-c865-4512-aeac-8aefe0faf3a1 --> |  | 10.0.26100.8491 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/4D9B128A5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/54529876E17E22388A5FAD2BBAAD45341/notepad.pdb) |
 
 ### 10.0.22621
 
