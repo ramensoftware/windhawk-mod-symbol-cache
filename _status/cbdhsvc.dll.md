@@ -129,7 +129,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2701e4...<!-- 2701e462bbf15b80f8884a44ac50b474ee1c830f5a6c1e7e7f14b941c881b67f --> | 2026-07-20 | e761948f...<!-- e761948f-a3ff-4d58-93df-138c9cd6075f --> |  | 10.0.26100.8968 | 🔴 | ❓ |
+| 2701e4...<!-- 2701e462bbf15b80f8884a44ac50b474ee1c830f5a6c1e7e7f14b941c881b67f --> | 2026-07-20 | e761948f...<!-- e761948f-a3ff-4d58-93df-138c9cd6075f --> | 10.0.26100.8968 | 10.0.26100.8968 | [🔴](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/BA159E5Bdd000/cbdhsvc.dll) | ❓ |
 | b48fde...<!-- b48fde0ab30f594a8510bc43dd8d1d0beb5a28662127a1582ef3fb7c5f61e5a7 --> | 2026-07-20 | 955e06c5...<!-- 955e06c5-f7ab-4107-b67e-3f4f0b291323 --> |  | 10.0.26100.8935 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/3CF8A8F0dd000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/3B16F4652FD2FB0C886597CAC5CEAEA41/CBDHSvc.pdb) |
 | aba2e4...<!-- aba2e495e9205d9bb59790a8b1aa9b6cbcfebca78aa68e77ea7ad39991cdc53f --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.8925 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/AE55DF22dd000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/5D658DA5E8A001383169ECB1EF6E6A4E1/CBDHSvc.pdb) |
 | fbd78d...<!-- fbd78d88501745ac6b3152426ac536ef7421aa7ea45ad55e6a7b4ec0ca3b3030 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.1743 | 🔴 | ❓ |

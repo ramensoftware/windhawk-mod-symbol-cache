@@ -133,7 +133,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 911506...<!-- 911506b00c60433e58c32afd5820595dea9c996f2e61ff2788bba2248a1c61af --> | 2026-07-20 | e761948f...<!-- e761948f-a3ff-4d58-93df-138c9cd6075f --> |  | 10.0.26100.8968 | 🔴 | ❓ |
+| 911506...<!-- 911506b00c60433e58c32afd5820595dea9c996f2e61ff2788bba2248a1c61af --> | 2026-07-20 | e761948f...<!-- e761948f-a3ff-4d58-93df-138c9cd6075f --> | 10.0.26100.8968 | 10.0.26100.8968 | [🔴](https://msdl.microsoft.com/download/symbols/uxtheme.dll/999997F7a8000/uxtheme.dll) | ❓ |
 | 830514...<!-- 8305143e655418d8996abd03bbe992e83717dcbe1a57227583c0acf3154a209f --> | 2026-07-20 | 955e06c5...<!-- 955e06c5-f7ab-4107-b67e-3f4f0b291323 --> |  | 10.0.26100.8935 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/D179F2FAa8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/3D5C823EE0241B3DD451513B4C61F4251/uxtheme.pdb) |
 | d542f3...<!-- d542f38e0df74071e0a5398d19dee03d9648efb673f972db2b2c566cc6474442 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.8925 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/A6E02E3Ba8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D777E4B087B2C7E7C072D4371CBFCE581/uxtheme.pdb) |
 | 975d1d...<!-- 975d1d4d0eac75605c22d5fe649a43be73fd357c2783805e377033e8d5d53245 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.1743 | 🔴 | ❓ |

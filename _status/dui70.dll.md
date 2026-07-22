@@ -131,7 +131,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| fb0788...<!-- fb0788ab6cf0003ba3d582d075102f3cf03a7271dffdfe9c9e96d605fd51ae68 --> | 2026-07-20 | e761948f...<!-- e761948f-a3ff-4d58-93df-138c9cd6075f --> |  | 10.0.26100.8968 | 🔴 | ❓ |
+| fb0788...<!-- fb0788ab6cf0003ba3d582d075102f3cf03a7271dffdfe9c9e96d605fd51ae68 --> | 2026-07-20 | e761948f...<!-- e761948f-a3ff-4d58-93df-138c9cd6075f --> | 10.0.26100.8968 | 10.0.26100.8968 | [🔴](https://msdl.microsoft.com/download/symbols/dui70.dll/E27C35301aa000/dui70.dll) | ❓ |
 | 562b02...<!-- 562b027a6fe54c9a77fe89d070628cc861fe922d418848a0db3401defbadcfce --> | 2026-07-20 | 955e06c5...<!-- 955e06c5-f7ab-4107-b67e-3f4f0b291323 --> |  | 10.0.26100.8935 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/D5C8D4D21aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/523CE9D4B7AA42698F0CABA682A6E2451/DUI70.pdb) |
 | cf9bee...<!-- cf9bee74942495a2a3e53f394fa5b8c5ab5eeb49b513ba5a6fec5cf27d41f53e --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.8925 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/A78941281aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/3BE634D68AC14679307BE6F5FBFE671C1/DUI70.pdb) |
 | 09ba2a...<!-- 09ba2a45e10702b28bc67ffc332db34e898a6007e61f600e678b5791ad871383 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.1743 | 🔴 | ❓ |
