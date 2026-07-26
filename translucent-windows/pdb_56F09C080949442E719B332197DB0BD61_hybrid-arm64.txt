@@ -1,0 +1,1 @@
+1;uxtheme.dll;arm64_1521478167_1314816;long __cdecl _GetBrushesForPart(void *,int,int,struct HBITMAP__ * *,struct HBRUSH__ * *);316624;protected: static __int64 __cdecl CThemeMenu::MenuKeyboardMsgProc(int,unsigned __int64,__int64);

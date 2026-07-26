@@ -1,0 +1,1 @@
+1;user32.dll;arm64_3553312827_540672;__int64 __cdecl RealDefWindowProcWorker(struct tagWND *,unsigned int,unsigned __int64,__int64,unsigned long);;void __cdecl RenderTooltip(struct HWND__ *,struct HDC__ *,struct TooltipInfo *);;__int64 __cdecl MB_DlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);;void __cdecl DrawCommandRectangle(struct HWND__ *);
