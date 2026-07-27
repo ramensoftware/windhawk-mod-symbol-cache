@@ -1,1 +1,0 @@
-1#3882527269#9822208#public: bool __cdecl ImmersiveMonitorHelper::ConnectToMonitor(struct HWND__ *,struct tagPOINT)#922480#public: long __cdecl ImmersiveMonitorHelper::AdjustMonitorConnectedIfNeeded(void)#4625808
