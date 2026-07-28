@@ -77,6 +77,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29634
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 55d327...<!-- 55d327f7f0b90df4f5e115d557ebfe7b1d3c724c5967901b5f22942e24889fb5 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 10.0.29634.1000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/9C3C4B055f000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/38E3DC116FADBA339A9824614BA773901/stobject.pdb) |
+
 ### 10.0.29617
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -105,8 +111,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 333f89...<!-- 333f894f2bc26fe9c63ff19bfb5ccd05a318c8cd3b5761d3e0a712d00fe7fa8c --> | 2026-07-22 | e4edf0e2...<!-- e4edf0e2-e9f5-495d-98e4-74c0c0342788 --> | 10.0.28000.2546 | 10.0.28000.2546 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/00849BEC63000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/F7B4E32601AFA2E82EA7B5E1015B2F811/stobject.pdb) |
-| e8f4f0...<!-- e8f4f0e6739b5180d3968103b9acb81628cca176df7d3cd81a423dbbd44d45cf --> | 2026-07-22 | e4edf0e2...<!-- e4edf0e2-e9f5-495d-98e4-74c0c0342788 --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/FECE5AFB60000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/0BDFEB30F7AE6314429EA4F3D06D369E1/stobject.pdb) |
+| 333f89...<!-- 333f894f2bc26fe9c63ff19bfb5ccd05a318c8cd3b5761d3e0a712d00fe7fa8c --> | 2026-07-28 | ed7a5b5e...<!-- ed7a5b5e-56ee-4527-abee-3488588f713a --> | 10.0.28000.2546 | 10.0.28000.2546 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/00849BEC63000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/F7B4E32601AFA2E82EA7B5E1015B2F811/stobject.pdb) |
+| e8f4f0...<!-- e8f4f0e6739b5180d3968103b9acb81628cca176df7d3cd81a423dbbd44d45cf --> | 2026-07-28 | ed7a5b5e...<!-- ed7a5b5e-56ee-4527-abee-3488588f713a --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/FECE5AFB60000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/0BDFEB30F7AE6314429EA4F3D06D369E1/stobject.pdb) |
 | a08f14...<!-- a08f14f043e05184d38fcb27e1087fb2c1c01f1ce221dd9bb8867cc594fcaa28 --> | 2026-07-20 | cb51427d...<!-- cb51427d-cd3b-4a69-86c0-ab8c47723bf2 --> |  | 10.0.28000.2605 | 🔴 | ❓ |
 | ff0246...<!-- ff0246a9ceb03b9e70e8ccd112cd1d4fcd55ca3be54ae5a65abb04794fa173d3 --> | 2026-07-20 | f02df7b5...<!-- f02df7b5-d46a-4494-bd2d-1f8a1838e491 --> |  | 10.0.28000.2539 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/E4C7968F63000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/2B5DE47D218781F60C5A24D8D7A5DD101/stobject.pdb) |
 | 035721...<!-- 0357213ec99781af046bacbd9fecb248d2dcc972af323c09f0269941befca861 --> | 2026-07-20 | cb51427d...<!-- cb51427d-cd3b-4a69-86c0-ab8c47723bf2 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/B4132D9160000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/DFFE83F8ECBD741114213CEDB553DD9D1/stobject.pdb) |

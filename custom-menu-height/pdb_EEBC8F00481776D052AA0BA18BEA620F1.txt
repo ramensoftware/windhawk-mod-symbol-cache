@@ -1,0 +1,1 @@
+1#securityhealthsystray.exe#x86-64_4159863606_196608#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#

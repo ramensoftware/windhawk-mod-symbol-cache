@@ -1,0 +1,1 @@
+1#3681955272#7622656#public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void)#712056#private: static void __cdecl CDesktopWatermark::s_GetProductBuildString(unsigned short *,unsigned int)#484120

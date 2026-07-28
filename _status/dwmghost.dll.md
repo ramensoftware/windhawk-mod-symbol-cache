@@ -50,7 +50,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9e5935...<!-- 9e5935370d763bbf390a7c7b42620707ad7e1ba336101d9bfeaf8428be10c075 --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/7B0E98C517000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B6EA3D42EC273F7A553F81A440F5146C1/dwmghost.pdb) |
+| 9e5935...<!-- 9e5935370d763bbf390a7c7b42620707ad7e1ba336101d9bfeaf8428be10c075 --> | 2026-07-18 | KB5121767 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/7B0E98C517000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B6EA3D42EC273F7A553F81A440F5146C1/dwmghost.pdb) |
 
 ### 10.0.22621
 
@@ -65,6 +65,12 @@
 | 0b9597...<!-- 0b9597875ad4287902c6fb7a82b114c0453266e6b6cd9190422e987545a28309 --> | 2026-07-14 | KB5099539 |  | 10.0.19041.6216 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/59E56C921c000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/168023FD3CA3B785041736639EE3EE4F1/dwmghost.pdb) |
 
 ## x64 (insider preview builds)
+
+### 10.0.29634
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 776c35...<!-- 776c354a53639a5a140107e2b6ea0cb072ac4f0e2a0071cdf1e7327754db41a4 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 10.0.29634.1000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/AF0476E617000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/465052E5485FB1E7A87A4447A2C2BC721/dwmghost.pdb) |
 
 ### 10.0.29617
 
@@ -94,8 +100,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e5a549...<!-- e5a549b51a674f791aca4db12b4979786d2c939da97b35b4e3e7725a64ec200c --> | 2026-07-22 | e4edf0e2...<!-- e4edf0e2-e9f5-495d-98e4-74c0c0342788 --> |  | 10.0.28000.2081 | 🔴 | ❓ |
-| f338a9...<!-- f338a987a68c3dbd08211fc1b4659639d147ac1dc7b8e73aad71c6e246f67922 --> | 2026-07-22 | e4edf0e2...<!-- e4edf0e2-e9f5-495d-98e4-74c0c0342788 --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/6A94278D18000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/51F84F668B90B216EE8092D23EB47F6E1/dwmghost.pdb) |
+| e5a549...<!-- e5a549b51a674f791aca4db12b4979786d2c939da97b35b4e3e7725a64ec200c --> | 2026-07-28 | ed7a5b5e...<!-- ed7a5b5e-56ee-4527-abee-3488588f713a --> |  | 10.0.28000.2081 | 🔴 | ❓ |
+| f338a9...<!-- f338a987a68c3dbd08211fc1b4659639d147ac1dc7b8e73aad71c6e246f67922 --> | 2026-07-28 | ed7a5b5e...<!-- ed7a5b5e-56ee-4527-abee-3488588f713a --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/6A94278D18000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/51F84F668B90B216EE8092D23EB47F6E1/dwmghost.pdb) |
 | 21821a...<!-- 21821ac8b5c692de7d8cc41ee31b5f742f60dde7e003d6c3de94a6acc09b3e46 --> | 2026-07-20 | cb51427d...<!-- cb51427d-cd3b-4a69-86c0-ab8c47723bf2 --> | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/7F76AE0718000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/354979E0D504D52921C27B94E279EFFF1/dwmghost.pdb) |
 | c51819...<!-- c51819d34e4c4ec05eaeae7f64f167ba5cf42d3f21d47a92fe735f28c939237d --> | 2026-07-20 | f02df7b5...<!-- f02df7b5-d46a-4494-bd2d-1f8a1838e491 --> |  | 10.0.28000.1803 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/8B0FA53418000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/6B8443E562DBF6AF106BDFA3C5F4AB6B1/dwmghost.pdb) |
 | 310161...<!-- 3101617bae43fb835fa78c53929229c3f30f9a968619a633b572fa3fbcc4c16a --> | 2026-07-20 | cb51427d...<!-- cb51427d-cd3b-4a69-86c0-ab8c47723bf2 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/6FFFF96518000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/6B8458FE4AAC52AB7B1D7C18DF4A20681/dwmghost.pdb) |
