@@ -1,0 +1,1 @@
+1#windows.storage.dll#x86_4197683474_7340032#public: virtual long __stdcall CRegFolder::Initialize(struct REGITEMSINFO const *)#1225824#public: virtual long __stdcall CDesktopFolder::ShouldShow(struct IShellFolder *,struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMID_CHILD const *)#1205808
