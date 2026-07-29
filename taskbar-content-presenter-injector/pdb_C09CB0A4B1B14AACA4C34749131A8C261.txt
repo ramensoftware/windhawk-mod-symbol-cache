@@ -1,1 +1,0 @@
-1#taskbar.view.dll#arm64_1773257621_15855616#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateVisualStates(void)#1661456#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateButtonPadding(void)#1656280#private: void __cdecl winrt::Taskbar::implementation::ExperienceToggleButton::UpdateVisualStates(void)#

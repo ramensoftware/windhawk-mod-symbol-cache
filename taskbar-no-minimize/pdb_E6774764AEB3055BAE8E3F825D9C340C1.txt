@@ -1,1 +1,0 @@
-1#explorer.exe#x86-64_2775293993_3387392#public: virtual long __cdecl CTaskBand::SwitchTo(struct ITaskItem *,int)#

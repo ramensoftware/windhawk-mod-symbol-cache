@@ -1,1 +1,0 @@
-1#1773257892#11509760#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateVisualStates(void)#82228#public: void __cdecl winrt::Taskbar::implementation::TaskbarResources::OnExperienceToggleButtonVisualStateChanged(struct winrt::Taskbar::ITaskbarButton const &,struct winrt::Taskbar::TaskbarButtonVisualStateChangedEventArgs const &)#766720
