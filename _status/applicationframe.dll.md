@@ -15,7 +15,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 524714...<!-- 524714026a411f33df3afb893f099df6a01a4da58d2be9208c93f5a1fe5a6c94 --> | 2026-07-28 | KB5101684 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/0C342E5Bb5000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/F5A69B2B36F92555426F5608890C7F951/ApplicationFrame.pdb) |
+| 524714...<!-- 524714026a411f33df3afb893f099df6a01a4da58d2be9208c93f5a1fe5a6c94 --> | 2026-07-28 | KB5101684 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/0C342E5Bb5000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/F5A69B2B36F92555426F5608890C7F951/ApplicationFrame.pdb) |
 | f9eeba...<!-- f9eeba8ca718ce322003c4f6f9ecd52b4823ee4057fb62091831267b2fe0df6a --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/F9D78B4Bb6000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/22813493B871FDDF9CCA8A3F52523CB41/ApplicationFrame.pdb) |
 | 5122f8...<!-- 5122f8449966c65afb16034e8b841967a51426832cba3c0bd2c2d81673d6157c --> | 2026-06-09 | KB5094126 | 10.0.26100.8655 | 10.0.26100.8655 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/C0E8C690b6000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/6A2D7797BD1E4FEE2213199F52029AE01/ApplicationFrame.pdb) |
 
