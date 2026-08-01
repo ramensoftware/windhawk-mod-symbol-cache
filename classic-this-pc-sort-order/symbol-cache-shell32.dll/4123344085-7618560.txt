@@ -1,0 +1,1 @@
+1#4123344085#7618560#public: virtual long __cdecl CDrivesViewCallback::ShouldShow(struct IShellFolder *,struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMID_CHILD const __unaligned *)#1460640#CLSID_ControlPanel#6302056#CLSID_ControlPanelCategory#6246136

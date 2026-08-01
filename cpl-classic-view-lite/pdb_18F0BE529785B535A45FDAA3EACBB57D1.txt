@@ -1,0 +1,1 @@
+1#shell32.dll#x86_1032638211_6807552#long __stdcall CreateCommonFrame(struct IShellFolder *,enum tagLAYOUTTYPE,struct _GUID const &,void * *)#812506

@@ -36,6 +36,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29639
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 5026d2...<!-- 5026d2c7e28c725e60f64478bf32fa5ab3b037628b713b3af10a4e24b688592a --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 2606.8000.0.0 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A270A101ff000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/4CBD3EE52F084E38AD08DDBF55CCE3841/SystemTray.pdb) |
+
 ### 10.0.29634
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -52,7 +58,6 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5026d2...<!-- 5026d2c7e28c725e60f64478bf32fa5ab3b037628b713b3af10a4e24b688592a --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> | 2606.8000.0.0 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A270A101ff000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/4CBD3EE52F084E38AD08DDBF55CCE3841/SystemTray.pdb) |
 | 73ad62...<!-- 73ad622b68a6d168626ec1eda7fb6f456ed9efbb5b75e2957b4f40b84924eb44 --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> | 2605.1000.0.0 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69F53D291f8000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/3D079DF3BF994239997DFFEFED9948021/SystemTray.pdb) |
 | 6f174a...<!-- 6f174ad2cbbf493872611b566689eef6f102e11f9e919470aa1b6385c88d491e --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> | 2605.8000.0.0 | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/69FE62211fe000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/CF8B99D3068C4D6CAD8D3FB27598B69E1/SystemTray.pdb) |
 
@@ -60,6 +65,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| e6a082...<!-- e6a082c0d5050bcbabf5f69fa40235b8c800e561838b7e0fe3906b3cfda02dc9 --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> | 2607.2000.0.0 | 10.0.26100.9032 | [🔴](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A460D1A1ff000/systemtray.dll) | ❓ |
 | 9f401d...<!-- 9f401da91a6e26766f91ebba7cd5a357deb9c9d0d1b0978bdfbfb622263f9d1c --> | 2026-07-28 | b407eb4e...<!-- b407eb4e-c0c2-47e8-a60c-ae837d058d1e --> | 2606.29002.0.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A42F1431ff000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/3FD334EA254549CA85840807913B0ECD1/SystemTray.pdb) |
 | c91198...<!-- c911987bf024bc162af1abbcea79287c57302419156741596ff9eeb23e23f3e1 --> | 2026-07-19 | a2702664...<!-- a2702664-1144-411d-808a-fd316e393e58 --> | 2605.22002.100.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A1A20321fb000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/BF781A1C48B44F03B9CFC9AB3B42DD9C1/SystemTray.pdb) |
 | 0ceb1f...<!-- 0ceb1fe527ac973a98d51e541c5687cf340e60fbdc63c814f3718e1ba118f7ec --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> | 2606.12000.0.0 | 10.0.26100.8764 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A2CA1461fd000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/7902C24730094783A14561BDFAF196041/SystemTray.pdb) |

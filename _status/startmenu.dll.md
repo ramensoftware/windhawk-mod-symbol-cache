@@ -50,6 +50,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29639
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| d99a3f...<!-- d99a3fcfe8f2285eb964cc191a07dbcd28557ecd84821150c3c1d7b698584735 --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 2606.8002.0.0 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A27062D4cb000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/22BB5B0BBD564E40AA7ECDE0F9171C661/StartMenu.pdb) |
+
 ### 10.0.29634
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -72,7 +78,6 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d99a3f...<!-- d99a3fcfe8f2285eb964cc191a07dbcd28557ecd84821150c3c1d7b698584735 --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A27062D4cb000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/22BB5B0BBD564E40AA7ECDE0F9171C661/StartMenu.pdb) |
 | cbc90c...<!-- cbc90c80ce84fc7cfa936236a9b7d513cd1dc17bed59d6189d580247c2e0b59f --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> | 2125.24000.10.0 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/68C36D4846b000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/DC754302DF7947CBA670391ED0E5B18D1/StartMenu.pdb) |
 | 5eec09...<!-- 5eec091951a4efda0023f5933bae86c557755adc998500e9a4b3911397a64683 --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> | 2605.4001.0.0 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/69F8CA934a5000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/458096AF67814E18B8144F9EB8C196171/StartMenu.pdb) |
 | 9595a9...<!-- 9595a9be0d80c5876e40a10577e27376077fa1b4742dcb8a9adfc511989f7481 --> | 2026-06-26 | 4d4f12b4...<!-- 4d4f12b4-6d47-4a8d-a480-80c41de3d471 --> | 2605.26001.100.0 | 10.0.28000.2374 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A1DD3854b5000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/6318196FBF3C4F07B7A91C69575D6C031/StartMenu.pdb) |
@@ -82,10 +87,11 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 6f5d43...<!-- 6f5d43df8061cf87d5dd58965a3941a7d56644c1420f6ea4215a4abe23b2222a --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> | 2607.13001.100.0 | 10.0.26100.9032 | [🔴](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A594B324db000/startmenu.dll) | ❓ |
+| 04927b...<!-- 04927bf226a0fb7c6ff55446ae003586bdd6975bab98cd87491c2f2f171ce9dd --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> | 2124.22708.30.0 | 10.0.26100.1746 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/66C528D62ce000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/F97A28FA4F5A43128F4FD6E4F04C91461/StartMenu.pdb) |
+| b55a1f...<!-- b55a1f5331c075892bfa0d2e4c8a102361262a1208d917c7c77aa1eab1b37e7f --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> | 2024.8604.0.0 | 10.0.26100.6 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/66035ABE25e000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/C602C42AFCFC433B8A662E57CD441E0F1/StartMenu.pdb) |
 | 8d646d...<!-- 8d646d626341be86dc75f3a9e2bb507419b16e030124674493772866e7ac3765 --> | 2026-07-28 | b407eb4e...<!-- b407eb4e-c0c2-47e8-a60c-ae837d058d1e --> | 2606.29006.300.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A4C4BD94db000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/449EE8C2BF6B4066910118A15A0EF2CD1/StartMenu.pdb) |
 | 702ea2...<!-- 702ea2926267e02b0ac8648a56ac125e8815730d128987298761d37ab9931193 --> | 2026-07-28 | b407eb4e...<!-- b407eb4e-c0c2-47e8-a60c-ae837d058d1e --> | 2124.19107.0.0 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/668DB2DB2b5000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/AEF782A127DD42EAB80D5459621BD5C11/StartMenu.pdb) |
-| b55a1f...<!-- b55a1f5331c075892bfa0d2e4c8a102361262a1208d917c7c77aa1eab1b37e7f --> | 2026-07-28 | b407eb4e...<!-- b407eb4e-c0c2-47e8-a60c-ae837d058d1e --> | 2024.8604.0.0 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/66035ABE25e000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/C602C42AFCFC433B8A662E57CD441E0F1/StartMenu.pdb) |
-| 04927b...<!-- 04927bf226a0fb7c6ff55446ae003586bdd6975bab98cd87491c2f2f171ce9dd --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> | 2124.22708.30.0 | 10.0.26100.1743 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/66C528D62ce000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/F97A28FA4F5A43128F4FD6E4F04C91461/StartMenu.pdb) |
 | 714ec1...<!-- 714ec12b8b4a016343cec53d64979a869af42e3797290eac6bd7bc5585473289 --> | 2026-07-19 | a2702664...<!-- a2702664-1144-411d-808a-fd316e393e58 --> | 2605.26001.300.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A28BF084b5000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/5AF6E7945D564BAA96C2A606B60E01F91/StartMenu.pdb) |
 | 2a838e...<!-- 2a838e9592dc9a6358b2fbf8741177f814e5d51c5f4184cf9439b9595e49938c --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> | 2606.15000.400.0 | 10.0.26100.8764 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A35A7FC4d0000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/8161946B4E574D888BA0A1B1978E2CAC1/StartMenu.pdb) |
 | 17bc9f...<!-- 17bc9f09e2c07a4c521b3dd277ff39e67264a8833f351db1cddffd416a4daa78 --> | 2026-06-26 | 7431b32c...<!-- 7431b32c-be55-4a8c-8216-3014cf779b84 --> | 2606.8002.200.0 | 10.0.26100.8754 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A34B20C4cc000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/DE85A5E3F5C84379AD6966E01AA0329C1/StartMenu.pdb) |
