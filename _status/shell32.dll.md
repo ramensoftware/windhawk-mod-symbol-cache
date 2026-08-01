@@ -140,8 +140,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| db6387...<!-- db63871984978a6c4406a560d927d632f7a2b4f23cb2940f6c9873dde12da32c --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
-| 298636...<!-- 298636493310b8e36a90c0de97ee8bd51e9fe8ea78ddf620351bd974dc2ecddf --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
+| db6387...<!-- db63871984978a6c4406a560d927d632f7a2b4f23cb2940f6c9873dde12da32c --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/0A814239C7182BA5088B14C9999C45AC1/shell32.pdb) |
+| 298636...<!-- 298636493310b8e36a90c0de97ee8bd51e9fe8ea78ddf620351bd974dc2ecddf --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/3777BC570B5BD6930EC8D21CE151FE331/shell32.pdb) |
 | 33975b...<!-- 33975beaa2d996e80654d8d2ec53d95455d346371dc3903842b23ec49277a0bd --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2564 | 🔴 | ❓ |
 | 86ccce...<!-- 86ccce71c704930c0224ee0774a135c98675f44cce69c12973f0a7bad4647443 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/shell32.dll/B0E70891753000/shell32.dll) | ❓ |
 | 2d525d...<!-- 2d525d2f4d18d9520cd05cf51527b0a83b2a98d3e4485c5201b2997a967d2bff --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/12B76D4112000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/3E1DC487349B1B119AF188C1E71AA4E81/shell32.pdb) |

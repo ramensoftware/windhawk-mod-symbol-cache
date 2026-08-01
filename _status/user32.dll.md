@@ -137,8 +137,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 955ee2...<!-- 955ee27be87d3109545c0abeca37102f80a2199dbcd897e31bd6f2e02a79cad0 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
-| 10da74...<!-- 10da7485e4c70a70d8baa235e25a36b1634baa4ea9c339da70bba6e2663da8e8 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
+| 955ee2...<!-- 955ee27be87d3109545c0abeca37102f80a2199dbcd897e31bd6f2e02a79cad0 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/D2DA8E14E668617C34FD8104EB9287191/user32.pdb) |
+| 10da74...<!-- 10da7485e4c70a70d8baa235e25a36b1634baa4ea9c339da70bba6e2663da8e8 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/FABDEB63E7CE889F4F24299756E23DE31/user32.pdb) |
 | e5ba5d...<!-- e5ba5d0132ba5188910755a0597e261ef496d9aedd63bf4a22ddf53175d3d257 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2564 | 🔴 | ❓ |
 | 925bab...<!-- 925babc2e563cbdc41198e4a7c0f574683e12641389ccc81bf440fe071e6a3ac --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/user32.dll/88CA90571c7000/user32.dll) | ❓ |
 | e9c2cf...<!-- e9c2cf21094f1c67cf8b08c1e4125689cef0a37046468b6dbd18aa9873f8128a --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/36ECB57C1c9000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/BF4B4BFCA1FBE3D80DFBCE7D3AD580851/user32.pdb) |

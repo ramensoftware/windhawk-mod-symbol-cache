@@ -133,8 +133,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a97a0f...<!-- a97a0f44bed37030c7c2525ad44e919158de5b7e9bafc819da45beb2826fc8b9 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
-| 047fbd...<!-- 047fbd97b950e63478d9d03fbef9b55d282077d97acbea465628fe83c0f99042 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
+| a97a0f...<!-- a97a0f44bed37030c7c2525ad44e919158de5b7e9bafc819da45beb2826fc8b9 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/ABF8BE3D206BF64D00813E619AFF85921/shlwapi.pdb) |
+| 047fbd...<!-- 047fbd97b950e63478d9d03fbef9b55d282077d97acbea465628fe83c0f99042 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/4B320D0A59A2B8BB88D4BEB6F98CF4321/shlwapi.pdb) |
 | ca88f9...<!-- ca88f993e96eb89a670a56bfb05b4686a929b5c71bddda8a635a577621d83753 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2564 | 🔴 | ❓ |
 | d1d0be...<!-- d1d0be7cd7c224865d3a1b7540926b432c493704a952db3e615ce406e5e85604 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/shlwapi.dll/C0615B4D62000/shlwapi.dll) | ❓ |
 | f22ba2...<!-- f22ba228ea008eaed461628245737bea82557909861fe6220d2ff985ebbe64f7 --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/853DE3FE14000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/F8B648927D806EDBE5473F97B3152B7A1/shlwapi.pdb) |

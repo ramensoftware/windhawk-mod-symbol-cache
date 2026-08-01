@@ -137,8 +137,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b21c88...<!-- b21c884795fc00cf660c8c1114d98b849324b948c2e29a6a61638e8c1fd64990 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
-| 8ff2b8...<!-- 8ff2b84ac0f41006cefefb49d3398e00312783897c3684c50aed28055c22603d --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🔴 | ❓ |
+| b21c88...<!-- b21c884795fc00cf660c8c1114d98b849324b948c2e29a6a61638e8c1fd64990 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/0A8B247B911F1451D7B4F62EBCC4EEB91/comdlg32.pdb) |
+| 8ff2b8...<!-- 8ff2b84ac0f41006cefefb49d3398e00312783897c3684c50aed28055c22603d --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2630 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/96760118C82D11B55F80FDCEBC17D94A1/comdlg32.pdb) |
 | 6a825c...<!-- 6a825c9f44fde0cb09d30f11d9ac8e226ff45f61fdc0d33afada0f7085b15699 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> |  | 10.0.28000.2564 | 🔴 | ❓ |
 | 6fe759...<!-- 6fe75960c677e3086e04d41c1290f822d71b262602ab73230bbc23cd1c436387 --> | 2026-07-31 | a8637fe3...<!-- a8637fe3-bb07-419f-a982-fa18bd6b3b62 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/comdlg32.dll/127AEC4Df2000/comdlg32.dll) | ❓ |
 | f77124...<!-- f77124855d61f4d6a91019a7e0caffd2c974bce20f4aadadef6062c0317ea802 --> | 2026-07-28 | 81988c5b...<!-- 81988c5b-0c14-41fc-8a1f-79fb5e4eb2fb --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/886AF76Df6000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/D7AEEA6F119480ABB7ACB43D10AAA6A01/comdlg32.pdb) |

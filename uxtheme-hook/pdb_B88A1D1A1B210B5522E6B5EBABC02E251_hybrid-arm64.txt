@@ -1,0 +1,1 @@
+1;themeui.dll;arm64_2926649539_1081344;public: long __cdecl CThemeSignature::Verify(void *);392264

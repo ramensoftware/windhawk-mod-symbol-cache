@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_2704901683_3629056#protected: __int64 __cdecl CTaskBand::_HandleReplaceWindow(struct HWND__ *,struct HWND__ *)#256360#public: virtual struct HWND__ * __cdecl CWindowTaskItem::GetWindow(void)#355584#public: virtual long __cdecl CWindowTaskItem::SetWindow(struct HWND__ *)#1310112
