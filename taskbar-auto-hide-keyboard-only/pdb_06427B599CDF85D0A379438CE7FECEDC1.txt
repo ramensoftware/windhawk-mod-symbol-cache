@@ -1,0 +1,1 @@
+1#twinui.pcshell.dll#x86-64_929434341_10219520#public: virtual long __cdecl XamlLauncher::ShowStartView(enum IMMERSIVELAUNCHERSHOWMETHOD,enum IMMERSIVELAUNCHERSHOWFLAGS)#2330512
