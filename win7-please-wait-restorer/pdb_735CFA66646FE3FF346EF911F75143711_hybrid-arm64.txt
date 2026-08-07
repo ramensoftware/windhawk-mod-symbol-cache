@@ -1,0 +1,1 @@
+1;themeui.dll;arm64_2936640485_1048576;private: void __cdecl CDimmedWindow::OnPaint(struct HDC__ *);110176;private: static __int64 __cdecl CDimmedWindow::WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64);111056;private: static long __stdcall CDimmedWindow::WndProc(struct HWND__ *,unsigned int,unsigned int,long);
