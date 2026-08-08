@@ -1,0 +1,1 @@
+1#4187184621#3211264#bool __cdecl IsControlPanel(struct IShellItem *)#357060#bool __cdecl UseSeparateProcess(struct IShellItem *)#927160#void __cdecl CopyPropertyFromItemToPropStore(struct _tagpropertykey const &,struct IShellItem2 *,struct IPropertyStore *)#1310384

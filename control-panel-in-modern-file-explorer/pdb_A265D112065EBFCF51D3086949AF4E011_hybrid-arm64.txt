@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_2535856474_6148096;bool __cdecl IsControlPanel(struct IShellItem *);1816088;bool __cdecl UseSeparateProcess(struct IShellItem *);334016;void __cdecl CopyPropertyFromItemToPropStore(struct _tagpropertykey const &,struct IShellItem2 *,struct IPropertyStore *);1656624
