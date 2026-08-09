@@ -1,0 +1,1 @@
+1;comctl32.dll;arm64_1108417180_4734976;public: unsigned long __cdecl CListView::GetSortColumnColor(void);326984
