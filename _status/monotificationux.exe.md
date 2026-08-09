@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | f3b043...<!-- f3b043a1d5b99e48825d0ab65b13db7b83070ffcf877468662948c370d720fa8 --> | 2026-07-28 | KB5101681 | 1509.2606.10072.0 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/DDFC7261a0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/9A208F96E578CD97C3669FA97EE1E6301/MoNotificationUx.pdb) |
 | 67e35f...<!-- 67e35f62c5fd26555ae6512fe3fae7584466bfa0dde02ee939f67fd2498c93dd --> | 2026-07-14 | KB5101649 | 1507.2605.4052.0 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/13277E96a0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/125DD7B9077979D8D12882B775D0FF5B1/MoNotificationUx.pdb) |
-| 096ff2...<!-- 096ff2543a2e7b1086b3e7e0544991e3d794cb9ecc7c41ed756f30bc428ae7e7 --> | 2026-06-09 | KB5095051 | 1507.2604.4012.0 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/933F5FECa0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/E0FFAA6BB58284546AC6D16FA06981321/MoNotificationUx.pdb) |
 
 ### 10.0.26100
 
@@ -16,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | d02563...<!-- d02563aada1dbe406c949ae2ebbc2d531e362b66a223c36985cd5333968428e3 --> | 2026-07-28 | KB5101684 | 1509.2607.1012.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/46FAF89Aa0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/2967D5A09AEDB82E209B7D0B99D86CEB1/MoNotificationUx.pdb) |
 | 3c0fe9...<!-- 3c0fe903ca68c067cdd780029570d1221c51355e6d93c67649d0d717561ff9b6 --> | 2026-07-18 | KB5121767 | 1508.2606.17012.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/D72770BCa0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/5B004AA7767F7C7AF8216DCE998411AA1/MoNotificationUx.pdb) |
-| 0a7177...<!-- 0a7177738720adb76f277b31e5c4280d29482ed65272dcfeceb11e78d88d8d50 --> | 2026-06-09 | KB5094126 | 1507.2605.13032.0 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/88524B14a0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/F15C23B6F880EE5284688C2C75C222581/MoNotificationUx.pdb) |
 
 ### 10.0.22621
 
@@ -24,7 +22,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 753d35...<!-- 753d3532d4c545f5a2d0e304ab4d2644150b9692e7c93c919e084fdacb7c582a --> | 2026-07-14 | KB5099414 | 1407.2606.10012.0 | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/6664BDD396000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/BD5981F1BE8E6EAA8AC9DACA4B811E071/MoNotificationUx.pdb) |
 | d30d15...<!-- d30d15b60ca5fd39007728ea83bc64b292bbafa25b42e0bc021410daab9b1dd8 --> | 2026-07-14 | KB5099414 | 1310.2506.11012.0 | 10.0.22621.5624 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/20A6634097000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/08CA9948906B391F9AB9BABAC18195171/MoNotificationUx.pdb) |
-| 9e7fcb...<!-- 9e7fcbdbfca5279089b627e5cf41fd3baeee6d922805b43be8d13d0cb48482a2 --> | 2026-06-09 | KB5093998 | 1407.2508.19012.0 | 10.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/8CDC0CD096000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/CF978E0C48515B19392C478B292AAF1E1/MoNotificationUx.pdb) |
 
 ## ARM64 (release builds)
 
@@ -34,7 +31,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 136d77...<!-- 136d77a420969808ff4acca92f062f1b1d2d253f01055decbf70d77751fd5f9c --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/A5B7E903b3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/6C8033DF0C1E67D1933DD14F9ECF72111/MoNotificationUx.pdb) |
 | 7285ff...<!-- 7285fffa6c8b97c734067507125cd4e662d273c437d3555230ba11b330fa0207 --> | 2026-07-14 | KB5101649 | 1507.2605.4052.0 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/7E900263b3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/69992191D3924D7C7DD9766385CB0B9A1/MoNotificationUx.pdb) |
-| c6784c...<!-- c6784ca20c3c843bd5cb50846606e860aa2924c26183da4e72a6a30fa6dcd2e3 --> | 2026-06-09 | KB5095051 | 1507.2604.4012.0 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/C8EC72FBb3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/92FB6ECF2AF2448ED0B0950EF9DC83341/MoNotificationUx.pdb) |
 
 ### 10.0.26100
 
@@ -42,7 +38,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9dbcd8...<!-- 9dbcd84d6e602396b6bcd3867de8db0fad72ace18d6faecfe98064ab16030071 --> | 2026-07-28 | KB5101684 | 1509.2607.1012.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/E562843Db3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/4251EB27EE0978134CC290029C96B43C1/MoNotificationUx.pdb) |
 | 37a70a...<!-- 37a70a407ff2bc521ca96ff859545f645f785de38c3428551e40fbbb38213394 --> | 2026-07-18 | KB5121767 | 1508.2606.17012.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/DAD5F93Db3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/13A38A1C0BBF4A7F1334011EA696EE971/MoNotificationUx.pdb) |
-| 59f6d1...<!-- 59f6d1d8da987e80e73716d5c50a096ca62641680cdc2902e41c6518b84109da --> | 2026-06-09 | KB5094126 | 1507.2605.13032.0 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/39B47020b3000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/696AFB0CFBC5192992D3AC703F9F623B1/MoNotificationUx.pdb) |
 
 ### 10.0.22621
 
@@ -50,7 +45,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 2d04d7...<!-- 2d04d75ccb0b5ec60a26c1bd3f9574ff1a805922bde2029b9e67788b83702edf --> | 2026-07-14 | KB5099414 | 1407.2606.10012.0 | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/2F90B7FBa7000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/C085969CF24EA5A7CF587DEF7A47EF2C1/MoNotificationUx.pdb) |
 | 333fdd...<!-- 333fdd35abb1f45f298d1103dea383340cd622d796430a55247334ae3496ce86 --> | 2026-07-14 | KB5099414 |  | 10.0.22621.5624 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/00E8C6A0aa000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/AD43766846B3CE292ECF9557091AD73F1/MoNotificationUx.pdb) |
-| a2ecbe...<!-- a2ecbeaa241678aa006ed3a378d306d855642d6bf0c91a365d05c565538dba79 --> | 2026-06-09 | KB5093998 | 1407.2508.19012.0 | 10.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/044E1E3Ba7000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/7227C3A1C73001ACB42351B5C67C69A11/MoNotificationUx.pdb) |
 
 ## x64 (insider preview builds)
 

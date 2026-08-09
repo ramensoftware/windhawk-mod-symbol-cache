@@ -7,7 +7,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | a5b147...<!-- a5b147c9c0c3a1737d6fb8ecb245b6ca85ace2bc2f531bc19d948c9cfc0dddd3 --> | 2026-07-28 | KB5101681 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/285AD5B035000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/A56BA9E94BBF3E1670FFC8EA12AB12751/UsoApi.pdb) |
-| 70e11b...<!-- 70e11bc878e4ef540143ed9043d782e635ee2eef9d679342ccfbe0625ec62955 --> | 2026-06-09 | KB5095051 |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/C0215A7535000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/20E5263168E2A06AF72B24B17966502A1/UsoApi.pdb) |
 
 ### 10.0.26100
 
@@ -46,7 +45,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9555ac...<!-- 9555acf68a24a1ec0b7c3779cb39702b6a699e7e66e21d59a438526e0b411b37 --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/F0487AF36e000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/D10481E98395137739D44F832972A09A1/UsoApi.pdb) |
-| 273051...<!-- 27305108dd0e919f33e6cb95568df81a6048542805f6840ca4416081aa51efa3 --> | 2026-06-09 | KB5095051 |  | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/E8E69C6F6e000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/FE7D368A0A2CBA4843F7EB988C234EA61/UsoApi.pdb) |
 
 ### 10.0.26100
 
