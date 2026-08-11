@@ -20,7 +20,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2ea1cd...<!-- 2ea1cdcfa254f77aeefc54eaa5a67d4082582de4c9e14319125f8f9fb5418636 --> | 2026-07-14 | KB5099414 | 2125.26900.0.0 | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68D6C2F74bb000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/24730F4E1FB74F87A9391958D75787BD1/FileExplorerExtensions.pdb) |
+| 2ea1cd...<!-- 2ea1cdcfa254f77aeefc54eaa5a67d4082582de4c9e14319125f8f9fb5418636 --> | 2026-08-11 | KB5120240 | 2125.26900.0.0 | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68D6C2F74bb000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/24730F4E1FB74F87A9391958D75787BD1/FileExplorerExtensions.pdb) |
 
 ## ARM64 (release builds)
 
@@ -28,7 +28,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5b011d...<!-- 5b011d2350a878a1917482a985cff642429f7950602bd839a0e52782d6055daa --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/6A2C458A7f9000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/63E869F7DAB249D49FAFDDB404988B941/FileExplorerExtensions.pdb) |
+| 5b011d...<!-- 5b011d2350a878a1917482a985cff642429f7950602bd839a0e52782d6055daa --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/6A2C458A7f9000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/63E869F7DAB249D49FAFDDB404988B941/FileExplorerExtensions.pdb) |
 | 927598...<!-- 927598826f3a10dc28e1a8ae37e7d281a8b8511d3cc8853bff48af202ee51aec --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/69F9201B7d0000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/31D0589EBFEF4D88AB4308380A5655671/FileExplorerExtensions.pdb) |
 
 ### 10.0.26100
@@ -45,12 +45,6 @@
 | 71cccd...<!-- 71cccd64e49d68ee0d6246a19cba3e490142a2584ae9344b45945d2c2229ef02 --> | 2026-08-11 | KB5120240 | 2125.26900.0.0 | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68D6C1EE611000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/947F4E7A5CC9403A87154542E05590E41/FileExplorerExtensions.pdb) |
 
 ## x64 (insider preview builds)
-
-### 10.0.29639
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3e58f0...<!-- 3e58f05a590392589c987bb53102b349f0d259010cf9a62f8142eee457d4dc3d --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 2606.8004.200.0 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/6A2C45DD60d000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/4B1A4FD24EB8400B9F892A6DAF7080D41/FileExplorerExtensions.pdb) |
 
 ### 10.0.29634
 
@@ -74,9 +68,10 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 3e58f0...<!-- 3e58f05a590392589c987bb53102b349f0d259010cf9a62f8142eee457d4dc3d --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> | 2606.8004.200.0 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/6A2C45DD60d000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/4B1A4FD24EB8400B9F892A6DAF7080D41/FileExplorerExtensions.pdb) |
+| 56ea35...<!-- 56ea3582272c3600773f79c82d37f3695ffb78a8e607c23b06306f192ded83b4 --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> | 2125.23804.10.0 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68B1EF674ff000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/35A4E30F5B494D52B6A63F005B23A6BD1/FileExplorerExtensions.pdb) |
+| 312938...<!-- 312938bd5b24835e94fcb4821caea74e46a8592c46c852a47efd4a61f96c6997 --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> | 2125.23804.10.0 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68B1EDF04fc000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/033F2B1C36F64FB3916E1217847C8BA81/FileExplorerExtensions.pdb) |
 | 5b714e...<!-- 5b714e4b5aa02d462c80ef0c2006a7cd03e3c7595568b87e713b2396be0a20fb --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> | 2607.6006.300.0 | 10.0.28000.2630 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/6A517F4D618000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/BC8BC9D320774F5D946F0CB2766DFA161/FileExplorerExtensions.pdb) |
-| 56ea35...<!-- 56ea3582272c3600773f79c82d37f3695ffb78a8e607c23b06306f192ded83b4 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> | 2125.23804.10.0 | 10.0.28000.7 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68B1EF674ff000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/35A4E30F5B494D52B6A63F005B23A6BD1/FileExplorerExtensions.pdb) |
-| 312938...<!-- 312938bd5b24835e94fcb4821caea74e46a8592c46c852a47efd4a61f96c6997 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> | 2125.23804.10.0 | 10.0.28000.7 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/68B1EDF04fc000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/033F2B1C36F64FB3916E1217847C8BA81/FileExplorerExtensions.pdb) |
 | 3b4946...<!-- 3b49469fc04a0c993fdf5baf15560806224c2cb0f95789dda1ed8ee0bea53f81 --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> | 2605.4004.0.0 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/69F91D7E5ee000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/5C8B36F966A7419A8BA482DC7103BE8F1/FileExplorerExtensions.pdb) |
 | 9ca9da...<!-- 9ca9dae13042c3d3b9282fd65741f893ddbba6771b588d7d676d3ed16128e824 --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> | 2605.11002.200.6000 | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/6A064C635f8000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/1D0429A6969341E394390D21DDE3B39A1/FileExplorerExtensions.pdb) |
 | 80d01b...<!-- 80d01bc713d98fb2ebe3c6cf86a0bc14ee37c94a0ba52525f4b506b003354501 --> | 2026-06-12 | 33e00947...<!-- 33e00947-d2e5-403b-9122-216c93abf4e5 --> | 2605.4004.0.6000 | 10.0.28000.2302 | [🟢](https://msdl.microsoft.com/download/symbols/fileexplorerextensions.dll/69F91DAA5ee000/fileexplorerextensions.dll) | [🟢](https://msdl.microsoft.com/download/symbols/FileExplorerExtensions.pdb/E72D85D31B184AA6B11CCFB4935205651/FileExplorerExtensions.pdb) |
