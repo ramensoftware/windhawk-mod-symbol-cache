@@ -6,14 +6,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| cc3ce8...<!-- cc3ce8730fbcdb5d15d42968ab75b38aebe44bd13230a6c40dd2e091d959ef74 --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A2B31AAbc1000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/FA1317D5012B422581DC40E1F34AEE9A1/SearchUx.UI.pdb) |
+| cc3ce8...<!-- cc3ce8730fbcdb5d15d42968ab75b38aebe44bd13230a6c40dd2e091d959ef74 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A2B31AAbc1000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/FA1317D5012B422581DC40E1F34AEE9A1/SearchUx.UI.pdb) |
 | fa8457...<!-- fa8457f1846a5191c0a15ca56dc5be41774e28940bb0b19494545edf83c9117a --> | 2026-07-14 | KB5101649 | 2605.4001.100.0 | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/69FC4745bd6000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/746A84AC03F34E21851879464D98E01B1/SearchUx.UI.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2c0014...<!-- 2c0014a3fabac34f90e920e54700795415ec2dea5fdefe6df1f225f1c7f9e7fd --> | 2026-07-28 | KB5101684 | 2606.30004.100.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A477C2Fbc8000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/7081ACD4372F4A6A906F543C901C76531/SearchUx.UI.pdb) |
+| 2c0014...<!-- 2c0014a3fabac34f90e920e54700795415ec2dea5fdefe6df1f225f1c7f9e7fd --> | 2026-08-11 | KB5121003 | 2606.30004.100.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A477C2Fbc8000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/7081ACD4372F4A6A906F543C901C76531/SearchUx.UI.pdb) |
 | a86f04...<!-- a86f048be25afa0a18435266d774131f797ef11c8c0be8959ece3a8e547e4943 --> | 2026-07-18 | KB5121767 | 2605.27010.300.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A1E0B84bb8000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/FCC71FFAA21047058D302C8B830963011/SearchUx.UI.pdb) |
 
 ### 10.0.22621
