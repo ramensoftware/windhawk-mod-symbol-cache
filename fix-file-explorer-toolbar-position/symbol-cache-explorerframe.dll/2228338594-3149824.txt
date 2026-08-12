@@ -1,1 +1,0 @@
-1#2228338594#3149824#protected: void __cdecl CInternetToolbar::_ShowBandCommon(struct tagBANDSAVE *,class CBandItemData *,int)#644196

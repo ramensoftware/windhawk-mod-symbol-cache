@@ -93,12 +93,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 987576...<!-- 987576dd257e2a8c4dd3a2d45644259b895707d7d87105b7ac9a3c1ae6865859 --> | 2026-06-19 | 0cbb6c46...<!-- 0cbb6c46-d805-4a6a-b1ba-06d5d3116440 --> | 10.0.29613.1000 | 10.0.29613.1000 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/105679FA50000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/F62651AFE3662EFC0753D4077AE4D04E1/ActionCenter.pdb) |
 
-### 10.0.29610
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d636dd...<!-- d636dd61ffad03f58e32afeb3b40d7500ce1e5220014d69d065bbc259a273a68 --> | 2026-06-12 | 59bccb92...<!-- 59bccb92-3b81-4c73-b997-d451dfcf532b --> | 10.0.29610.1000 | 10.0.29610.1000 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/524082C050000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/F15C1B3E4530EFB3138EE9A3508686CC1/ActionCenter.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -140,8 +134,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 971a51...<!-- 971a512dda530f3bec565eaaa501dbc2418a78a126dcf9fdf2eb42f7608d2968 --> | 2026-08-11 | 45ff9a25...<!-- 45ff9a25-130f-4f54-a32e-79d7f506c693 --> | 10.0.22621.3527 | 10.0.22621.3527 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/9CBDDE6263000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/86071A2150B3329225FAA842CA46C9CE1/ActionCenter.pdb) |
-| acba39...<!-- acba39f1923a2f7aa63e0faef6733b3bca41d4ce41775e70d2a3ff2fd2178da6 --> | 2026-08-11 | 45ff9a25...<!-- 45ff9a25-130f-4f54-a32e-79d7f506c693 --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/2534EE2963000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/86BDEEB8545B9FEDF8284E7C67F7EB6F1/ActionCenter.pdb) |
+| 971a51...<!-- 971a512dda530f3bec565eaaa501dbc2418a78a126dcf9fdf2eb42f7608d2968 --> | 2026-08-11 | 1b6ea5cb...<!-- 1b6ea5cb-d128-410b-b6b2-4ad59d30d77c --> | 10.0.22621.3527 | 10.0.22621.3527 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/9CBDDE6263000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/86071A2150B3329225FAA842CA46C9CE1/ActionCenter.pdb) |
+| acba39...<!-- acba39f1923a2f7aa63e0faef6733b3bca41d4ce41775e70d2a3ff2fd2178da6 --> | 2026-08-11 | 1b6ea5cb...<!-- 1b6ea5cb-d128-410b-b6b2-4ad59d30d77c --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/2534EE2963000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/86BDEEB8545B9FEDF8284E7C67F7EB6F1/ActionCenter.pdb) |
 
 ### 10.0.19041
 
