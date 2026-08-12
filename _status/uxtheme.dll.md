@@ -118,8 +118,6 @@
 | 6307e1...<!-- 6307e1b278d2fef0e69f86a403403bbeff589794bbafe890d3825d4efafa7c84 --> | 2026-06-26 | 4b6289fc...<!-- 4b6289fc-88b2-476f-b195-7ed904528fa0 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/360CDB7Aaa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/C5640D7A00E975BC811582CD5152C19A1/uxtheme.pdb) |
 | d2e519...<!-- d2e519fda3a0ad5c9dc31120e88b004dc4407e1db73a66e18e087633355cd3bd --> | 2026-06-23 | a0270899...<!-- a0270899-3389-4026-b66f-7d53b6610452 --> |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/7002E483aa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/A9D3D4F389E49DAE29DA0E14C6988CF01/uxtheme.pdb) |
 | 1e28fb...<!-- 1e28fb22ce6a8d8d80062a37a5301645235a136137607cf6d0bdfc0b97130584 --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2155 | 🔴 | ❓ |
-| 975d89...<!-- 975d8932f4e7e15b0242a3c103fc87fc43c84d1776e73021fa02e8bee184d214 --> | 2026-06-12 | 33e00947...<!-- 33e00947-d2e5-403b-9122-216c93abf4e5 --> |  | 10.0.28000.2302 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/25D72F9Aaa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/0C2B667287FD09E77DB59D2ABEEF67E81/uxtheme.pdb) |
-| 0a6bb1...<!-- 0a6bb1a6aab78e835979f80aefa737ccf4e31187912b419cda74b1a4034ce0de --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> |  | 10.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/A018219Caa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/3A3DE486EC51A2B99F9830669C4E096D1/uxtheme.pdb) |
 
 ### 10.0.26100
 

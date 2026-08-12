@@ -111,8 +111,6 @@
 | 74d1bb...<!-- 74d1bbf0eb8621b0145b7e71026e48229bc99de3e8fc3f6ed997d4101af01dfa --> | 2026-06-26 | 4d4f12b4...<!-- 4d4f12b4-6d47-4a8d-a480-80c41de3d471 --> |  | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/0F46AE22d1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/EE564C9F1370176D239A5D70ACDF4A201/regedit.pdb) |
 | a87eb0...<!-- a87eb076b17806b211238d3c7fc72cc06c630ade800cf9df8ba621bd5a943c73 --> | 2026-06-26 | 4b6289fc...<!-- 4b6289fc-88b2-476f-b195-7ed904528fa0 --> | 10.0.28000.2307 | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/28CB3142d1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/03F0E1B511B1F5FE9585C4038F10CE4E1/regedit.pdb) |
 | 5ebc41...<!-- 5ebc4132b610b8737f02e707c11b7723d3df85235e53516aa2768898bab0d68c --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2081 | 🔴 | ❓ |
-| 8cf922...<!-- 8cf922f3f4e2163af191f37c8bb9a050e2bafc98f95421138d0c3286ecbac00f --> | 2026-06-12 | 33e00947...<!-- 33e00947-d2e5-403b-9122-216c93abf4e5 --> |  | 10.0.28000.2302 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/D8EB7B27d1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/22F1BFEDE770FA68007467C0C912EAF01/regedit.pdb) |
-| 9ff7a1...<!-- 9ff7a1a6696ae7978084144d5db30051d1afac31e3e051befd011bf604667089 --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> |  | 10.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/64E7C18Dd1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/FF5E91A18974D62306EF986E6D6C10921/regedit.pdb) |
 
 ### 10.0.26100
 

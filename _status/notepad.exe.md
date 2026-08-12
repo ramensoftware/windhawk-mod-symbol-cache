@@ -110,8 +110,6 @@
 | 0a6d90...<!-- 0a6d9034555d9dc66e30b63f58b866df415f5e2844a45cbc001bc4d4166b6296 --> | 2026-06-26 | 4d4f12b4...<!-- 4d4f12b4-6d47-4a8d-a480-80c41de3d471 --> |  | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/645CE9075a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/7556981915C2EFB4700F39E248E2C66C1/notepad.pdb) |
 | dc637f...<!-- dc637f6ddc9a7f7d0c68460d421c0dcff6bae0020e8ba855310d8bd1d11ccc13 --> | 2026-06-26 | 4b6289fc...<!-- 4b6289fc-88b2-476f-b195-7ed904528fa0 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/2B068AC85a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/55623D8EA0E23132221490120D919F051/notepad.pdb) |
 | 750b76...<!-- 750b763823d226865ff44836ab4ef8c9b321759b6bff13d151aaca6301edcda1 --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2081 | 🔴 | ❓ |
-| 9a1ac5...<!-- 9a1ac5adb11dcd58ce5e0cc4a1387304afd6beaac4420c9e0691b32e5c2921c9 --> | 2026-06-12 | 33e00947...<!-- 33e00947-d2e5-403b-9122-216c93abf4e5 --> |  | 10.0.28000.2302 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/0818A27059000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/BD21CE21CD127957E72C84AB6462B8C91/notepad.pdb) |
-| c55b60...<!-- c55b60f94378966676da3ee774b96fdbaf770a01d9246854cbdaaf0e39b6e0b1 --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> |  | 10.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/B7BC30CD59000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/F6D03872E01FA32C5AA744BF492AB30E1/notepad.pdb) |
 
 ### 10.0.26100
 

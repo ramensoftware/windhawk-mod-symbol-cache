@@ -121,8 +121,6 @@
 | 01a401...<!-- 01a401ba11b8714a273eef8beb3b941d1ea6dfef9e53f816b9c5c67acec37b4b --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> | 10.0.28000.2315 | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/47C1C6D763000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/F8BEAC3E54659134DAB9C30E732AF77E1/stobject.pdb) |
 | 248abe...<!-- 248abe6372788c8015c2a0906a34dae0ce6c0cb57e121810d4e8062d2b382b55 --> | 2026-06-19 | 67081123...<!-- 67081123-2436-4e87-b455-d12222ebe016 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/6997602863000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/E2CB48C8E22431FCD92C766EAA4D64C71/stobject.pdb) |
 | 06f397...<!-- 06f397af8119e80a8f1ce5b968f24102ce96f84829b15d9685b13927e6cb8fa1 --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2155 | 🔴 | ❓ |
-| a63206...<!-- a63206c56c11e9fd62fd3d8e518c489b65943b7aa7f0ee7b451b6ff4538d374a --> | 2026-06-12 | 33e00947...<!-- 33e00947-d2e5-403b-9122-216c93abf4e5 --> |  | 10.0.28000.2302 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/3A1B32BC63000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/E313DBBB0EAF1B83257E8EA62BC2E2CD1/stobject.pdb) |
-| 37f0b4...<!-- 37f0b435d3f1a53343228889d9368a791e2a18908e06b6189ea0c9a149feb3e4 --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> |  | 10.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/C1670FDB63000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/7F3D64033847DB3B611649FA84AB71C21/stobject.pdb) |
 
 ### 10.0.26100
 

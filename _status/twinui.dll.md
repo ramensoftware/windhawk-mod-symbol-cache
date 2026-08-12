@@ -128,8 +128,6 @@
 | a12c9c...<!-- a12c9c7b4e15aa1bd8cc0830baad03565936b1519e213cb05b47b72b4f2457d4 --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> |  | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/E6F4A70552c000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/34EF1EFF2CA101B71C0CBB981A673E7D1/twinui.pdb) |
 | 0a2230...<!-- 0a2230e8fad40bb0841410180eae2bbca1441cf2b44b39d78c00598fb0ad0e5f --> | 2026-06-19 | 67081123...<!-- 67081123-2436-4e87-b455-d12222ebe016 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/8E8FDF8852c000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/7BA9205998308FEEC6EEEC4BE50EBB0F1/twinui.pdb) |
 | 332cca...<!-- 332cca8a755a05179aa83a00e274aa380a5e031ee29a3ec055fab47bfe64e1b8 --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2214 | 🔴 | ❓ |
-| 0c3776...<!-- 0c3776aff1b8568453ce50dd9595fd742cd82519be45c1718d9e2f5556a24aa0 --> | 2026-06-12 | 33e00947...<!-- 33e00947-d2e5-403b-9122-216c93abf4e5 --> |  | 10.0.28000.2302 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/F766ECD052c000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/1437F2B912D45FF2154685B1073F9A141/twinui.pdb) |
-| 645a20...<!-- 645a20c42daceaba21600b4309e251660961b8f6e213efbe846df6418e4dc91a --> | 2026-06-12 | 7984b2f8...<!-- 7984b2f8-39cc-4cce-a5f7-93ec2143a26b --> |  | 10.0.28000.2298 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/0972278152c000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/B31D8ED96EF233BF92F8AE05B6891A881/twinui.pdb) |
 
 ### 10.0.26100
 
