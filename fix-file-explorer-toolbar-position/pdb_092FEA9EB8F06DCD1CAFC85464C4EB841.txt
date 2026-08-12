@@ -1,0 +1,1 @@
+1#explorerframe.dll#arm64_3246809504_2691072#protected: void __cdecl CInternetToolbar::_ShowBandCommon(struct tagBANDSAVE *,class CBandItemData *,int)#365304
