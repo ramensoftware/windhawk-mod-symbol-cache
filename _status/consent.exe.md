@@ -111,7 +111,6 @@
 | 221a4d...<!-- 221a4d9ca8f691c0b537e7cd2ac6de9bc80c29631290642da35cf8707b07c24e --> | 2026-06-26 | 4b6289fc...<!-- 4b6289fc-88b2-476f-b195-7ed904528fa0 --> | 10.0.28000.2366 | 10.0.28000.2366 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/679FA4B53c000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/A59D6D4ECD2BE0A48A5820390883FF201/consent.pdb) |
 | c2c7bc...<!-- c2c7bcfdc9138981925744accb0fe4aa990990d856231d5b52448fa0cb13ff48 --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> | 10.0.28000.2315 | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/3D33B2313c000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/066B8E324D88196BC49878EE906FDE171/consent.pdb) |
 | 3a704a...<!-- 3a704acd5d086de707691cca590265458f0f5d7c6dfb2e84753787ba4df0f10b --> | 2026-06-19 | 67081123...<!-- 67081123-2436-4e87-b455-d12222ebe016 --> | 10.0.28000.2307 | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/5F28606F3c000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/B14B99523E3FB83691501B8654E6C7F11/consent.pdb) |
-| e729b0...<!-- e729b0318d9626b54599291713082b8c56ef1d58cce6a7f7b6c36c4c3f0bcd4b --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> | 10.0.28000.2081 | 10.0.28000.2142 | [🔴](https://msdl.microsoft.com/download/symbols/consent.exe/5D9F29B13c000/consent.exe) | ❓ |
 
 ### 10.0.26100
 

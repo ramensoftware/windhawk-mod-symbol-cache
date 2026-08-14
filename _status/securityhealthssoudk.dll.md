@@ -85,7 +85,6 @@
 | 7f9cbd...<!-- 7f9cbd9aa9467e675be540e871fee65bd5b7e1a0d8fb7d10b43ef7c5362b9d6f --> | 2026-07-14 | 533720b8...<!-- 533720b8-f9c8-4193-887c-780a92eec1e8 --> | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/234216231c000/securityhealthssoudk.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/04F55F3D1250377B06F082A63E95FFA71/SecurityHealthSsoUdk.pdb) |
 | 00ef32...<!-- 00ef324cdd9a24d5a83c0209299bad343be2f1a58cdec6c2c325cb27b2d1a7cd --> | 2026-06-26 | 4d4f12b4...<!-- 4d4f12b4-6d47-4a8d-a480-80c41de3d471 --> |  | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/CBC437E11c000/securityhealthssoudk.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/BC2F7D12B2FF4BA1AEAF750A189181E41/SecurityHealthSsoUdk.pdb) |
 | 2e23a3...<!-- 2e23a3408caa28bc99c7d48d50c99ea1e3adc2e94198390ddf3a11f9f40fd847 --> | 2026-06-26 | 4b6289fc...<!-- 4b6289fc-88b2-476f-b195-7ed904528fa0 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/AA1C896F1c000/securityhealthssoudk.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/E5997D9893FF45EEA5487FF5740459561/SecurityHealthSsoUdk.pdb) |
-| 1dbc92...<!-- 1dbc9272b3bec4e21e6439d8cc7f68e03afb2b3ea2e2585d216881f8fdba4ae8 --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2081 | 🔴 | ❓ |
 
 ### 10.0.26100
 

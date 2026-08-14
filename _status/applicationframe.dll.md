@@ -116,7 +116,6 @@
 | 4076bb...<!-- 4076bb7ff4c9fd8415005120d87d5bdc14d053202269f74b5f44fa00dc00fb2d --> | 2026-06-26 | 4d4f12b4...<!-- 4d4f12b4-6d47-4a8d-a480-80c41de3d471 --> |  | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/E7812C93b7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/43F1DB84EB5B0733161BAD34DDC7FE9F1/ApplicationFrame.pdb) |
 | abe195...<!-- abe1959fa0a203f3c3be644429506c50e43b137843efaa87f179bf1907900dd3 --> | 2026-06-26 | 4b6289fc...<!-- 4b6289fc-88b2-476f-b195-7ed904528fa0 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/BF1AF367b7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/0C2AD75F7925CB7AF0CF77085042D4121/ApplicationFrame.pdb) |
 | 5908f6...<!-- 5908f683490910dc3572ea2bd886013989777a12193ac006a6443d2349641d84 --> | 2026-06-23 | a0270899...<!-- a0270899-3389-4026-b66f-7d53b6610452 --> |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/B822E8FDb7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/8ECD7074115733082715C066AE98FFEA1/ApplicationFrame.pdb) |
-| 32dd4f...<!-- 32dd4fc97cc4e87062db105ec31630b5b91a2813a41fed5f37ab18167baf82be --> | 2026-06-14 | 4e4b58cf...<!-- 4e4b58cf-006d-4b27-9383-f0f6cf223718 --> |  | 10.0.28000.2155 | 🔴 | ❓ |
 
 ### 10.0.26100
 
