@@ -1,0 +1,1 @@
+1#comdlg32.dll#x86_2118566545_761856#protected: void __thiscall CFileOpenSave::ScaleAndSetToggleBarImageListIfNeeded(void)#298751#protected: void __thiscall CFileOpenSave::_SetToggleBar(void)#298462

@@ -1,0 +1,1 @@
+1#2746803997#36864#public: void __thiscall CListView::OnSetSortColumnColor(unsigned long)#
