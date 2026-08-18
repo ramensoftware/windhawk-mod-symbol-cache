@@ -1,0 +1,1 @@
+1#3204880654#999424#int __cdecl WMsgPSPHandler(unsigned long,struct tagPOWERSTATEPARAMS *,struct _RPC_ASYNC_STATE *,long *)#33264

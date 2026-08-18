@@ -1,0 +1,1 @@
+1#649166088#9195520#public: virtual long __cdecl CRegFolder::Initialize(struct REGITEMSINFO const *)#198688#public: virtual long __cdecl CDesktopFolder::ShouldShow(struct IShellFolder *,struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMID_CHILD const __unaligned *)#328400
