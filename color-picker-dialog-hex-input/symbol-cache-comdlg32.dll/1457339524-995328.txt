@@ -1,0 +1,1 @@
+1#1457339524#995328#ColorDlgProc#296432#ChangeColorSettings#305608#SetRGBEdit#311544#SetHLSEdit#311372#CrossHairPaint#305912#bMouseCapture#936848
