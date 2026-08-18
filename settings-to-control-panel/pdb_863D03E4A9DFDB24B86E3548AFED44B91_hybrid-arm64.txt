@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_2080873772_15527936;bool __cdecl CDevicesAndPrintersFolder::_HandleContextMenu(struct HMENU__ *,unsigned int);;private: bool __cdecl COpenControlPanel::_MapLegacyName(unsigned short const *,unsigned short *,unsigned int,bool *);2416752
