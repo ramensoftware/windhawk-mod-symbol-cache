@@ -115,7 +115,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7146c3...<!-- 7146c38f16547e6c6b913824ac667593238825970808ae7078c447e6ee76afa4 --> | 2026-08-17 | 5a2f54fc...<!-- 5a2f54fc-cd21-47c2-93b5-8898b439ef90 --> |  | 10.0.26100.9212 | 🔴 | ❓ |
+| 7146c3...<!-- 7146c38f16547e6c6b913824ac667593238825970808ae7078c447e6ee76afa4 --> | 2026-08-17 | 5a2f54fc...<!-- 5a2f54fc-cd21-47c2-93b5-8898b439ef90 --> | 10.0.26100.8951 | 10.0.26100.9212 | [🔴](https://msdl.microsoft.com/download/symbols/sndvol.exe/9B71BF7E4b000/sndvol.exe) | ❓ |
 | 99a8f5...<!-- 99a8f513b003e87c48c5169e7e746beed25233dd8ea786d4b6ee8926aad5281b --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> | 10.0.26100.8941 | 10.0.26100.9202 | [🔴](https://msdl.microsoft.com/download/symbols/sndvol.exe/B03017A14b000/sndvol.exe) | ❓ |
 | 6ddd25...<!-- 6ddd2522ed1dfc0d90267386281b065a7c5532944cb44959a1dbd26a821ae3da --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | beb1a6...<!-- beb1a60941a2ade210c8ecfda9fc3b2e658355c30cae50bc9e48e71047809fbb --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/sndvol.exe/66B7833E4b000/sndvol.exe) | ❓ |
