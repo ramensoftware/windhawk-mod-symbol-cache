@@ -1,1 +1,0 @@
-1;timedate.cpl;arm64_2999750660_503808;ClockCreate;

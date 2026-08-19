@@ -94,12 +94,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | cd11f8...<!-- cd11f8e4169aed9e37ee778d986a3724bbe8b79dd6fa122abeab5684b00a17d3 --> | 2026-06-26 | f7fcb055...<!-- f7fcb055-e79b-4095-a4b1-2cea9a32ba4d --> | 10.0.29617.1000 | 10.0.29617.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/AC143B8131000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/2F8BB3642691FB82B05FE652FCDCE4341/winbrand.pdb) |
 
-### 10.0.29613
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0cafe0...<!-- 0cafe057d58ab652890a7165b4b6239101ff58fbbe2fdad35212f32591d4d21b --> | 2026-06-19 | 0cbb6c46...<!-- 0cbb6c46-d805-4a6a-b1ba-06d5d3116440 --> | 10.0.29613.1000 | 10.0.29613.1000 | [🔴](https://msdl.microsoft.com/download/symbols/winbrand.dll/B3311CF931000/winbrand.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

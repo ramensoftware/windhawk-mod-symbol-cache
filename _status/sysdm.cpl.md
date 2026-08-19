@@ -90,12 +90,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 884a38...<!-- 884a38d685529b0173432f1d0ae4bfb625012ab72224ff6fcc0e81c581522805 --> | 2026-06-26 | f7fcb055...<!-- f7fcb055-e79b-4095-a4b1-2cea9a32ba4d --> | 10.0.29617.1000 | 10.0.29617.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/199DCC5E31000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/E2BD5041C9857AEE1616AC8B3EB20F611/sysdm.pdb) |
 
-### 10.0.29613
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 958734...<!-- 9587346a7c86adc50976375e57bf3771c2d27cb89940851c9fbea8558c0496d0 --> | 2026-06-19 | 0cbb6c46...<!-- 0cbb6c46-d805-4a6a-b1ba-06d5d3116440 --> | 10.0.29613.1000 | 10.0.29613.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/65ED769B31000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/1651F90E2C6FD7A2BDE5EDA23330D2F31/sysdm.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

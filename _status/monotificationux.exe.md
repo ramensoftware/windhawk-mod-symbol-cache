@@ -66,12 +66,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 626af1...<!-- 626af1754765ab5d683fd4980ea963ae4eaaeaa9774523dd029db31cfa4f1910 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 1509.2606.25012.0 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/9EB87109a0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/371A41E6E5FFF2A5CE51153A0E3DF48F1/MoNotificationUx.pdb) |
 
-### 10.0.29613
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 56f264...<!-- 56f2648e4fc586c6b184c392ac29f919bcf1e91f99017cea8bb0bb99ca6cc692 --> | 2026-06-19 | 0cbb6c46...<!-- 0cbb6c46-d805-4a6a-b1ba-06d5d3116440 --> | 1507.2604.4012.0 | 10.0.29613.1000 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/933F5FECa0000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/E0FFAA6BB58284546AC6D16FA06981321/MoNotificationUx.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

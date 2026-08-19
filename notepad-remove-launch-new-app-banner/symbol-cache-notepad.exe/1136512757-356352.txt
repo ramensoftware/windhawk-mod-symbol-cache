@@ -1,1 +1,0 @@
-1#1136512757#356352#long __cdecl ActivateBanner(bool)#38720

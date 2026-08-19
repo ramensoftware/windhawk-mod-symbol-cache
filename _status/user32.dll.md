@@ -123,12 +123,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4ce2f6...<!-- 4ce2f69d885b9987fc9cd54f73d6c1602a6f4038ae60c51f2d76a2dccd5d9fcf --> | 2026-06-26 | f7fcb055...<!-- f7fcb055-e79b-4095-a4b1-2cea9a32ba4d --> | 10.0.29617.1000 | 10.0.29617.1000 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/257D11341bf000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/71866EB517E7EDA9EB921306D7D402E11/user32.pdb) |
 
-### 10.0.29613
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7e8320...<!-- 7e8320ebd09d4a919a3385f7d4628a61df9f18cddf8a9b22892ee862255943ba --> | 2026-06-19 | 0cbb6c46...<!-- 0cbb6c46-d805-4a6a-b1ba-06d5d3116440 --> | 10.0.29613.1000 | 10.0.29613.1000 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/2182E67A1be000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/36115F81CE2B52A890B306CBD996EF9D1/user32.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -170,7 +164,6 @@
 | a711f9...<!-- a711f96f22a1487062d41f73a611fd2930178d963a11f4609ea1e8fc85afd84e --> | 2026-06-23 | a0270899...<!-- a0270899-3389-4026-b66f-7d53b6610452 --> | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/C13348D31c9000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/1A194F5D4AA2AD07AEA3B0D17511B1B41/user32.pdb) |
 | d60b00...<!-- d60b0059200f1991acef8658e06fac529a041e188759c901b730d2e3fefa961b --> | 2026-06-23 | a0270899...<!-- a0270899-3389-4026-b66f-7d53b6610452 --> |  | 10.0.28000.2335 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/9D7EE58A36000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/DD5FFCA77A16991A117DAECF8C0728FE1/user32.pdb) |
 | 343e19...<!-- 343e198f05b452df602660dac7163e9063faafbc656cad78c38fb3a2700b6303 --> | 2026-06-20 | c556f7f6...<!-- c556f7f6-d3b3-40a7-a654-f864208077de --> |  | 10.0.28000.2315 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/89DBDA7E1c9000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/C1203F87961DDA1E0A43951C0CC881171/user32.pdb) |
-| 62d573...<!-- 62d5739961fd68b18312e0fc784dbc365f8e47e038ead0a67ed466860ecf576e --> | 2026-06-19 | 67081123...<!-- 67081123-2436-4e87-b455-d12222ebe016 --> |  | 10.0.28000.2307 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/C05F92A11c9000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/AD79E27D77ED954E23423462586066F91/user32.pdb) |
 
 ### 10.0.26100
 
@@ -216,7 +209,6 @@
 | 293a02...<!-- 293a0200445ee9a9ce1a043934f94223253763d97bbff57cabb26178f1b6ace2 --> | 2026-06-26 | 8f247bc8...<!-- 8f247bc8-f5ba-4467-ac18-8a9d87e9f6d0 --> | 10.0.26100.8697 | 10.0.26100.8697 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/6C727F9C1c6000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/059AF1857248F32B27761B8175030D971/user32.pdb) |
 | ecde96...<!-- ecde969cc9257cc64041e205821c59e3c32c097227b9c35bba2828a9a200e9cb --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/81DFF4ED36000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/C51E5AE721D63F52058ED35CE60088731/user32.pdb) |
 | adc8a1...<!-- adc8a1fb60f74eabae356cdd438508e4ee6e3aaa7a01e33c873c69d791be4527 --> | 2026-06-23 | fe1f1547...<!-- fe1f1547-38fb-4867-a152-ddec85a47b37 --> | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/FE3CECE91c7000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/141FBBFEAF74F099173E991423B643A01/user32.pdb) |
-| a08657...<!-- a0865766ffc5386d4f0c200ac80a884335c592e2a53fc894426c5782e2c71538 --> | 2026-06-19 | 3454ed2d...<!-- 3454ed2d-2ed8-4ce1-af37-35b27924a39a --> | 10.0.26100.8690 | 10.0.26100.8690 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/E404399C1c6000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/DCE1C20BFDF2868B01B57BF934FB53451/user32.pdb) |
 
 ### 10.0.22621
 
