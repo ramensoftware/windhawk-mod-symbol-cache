@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_752797566_6238208;private: long __cdecl CNscTree::_InsertRoot(struct _TREEITEM *,struct IShellItem *,unsigned long,unsigned long,struct IShellItemFilter *);1535280;long __cdecl OrderList_SaveToStream(struct IStream *,struct _DPA *,struct IShellFolder *);1435744
