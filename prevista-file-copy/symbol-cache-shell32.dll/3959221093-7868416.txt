@@ -1,0 +1,1 @@
+1#3959221093#7868416#public: virtual long __cdecl CTransferConfirmation::Confirm(struct CONFIRMOP const *,enum CONFIRMATIONRESPONSE *,int *,unsigned int *)#3383328#public: static long __cdecl CConflictResolutionDlg::ShowDialog(struct CONFIRM_CONFLICT_PARAMS const *,struct ISyncMgrConflictItems *,struct CONFIRM_CONFLICT_RESULT *,struct ISyncMgrConflictResolutionItems * *)#3674360
