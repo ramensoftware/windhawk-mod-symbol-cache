@@ -1,0 +1,1 @@
+1#1377412923#1351680#public: long __cdecl CTrackingTooltip::Initialize(struct tagPOINT const *,unsigned short *)#913428#public: void __cdecl CTrackingTooltip::Update(struct tagPOINT const *,unsigned short *)#913556#protected: void __cdecl CTrackingTooltip::UpdateTooltipLocation(void)#913748

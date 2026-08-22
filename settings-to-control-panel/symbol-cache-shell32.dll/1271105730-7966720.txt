@@ -1,0 +1,1 @@
+1#1271105730#7966720#bool __cdecl CDevicesAndPrintersFolder::_HandleContextMenu(struct HMENU__ *,unsigned int)##private: bool __cdecl COpenControlPanel::_MapLegacyName(unsigned short const *,unsigned short *,unsigned int,bool *)#3140832
