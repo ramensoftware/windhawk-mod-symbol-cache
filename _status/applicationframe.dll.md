@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | f97b32...<!-- f97b3237efe35b186592b297d32d64f59d25f41cef501aa7bac09c576684cba2 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/AE295E19b7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/E1CCC91EC5406E943607AFAB8D34CF3B1/ApplicationFrame.pdb) |
 | 8a8827...<!-- 8a8827875e18cb1c6ffe69d6bae40ef9a1d20a4f55735f2a3f42efa4c8ef5507 --> | 2026-07-14 | KB5101649 | 10.0.28000.2525 | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/1B548DE5b7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/21CF58D6ADDE9A7AECDA5529D321A8391/ApplicationFrame.pdb) |
-| 5908f6...<!-- 5908f683490910dc3572ea2bd886013989777a12193ac006a6443d2349641d84 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/B822E8FDb7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/8ECD7074115733082715C066AE98FFEA1/ApplicationFrame.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | fee32d...<!-- fee32d69044dd1132db2f16cb206895232ae1f90e677e9af28e149ed2bd284de --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/1BD3707Cc7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/98854AE7B02ED6FE87F90C46CCA5C7F41/ApplicationFrame.pdb) |
 | 0c07a2...<!-- 0c07a21e6e523db4ee7aceca1dbe1e7ee8e3a64366d41497a186d3570085e104 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/1346BBBDc7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/057D0465B638C3F1A1C512F60E83FBE81/ApplicationFrame.pdb) |
-| fe602d...<!-- fe602d86f26095d7eb385404e4735000808595fcd45e5a6945e0a1504bdbc098 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/9071F9F2c7000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/ACC35236E2C5D64868812862462516B41/ApplicationFrame.pdb) |
 
 ### 10.0.26100
 

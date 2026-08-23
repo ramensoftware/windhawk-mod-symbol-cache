@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 6495f4...<!-- 6495f417f781ff53acdcb01cbc938092ac970d1e4ae9452f161a092a1c59eb09 --> | 2026-08-11 | KB5121000 |  | 11.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/6613598D1724000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/4DCDFB7F4F1ACC5F8C41389A7CD802B31/mshtml.pdb) |
 | e7473c...<!-- e7473c7e5724327fb05f6073521750209ef0a281c969494c48bf2bc66194e0c8 --> | 2026-07-14 | KB5101649 | 11.00.28000.2525 | 11.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/1863EC3B1725000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/DC8E564F2FA4D4A52E0229D38F5659341/mshtml.pdb) |
-| 97630c...<!-- 97630cf21df6a5d478caaaad1acb18f56fcc3967a7cb72d67ff26aedad749102 --> | 2026-06-23 | KB5095091 |  | 11.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/A00E4CB91725000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/1E514D50A2231B13BB024D4E54C89CF81/mshtml.pdb) |
 
 ### 11.0.26100
 
@@ -16,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 409324...<!-- 4093242363e953e6172b87f5b66ec42deaf63bb1fb12a2a48590c08f8fb6ec06 --> | 2026-08-11 | KB5121003 | 11.00.26100.8972 | 11.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/9FA1B39E16fe000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/CEA0744FF9DA124B3B999F3FB91347191/mshtml.pdb) |
 | cd7458...<!-- cd7458df2921ad4f19626f9b6d76378c8c608e039b5091a92c0469eca4910f0e --> | 2026-07-18 | KB5121767 | 11.00.26100.8875 | 11.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/FA40807716fe000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/F29AD3AD722618A53D8043A4DF1BF92A1/mshtml.pdb) |
-| c7803e...<!-- c7803e1ce26556b03946a500c5b63df6eac0fa30618b16fcd6cd0d31630dfebc --> | 2026-06-23 | KB5095093 | 11.00.26100.8737 | 11.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/6001732816fe000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/971EA9FBF92E813C4721A6454F3D1DC51/mshtml.pdb) |
 
 ### 11.0.22621
 
@@ -54,7 +52,6 @@
 | 41745c...<!-- 41745c27f3fe34e4eb5b1c3b66020b0e105e6c6b131dfb027165e4306b764577 --> | 2026-08-11 | KB5121000 |  | 11.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/4FED775029b6000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/E04E6CD8CF93426561E89B8CD56F35DC1/mshtml.pdb) |
 | 6a6bd4...<!-- 6a6bd4304457f814ffb75e443c810594c2aab71460b1e44631d1054204678bab --> | 2026-07-28 | KB5101681 |  | 11.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/67AC368B29b6000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/D4D468BFAADC532B6BC6A19E61BE4C651/mshtml.pdb) |
 | 9754e5...<!-- 9754e582e040d2ad11f019b05377f747da768dfa844b636cb6e07a6e63bc9335 --> | 2026-07-14 | KB5101649 |  | 11.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/D5844DB129b8000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/E4DE339371D77A031627C991693DEF6C1/mshtml.pdb) |
-| 9e738b...<!-- 9e738b4fbdf338ecac12eac5b0a4710319a51d7a4c295c91e9612368c927c0f5 --> | 2026-06-23 | KB5095091 |  | 11.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/275BC1DD29b8000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/135EF4D48DE6F7AC794DCA9DC121A2571/mshtml.pdb) |
 
 ### 11.0.26100
 
@@ -64,7 +61,6 @@
 | 74d175...<!-- 74d1750a903e792cced3da008322b8d7a43ceb5b0cc5ed6a86b4f3ad777499b1 --> | 2026-07-28 | KB5101684 | 11.00.26100.8972 | 11.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/4B1523B127fd000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/B1B75E3E223DBD6E8A19CBF6533FFF901/mshtml.pdb) |
 | 710880...<!-- 71088024019de81799b5271da2c9a873c56fef66e95356f9bcb8123caf3acb9d --> | 2026-07-18 | KB5121767 | 11.00.26100.8894 | 11.0.26100.8894 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/97220A6C27fd000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/1D613AEE6CD3968A026B4BEEFBB5BBE71/mshtml.pdb) |
 | 9835f8...<!-- 9835f8f7b6db57a32bdcd8b94a076ab95eb5d0e74d3a15a43881ea47d0941707 --> | 2026-07-14 | KB5101650 | 11.00.26100.8875 | 11.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/2C2A1D2E27fd000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/AEB982FD42DBB0CF0B20BAC9887771221/mshtml.pdb) |
-| aba9eb...<!-- aba9eb1f1f7910a14088139f48b8d3816bf006d017de3ae458d828f4e45556f7 --> | 2026-06-23 | KB5095093 | 11.00.26100.8737 | 11.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/D700234B27fc000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/22739281556DE418EDF8943728F23DE21/mshtml.pdb) |
 
 ### 11.0.22621
 

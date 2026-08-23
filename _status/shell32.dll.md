@@ -12,8 +12,6 @@
 | 0dbc8f...<!-- 0dbc8ff82ec4fcc55eddf57f6426e2a800daa3f94a29f0a44c90170cf973d116 --> | 2026-07-28 | KB5101681 | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/13A53010798000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/DCAE98783DF17F8F0A8A2D64F6BC30851/shell32.pdb) |
 | d0dcbd...<!-- d0dcbd3f349cf9499ed5b2b9b5bb6363ccb0bc9351345ea44720b02fac07c4b2 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/691EB6D812000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/0803D790315B86B45139FC484E2618A11/shell32.pdb) |
 | 6504a3...<!-- 6504a379d2e7269e78d595b7ba8751f05159b09276ebe0bcf394f174a6a40c66 --> | 2026-07-14 | KB5101649 | 10.0.28000.2525 | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/FCF56E7D792000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/5961E9F15EF376DDF1AF7DF44C8E82F01/shell32.pdb) |
-| a1c303...<!-- a1c303c345815269a6a18b3e4ce9331c59a887c679ce3facd5891f664d2c28ce --> | 2026-06-23 | KB5095091 | 10.0.28000.2340 | 10.0.28000.2340 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/44FA1C79791000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/FFFCA05AF3923B6512749D43460A570D1/shell32.pdb) |
-| 834c6e...<!-- 834c6e0b127bd9c58c59b48185530c6f655803db89c4e510a71df10402c16afc --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2340 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/B46F4EC212000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/04F11CAEAE5B9088F9630F0E049D7DE81/shell32.pdb) |
 
 ### 10.0.26100
 
@@ -25,8 +23,6 @@
 | 63a6f2...<!-- 63a6f24cce451fec0bb09d61564cf5f458cf9ed8ffe64487821fb62f18668fc2 --> | 2026-07-28 | KB5101684 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/4E68AB58788000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/883C09E645A9673DE8BFEC640D5F46101/shell32.pdb) |
 | ac4ef2...<!-- ac4ef258b7681125b744194ab3d4e530150e2f248e632c321dcdeeb552c7e3d8 --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/D03614BD12000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/6FFFE59C636DE6A6D3AF56112B8BA0FE1/shell32.pdb) |
 | 54be3e...<!-- 54be3efc4dfdb3f42012722e6894bbb8ad3b8d45d3f33846733af27fdd100cd8 --> | 2026-07-18 | KB5121767 | 10.0.26100.8875 | 10.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/6D095B85792000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/5CB594D98D246E78371EB64BA12CE5531/shell32.pdb) |
-| 56a164...<!-- 56a16478be9e6bdd62833fa9192644bb0422de399a2f9099a8e73c3da1fa8c0e --> | 2026-06-23 | KB5095093 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/E474E72E792000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/81193A83756ECFAF2963DA477DE18A561/shell32.pdb) |
-| 076f74...<!-- 076f7445adf23daa5cd7d104faf8639bb10488b0e9c97290a108b77c117447aa --> | 2026-06-23 | KB5095093 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/BDAF7E4E12000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/FFDC4883F1B9C02E27AA01EC1748D9DD1/shell32.pdb) |
 
 ### 10.0.22621
 
@@ -74,8 +70,6 @@
 | 128e1c...<!-- 128e1c70099e995d22f87eec56d3bc2aff19c231b51a8aaa4f8fcca621be8a6d --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/8F4209C0eee000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/E3A50B07E2C33B7755E58190008AB7341/shell32.pdb) |
 | ebb7d9...<!-- ebb7d9d6e01169aee148c0d906fec78a5faaef4dd1c4635d9ace4077c594e9e4 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/0B637BFDee6000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/567C8C3AA1A6ED6D15BFD6EA94D968951/shell32.pdb) |
 | 2c4177...<!-- 2c4177d1b0f93f48bbaa971a76fd7a745d7a781a32e0c033e2841556886f47a2 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/428A068F23000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/0F75FF442051BE3A53AA1B162FC0518E1/shell32.pdb) |
-| 8beb0b...<!-- 8beb0bc0f9dda88d8ae8f5e416bd602fe8227d11ed7519078aea937b5b02acfa --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2340 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/A9EEDC7E23000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/2A313C550C2D8D08F1468AFAD6C63C2A1/shell32.pdb) |
-| 0026c2...<!-- 0026c2f3c7b6ae4e0d7295bb59513af861ec4fe899dc3a1fe3acfb7869061e31 --> | 2026-06-23 | KB5095091 |  | 10.0.28000.2340 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/07FBD44Dee6000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/F0D6A5A0516B9D0CC2E8C3B72DF6331C1/shell32.pdb) |
 
 ### 10.0.26100
 
@@ -87,8 +81,6 @@
 | 20d84f...<!-- 20d84fa2aed3250c5e13c92b685b465bc83328b796932bf154fdfd66d09b9a28 --> | 2026-07-28 | KB5101684 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/A8FD576423000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/209070E67C46641E6F1113E8A42171231/shell32.pdb) |
 | bb2cbe...<!-- bb2cbed23b4349f682dde4465d641bb70434904ec6c9e3052b9370d680b4fbe1 --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8894 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/ADEF9D8F23000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/7A2D250534C6942BE617D86C30EECCDA1/shell32.pdb) |
 | 7ff7ac...<!-- 7ff7ace13168563e2c8cd5294da7134a0b356bc25f7435870d1d2e9d04f43864 --> | 2026-07-18 | KB5121767 | 10.0.26100.8875 | 10.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/2C1AC9B2ec7000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/AE5569AB49A33C3FB9E23773510BE2511/shell32.pdb) |
-| c0055f...<!-- c0055f105a52318e6407462343d3e538cd4242dc4a5830857d784050cc543a0a --> | 2026-06-23 | KB5095093 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/13B60B0Fec6000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/25B9290BCE0BD430FDD446A2D426789A1/shell32.pdb) |
-| 5de441...<!-- 5de4419c908f5962f98d1c5c849ee8f32bb6a2f05c8ef841071c271839c7d559 --> | 2026-06-23 | KB5095093 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/97BE20B123000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/7E5E8F4DDDB8F1D9E44DAE114BACCFDC1/shell32.pdb) |
 
 ### 10.0.22621
 
