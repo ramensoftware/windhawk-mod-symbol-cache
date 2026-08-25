@@ -95,8 +95,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ce461d...<!-- ce461d66b9b2861555ede63f457766ddebbbf9aadb2b5712ce37f71de28ecd82 --> | 2026-08-21 | 097da1ce...<!-- 097da1ce-4bcb-4864-9204-db20ec183dd8 --> |  | 10.0.28000.2672 | 🔴 | ❓ |
-| 68c18a...<!-- 68c18a1c6e0a717c7f05d8c22b2126bea24664503cbf4a72ba880fac830621ab --> | 2026-08-21 | 097da1ce...<!-- 097da1ce-4bcb-4864-9204-db20ec183dd8 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/usoapi.dll/6900173832000/usoapi.dll) | ❓ |
+| ce461d...<!-- ce461d66b9b2861555ede63f457766ddebbbf9aadb2b5712ce37f71de28ecd82 --> | 2026-08-25 | c33fa37f...<!-- c33fa37f-afea-400a-ac98-b9e22004ab5f --> |  | 10.0.28000.2672 | 🔴 | ❓ |
+| 68c18a...<!-- 68c18a1c6e0a717c7f05d8c22b2126bea24664503cbf4a72ba880fac830621ab --> | 2026-08-25 | c33fa37f...<!-- c33fa37f-afea-400a-ac98-b9e22004ab5f --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/usoapi.dll/6900173832000/usoapi.dll) | ❓ |
 | 94390e...<!-- 94390ea34804a0b0fb135eae99efe8a3b98cc1d5ce8356a097c2fccebaf5867d --> | 2026-08-17 | 550f25cd...<!-- 550f25cd-469b-4c98-999c-b2d663f9f56a --> |  | 10.0.28000.2623 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/F429E72D35000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/F9675D442488F571CB19F5646B937A631/UsoApi.pdb) |
 | 8b8538...<!-- 8b8538891dcbf9a81c77d7d246d7fad9912b54e3930e915a0d27af69ea333f94 --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | ac42da...<!-- ac42da8cff458c0272e58cf38738d1fbd5696a74a2a7316cc219baf827c3a276 --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/2674882F32000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/56A6E856BB228EDD324508980DFC21721/UsoApi.pdb) |

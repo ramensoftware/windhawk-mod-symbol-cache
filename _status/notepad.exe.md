@@ -98,8 +98,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 50acd4...<!-- 50acd44dc81aa52e0d6e9d02fd539be723fcf5251de53dcad6ebf7dee71e97d5 --> | 2026-08-21 | 097da1ce...<!-- 097da1ce-4bcb-4864-9204-db20ec183dd8 --> |  | 10.0.28000.2672 | 🔴 | ❓ |
-| 2d6518...<!-- 2d6518ba06c911cb20ef7a26f7edf3ec7adc1e2eaf2b3f77f8382c079c062493 --> | 2026-08-21 | 097da1ce...<!-- 097da1ce-4bcb-4864-9204-db20ec183dd8 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/notepad.exe/4AD9186159000/notepad.exe) | ❓ |
+| 50acd4...<!-- 50acd44dc81aa52e0d6e9d02fd539be723fcf5251de53dcad6ebf7dee71e97d5 --> | 2026-08-25 | c33fa37f...<!-- c33fa37f-afea-400a-ac98-b9e22004ab5f --> |  | 10.0.28000.2672 | 🔴 | ❓ |
+| 2d6518...<!-- 2d6518ba06c911cb20ef7a26f7edf3ec7adc1e2eaf2b3f77f8382c079c062493 --> | 2026-08-25 | c33fa37f...<!-- c33fa37f-afea-400a-ac98-b9e22004ab5f --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/notepad.exe/4AD9186159000/notepad.exe) | ❓ |
 | b3b73f...<!-- b3b73f0a2cf2f7b9d98f61cf6fd710c278438233cdf829a301d59d15b560a62d --> | 2026-08-17 | 550f25cd...<!-- 550f25cd-469b-4c98-999c-b2d663f9f56a --> |  | 10.0.28000.2623 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/0614C45D59000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/4F7DC02820F69CB65A0B92CC0DE29D7A1/notepad.pdb) |
 | 0f1080...<!-- 0f1080aabe1309e2518c633282af21eecae0f8344eeb3342ea40cb06a870534f --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | 27426d...<!-- 27426d71be4a7710f97380b25dfacc064d9cdfb223c9e8ce9ec01b016d59290c --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/B79EF65F59000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/50F8B8F2906553458471618EC220F9AE1/notepad.pdb) |
