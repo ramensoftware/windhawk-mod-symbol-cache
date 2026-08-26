@@ -1,1 +1,0 @@
-1#taskmgr.exe#x86-64_2222086657_5513216#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#587448
