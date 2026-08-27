@@ -1,0 +1,1 @@
+1#sndvolsso.dll#x86_3768233600_241664#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#181010
