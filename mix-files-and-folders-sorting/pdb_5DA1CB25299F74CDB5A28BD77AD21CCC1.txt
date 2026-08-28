@@ -1,0 +1,1 @@
+1#windows.storage.dll#x86-64_3601843870_7905280#public: virtual long __cdecl CFSFolder::CompareIDs(__int64,struct _ITEMIDLIST_RELATIVE const __unaligned *,struct _ITEMIDLIST_RELATIVE const __unaligned *)#887632
