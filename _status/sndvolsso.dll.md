@@ -14,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8f3110...<!-- 8f3110063de6f306c5946fe51d7241e17befc549359e1b6326d56a4c79e3b120 --> | 2026-08-27 | KB5120998 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/1E055EDC43000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/E26CA41395FC9D65B72AB784FEA770671/SndVolSSO.pdb) |
+| 8f3110...<!-- 8f3110063de6f306c5946fe51d7241e17befc549359e1b6326d56a4c79e3b120 --> | 2026-08-27 | KB5120998 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/1E055EDC43000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/E26CA41395FC9D65B72AB784FEA770671/SndVolSSO.pdb) |
 | 600326...<!-- 600326bf55bca1c9778635159145dd48b30aa73806cc4263020c5d59e611ae97 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/6446942843000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/BF278C31CC45895C9848C57ABA525D521/SndVolSSO.pdb) |
 | 77ceed...<!-- 77ceed5a680f47a610d21e105ee00d2f4d88cb0afb240a0b84e9c56fd8729ffd --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/B75BCEBA43000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/A25AE71CE06FC7D75DAEAE3C26D3D7CC1/SndVolSSO.pdb) |
 

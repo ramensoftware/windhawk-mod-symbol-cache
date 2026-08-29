@@ -1,0 +1,1 @@
+1#taskbar.view.dll#x86-64_1780694041_9998336#public: __cdecl winrt::Taskbar::implementation::TaskbarFrame::TaskbarFrame(void)#2873804
