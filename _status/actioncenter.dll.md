@@ -56,7 +56,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e310e8...<!-- e310e8e51410f150951153877c0197c1ac9a55af2f483c8bcaecde78d5b432bc --> | 2026-08-27 | KB5120998 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/D5122D2350000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/898A6A092F58FB5FDFE92E72943617F71/ActionCenter.pdb) |
+| e310e8...<!-- e310e8e51410f150951153877c0197c1ac9a55af2f483c8bcaecde78d5b432bc --> | 2026-08-27 | KB5120998 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/D5122D2350000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/898A6A092F58FB5FDFE92E72943617F71/ActionCenter.pdb) |
 | b7538b...<!-- b7538bc045f43a2a2aaa6744b92b19aa5a76e5921a9ab67bb037bb394548ac16 --> | 2026-08-11 | KB5121003 | 10.0.26100.8328 | 10.0.26100.8328 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/ED2E917750000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/53B62121A0E8A0A1916CC947DB3937701/ActionCenter.pdb) |
 
 ### 10.0.22621
