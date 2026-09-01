@@ -46,6 +46,7 @@
 | [taskbar.view.dll](taskbar.view.dll.md) |
 | [taskmgr.exe](taskmgr.exe.md) |
 | [themeui.dll](themeui.dll.md) |
+| [thumbcache.dll](thumbcache.dll.md) |
 | [timedate.cpl](timedate.cpl.md) |
 | [twinui.dll](twinui.dll.md) |
 | [twinui.pcshell.dll](twinui.pcshell.dll.md) |
