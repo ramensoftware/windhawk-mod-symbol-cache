@@ -14,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2080e4...<!-- 2080e43f5d997a3bd9827f38d8f3029d88f77a7f301966fba10ec0acad9aa556 --> | 2026-08-27 | KB5120998 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/3D7534841aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/F1920C0ED3DE254FE969E8E8CC4435CE1/DUI70.pdb) |
+| 2080e4...<!-- 2080e43f5d997a3bd9827f38d8f3029d88f77a7f301966fba10ec0acad9aa556 --> | 2026-08-27 | KB5120998 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/3D7534841aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/F1920C0ED3DE254FE969E8E8CC4435CE1/DUI70.pdb) |
 | 86e4a4...<!-- 86e4a409e30eb7ae1d0b8d6bab7b05b37121e68cc05b9dabffda1e34738c1465 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/21228F201aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/7C42B616C7BC830629E2CC333BA3E2FE1/DUI70.pdb) |
 | 8afcb5...<!-- 8afcb560174c5b084d5bc65f2eb3ea1609137d175528fce37166003c69dd51c6 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/75BF429E1aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/B7BD98C4631A32822BC955DBF12DEAE51/DUI70.pdb) |
 
