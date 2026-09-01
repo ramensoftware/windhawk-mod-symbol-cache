@@ -1,0 +1,1 @@
+1#comctl32.dll#x86_3048503760_598016#public: void __thiscall CListView::OnSetSortColumnColor(unsigned long)#

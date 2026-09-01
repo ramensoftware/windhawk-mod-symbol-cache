@@ -1,0 +1,1 @@
+1#701134651#3203072#private: int __cdecl CShellBrowser::_GetIconIndex(void)#1213320#private: void __cdecl CNscTree::_OnGetDisplayInfo(struct tagTVDISPINFOEXW *)#1200224#private: static __int64 __cdecl CNscTree::s_SubClassTreeWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64)#553424
