@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_343572241_15548416;public: virtual long __cdecl CDefView::UIActivate(unsigned int);2673392;long __cdecl CDefView::UIActivate(unsigned int);;public: virtual long __thiscall CDefView::UIActivate(unsigned int);;long __thiscall CDefView::UIActivate(unsigned int);
