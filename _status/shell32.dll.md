@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b0d99a...<!-- b0d99ad8f8dabd2d0624c8961b7f15ddfc0be8156a60c43e4021754741c4fcff --> | 2026-08-27 | KB5120996 |  | 10.0.28000.2804 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/1A0930B9EEDE428B7B36A0F4C1B103E71/shell32.pdb) |
+| b0d99a...<!-- b0d99ad8f8dabd2d0624c8961b7f15ddfc0be8156a60c43e4021754741c4fcff --> | 2026-08-27 | KB5120996 | 10.0.28000.2804 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/D38F6C94792000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/1A0930B9EEDE428B7B36A0F4C1B103E71/shell32.pdb) |
 | a4ef93...<!-- a4ef93d8f38a65a201577488a09b470a99ff3b044548199c50496d4c72b21605 --> | 2026-08-27 | KB5120996 |  | 10.0.28000.2804 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/92D43F7E651B8197C7559B3CC6D731831/shell32.pdb) |
 | e1375c...<!-- e1375c72bf9f504294b206da7d49fe1a27375e70ed8a3e3ee6b3a963acf3a7e2 --> | 2026-08-11 | KB5121000 | 10.0.28000.2704 | 10.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/0718F2A8798000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/8D0959A3E5CBDDF5D4D18F3C5C40B7281/shell32.pdb) |
 | 328574...<!-- 328574dc3319c72fb86b7aab2949022fe3f66772e8689fb1dde26cc17b3a4ce7 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/8B947F9D12000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/1BAA02BA8FD6CFB85EA59BB142C140251/shell32.pdb) |
