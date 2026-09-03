@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b24142...<!-- b2414203a03ea2793736c57149abfb4ba5036f4f74c4e7584d9da4afb4a46fcf --> | 2026-08-27 | KB5120996 |  | 10.0.28000.2804 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/65EB1F882958D52FF15D4D038517B95B1/Taskmgr.pdb) |
+| b24142...<!-- b2414203a03ea2793736c57149abfb4ba5036f4f74c4e7584d9da4afb4a46fcf --> | 2026-08-27 | KB5120996 | 10.0.28000.2804 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/A6CD312A577000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/65EB1F882958D52FF15D4D038517B95B1/Taskmgr.pdb) |
 | 04e292...<!-- 04e2928ff52abc854f93290dfbe99138dae3fb087bd5abb65950638b5d054016 --> | 2026-08-27 | KB5120996 |  | 10.0.28000.2804 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/56A7D3BF5207B953BE7199A3C15F30BC1/taskmgr.pdb) |
 | aa1ad0...<!-- aa1ad0cb32d827c5c7a954beee043471090c1a743353761c8dbee05e415ae607 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/1E572ED252000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/DA5E5337DB06923790A37B6652369CA01/taskmgr.pdb) |
 | 049538...<!-- 0495389a027fc1eecd72b9c8cacb65aac2aa461fabd6cd7e8c13f2c70abfc9cd --> | 2026-08-11 | KB5121000 | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/D3D2566F56d000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/5FA2F32D9BE46087A673E43194C010911/Taskmgr.pdb) |
