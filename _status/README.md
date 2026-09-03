@@ -19,6 +19,7 @@
 | [explorerextensions.dll](explorerextensions.dll.md) |
 | [explorerframe.dll](explorerframe.dll.md) |
 | [fileexplorerextensions.dll](fileexplorerextensions.dll.md) |
+| [logoncontroller.dll](logoncontroller.dll.md) |
 | [monotificationux.exe](monotificationux.exe.md) |
 | [mshtml.dll](mshtml.dll.md) |
 | [museuxdocked.dll](museuxdocked.dll.md) |
@@ -60,6 +61,7 @@
 | [winbrand.dll](winbrand.dll.md) |
 | [windows.internal.hardwareconfirmator.dll](windows.internal.hardwareconfirmator.dll.md) |
 | [windows.storage.dll](windows.storage.dll.md) |
+| [windows.ui.blockedshutdown.dll](windows.ui.blockedshutdown.dll.md) |
 | [windows.ui.fileexplorer.dll](windows.ui.fileexplorer.dll.md) |
 | [winlogon.exe](winlogon.exe.md) |
 | [wpdshext.dll](wpdshext.dll.md) |

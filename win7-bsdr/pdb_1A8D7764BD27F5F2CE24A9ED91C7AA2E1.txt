@@ -1,0 +1,1 @@
+1#winlogon.exe#x86-64_2910083601_970752#int g_fShutdownResolverDisabled#854068
