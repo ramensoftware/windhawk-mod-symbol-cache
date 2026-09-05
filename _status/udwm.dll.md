@@ -149,8 +149,6 @@
 | fb6acb...<!-- fb6acb5f8609e21a39e4cabc95f10cf69e13b412a0fe636ca74e82dd6c2f12a0 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.1743 | 🔴 | ❓ |
 | 06719e...<!-- 06719e752c565a93848ae1b936b8df3040c7268cfade0d5f873bc9c18b6b6834 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> | 10.0.26100.2 | 10.0.26100.2 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/60DD05A3130000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/338CC00B29A4562C8EFB71AD77027D6C1/uDWM.pdb) |
 | ba1ec4...<!-- ba1ec455293a39e9d402f46375d7ef229162c4ea141d718d7f521d715f9704d9 --> | 2026-07-19 | a2702664...<!-- a2702664-1144-411d-808a-fd316e393e58 --> | 10.0.26100.8875 | 10.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/998591D213e000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/993A0CCD0262FFD078E6F68B829401B71/uDWM.pdb) |
-| 5f8c12...<!-- 5f8c126a1cf46afbc53245c7dde9885c340391f3ee89c0d6f27ed4f5a4dc7231 --> | 2026-07-06 | 23b8b945...<!-- 23b8b945-cad8-41db-9925-72a522fedffc --> |  | 10.0.26100.8772 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/3FE4291413e000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/2F939252EAB2ADE80BB1D2B9C4FE45FE1/uDWM.pdb) |
-| a9ddc8...<!-- a9ddc8f785cce93ff6b1dfa096449f5b89cff9adf0da9ad77124e13cca472679 --> | 2026-07-06 | f5bee5b5...<!-- f5bee5b5-c4f4-44a7-960a-160f115b7cce --> |  | 10.0.26100.8764 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/95D9699A13f000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/848E2782C87E315EB3E44934697217BB1/uDWM.pdb) |
 
 ### 10.0.22621
 
