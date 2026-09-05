@@ -196,6 +196,9 @@ SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     'word-mathtype-dark-fix': ['wwlib.dll'],
     'word-omath-shade-fix': ['wwlib.dll'],
     'word-pdf-lossless-export': ['mso.dll'],
+
+    # Chrome mods, use noUndecoratedSymbols.
+    'chrome-native-ui-tweaks': ['chrome.dll'],
 }
 
 # The architecture macros mods are expected to branch on, with the values
