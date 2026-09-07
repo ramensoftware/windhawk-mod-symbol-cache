@@ -34,7 +34,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7383a0...<!-- 7383a0c9481ca7a64cf62d0b533886b34d96b5113ac8b543d5d5aa75adbd56bd --> | 2026-08-11 | KB5120238 |  | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/8C422CE6e8000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/08C3B1B4A65004B8164A74D9EEC49D2E1/SecurityHealthSSO.pdb) |
+| 7383a0...<!-- 7383a0c9481ca7a64cf62d0b533886b34d96b5113ac8b543d5d5aa75adbd56bd --> | 2026-08-11 | KB5120238 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/8C422CE6e8000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/08C3B1B4A65004B8164A74D9EEC49D2E1/SecurityHealthSSO.pdb) |
 
 ## ARM64 (release builds)
 
