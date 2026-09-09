@@ -1,0 +1,1 @@
+1#2563230275#7450624#public: virtual long __stdcall CFSFolder::CompareIDs(long,struct _ITEMIDLIST_RELATIVE const *,struct _ITEMIDLIST_RELATIVE const *)#1305600
