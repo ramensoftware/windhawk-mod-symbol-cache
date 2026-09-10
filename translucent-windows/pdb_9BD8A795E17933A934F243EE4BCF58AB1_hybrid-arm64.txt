@@ -1,1 +1,1 @@
-1;comctl32.dll;arm64_3876046994_4628480;SHThemeDrawText;1776696;void __cdecl ComboEx_OnDrawItem(struct COMBOEX *,struct tagDRAWITEMSTRUCT *);711520
+1;comctl32.dll;arm64_3876046994_4628480;SHThemeDrawText;1776696;DrawShadowTextEx;381536;void __cdecl ComboEx_OnDrawItem(struct COMBOEX *,struct tagDRAWITEMSTRUCT *);711520

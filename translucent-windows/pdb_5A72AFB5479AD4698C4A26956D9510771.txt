@@ -1,1 +1,1 @@
-1#explorerframe.dll#x86-64_3420295946_3211264#private: void __cdecl CNscTree::DrawDivider(struct HDC__ *,struct _TREEITEM *)#1018392
+1#explorerframe.dll#x86-64_3420295946_3211264#private: void __cdecl CNscTree::DrawDivider(struct HDC__ *,struct _TREEITEM *)#1018392#public: virtual long __cdecl CNscTree::GetWindowsDDT(struct HWND__ * *,struct HWND__ * *)#1153696

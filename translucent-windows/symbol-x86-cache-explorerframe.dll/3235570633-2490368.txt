@@ -1,1 +1,1 @@
-1#3235570633#2490368#private: void __thiscall CNscTree::DrawDivider(struct HDC__ *,struct _TREEITEM *)#1138268
+1#3235570633#2490368#private: void __thiscall CNscTree::DrawDivider(struct HDC__ *,struct _TREEITEM *)#1138268#public: virtual long __thiscall CNscTree::GetWindowsDDT(struct HWND__ * *,struct HWND__ * *)#531792
