@@ -37,6 +37,7 @@
 | [securityhealthsystray.exe](securityhealthsystray.exe.md) |
 | [shell32.dll](shell32.dll.md) |
 | [shlwapi.dll](shlwapi.dll.md) |
+| [snaplayout.dll](snaplayout.dll.md) |
 | [sndvol.exe](sndvol.exe.md) |
 | [sndvolsso.dll](sndvolsso.dll.md) |
 | [startmenu.dll](startmenu.dll.md) |
