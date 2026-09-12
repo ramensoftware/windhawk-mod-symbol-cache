@@ -1,0 +1,1 @@
+1#3298119780#2514944#protected: long __thiscall CExecuteFolder::ShowFolder(struct _ITEMIDLIST_ABSOLUTE const *,bool)#1517534

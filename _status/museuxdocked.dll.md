@@ -50,6 +50,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29667
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| f0fdd8...<!-- f0fdd827168f9968c6210b8619f781611a6dd79febc84545a45fcdc08e49c591 --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 10.0.29667.1000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/9C183EF61b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/38BD69D90D44529734027A8884F0146D1/MuseUxDocked.pdb) |
+
 ### 10.0.29661
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -78,11 +84,11 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 5e33f5...<!-- 5e33f52b58f5b9f78c40345a28db35ba356593c4cdc7dd3d600731e0e55f0c18 --> | 2026-09-11 | f2d98e30...<!-- f2d98e30-41c5-4f61-bcd3-7a8e344f54c0 --> |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/702CAA291b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/5C86234EA0D224A62E2DFDBB6218E70A1/MuseUxDocked.pdb) |
 | be1efe...<!-- be1efe185a77a2cfa4ddae1a93f54c08176f9f903fa45d111fdfb8001e6c2b2a --> | 2026-09-11 | 9531141a...<!-- 9531141a-6621-4a9a-809b-f92c4599691b --> |  | 10.0.28000.2672 | 🔴 | ❓ |
 | 51b2db...<!-- 51b2dbc945876c27803cf6361710401f05ae6502737b3d2cd2045fa896031c49 --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> |  | 10.0.28000.2623 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/8F3581671b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/9CA3292056B9838B3CA2ACA8F4FC646B1/MuseUxDocked.pdb) |
 | 926d03...<!-- 926d03863ad81416e30d840965ad90048cce56d83283b15d2fe3f3cdc31c76f0 --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/F09ED6591c000/museuxdocked.dll) | ❓ |
-| 5e33f5...<!-- 5e33f52b58f5b9f78c40345a28db35ba356593c4cdc7dd3d600731e0e55f0c18 --> | 2026-09-08 | 5796bc0a...<!-- 5796bc0a-4927-4b3c-bc57-109c22b50ca4 --> |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/702CAA291b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/5C86234EA0D224A62E2DFDBB6218E70A1/MuseUxDocked.pdb) |
-| fe750c...<!-- fe750c633b8da697f0704adbbe86c04259da84b16bf2710c9b4002e3df7b32ac --> | 2026-09-08 | 5796bc0a...<!-- 5796bc0a-4927-4b3c-bc57-109c22b50ca4 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/3BDDC2471c000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/6AEBA18D774187EA849CC687D565C0F81/MuseUxDocked.pdb) |
+| fe750c...<!-- fe750c633b8da697f0704adbbe86c04259da84b16bf2710c9b4002e3df7b32ac --> | 2026-09-11 | f2d98e30...<!-- f2d98e30-41c5-4f61-bcd3-7a8e344f54c0 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/3BDDC2471c000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/6AEBA18D774187EA849CC687D565C0F81/MuseUxDocked.pdb) |
 | 3f5068...<!-- 3f5068b3cd3e2a75f58bbbd321e2e8017e5e627caeae5433bd2fffdc2ad8b34c --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | 38934b...<!-- 38934b28a5971b721318198d0dc0fbe569d551baa82ac6e9caba0ec2fe1a55f5 --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/8937337E1b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/0531D0663433B8043897DB319FE9A1431/MuseUxDocked.pdb) |
 | b4d8cf...<!-- b4d8cf1c9dcd90b32ea440548160279be28b527261de7d78ec781594cd42a692 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> |  | 10.0.28000.2630 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/B5ACA1981b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/147C397922D8EDA827DDC2A7119BBABA1/MuseUxDocked.pdb) |
@@ -96,12 +102,12 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 95efd6...<!-- 95efd6df6989a2cc106ad2d71c5d13cc4bb6f03026fa446b9bf84b1514413517 --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> |  | 10.0.26100.9352 | 🔴 | ❓ |
-| 11cf1f...<!-- 11cf1f79ecc18b22148ef0a8fc722b5aacc80c448466fee9024ce1c0cf09f4ae --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
-| 1059d8...<!-- 1059d8a2ea1ac9ea84de79f8c049c1b3d4ab1b78d043ac7b381ced022cb63291 --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/F108AA771c000/museuxdocked.dll) | ❓ |
+| e8111d...<!-- e8111d6084e75de48ff25489028444f94bf60c99f589c245b0b355b9643209d4 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> |  | 10.0.26100.9306 | 🔴 | ❓ |
+| 11cf1f...<!-- 11cf1f79ecc18b22148ef0a8fc722b5aacc80c448466fee9024ce1c0cf09f4ae --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> |  | 10.0.26100.1746 | 🔴 | ❓ |
+| 1059d8...<!-- 1059d8a2ea1ac9ea84de79f8c049c1b3d4ab1b78d043ac7b381ced022cb63291 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/F108AA771c000/museuxdocked.dll) | ❓ |
 | 71f0f4...<!-- 71f0f42e413c1d9303619d5112533da325c42b3b89c56bf0111f6792088ab704 --> | 2026-09-10 | 95cc0dd5...<!-- 95cc0dd5-949f-452e-9115-30f6c5836016 --> |  | 10.0.26100.9539 | 🔴 | ❓ |
 | 5ff745...<!-- 5ff74581d51bee43b22b8986c008472813e40c9fde3beff2b80c928a8943421d --> | 2026-09-10 | 95cc0dd5...<!-- 95cc0dd5-949f-452e-9115-30f6c5836016 --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/D7B5D1B91c000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/D39FD4D8B96EFC84683893762BC6A23A1/MuseUxDocked.pdb) |
 | b1aac9...<!-- b1aac9dbf7107fcf55790d543a59975491aa350e7bbb5f09c3a859cd3c63f3f1 --> | 2026-09-10 | 95cc0dd5...<!-- 95cc0dd5-949f-452e-9115-30f6c5836016 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/813E82061c000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/62A8C21B84A542BB627924F864341AC51/MuseUxDocked.pdb) |
-| e8111d...<!-- e8111d6084e75de48ff25489028444f94bf60c99f589c245b0b355b9643209d4 --> | 2026-09-08 | 1e7eaea8...<!-- 1e7eaea8-4d56-4e85-ba1b-ee9e239bfb1e --> |  | 10.0.26100.9306 | 🔴 | ❓ |
 | e89165...<!-- e891659f723eba65ceb02cb7b7f2b831a85c557de56fbfb238165e83d705ae79 --> | 2026-09-08 | 5ecf1b1b...<!-- 5ecf1b1b-8391-454f-b0ca-f75f71ac1956 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/B733C2061b000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/9DFC589A613F2C64CE99FDA857276DF41/MuseUxDocked.pdb) |
 | 7c35a3...<!-- 7c35a30f76186d32abc16683faa59a0ffd90bc83015fe428673897493a6a525d --> | 2026-09-03 | ddaefaf4...<!-- ddaefaf4-7678-4b18-b3b8-36daa7993aec --> |  | 10.0.26100.8951 | 🔴 | ❓ |
 | f6951f...<!-- f6951ffac999a951f5d28f8f7a8ea0faed5f37191748abf5801dc336848c2d8a --> | 2026-08-21 | 3391da38...<!-- 3391da38-3726-440a-8d1d-5ff656ae4cf9 --> |  | 10.0.26100.8941 | 🔴 | ❓ |
