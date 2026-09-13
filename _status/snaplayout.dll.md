@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 343ced...<!-- 343ced3985cd74217d283661dedcc3eaf2edd3c2450ed30c0f872736365e1345 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A588F3Fde000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/FFBBFA551B654583879CF2C96AED19F81/SnapLayout.pdb) |
 | 6765bc...<!-- 6765bc8d20319424186f9adf701b4caee134d5d13731a45df538a1c5df35d9d3 --> | 2026-08-11 | KB5121000 | 2606.3001.0.0 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A207614de000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/B3F17121E7D74E4B91A596A54D0606541/SnapLayout.pdb) |
-| 849300...<!-- 849300a9ece5f02ef4f8fdfef7802146ad19cbd9e0971fce47012be010935325 --> | 2026-07-14 | KB5101649 | 2604.17000.0.0 | 10.0.28000.2336 | [🔴](https://msdl.microsoft.com/download/symbols/snaplayout.dll/69E26E5Add000/snaplayout.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -32,7 +31,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e2fd9b...<!-- e2fd9bc578c4db0f24eeb50a86844f72886f5c44e11f4b858aeeed121241dec5 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A588F66fa000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/908F7C2F9ED9421099CA91BA9EBD7FAC1/SnapLayout.pdb) |
 | ea0692...<!-- ea0692af2e1d01afc653c74b734b2e3ff5da6f9c379318262d7dd56a0dbaa8e0 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A2076BFfa000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/659C191491A145A9B719A75C242012841/SnapLayout.pdb) |
-| a5ca39...<!-- a5ca39ccb50a3bb9163a6dd2f33b085a1b0f72063d9ff76f51a93b498110cc29 --> | 2026-07-14 | KB5101649 | 2604.17000.0.0 | 10.0.28000.2336 | [🔴](https://msdl.microsoft.com/download/symbols/snaplayout.dll/69E26E3Ffa000/snaplayout.dll) | ❓ |
 
 ### 10.0.26100
 

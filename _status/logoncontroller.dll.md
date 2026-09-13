@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | a40b3f...<!-- a40b3fa7354c1f0e9ccc9f0d3fa2252d8100f474f70887eaad7c6a1bae4e49c3 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/16723496ed000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/99F7D78F3A69360278B43DDE05603AE61/logoncontroller.pdb) |
 | d1a41f...<!-- d1a41fa6b9ae1436a61f365ab0bf7ec12bd3870300bcfb28007ea49080032eaa --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/9E7FBFFDec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/E0B13E07A146FA3F0F4096FF3E0BE9651/logoncontroller.pdb) |
-| 046ab2...<!-- 046ab23b0d2e3f5471e0895f4ba72d4f029b83f8bf8f50a53c2afc707f7e8753 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/AE94DD9De3000/logoncontroller.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -29,7 +28,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c76521...<!-- c7652167b06eabf7481d0c2d399d3d4295cf89a3d27696ed4136135c941ae116 --> | 2026-09-08 | KB5122878 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/33213CF6da000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/51817B2A54E459B43DD844596F3187E51/logoncontroller.pdb) |
-| cb2955...<!-- cb29554e84012429e2c8c468e8328d1a880be399f1a2e711820f6c6de03c06f1 --> | 2026-07-14 | KB5099539 |  | 10.0.19041.7548 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/E208979Fda000/logoncontroller.dll) | ❓ |
 
 ### 10.0.17763
 
@@ -51,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c417d4...<!-- c417d471c55c32b2a5fab6e13ea9b6d61e17ba3989891a1927c6174654a38de5 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/CF71201Dee000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/292BD467B358F52935B3838423C31CDC1/logoncontroller.pdb) |
 | 423e36...<!-- 423e36967324b0aeeaa266b06bd100804d67f5e1b4b9eda42aae600e47b3e51a --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/4153F1E9ed000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/8936ADBB5A9BB53E1847F1647FF423DA1/logoncontroller.pdb) |
-| e9e9b1...<!-- e9e9b103a994467b57431a1273f27650c7b2de7beb9844439f8ed7eaa9b3141b --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2525 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/200B5FECe2000/logoncontroller.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -73,7 +70,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | f2a4c1...<!-- f2a4c1c1d686c82bc5215f57497c21fe307eee6582404fdc832a0ff0a579c6b6 --> | 2026-09-08 | KB5122878 |  | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/C444D0C9e2000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/68919C828FE78303689BB2A241452F521/logoncontroller.pdb) |
 | 5ce07c...<!-- 5ce07c0c0900256a54a26199f20277073c0e27077ae77ddae8cc4894b94900e2 --> | 2026-08-11 | KB5120249 |  | 10.0.19041.7663 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/4DC3A1345289BE085C76FCF1B25AD80F1/logoncontroller.pdb) |
-| 1de6fa...<!-- 1de6fae75366db4e838606d1178629360b95c3ddf460290c09e5e5a97432f1cf --> | 2026-07-14 | KB5099539 |  | 10.0.19041.7548 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/D23A4140e2000/logoncontroller.dll) | ❓ |
 
 ## x64 (insider preview builds)
 

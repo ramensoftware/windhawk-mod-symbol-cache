@@ -10,7 +10,6 @@
 | 231d0c...<!-- 231d0c70b332e8e851edfbf06fdfa95b084a30392e529ec500fcd9f40722a57a --> | 2026-08-27 | KB5120996 |  | 10.0.28000.2804 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/8223F4599976333BA0A6BC8739CA76CF1/Narrator.pdb) |
 | 5455c5...<!-- 5455c5dcf786df1fc3f33de1fbe64ea3fd86b005055d61d077ff2fe43d13abda --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/3BBD47B5126000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/1289E700C285F9B161263E0A753AF1381/Narrator.pdb) |
 | f800d3...<!-- f800d3f5098c502b5dfedf957cf1d1c42bf1db51c606f8f791768811939dd74c --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/17BC19B4126000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/DCCB0019C5C906AC0C9B73168A6928921/Narrator.pdb) |
-| fd311b...<!-- fd311b43cbd72278e4039d07b496a36dce40c72ad2cd30fc20270e22a89d5872 --> | 2026-07-14 | KB5101649 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/4B97517512b000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/25AF5A8857ECBECD34FC7C682AD4FF321/Narrator.pdb) |
 
 ### 10.0.26100
 
@@ -26,21 +25,18 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 43ce80...<!-- 43ce80d397eec86cc4f8b744a8a404c6df408a5bbec9d56f4e268bd09cad8e5c --> | 2026-09-08 | KB5122880 |  | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/419A4772d9000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/5688A5042EEFCEF23BBEDB16B0EC6FAA1/Narrator.pdb) |
-| c22791...<!-- c227912c8e3b0ac6e3633582e11db52f52d66f71f6a6cd17847f5a5a75c63b54 --> | 2026-07-14 | KB5099414 | 10.0.22621.7219 | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/BF7E6301d8000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/B1C778DD4D06A9355E0631E533DBBAA81/Narrator.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 56fcd2...<!-- 56fcd2bfbbada39ab260f31b2c0ec41921c0d6781971e1ef9ce6fefd6d325715 --> | 2026-09-08 | KB5122878 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/2B68874788000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/93825C215D283540933BB3218DFB1FFB1/Narrator.pdb) |
-| 893d22...<!-- 893d229497e0bf08db8475b5fb476bfc9968efc41f32297aeee5137935e0f9c8 --> | 2026-07-14 | KB5099539 | 10.0.19041.7417 | 10.0.19041.7417 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/18B86CD688000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/4177F0A0E0BF1C9FF9487010F1D640091/Narrator.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | aaffdb...<!-- aaffdb2a3424fbd6bfbe2b315d7b5f1958e2b4b40e679a7a7886623229f7fed1 --> | 2026-09-08 | KB5122876 | 10.0.17763.9121 | 10.0.17763.9121 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/69C4391F67000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/F9F298F22AFAE2A9B814B93A55A676D91/Narrator.pdb) |
-| 5a328b...<!-- 5a328b43c076bdf8ba298cf1daff4baf5d8c85f9020510df962b28d22f466510 --> | 2026-07-14 | KB5099538 | 10.0.17763.8880 | 10.0.17763.8880 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/15C4895767000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/119165F4B803416FDF98A4AEC525FC961/Narrator.pdb) |
 
 ### 10.0.14393
 
@@ -57,7 +53,6 @@
 | 05726c...<!-- 05726c0b5ff3c4b238e341bdcdf92f91ca8cb76593ed5eee8680d6235278513d --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/01C515EE145000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/C7AA39B7E2CFB1DB85B4CA294561918E1/Narrator.pdb) |
 | 657653...<!-- 657653ac95b1eb8d1b67f8ed79a1f8686ba5f2d13c7c02ca0336162d96002892 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/E7FE4B91146000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/65C3F9AA7D35D76E10C840539DA16AE41/Narrator.pdb) |
 | e2c396...<!-- e2c39653d3e3c534590062fbbe2977c87871cabaf135427034ee5d8271439834 --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/7F5BBB33145000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/8B81A1DDF538409628C345DB2799DD3E1/Narrator.pdb) |
-| 0542fc...<!-- 0542fc8b5b8828862f5ef3262bd7242e2a9562ccc39b6f676fce3509f24f27ce --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/0DC6824F14b000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/A0E8FC12C42D06B6727E25EB6BCBB4EC1/Narrator.pdb) |
 
 ### 10.0.26100
 
@@ -74,14 +69,12 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 6a3f6f...<!-- 6a3f6f663f51083d832856ede9a85cb21e35dd015c56acd045977be89eb57dd4 --> | 2026-09-08 | KB5122880 |  | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/E72555B8ed000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/FC63AAB61FDE09202A90B40243469E3C1/Narrator.pdb) |
-| 67943f...<!-- 67943f68500063f8e6c0f1cc0c497d587f5a2006dd3faf1c2ee96d595e7eb0f9 --> | 2026-07-14 | KB5099414 |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/FEB9E715ed000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/3511C08DA5ED4457BD5E648724BE3DB71/Narrator.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 5bebd1...<!-- 5bebd102f4282436d43d78891deda77c3543266757c5044dd766ec4c9471bf29 --> | 2026-09-08 | KB5122878 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/982AE21D92000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/2C583C54FDDEB3AD853DFA39FF8D91FA1/Narrator.pdb) |
-| 0f898d...<!-- 0f898d846b927051069662b1d90327dc762aed163326cc67e77ee0f9a6ea99dd --> | 2026-07-14 | KB5099539 |  | 10.0.19041.7417 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/64AA073292000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/ED70AD30634339211890E6A1F4632E681/Narrator.pdb) |
 
 ## x64 (insider preview builds)
 

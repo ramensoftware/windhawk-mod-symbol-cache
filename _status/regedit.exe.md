@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 1a5b26...<!-- 1a5b26b3e45efb77a78fb85238aabee4a0a186ef917a2b298301cd87acc2210f --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/E6EC1F1Ad1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/3D8F0872188C6AB01021333745829A5E1/regedit.pdb) |
 | c0dfe9...<!-- c0dfe9b463e6ee0f21e9bd21aee4944d6e63fb7647e4836876e3a99df54e3b64 --> | 2026-08-11 | KB5121000 | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/CAEDDDB3d1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/EE055A805DFCB083FE61C7C471B7C0881/regedit.pdb) |
-| 320d18...<!-- 320d1830da284596cda578f2feb6bdf15d299b97387595aaa545d05184bc3c6f --> | 2026-07-14 | KB5101649 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/B8AFF15Cd1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/5C2C4F7FDE8A96313611046C6FB1E8DC1/regedit.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | ed1dff...<!-- ed1dfffb74a3e7d0da187ad8575223e2bc35ebee258daf45d5c538a6b3f3fc89 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/288285CDd0000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/FB933DFB3BD326AC001491462D93D90E1/regedit.pdb) |
 | 0a3662...<!-- 0a36620426c330070fc7906108a46cd8f95102e745bf27155d587e170bc22f43 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/99BC42A2d0000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/6DAFFB8A3AA267102EDD16BAAB0B9D8C1/regedit.pdb) |
-| 313e98...<!-- 313e9825c6d59da2cb5af84daa3f373572e573faeb18e89deb7c7261a517cc7e --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/EBA668AAd0000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/5380A6E86878C1D71820E2D695846A571/regedit.pdb) |
 
 ### 10.0.26100
 

@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b74a7c...<!-- b74a7cfc240ee073c3d6ecbcddaf67d421480a91a7f09fc2bfb5404222ae0138 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/491630C933000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/821C12B92FACCAAB1CA9E6B1831B5EFF1/winbrand.pdb) |
 | a8fd53...<!-- a8fd53f0704e52c4033ce53ef81ee4b0b263a7aaa6b39eb37ac856fa3036211f --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/536571F633000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/2A42550EB2CA4804C1BFE0A6F62F148B1/winbrand.pdb) |
-| 645d8c...<!-- 645d8ce0de59aceaa90447d66916e3c38f2f00cc9302c1f1aea51bb14507819a --> | 2026-07-14 | KB5101649 | 10.0.28000.2336 | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/0E5728F233000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/0E1DE0ABCFE18E904588257CFFEE371B1/winbrand.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 2943b7...<!-- 2943b73f208615db65d54079a3f193920834fc86261211bfcf16920804200cc2 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/00F86E1958000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/FF201800329CC831417F7CE15EB28FFB1/winbrand.pdb) |
 | 5c17a3...<!-- 5c17a3ed836a756faeebd8aedea304cb6b4f47dd6574a0014719f864041addda --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/A17F9A9658000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/8CA8768F124917EECB40E6DA358E9C391/winbrand.pdb) |
-| 345fb8...<!-- 345fb801bd1dd138bdf147d27eaedd7ccf93c5908401e539e14f68cb63cd3c80 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/2E9F68EB58000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/702A3292AC0CD3B5D22C993E2614A4AC1/winbrand.pdb) |
 
 ### 10.0.26100
 

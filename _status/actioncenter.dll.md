@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9c6c3b...<!-- 9c6c3bdf7372b75e0481eef514200b4e6cef2d602ff022abbd4a49756f18a059 --> | 2026-09-08 | KB5124012 | 10.0.28000.2804 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/F743FD1552000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/9D802BD27AF2B507B36E319DCFBA28031/ActionCenter.pdb) |
 | f90bdf...<!-- f90bdf351e4ae90c15fef8fe4f052f2a11878ec04d8c818cd2cd5da7d4532d45 --> | 2026-08-11 | KB5121000 | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/9A03080352000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/51076EF7F2DD8D6005695A31AC9C8AFD1/ActionCenter.pdb) |
-| 8c1cd5...<!-- 8c1cd5a580aa6508dc4da884037b1d6c36ddb2e6dc21bca8b7d065597f10e030 --> | 2026-07-14 | KB5101649 | 10.0.28000.2179 | 10.0.28000.2179 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/8B3664A452000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/60AC36844616A2F400E074B10E7A652D1/ActionCenter.pdb) |
 
 ### 10.0.26100
 
@@ -50,7 +49,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 633db1...<!-- 633db1f912789d9ed5e815bd49b6f99af9bcdd6ee538e8e9a634cd1a61c42332 --> | 2026-09-08 | KB5124012 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/FD6008EE51000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/42ED18591D8BAF6C520C2CCA0A0C94C11/ActionCenter.pdb) |
 | 10c58c...<!-- 10c58c8225d505a2ef1eec5a56928b9a4adf958b0d7bdf11acab6f6771972aa0 --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/A0EF300A51000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/729D118E72A168E8B91F95743DFDD6E01/ActionCenter.pdb) |
-| 576c65...<!-- 576c65bef20432f8870044652e6c105ed02d58661eb177039a74bd62cfe0f136 --> | 2026-07-14 | KB5101649 |  | 10.0.28000.2336 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/249D096151000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/BC0FF77B318C65DA311022A84247EF9A1/ActionCenter.pdb) |
 
 ### 10.0.26100
 
