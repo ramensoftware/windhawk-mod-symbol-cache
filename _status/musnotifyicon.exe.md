@@ -28,8 +28,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7ccb2b...<!-- 7ccb2bf2d47431665f372c1871d137eca7a7c79dd16ef256c78bad3b28c828b2 --> | 2026-09-09 | b01fe692...<!-- b01fe692-62da-44c6-ba4f-e4e3d391aa55 --> | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/9E43F68Ea0000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/27161708B57B7FA004F5FA2F76C69FED1/MusNotifyIcon.pdb) |
-| 07e930...<!-- 07e9302b6ab3e5a846153c0041b39db9bccdfe8871cfe12dd1385b30522ece05 --> | 2026-09-09 | b01fe692...<!-- b01fe692-62da-44c6-ba4f-e4e3d391aa55 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/3F685D7E8c000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/25254ABDB085EC3EBBEF16C081AE3EF01/MusNotifyIcon.pdb) |
+| 7ccb2b...<!-- 7ccb2bf2d47431665f372c1871d137eca7a7c79dd16ef256c78bad3b28c828b2 --> | 2026-09-14 | f2a3c168...<!-- f2a3c168-f4ea-4b8c-9ec7-ff42e1d78ab4 --> | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/9E43F68Ea0000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/27161708B57B7FA004F5FA2F76C69FED1/MusNotifyIcon.pdb) |
+| 07e930...<!-- 07e9302b6ab3e5a846153c0041b39db9bccdfe8871cfe12dd1385b30522ece05 --> | 2026-09-14 | f2a3c168...<!-- f2a3c168-f4ea-4b8c-9ec7-ff42e1d78ab4 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/3F685D7E8c000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/25254ABDB085EC3EBBEF16C081AE3EF01/MusNotifyIcon.pdb) |
 
 ### 10.0.17763
 
