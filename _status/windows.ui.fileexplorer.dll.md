@@ -152,8 +152,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 43d135...<!-- 43d135c1ba22e273d87b046688b86e40f169abbf34b96a775de5d0049a7290b6 --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/24732265166000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/41F39ED416F4E62F6086D50087F6BCC41/windows.ui.fileexplorer.pdb) |
-| 1a1ea2...<!-- 1a1ea201827c55874aca5f8f726955730a573b9a75302e38f8b14ff2af1566e8 --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/CC1984D2de000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/DC8FAD1FFCC74AB9100DB01DCBB606AD1/windows.ui.fileexplorer.pdb) |
+| 43d135...<!-- 43d135c1ba22e273d87b046688b86e40f169abbf34b96a775de5d0049a7290b6 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/24732265166000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/41F39ED416F4E62F6086D50087F6BCC41/windows.ui.fileexplorer.pdb) |
+| 1a1ea2...<!-- 1a1ea201827c55874aca5f8f726955730a573b9a75302e38f8b14ff2af1566e8 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/CC1984D2de000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/DC8FAD1FFCC74AB9100DB01DCBB606AD1/windows.ui.fileexplorer.pdb) |
 
 ### 10.0.19041
 

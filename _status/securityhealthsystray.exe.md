@@ -123,8 +123,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0a8804...<!-- 0a8804cb309ebc3cdd2e3787fbf3c129a20e387873ff13eea18ad95e5153e5f4 --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> | 10.0.22621.3527 | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/5F4C037141000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/3E4EE7EF9B826D691FC7C843C979D4B51/SecurityHealthSystray.pdb) |
-| 17df43...<!-- 17df438c46f058814359b77b57853131b93eb0eed5e60aeec9a18a9433c5fd2b --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/4EBC146841000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/E3F968294E540747ACA81D8286AE344F1/SecurityHealthSystray.pdb) |
+| 0a8804...<!-- 0a8804cb309ebc3cdd2e3787fbf3c129a20e387873ff13eea18ad95e5153e5f4 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.3527 | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/5F4C037141000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/3E4EE7EF9B826D691FC7C843C979D4B51/SecurityHealthSystray.pdb) |
+| 17df43...<!-- 17df438c46f058814359b77b57853131b93eb0eed5e60aeec9a18a9433c5fd2b --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/4EBC146841000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/E3F968294E540747ACA81D8286AE344F1/SecurityHealthSystray.pdb) |
 
 ### 10.0.19041
 

@@ -172,8 +172,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| de7d7f...<!-- de7d7f8b1d610c541553daab27c0bb5564ce318355c4ee472ee55019ce7d9409 --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/330EA1745a9000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/267B9B0A6717126107C83B97E0B830541/twinui.pdb) |
-| 64242b...<!-- 64242b3b89cd5cd1234b8728a44b748ca539dcd7b432c178e9fa74a3bf4c70fe --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/BA01D8FE563000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/3496D0436A645ECDC6FDA74F7F37FD671/twinui.pdb) |
+| de7d7f...<!-- de7d7f8b1d610c541553daab27c0bb5564ce318355c4ee472ee55019ce7d9409 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/330EA1745a9000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/267B9B0A6717126107C83B97E0B830541/twinui.pdb) |
+| 64242b...<!-- 64242b3b89cd5cd1234b8728a44b748ca539dcd7b432c178e9fa74a3bf4c70fe --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/BA01D8FE563000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/3496D0436A645ECDC6FDA74F7F37FD671/twinui.pdb) |
 
 ### 10.0.19041
 

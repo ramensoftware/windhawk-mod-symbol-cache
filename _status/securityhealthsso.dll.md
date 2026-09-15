@@ -136,8 +136,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 705088...<!-- 70508871588216a1451de854026c0de44fd61b4e91243a98d4da7150c68d9ee2 --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/B6F31283e7000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/3DFBC4E7AE81226D23E3AFF0DB53583C1/SecurityHealthSSO.pdb) |
-| f1f40e...<!-- f1f40eb3d024b6bb46f402fa4b961e7c65a32eb4eb3f7bab01138c171d8581c3 --> | 2026-09-08 | 4dcc6f7a...<!-- 4dcc6f7a-ba5a-4e3b-a8a4-24490d1daf3a --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/87347409e7000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/2B35F3F6433A20FFE7E7738992BAB3581/SecurityHealthSSO.pdb) |
+| 705088...<!-- 70508871588216a1451de854026c0de44fd61b4e91243a98d4da7150c68d9ee2 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/B6F31283e7000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/3DFBC4E7AE81226D23E3AFF0DB53583C1/SecurityHealthSSO.pdb) |
+| f1f40e...<!-- f1f40eb3d024b6bb46f402fa4b961e7c65a32eb4eb3f7bab01138c171d8581c3 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/87347409e7000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/2B35F3F6433A20FFE7E7738992BAB3581/SecurityHealthSSO.pdb) |
 
 ### 10.0.19041
 
