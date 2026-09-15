@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a05f4f...<!-- a05f4f3603f068fd4ed4a5cfc7637e15a9d2660bc1f168e1404e601e8ff9f9a2 --> | 2026-09-08 | KB5124012 | 10.0.28000.1251 | 10.0.28000.1251 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/58A5D7DD41d000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/62C460A111C35BB1BF5BED1D8B41577C1/UIRibbon.pdb) |
+| a05f4f...<!-- a05f4f3603f068fd4ed4a5cfc7637e15a9d2660bc1f168e1404e601e8ff9f9a2 --> | 2026-09-14 | KB5129194 | 10.0.28000.1251 | 10.0.28000.1251 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/58A5D7DD41d000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/62C460A111C35BB1BF5BED1D8B41577C1/UIRibbon.pdb) |
 
 ### 10.0.22621
 
@@ -85,7 +85,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2ec91a...<!-- 2ec91a0e47e8b2a96fc6a0f38ed2d73f836506207e96675177893d1f5c316d2e --> | 2026-09-14 | f4ad9cf8...<!-- f4ad9cf8-3ef1-40e7-8a1d-f3034b1ded62 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/7C15F989416000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/FEE19CF723B1A0AD09AC63E3F230B7851/UIRibbon.pdb) |
+| 2ec91a...<!-- 2ec91a0e47e8b2a96fc6a0f38ed2d73f836506207e96675177893d1f5c316d2e --> | 2026-09-14 | 2300d07a...<!-- 2300d07a-3477-4b9e-8498-93ca59cff8d4 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/7C15F989416000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/FEE19CF723B1A0AD09AC63E3F230B7851/UIRibbon.pdb) |
 | 420444...<!-- 420444c8206c3f719784eee8502b21b3dfdd1832845dca62d82b666b57715275 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/uiribbon.dll/C4CA06D8416000/uiribbon.dll) | ❓ |
 | 48158f...<!-- 48158f2111bb89bafec2320afe93fe3c1c3183280b8ef8c7788fa98d940e034f --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> | 10.0.26100.2 | 10.0.26100.2 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/8B0BB34B416000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/4548C8CE484428F8E2106266AC693E9F1/UIRibbon.pdb) |
 
@@ -100,11 +100,11 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 941dcf...<!-- 941dcfcd96b3d9799945a5ab1b4d4b7d6859682a0af9df38223568d7f3c46a2f --> | 2026-09-14 | f2a3c168...<!-- f2a3c168-f4ea-4b8c-9ec7-ff42e1d78ab4 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/F10D2C963ec000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/022B91A8313035756D2E6E8EF7505CC41/UIRibbon.pdb) |
+| 941dcf...<!-- 941dcfcd96b3d9799945a5ab1b4d4b7d6859682a0af9df38223568d7f3c46a2f --> | 2026-09-14 | e19e2137...<!-- e19e2137-6c56-484d-ac12-1c06034b23a1 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/F10D2C963ec000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/022B91A8313035756D2E6E8EF7505CC41/UIRibbon.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7173c8...<!-- 7173c8bb3c0f69a9ffa23fa0c5b8056ba7c6d949af5532bd5153c16a3cb3137d --> | 2026-09-08 | c575db54...<!-- c575db54-6583-4100-89d1-47a17d3e6307 --> | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/1C7B61573e2000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/C5BCD4B5C76F694BF8CD3FD834A7051B1/UIRibbon.pdb) |
-| 87a6ec...<!-- 87a6ec9ce49bb21ecd49ca8f94ee410f14603862e88bef50dc13b98b01954241 --> | 2026-09-08 | c575db54...<!-- c575db54-6583-4100-89d1-47a17d3e6307 --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/0DF30DEC3e1000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/E4B4E2E96DFD255E59FF8D0189B06C761/UIRibbon.pdb) |
+| 7173c8...<!-- 7173c8bb3c0f69a9ffa23fa0c5b8056ba7c6d949af5532bd5153c16a3cb3137d --> | 2026-09-14 | 67377253...<!-- 67377253-db93-4c05-b66d-a05e70021a4e --> | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/1C7B61573e2000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/C5BCD4B5C76F694BF8CD3FD834A7051B1/UIRibbon.pdb) |
+| 87a6ec...<!-- 87a6ec9ce49bb21ecd49ca8f94ee410f14603862e88bef50dc13b98b01954241 --> | 2026-09-14 | 67377253...<!-- 67377253-db93-4c05-b66d-a05e70021a4e --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/0DF30DEC3e1000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/E4B4E2E96DFD255E59FF8D0189B06C761/UIRibbon.pdb) |
