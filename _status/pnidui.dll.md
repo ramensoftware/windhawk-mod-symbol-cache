@@ -6,25 +6,25 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1a9a28...<!-- 1a9a280457c64fdb69230d067e45ee848db9a5cb88c8083b02885f6e36ecb4c5 --> | 2026-09-08 | KB5122880 | 10.0.22621.7376 | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/C506D2E820b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/32550E21EFB69B15424C9AE28D8DE1D81/pnidui.pdb) |
+| 1a9a28...<!-- 1a9a280457c64fdb69230d067e45ee848db9a5cb88c8083b02885f6e36ecb4c5 --> | 2026-09-14 | KB5129242 | 10.0.22621.7376 | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/C506D2E820b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/32550E21EFB69B15424C9AE28D8DE1D81/pnidui.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 663daf...<!-- 663daf252ab8b03d50da9f59255c18fdaa5aef2feaf5d2400f0294d6df34f403 --> | 2026-09-08 | KB5122878 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/CC2D6BBC219000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/101E192C23FC5237B64C8B678B1946E61/pnidui.pdb) |
+| 663daf...<!-- 663daf252ab8b03d50da9f59255c18fdaa5aef2feaf5d2400f0294d6df34f403 --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/CC2D6BBC219000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/101E192C23FC5237B64C8B678B1946E61/pnidui.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 146706...<!-- 1467064c8d277cb91e485c52824b57d8a7f1f69fb1b740e084f5f86fcddf7f3e --> | 2026-09-08 | KB5122876 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/226B918A20b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/4EC32AB42275799F7E106A9FA5B0C39F1/pnidui.pdb) |
+| 146706...<!-- 1467064c8d277cb91e485c52824b57d8a7f1f69fb1b740e084f5f86fcddf7f3e --> | 2026-09-14 | KB5129238 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/226B918A20b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/4EC32AB42275799F7E106A9FA5B0C39F1/pnidui.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b4fb42...<!-- b4fb421224319ae7c4f80513c7aa887b6dbaab54535459bd9b8cf91a12ff5465 --> | 2026-08-11 | KB5120418 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/66BAD2961d3000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/49877C9E082C4335BD260A315519F0B51/pnidui.pdb) |
+| b4fb42...<!-- b4fb421224319ae7c4f80513c7aa887b6dbaab54535459bd9b8cf91a12ff5465 --> | 2026-09-14 | KB5129239 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/66BAD2961d3000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/49877C9E082C4335BD260A315519F0B51/pnidui.pdb) |
 
 ## ARM64 (release builds)
 
@@ -32,13 +32,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3f6fca...<!-- 3f6fca1648adc6064d97b1ec774280cb5c90c833ca519a6da159554deec49c46 --> | 2026-09-08 | KB5122880 |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/5F525791210000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/1BDB8811595AD3E708BAB99A8A7ED4E11/pnidui.pdb) |
+| 3f6fca...<!-- 3f6fca1648adc6064d97b1ec774280cb5c90c833ca519a6da159554deec49c46 --> | 2026-09-14 | KB5129242 |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/5F525791210000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/1BDB8811595AD3E708BAB99A8A7ED4E11/pnidui.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5f3f35...<!-- 5f3f3553aea1a429a0b0378cddfc10088b11e615fbdf00d54b86c8b56c3dac05 --> | 2026-09-08 | KB5122878 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/797CA01721e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/1E52C612D15E0F6AA77F64A5A34095E81/pnidui.pdb) |
+| 5f3f35...<!-- 5f3f3553aea1a429a0b0378cddfc10088b11e615fbdf00d54b86c8b56c3dac05 --> | 2026-09-14 | KB5129236 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/797CA01721e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/1E52C612D15E0F6AA77F64A5A34095E81/pnidui.pdb) |
 
 ## x64 (insider preview builds)
 
