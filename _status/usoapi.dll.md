@@ -55,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9b4254...<!-- 9b4254f528bc20b111921331a02c2dbaf26e4a81dcb3ff9ac398b52a4c7ae182 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/61B99A476e000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/2030EE33C3FC1ADD656E32224178F7071/UsoApi.pdb) |
 | 73d1d3...<!-- 73d1d36013e385ec4c5a4e183bf8919a79204fcceda6fc5c0fdb1bd1662bd205 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/70B4A2886d000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/FD0D8580D14AA91D66212978A2D322311/UsoApi.pdb) |
-| 706ef8...<!-- 706ef8be6f12011cee4371923293871783e36d5d7f4d3d95cca7f49b81dd0ef2 --> | 2026-07-18 | KB5121767 | 10.0.26100.8521 | 10.0.26100.8521 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/16DE1A3A6d000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/5A89A541016E8F8A86F207A92E1E2F5E1/UsoApi.pdb) |
 
 ### 10.0.22621
 

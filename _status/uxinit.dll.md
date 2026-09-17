@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b01c75...<!-- b01c752d20d5569acc4cd15390a555f41c26fb6b60867ea4b155add8276c4cb4 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/048F687229000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/F339A184EF6D7AFA315076AF85D444371/UXInit.pdb) |
 | fdaf12...<!-- fdaf121aa7ac7b77d07795a603f6c5fedf57c3188bb9db4e0833c544b6d0563b --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/B959C5BA29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/BE0311150588A890BFDD802820C5C7071/UXInit.pdb) |
-| a1f3b8...<!-- a1f3b86ab6efb72b4442397d614573c567c6d9853050d0d59534c957110eff0e --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/2E00A00A29000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/72C026870C5140B3BA55B154452E050E1/UXInit.pdb) |
 
 ### 10.0.22621
 
@@ -57,7 +56,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | a2e900...<!-- a2e900d141624eeead0ef2a1cbd8319641d9ccff0a74cc8d021cf5b34fda4cb2 --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/EF3AA93740000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/B61529F0F46F5B1336DCF1BBFF377B141/UXInit.pdb) |
 | 74a921...<!-- 74a92143dd308fe181195e68fad18930932e9affb5ccb167bfcd69633528fd1d --> | 2026-08-11 | KB5121003 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/574B751340000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/CF4FBE10D3D48FA904B89CC8074CFB6E1/UXInit.pdb) |
-| a0a7fa...<!-- a0a7fa9f2d68a405b666f849dc2258cef600195fa5bd8baee4473dd4e435d55c --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8875 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/F498094640000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/C92B8C2A6FA0652E544367A4095872EA1/UXInit.pdb) |
 
 ### 10.0.22621
 

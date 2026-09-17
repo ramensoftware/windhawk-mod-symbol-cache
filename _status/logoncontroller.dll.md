@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b6312d...<!-- b6312d8f81b5308640f8316124b82673fabbd7c1a4246fca565b7d927ebcbb61 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/E65FB9C4ed000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/DB2D6619B047D30FB542059EA8E02CC91/logoncontroller.pdb) |
 | cb188f...<!-- cb188f96247d54103587aac21c3a798e0ef7e2adde60421b526758411dbd21b1 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/57449DE8ec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A13F991178BDCD74323BD7F2E2B8E62E1/logoncontroller.pdb) |
-| ee150e...<!-- ee150ebc91c9c4c136c22740c5c9e78bd48504c0218596bcbd99a51a43f26df3 --> | 2026-07-18 | KB5121767 | 10.0.26100.8875 | 10.0.26100.8875 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/189739E7eb000/logoncontroller.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -56,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | f7954a...<!-- f7954ae48d6c608b8e5c8a8da5ebedcc6b3e86f19f4d1d612300c6ff2e12527a --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/142E3111e1000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/1BFE94BEEBD726E19E3B382DAE4CCEE41/logoncontroller.pdb) |
 | 44bb5e...<!-- 44bb5e00113be96d1542c126f4df0cf390d7cfb0ba2d49129cdeb24f9bd3cabc --> | 2026-08-11 | KB5121003 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/C6C60205e0000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A6A1A051518DBD24ACFD44AD36A85C921/logoncontroller.pdb) |
-| 3f4505...<!-- 3f4505017c2ea116b72f65242dbec07033a49abfbd160022b1116f8badd2762f --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8875 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/56D76EA4df000/logoncontroller.dll) | ❓ |
 
 ### 10.0.22621
 

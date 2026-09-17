@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | dce55a...<!-- dce55a2bd8f961029215e2e3b72c81eb6a9f63c00905e4f6a536f99e43d52c08 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/F5B2C6FB35000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/068906F10CBA0EF95E076F3D8F5F5E901/winbrand.pdb) |
 | 36b2f9...<!-- 36b2f9cc1dcd1946c340d888eb1d77c346b941f2615199a79b939c3e54d6f846 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/8473CCA335000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/C75E2992708334100CCF736DE392EAB01/winbrand.pdb) |
-| fb96fd...<!-- fb96fd36e57ad3586d02ddd2e884e61757e703b3e201da8000fdead131f27c06 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/07E4195637000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/3466000A9797DC5F2A25E8EB097EDB9E1/winbrand.pdb) |
 
 ### 10.0.22621
 
@@ -56,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 022edb...<!-- 022edb1f6093fc097b5519b8dc19805ff11ad6f337fc7eddf393cef31345c3fd --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/8A1F24435b000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/4ED54AA9221B5E154F9561EAEC90DA6A1/winbrand.pdb) |
 | 3d6639...<!-- 3d6639a210e48d6da8e00e352ee8791a034e077b21861e0bc21862874dd1d556 --> | 2026-08-11 | KB5121003 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/2951C7825b000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/6E10AC32159D05892E3463A0591062761/winbrand.pdb) |
-| f0b2f7...<!-- f0b2f7ddfd991a3b6263f1ed1910d2d73544fda9185a03dc517c2e9139d67096 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/7E5694E35e000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/309CA0078D1531108F159922B246A2D31/winbrand.pdb) |
 
 ### 10.0.22621
 

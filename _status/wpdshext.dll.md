@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | ca8727...<!-- ca87275578cb22a22bc490b928877b8305443572c7555f702427e7bdc7495676 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/801CBD1Aac000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/6B4FF6331510948DEDF41BD8999CFC431/wpdshext.pdb) |
 | 00922d...<!-- 00922d53e868c378e3ebb947ad2e941dd07970c0cf0f3ccd64420e41fcb533c5 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/58F73B40ac000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/63D56B470933611843D65460C5FC75931/wpdshext.pdb) |
-| 6b516d...<!-- 6b516dc9468117dada5d25bad90ecb6f1677697d24a06f0839bdae6b5f6dc160 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/C4FD83C3ab000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/07FA57D56D29AF458F90F7D69EA1336A1/wpdshext.pdb) |
 
 ### 10.0.22621
 
@@ -57,7 +56,6 @@
 | 63fae9...<!-- 63fae93be179752b1720e4a28eff2e50270a84c813bd17ebd03fd2ddd8f79c89 --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/06A3E8B914b000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/F66181B8DFA30EE41294907835E7AC601/wpdshext.pdb) |
 | 0cfc2e...<!-- 0cfc2e90004201f51a656aaa52196ce4278ffd220f44274f0e9b08236c62ee87 --> | 2026-08-27 | KB5120998 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/16C498A514b000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/F68AE9FF1E477CD1F867F0C5495F75D41/wpdshext.pdb) |
 | 47df2e...<!-- 47df2e0a9a7cfb9d847cbac13339aadb1f5ca1c49a2e8b024b74725e9636ca19 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/B60D446614a000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/E0D0B512F808B10BE171FC747CDE7B181/wpdshext.pdb) |
-| 406c46...<!-- 406c46cc01c627bf03d8fde524c4c899954df0a2a25d0292ab5ca1c998066b61 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/117A5E74148000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/3FBAE9585E6616E0CDEC66B92D2B77A11/wpdshext.pdb) |
 
 ### 10.0.22621
 

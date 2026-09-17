@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | d7a647...<!-- d7a647286bbbb5ee33ef794382a8fbf33681fb1279d84095c3fa1068eabe31ae --> | 2026-09-14 | KB5129195 | 2607.28004.100.0 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A6D00BC4dc000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/BAC8F3B13B5B4EC7B6E68AF0E8EF8EEE1/StartMenu.pdb) |
 | 8d646d...<!-- 8d646d626341be86dc75f3a9e2bb507419b16e030124674493772866e7ac3765 --> | 2026-08-11 | KB5121003 | 2606.29006.300.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A4C4BD94db000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/449EE8C2BF6B4066910118A15A0EF2CD1/StartMenu.pdb) |
-| 714ec1...<!-- 714ec12b8b4a016343cec53d64979a869af42e3797290eac6bd7bc5585473289 --> | 2026-07-18 | KB5121767 | 2605.26001.300.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A28BF084b5000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/5AF6E7945D564BAA96C2A606B60E01F91/StartMenu.pdb) |
 
 ### 10.0.22621
 
@@ -38,7 +37,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 5fcfe8...<!-- 5fcfe8c3f6c49581fe99581c06169f9946fd4f360d652ecb5c1b74ddbc84506f --> | 2026-09-14 | KB5129195 | 2607.28004.100.0 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A6CFE5F5e2000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/A1D178FD82574960BBA7D8B1411064431/StartMenu.pdb) |
 | 7d8f99...<!-- 7d8f99aa23142825b715608dbf2cb39dd1612076751b412069a58f834eccda36 --> | 2026-08-11 | KB5121003 | 2606.29006.300.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A4C4E715e1000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/C47D2698388544EA83F8023D481B7BD21/StartMenu.pdb) |
-| b79e02...<!-- b79e02015aa206d16e24753b470068f1ca4baf795db62fa996592ad132fff4df --> | 2026-07-18 | KB5121767 | 2605.26001.300.0 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A28BF255b3000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/0E7F79CD5CF1447C8CC14CD9E458B5F11/StartMenu.pdb) |
 
 ### 10.0.22621
 

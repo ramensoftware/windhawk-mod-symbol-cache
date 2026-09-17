@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 3f3dc1...<!-- 3f3dc1194df9df6c3758e39b32b1d157c2b7576e7eea96c36866722aad15067a --> | 2026-09-14 | KB5129195 | 2607.27000.0.0 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A66D50Fd8000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/A2CD8BF9B1514A098BBC41582F1CC0601/SnapLayout.pdb) |
 | 4cc0a3...<!-- 4cc0a3fa0aba09d666022950a7e6d22d2be5d5c31687d94c727fce449252d3d7 --> | 2026-08-11 | KB5121003 | 2606.29004.0.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A42C977de000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/A4300A2CC0CA4EF9A6D6541776235FBD1/SnapLayout.pdb) |
-| 29f0c6...<!-- 29f0c6e74604ece16080b1dcbb6e9375ad2b9520d7997f517ff285bf3b7cc758 --> | 2026-07-18 | KB5121767 | 2605.27000.0.0 | 10.0.26100.8737 | [🔴](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A172362dd000/snaplayout.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -38,7 +37,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 267ac9...<!-- 267ac9b7095d66289f61619178e77205e4006e0d61de6e3826af24762fa3a124 --> | 2026-09-14 | KB5129195 | 2607.27000.0.0 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A66D53Ff7000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/43BCDD6B8D5F454794F6DE5C9FD4B3DC1/SnapLayout.pdb) |
 | c8c56f...<!-- c8c56fa195f48e45636fc6d164dea6ae91a79bd4af809fe3cdd358d2828098a8 --> | 2026-08-11 | KB5121003 | 2606.29004.0.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A42C8E4fa000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/630011302919416B80252D677B4ACEF01/SnapLayout.pdb) |
-| b6710b...<!-- b6710b950e646414e1bcf1ad9029d52450befc073a3266847ebdf642ed4332e6 --> | 2026-07-18 | KB5121767 | 2605.27000.0.0 | 10.0.26100.8737 | [🔴](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A17249Afa000/snaplayout.dll) | ❓ |
 
 ### 10.0.22621
 

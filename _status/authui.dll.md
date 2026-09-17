@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 8d61ee...<!-- 8d61ee7560013f29eb4e63ccff24736c841d9a3b19e379d6bfe1bb707ee0b929 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/0589959A43000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/3F6B7908F8E913365D43AED23C274FA91/authui.pdb) |
 | cdc668...<!-- cdc668cba2b05e731bd5233e8887535430888eb950e4839b0733e60148e53356 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/A9F90EF342000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/0AA06B4ABEB25A644DC7C3A5CA4450091/authui.pdb) |
-| 8deb96...<!-- 8deb962e0e92a339ba01860ea9fb6550faaeb195d5a3533118cbbac79b332ba0 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/6D9A3C7142000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/E3644DA64139FDB157A398D377B2B9551/authui.pdb) |
 
 ### 10.0.22621
 
@@ -56,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 019ff6...<!-- 019ff6d9f05672d815ee0cf9609cce7223d066c3a502abe91643e484387d18ab --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/05E187BD84000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/B5F4279D6F52CBD74A03662795D124B41/authui.pdb) |
 | b348b3...<!-- b348b3625246ca06c0824c0824615e9197b642c0c47976ab4e6d5959574f6716 --> | 2026-08-11 | KB5121003 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/117A505282000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/9700490D053C1B17280D855F8146B9831/authui.pdb) |
-| 869795...<!-- 869795437a2e571310338543d8927d91ea987bf73b451e1207f499a9fe28ebac --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/D23714BA82000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/319F6946F3E73A92A2525D1E1E7DB55F1/authui.pdb) |
 
 ### 10.0.22621
 

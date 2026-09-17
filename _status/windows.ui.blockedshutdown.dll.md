@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 878469...<!-- 878469ee548974d6510ab77ee281284f162f20ea550015aff5c9286db52d8507 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/8382F61461000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/323B24772EAFC746438ED35D50AD91B21/Windows.UI.BlockedShutdown.pdb) |
 | 86b8f4...<!-- 86b8f4ae17c84c6cb2c0bcfba333d55cff2f62287c37dc5592692646b79b0897 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/0CA17E4661000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/DC1B934E913E2EFD410421DAF36DC0D61/Windows.UI.BlockedShutdown.pdb) |
-| f85909...<!-- f859096f2c2666ed78b14c4e036f9ec6f8556daef30beb4f9a76076c586635a7 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🔴](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/0C13ABA961000/windows.ui.blockedshutdown.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -56,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 45a159...<!-- 45a15909a68509c98fe19c4558b4dfb5b892265a74444ee5ce668114cb81703c --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9E4F36F27b000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/543C1F0AFEE93DAC4D9F12BF3F95E79F1/Windows.UI.BlockedShutdown.pdb) |
 | afa8c6...<!-- afa8c6b52458992a886e258582650bc9e40da9f6ba324b6e46dcb422ff4b9e93 --> | 2026-08-11 | KB5121003 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/71DD48FC7b000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/3A3EC20F30FE810C66FB3815C51AEC211/Windows.UI.BlockedShutdown.pdb) |
-| 563000...<!-- 563000251c5c23ccff5cc5d776896f6a79e7e7d77c8aeb16dd323d2406761143 --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8737 | [🔴](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/7F1B565F7b000/windows.ui.blockedshutdown.dll) | ❓ |
 
 ### 10.0.22621
 

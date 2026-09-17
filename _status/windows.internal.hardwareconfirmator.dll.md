@@ -15,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 759d77...<!-- 759d775a15faa01a627caba9a3fe520bf292f05c29e54d67f5427727947d00f3 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/61DBD3379b000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/C4C06448C6FB420213B213537D54DB5B1/Windows.Internal.HardwareConfirmator.pdb) |
 | efe8cb...<!-- efe8cbcff49606af9032058ae004c345bc600df90b651c9e7b18ddfd664b617f --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/C17F25C29a000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/B9287C583F3173CDFC60888F34E730471/Windows.Internal.HardwareConfirmator.pdb) |
-| f0ec4d...<!-- f0ec4df7a57116e19e493d7254208ce0599fc1fee459d5722f5e17f1eee8b699 --> | 2026-07-18 | KB5121767 | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/FDDC125F9c000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/D52717A8F15FF4AF02F96E064D2E45711/Windows.Internal.HardwareConfirmator.pdb) |
 
 ### 10.0.22621
 
@@ -38,7 +37,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 002e60...<!-- 002e606bde1d2360205d1b00371624bd255e4e0faa1d78ecc6f14a873f8c6337 --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/2BB062FEc1000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/7BD3EC4A2F991AD64F2CC34C54E13CA31/Windows.Internal.HardwareConfirmator.pdb) |
 | 7dba67...<!-- 7dba6782bb0e79464366972d2d2afdd9422db3570ced8c7726c15fa06f18021b --> | 2026-08-11 | KB5121003 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/D22996D6c1000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/32537CE241DB88A712900DAAB52C0FF11/Windows.Internal.HardwareConfirmator.pdb) |
-| 551894...<!-- 551894c5dd126c44b68c670819a814d04d01e092267863d6628b2e55848570ac --> | 2026-07-18 | KB5121767 |  | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/BB2FD62Bc2000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/4CC6AD649A082F141A35F6938BCF69B81/Windows.Internal.HardwareConfirmator.pdb) |
 
 ### 10.0.22621
 
