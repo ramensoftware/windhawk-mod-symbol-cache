@@ -84,7 +84,6 @@
 | 1d8863...<!-- 1d8863ac3b745f2a705c6b40075a762f3697593bb3e20b922f941cd9902d05ec --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> | 2124.23206.0.0 | 10.0.26100.1746 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/66C3AD31cf000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/0040671598054C9092D084B6A43462E51/SnapLayout.pdb) |
 | 8b142d...<!-- 8b142d48d50838d64f873b6a770e603d54ebb6c0bbd6fda7d609f8efd726e38e --> | 2026-09-08 | 1e7eaea8...<!-- 1e7eaea8-4d56-4e85-ba1b-ee9e239bfb1e --> | 2608.8002.0.0 | 10.0.26100.9343 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A775389d8000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/0218E04B9FE246A6B90376B64E7181941/SnapLayout.pdb) |
 | 4cc0a3...<!-- 4cc0a3fa0aba09d666022950a7e6d22d2be5d5c31687d94c727fce449252d3d7 --> | 2026-08-11 | 0485f51d...<!-- 0485f51d-b291-4823-89b8-c6be2fd43fee --> | 2606.29004.0.0 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A42C977de000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/A4300A2CC0CA4EF9A6D6541776235FBD1/SnapLayout.pdb) |
-| 29f0c6...<!-- 29f0c6e74604ece16080b1dcbb6e9375ad2b9520d7997f517ff285bf3b7cc758 --> | 2026-07-19 | a2702664...<!-- a2702664-1144-411d-808a-fd316e393e58 --> | 2605.27000.0.0 | 10.0.26100.8737 | [🔴](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A172362dd000/snaplayout.dll) | ❓ |
 
 ### 10.0.22621
 

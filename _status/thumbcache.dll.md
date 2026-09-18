@@ -161,7 +161,6 @@
 | 312c43...<!-- 312c4326d09397cef28a8029f6f23442564ac4e17f650a5e2fa1e3eecab5172f --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.8925 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/3094DACE71000/thumbcache.dll) | ❓ |
 | 5377e1...<!-- 5377e1914fee90328878ad9203868f5bd1da36dc7d10b28d5265d77c24fcefb4 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.1743 | 🔴 | ❓ |
 | 906a6c...<!-- 906a6c45c239df7161e319308c014679af50ee101ab2f7aaceb2e4ab43472fb2 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> | 10.0.26100.2 | 10.0.26100.2 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/714F2B9C70000/thumbcache.dll) | ❓ |
-| 1f5022...<!-- 1f50222dfef0cc9366861889ee04207329d3923a819dada76002433d2dd0e737 --> | 2026-07-19 | a2702664...<!-- a2702664-1144-411d-808a-fd316e393e58 --> | 10.0.26100.8737 | 10.0.26100.8737 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/5DB3EABA71000/thumbcache.dll) | ❓ |
 
 ### 10.0.22621
 

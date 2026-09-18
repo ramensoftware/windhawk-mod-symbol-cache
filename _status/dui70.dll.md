@@ -154,7 +154,6 @@
 | cf9bee...<!-- cf9bee74942495a2a3e53f394fa5b8c5ab5eeb49b513ba5a6fec5cf27d41f53e --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.8925 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/A78941281aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/3BE634D68AC14679307BE6F5FBFE671C1/DUI70.pdb) |
 | 09ba2a...<!-- 09ba2a45e10702b28bc67ffc332db34e898a6007e61f600e678b5791ad871383 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.1743 | 🔴 | ❓ |
 | f11d24...<!-- f11d24d6ef41ac457d7b60c682976e953b5b67f471e243ebb59bdb796674e614 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> | 10.0.26100.2 | 10.0.26100.2 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/910E81E01a4000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/2E2BCE7E3DEFC8AF1EFC111D550835EE1/DUI70.pdb) |
-| 8afcb5...<!-- 8afcb560174c5b084d5bc65f2eb3ea1609137d175528fce37166003c69dd51c6 --> | 2026-07-19 | a2702664...<!-- a2702664-1144-411d-808a-fd316e393e58 --> | 10.0.26100.8737 | 10.0.26100.8737 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/75BF429E1aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/B7BD98C4631A32822BC955DBF12DEAE51/DUI70.pdb) |
 
 ### 10.0.22621
 
