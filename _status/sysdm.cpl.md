@@ -114,7 +114,6 @@
 | ac8fe4...<!-- ac8fe47b23588013d5b25cc84af3ff4981a7ea86df741a7e9916d0691bfcf3d3 --> | 2026-08-31 | 8cc32347...<!-- 8cc32347-8fd4-4cd7-b705-f0c5a772dd71 --> |  | 10.0.28000.2630 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/D05B650230000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/1F1166C915A68B8B5DC8608EF012425A1/sysdm.pdb) |
 | 943546...<!-- 943546b86093e359899aa8802b8741c3c2630b40c05bfb2d7d27e1fd63af42aa --> | 2026-07-28 | ed7a5b5e...<!-- ed7a5b5e-56ee-4527-abee-3488588f713a --> |  | 10.0.28000.2081 | 🔴 | ❓ |
 | 0b974e...<!-- 0b974eabf95d8105c0fde6952ee0417fbd80d362527801457004a1d029492557 --> | 2026-07-28 | ed7a5b5e...<!-- ed7a5b5e-56ee-4527-abee-3488588f713a --> | 10.0.28000.4 | 10.0.28000.4 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/0AE6653C31000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/E7FAACAF4E3960DE6B1DDBDE703F54B81/sysdm.pdb) |
-| 55ea5b...<!-- 55ea5be6aab85e50e2da7759e0ff00bdbcd3f8059b941ca1cf5c32ff36eb1897 --> | 2026-07-20 | f02df7b5...<!-- f02df7b5-d46a-4494-bd2d-1f8a1838e491 --> |  | 10.0.28000.1803 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/8F99B77131000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/2BB59E058EF314DC6AE25B4F2A8CA98E1/sysdm.pdb) |
 
 ### 10.0.26100
 
@@ -126,9 +125,6 @@
 | cb456f...<!-- cb456f28cfbb2a891774248dc4d66fcb31f6ec2da0a8ff0defa176adb1dd0c5d --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/sysdm.cpl/450780AF30000/sysdm.cpl) | ❓ |
 | 8ef39a...<!-- 8ef39a1adef69b6a4dcbfdb23d5356a001951ce78cdfb2c02ed1fc0def6ae9de --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/2D1790D330000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/8117A039E954717D2E53754F5BA0BAD91/sysdm.pdb) |
 | 9703a8...<!-- 9703a8f0c4a6015d862252a8d590e3cdfe5d8971f8c021d4d1f108e73e1fe43e --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/A101FABA30000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/8A233B2BC64B1ECE7686829BC0B4D5F01/sysdm.pdb) |
-| b80215...<!-- b8021535bc7bf6d1ea5e18fd5b1c888aa344845b8a9fa37a7aff4207d2cdae86 --> | 2026-07-20 | 955e06c5...<!-- 955e06c5-f7ab-4107-b67e-3f4f0b291323 --> |  | 10.0.26100.8068 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/61B2F6A430000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/B2B14A011A3D1C0A1BD15E08F1601FF01/sysdm.pdb) |
-| 849efc...<!-- 849efcad64ec09062d7e31db6108f257337eab5dce9a8b74fde9783c34a472d8 --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> |  | 10.0.26100.8062 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/B6E5E96B30000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/04C29E6A191A815A867ED6C7E94540F71/sysdm.pdb) |
-| fc9874...<!-- fc98749a3982752e3a6d29ed50b832f51640be9fa922487488498e80f3fce28f --> | 2026-07-20 | fb93e9db...<!-- fb93e9db-686d-467b-bd4a-a2713565725c --> | 10.0.26100.2 | 10.0.26100.2 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/68B5B9C730000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/94C4AE61C65273C04E109F195955E1711/sysdm.pdb) |
 
 ### 10.0.22621
 
