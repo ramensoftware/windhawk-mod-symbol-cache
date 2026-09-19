@@ -1,0 +1,1 @@
+1#359578132#2510848#private: void __stdcall CSearchEditBox::_Draw(struct HDC__ *,struct tagRECT *)#

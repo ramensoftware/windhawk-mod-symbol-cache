@@ -1,0 +1,1 @@
+1#twinui.pcshell.dll#x86-64_3176894431_10031104#protected: long __cdecl VirtualDesktopGestureWindow::MakeBackgroundThumbnailFromThumbnailCache(struct IDCompThumbnail *,struct IVirtualDesktop *,struct HSTRING__ *,struct tagRECT,struct IDCompThumbnail * *)#6187300

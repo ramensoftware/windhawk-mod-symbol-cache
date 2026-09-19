@@ -1,0 +1,1 @@
+1#2205188339#389120#unsigned short * __stdcall CmdGetBrandingString(unsigned short const *,int)#183420#int __stdcall CmdPutChars(unsigned short const *,int)#55936#void __stdcall PrintPrompt(void)#184906#int __stdcall PutMsg(unsigned int,int,unsigned int,char * *)#40236#int __stdcall Init(unsigned short * *,int)#46377

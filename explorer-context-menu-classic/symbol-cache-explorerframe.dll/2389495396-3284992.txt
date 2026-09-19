@@ -1,0 +1,1 @@
+1#2389495396#3284992#private: bool __cdecl CNscTree::ShouldShowMiniMenu(struct _TREEITEM *)#2069908
