@@ -64,6 +64,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 5c3dd4...<!-- 5c3dd460ce315cf247355b0905ce6086b9ccc58bfe30a33e191e4fe051157b1d --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🔴](https://msdl.microsoft.com/download/symbols/cmd.exe/86D1BAA16e000/cmd.exe) | ❓ |
+
 ### 10.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -46,6 +46,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 8435d9...<!-- 8435d93214a26b791babeae166036fe88b80afb2549119b2f494de4615f1d6f0 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/98782B809c000/windows.internal.hardwareconfirmator.dll) | ❓ |
+
 ### 10.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

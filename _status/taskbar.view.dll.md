@@ -48,11 +48,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29667
+### 10.0.29671
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 61abb1...<!-- 61abb1533e73e648910c21a20a18bfa993adb1e240ee578be0c39608f8018474 --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 2607.21000.0.6000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6A5F0E67993000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/470F0657A15A4832B439BB8C85D48F281/Taskbar.View.pdb) |
+| 61abb1...<!-- 61abb1533e73e648910c21a20a18bfa993adb1e240ee578be0c39608f8018474 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 2607.21000.0.6000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6A5F0E67993000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/470F0657A15A4832B439BB8C85D48F281/Taskbar.View.pdb) |
 
 ### 10.0.29661
 

@@ -1,0 +1,1 @@
+1#2010130282#3108864#protected: long __thiscall CTray::_OnSessionChange(unsigned int,long)#332341

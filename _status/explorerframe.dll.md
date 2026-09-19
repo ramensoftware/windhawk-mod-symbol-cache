@@ -72,6 +72,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 757be8...<!-- 757be87d738a7fa3037420ab98b3492e66b9eb41f9ff2d86782ea6c548776873 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🔴](https://msdl.microsoft.com/download/symbols/explorerframe.dll/25C4D53D2f0000/explorerframe.dll) | ❓ |
+
 ### 10.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -81,6 +81,12 @@
 
 ## x64 (insider preview builds)
 
+### 11.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 22e36d...<!-- 22e36d1e5d5b6ba8e74eada5bf7bd6be9d16f62df0ac6d271c75e6da5b4d185c --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 11.00.29671.1000 | 11.0.29671.1000 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/10CC164716cd000/mshtml.dll) | ❓ |
+
 ### 11.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

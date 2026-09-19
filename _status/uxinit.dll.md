@@ -71,6 +71,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| a7fc15...<!-- a7fc154f7271b5cbf36236dec4f8e24f0e8dfa47ebbdfecb5e190245ebfbe535 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/E8E66A1E27000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/99ED94F395ED62041B42400EDA496D971/UXInit.pdb) |
+
 ### 10.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -64,6 +64,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 1e6ab7...<!-- 1e6ab7ea24e2b8fb0b93a7eddaf03549ee15b0a5d369290adf75f85eea779176 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/2133DC83d2000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/F3B06BDA653CA82A2EC72306F5767FB31/CBDHSvc.pdb) |
+
 ### 10.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

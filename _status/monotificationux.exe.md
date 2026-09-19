@@ -48,6 +48,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29671
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| c37235...<!-- c3723549623b37f28caa89e585849c231918a7ba78b916e234035129e3cc286d --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 1510.2608.26052.0 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/monotificationux.exe/8ACC39DD9f000/monotificationux.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MoNotificationUx.pdb/1D70031313FD8D8E70B6134C65E1ABC61/MoNotificationUx.pdb) |
+
 ### 10.0.29667
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

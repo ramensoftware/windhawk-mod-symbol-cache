@@ -34,11 +34,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29667
+### 10.0.29671
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| cd9ca1...<!-- cd9ca1b9761546fb4a347998c90713cfef25bbbd2c04f9eb1293a8eeed91f222 --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 2607.20001.0.6000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A5EBD3D202000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/77DA5ECA9B554F00BAE5A231C4EA3BE91/SystemTray.pdb) |
+| cd9ca1...<!-- cd9ca1b9761546fb4a347998c90713cfef25bbbd2c04f9eb1293a8eeed91f222 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 2607.20001.0.6000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A5EBD3D202000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/77DA5ECA9B554F00BAE5A231C4EA3BE91/SystemTray.pdb) |
 
 ### 10.0.29648
 

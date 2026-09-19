@@ -46,11 +46,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29667
+### 10.0.29671
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 67f334...<!-- 67f334fe1aeb8f2cea0f4513642141113226e9649de33b1b576a0e54104f1fbf --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 2607.17003.0.6000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A5ABFA4bf7000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/916EE6A4325B4AE59A62B6667C0225831/SearchUx.UI.pdb) |
+| 67f334...<!-- 67f334fe1aeb8f2cea0f4513642141113226e9649de33b1b576a0e54104f1fbf --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 2607.17003.0.6000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A5ABFA4bf7000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/916EE6A4325B4AE59A62B6667C0225831/SearchUx.UI.pdb) |
 
 ### 10.0.29661
 
