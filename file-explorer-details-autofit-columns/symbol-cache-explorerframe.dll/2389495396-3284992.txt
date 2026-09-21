@@ -1,0 +1,1 @@
+1#2389495396#3284992#public: virtual long __cdecl CBrowserHost::Refresh(long)#1636528#public: virtual long __thiscall CBrowserHost::Refresh(long)#

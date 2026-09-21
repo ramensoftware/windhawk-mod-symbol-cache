@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_1972524803_3244032#public: virtual long __cdecl CBrowserHost::Refresh(long)#1632384#public: virtual long __thiscall CBrowserHost::Refresh(long)#
