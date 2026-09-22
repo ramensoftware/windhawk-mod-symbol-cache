@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_3425391578_6369280;public: virtual long __cdecl CNscTree::SetStateImageList(struct _IMAGELIST *);1559168

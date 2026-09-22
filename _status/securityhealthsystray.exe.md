@@ -6,13 +6,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 932a2e...<!-- 932a2ecc96ffa11bb68f9bd5bcde19c7c518e684a767759a26ce5db93079257e --> | 2026-09-14 | KB5129194 | 10.0.28000.1896 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/E48D306643000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/3A5855DCA6B002CA6E80660763103C681/SecurityHealthSystray.pdb) |
+| 932a2e...<!-- 932a2ecc96ffa11bb68f9bd5bcde19c7c518e684a767759a26ce5db93079257e --> | 2026-09-22 | KB5124006 | 10.0.28000.1896 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/E48D306643000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/3A5855DCA6B002CA6E80660763103C681/SecurityHealthSystray.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 129cc5...<!-- 129cc582d72581f1459c7a9ac8b020dcd3642fae6a69acc26c680190494970db --> | 2026-09-14 | KB5129195 | 10.0.26100.8115 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/40AA765143000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/037764BD927B3D95E2023C71159AF9381/SecurityHealthSystray.pdb) |
+| 129cc5...<!-- 129cc582d72581f1459c7a9ac8b020dcd3642fae6a69acc26c680190494970db --> | 2026-09-22 | KB5124010 | 10.0.26100.8115 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/40AA765143000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/037764BD927B3D95E2023C71159AF9381/SecurityHealthSystray.pdb) |
 
 ### 10.0.22621
 
@@ -38,13 +38,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 91eaa9...<!-- 91eaa90dae05de1d1561a04e7eaca4a1719590b98fe899f6e3186b0b2ca68209 --> | 2026-09-14 | KB5129194 | 10.0.28000.1896 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/AF2DE63A42000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/42A0A2667D4796F62DB3E2B552C051F01/SecurityHealthSystray.pdb) |
+| 91eaa9...<!-- 91eaa90dae05de1d1561a04e7eaca4a1719590b98fe899f6e3186b0b2ca68209 --> | 2026-09-22 | KB5124006 | 10.0.28000.1896 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/AF2DE63A42000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/42A0A2667D4796F62DB3E2B552C051F01/SecurityHealthSystray.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d97de3...<!-- d97de3fa5fd23eba01abe77165e7dbc108302c90ac5b7e3846f7a2829f7982d4 --> | 2026-09-14 | KB5129195 | 10.0.26100.8115 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/B478314442000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/6A4CDC3A086B57FD5E4B257F7A6EC5E21/SecurityHealthSystray.pdb) |
+| d97de3...<!-- d97de3fa5fd23eba01abe77165e7dbc108302c90ac5b7e3846f7a2829f7982d4 --> | 2026-09-22 | KB5124010 | 10.0.26100.8115 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/B478314442000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/6A4CDC3A086B57FD5E4B257F7A6EC5E21/SecurityHealthSystray.pdb) |
 
 ### 10.0.22621
 
@@ -113,13 +113,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 129cc5...<!-- 129cc582d72581f1459c7a9ac8b020dcd3642fae6a69acc26c680190494970db --> | 2026-09-22 | fe47c57f...<!-- fe47c57f-a77f-41e3-9012-00b4187e3462 --> | 10.0.26100.8115 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/40AA765143000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/037764BD927B3D95E2023C71159AF9381/SecurityHealthSystray.pdb) |
+| e313d3...<!-- e313d37705d0fc587adeccfd469416ca58f307395a300515ac56b48ff42c6c8e --> | 2026-09-22 | fe47c57f...<!-- fe47c57f-a77f-41e3-9012-00b4187e3462 --> | 10.0.26100.1150 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/851AF3B143000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/A921CFF331C1A1C1C885B9BE0EAC6B491/SecurityHealthSystray.pdb) |
+| cd6654...<!-- cd665420d1b0013592ead9cf9eee13d0d348a0a1d1e0c37aea994c63cefe6e81 --> | 2026-09-22 | fe47c57f...<!-- fe47c57f-a77f-41e3-9012-00b4187e3462 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/AD7CD06843000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/AFC46E6854A72D975AF3BBEDF2179E6F1/SecurityHealthSystray.pdb) |
 | 1a0c91...<!-- 1a0c91260a3e3b430f296b82f5a02e176fb473fd932d4533c14eb8f2c669c3c6 --> | 2026-09-18 | b5b12620...<!-- b5b12620-cbd9-4a69-9bb7-195869d6a48a --> | 10.0.26100.8951 | 10.0.26100.9502 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/C0EC3DDA43000/securityhealthsystray.exe) | ❓ |
 | 82ee00...<!-- 82ee00f5cf20ff9c53ceab851fc05cbdeaeb52ecf935c0192a4dd6c7be65a006 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> | 10.0.26100.8941 | 10.0.26100.9492 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/9538299143000/securityhealthsystray.exe) | ❓ |
 | 01486f...<!-- 01486f5a6adb75070ce7d85d5260c35e1c438ae62c3403c24353f3c4f4e72f85 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 77d0b5...<!-- 77d0b58ee217f8e4f25609fb39cc9d071743d4ee61b4eb134834ab641448a803 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/8D8324D043000/securityhealthsystray.exe) | ❓ |
-| 129cc5...<!-- 129cc582d72581f1459c7a9ac8b020dcd3642fae6a69acc26c680190494970db --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.8115 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/40AA765143000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/037764BD927B3D95E2023C71159AF9381/SecurityHealthSystray.pdb) |
-| e313d3...<!-- e313d37705d0fc587adeccfd469416ca58f307395a300515ac56b48ff42c6c8e --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.1150 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/851AF3B143000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/A921CFF331C1A1C1C885B9BE0EAC6B491/SecurityHealthSystray.pdb) |
-| cd6654...<!-- cd665420d1b0013592ead9cf9eee13d0d348a0a1d1e0c37aea994c63cefe6e81 --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/AD7CD06843000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/AFC46E6854A72D975AF3BBEDF2179E6F1/SecurityHealthSystray.pdb) |
 
 ### 10.0.22621
 

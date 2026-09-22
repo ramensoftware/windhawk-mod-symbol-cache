@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_4171598817_3600384#public: void __cdecl ClockButton::StartTicking(void)##protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#

@@ -1,0 +1,1 @@
+1#445745229#7999488#private: long __cdecl CDUISizerElement::_WriteVisibleToPropBag(int)#465776
