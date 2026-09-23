@@ -1,0 +1,1 @@
+1#1784614503#10039296#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateVisualStates(void)#32064#public: virtual int __cdecl winrt::impl::produce<struct winrt::Taskbar::implementation::TaskbarFrame,struct winrt::Taskbar::ITaskbarFrame>::get_Alignment(int *)#7419200
