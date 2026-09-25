@@ -176,5 +176,47 @@ class TestProcessSymbolBlock(unittest.TestCase):
         self.assertIn('Symbol block without symbols', str(context.exception))
 
 
+class TestStrayMentions(unittest.TestCase):
+    """A mention of SYMBOL_HOOK which isn't a block the extractor read.
+
+    Such a mention is how a mod which builds its hooks some other way looks, and
+    its symbols would otherwise be left out of the cache without a word.
+    """
+
+    BLOCK = ('const SYMBOL_HOOK targetDllHooks[] = {\n'
+             '    {{L"a"}, (void**)&original},\n'
+             '};\n')
+
+    def process(self, mod_source: str):
+        blocks = extract.get_mod_symbol_blocks(mod_source, extract.Architecture.amd64)
+        return [symbol for block in blocks for symbol in block['symbols']]
+
+    def assertRejected(self, source: str):
+        with self.assertRaises(Exception) as context:
+            self.process(source)
+        self.assertIn('Unsupported symbol blocks', str(context.exception))
+
+    def test_a_vector_of_hooks(self):
+        self.assertRejected('std::vector<WindhawkUtils::SYMBOL_HOOK> symbols;\n')
+
+    def test_a_vector_of_hooks_beside_a_block(self):
+        self.assertRejected(self.BLOCK + 'std::vector<SYMBOL_HOOK> symbols;\n')
+
+    def test_the_combined_alias(self):
+        source = self.BLOCK + 'using COMBINED_SH = WindhawkUtils::SYMBOL_HOOK;\n'
+        self.assertEqual(self.process(source), ['a'])
+
+    def test_an_alias_with_another_name(self):
+        self.assertRejected(self.BLOCK + 'using HOOK = WindhawkUtils::SYMBOL_HOOK;\n')
+
+    def test_a_pointer_to_a_block(self):
+        source = self.BLOCK + 'SYMBOL_HOOK* hooks = targetDllHooks + 1;\n'
+        self.assertEqual(self.process(source), ['a'])
+
+    def test_a_mention_in_a_comment(self):
+        source = self.BLOCK + '// std::vector<SYMBOL_HOOK> is not used here.\n'
+        self.assertEqual(self.process(source), ['a'])
+
+
 if __name__ == '__main__':
     unittest.main()
