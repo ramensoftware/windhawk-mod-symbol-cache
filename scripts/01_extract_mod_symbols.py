@@ -198,6 +198,7 @@ SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     'word-pdf-lossless-export': ['mso.dll'],
 
     # Chrome mods, use noUndecoratedSymbols.
+    'chrome-context-menu-items': ['chrome.dll'],
     'chrome-native-ui-tweaks': ['chrome.dll'],
 }
 
