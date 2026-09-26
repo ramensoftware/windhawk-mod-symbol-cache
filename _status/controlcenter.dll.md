@@ -68,12 +68,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b9a9ae...<!-- b9a9aeb50379bb0885c01d5312a05f9519cfe2178e04b9e6f158d354d65da57c --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> |  | 10.0.29639.1000 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/D05CC5163f7000/controlcenter.dll) | ❓ |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a62c2f...<!-- a62c2f90dfa91ea5f627272954619edb8b5ad7e833682bc71dc6bd290585c6b9 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> |  | 10.0.29634.1000 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/0E25A3A93f2000/controlcenter.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

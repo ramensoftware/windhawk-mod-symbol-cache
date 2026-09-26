@@ -106,12 +106,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 0557d4...<!-- 0557d44e42764378f04834ab2bb0ae8339efd3e9f5052865ca70d84cc6696e4f --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/05477E5C5f000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/56149BF47A53473E2B180446A53496F21/stobject.pdb) |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 55d327...<!-- 55d327f7f0b90df4f5e115d557ebfe7b1d3c724c5967901b5f22942e24889fb5 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 10.0.29634.1000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/9C3C4B055f000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/38E3DC116FADBA339A9824614BA773901/stobject.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

@@ -208,12 +208,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 704748...<!-- 704748b7a98cf8bba5b597d90c85cc375bf2889e9be46a72c8efd3d0de24ef4e --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 5.82 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/D4F184FEbe000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32v582.pdb/904A75509CA94A32B6F18FAF04508CEC1/comctl32v582.pdb) |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b1a051...<!-- b1a051473978d4c10749379a5a75b68fa032cb5d870df3d1bf26fc1a386af65b --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 5.82 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/5E0154EAbe000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32v582.pdb/59A07B9D5A09C52A3F50781692C73B3A1/comctl32v582.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -351,12 +345,6 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c157b9...<!-- c157b960c0d6f5e5f1f1db461dd7c298133082a3e754adf86ced98f54595ead4 --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 6.10 | 6.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/C421DB3627a000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/F79225F5AF16CC4977CF2122A060B6891/comctl32.pdb) |
-
-### 6.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a2819b...<!-- a2819bb36c47a9e2facff3a78797e89f7f7010eba157de7570716fc927214eb0 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 6.10 | 6.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/9D59F4A227a000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/D6F0C5CD57D7DFCF81F1FD6EA59D63751/comctl32.pdb) |
 
 ### 6.0.28000
 

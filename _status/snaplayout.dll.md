@@ -68,12 +68,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 876ed0...<!-- 876ed05c446f67b69e2eee7a7d9ab5cbdfff2e8a96edcf111035ff6b8ada410f --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> | 2606.22002.0.0 | 10.0.29648.1000 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A39A954de000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/971AFADB3DE44D7CB0C84E784C7BB6E31/SnapLayout.pdb) |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ac5017...<!-- ac50172e70681f762846ee0a8c5c5d95698329f9fac522d677b9c03c6fbe4886 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 2606.1000.0.0 | 10.0.29634.1000 | [🔴](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A1DCC83de000/snaplayout.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

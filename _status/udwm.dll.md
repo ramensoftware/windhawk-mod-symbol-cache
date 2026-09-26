@@ -108,12 +108,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 14b412...<!-- 14b4127650963b6404a054f189d8a61537575fc89ac795a89bc6a09dcedd0355 --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/3F921014136000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/78F20B6B6B0740218AABDE6ABB57D7CB1/uDWM.pdb) |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ce8f10...<!-- ce8f10627effff77739d9470b18a4aec61342ff16ed1883bc2ff56871846acb4 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 10.0.29634.1000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/4606BFC3136000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/8E4B9DC99B4A0C46217728DB4D4AB0EE1/uDWM.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

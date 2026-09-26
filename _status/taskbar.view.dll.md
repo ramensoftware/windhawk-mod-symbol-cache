@@ -77,13 +77,6 @@
 | f86c5f...<!-- f86c5f006ea4352593e65e48c41140197b702c37b6c2fd88c2d7c43f04d1e73d --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 2606.5001.0.6000 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6A23401698a000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/8227B7B9D08B4C70A267686FD458D39A1/Taskbar.View.pdb) |
 | 50dd6c...<!-- 50dd6cdd2defdea1588b46d45ceef795537c608e6becac034e9a545987a59788 --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 2606.5001.0.6000 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6A233C8798a000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/41AD60BA8F244A6589776AC9C94446C81/Taskbar.View.pdb) |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9fe378...<!-- 9fe3787f7da674ef13f8ebbe1c65b218ef948431a2ac3b88b9102a18a18da522 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 2606.1000.400.6000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6A29C3C299a000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/4D1D7FA6E7A54D528F556AEF341E2DB41/Taskbar.View.pdb) |
-| 1945ce...<!-- 1945ce56ffb156da19afb0720116ad063f4fba164846d6612fef927597d81d14 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 2606.1000.400.6000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6A29BFEE999000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/51DA5F99D07B47EA91A83332021CECF01/Taskbar.View.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

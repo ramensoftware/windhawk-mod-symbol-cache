@@ -114,12 +114,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 5fe0f6...<!-- 5fe0f65ee5aeb031587d9e189688922265da7204044f42c23ea5d1173a2b80d2 --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/2F43A0FF6b000/thumbcache.dll) | ❓ |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 105df8...<!-- 105df8ba6acc843ce38ab7567514e512d813485193125646e6ab77daa5ab7234 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 10.0.29634.1000 | 10.0.29634.1000 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/BD873DBE6b000/thumbcache.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

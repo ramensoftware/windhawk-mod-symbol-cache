@@ -135,12 +135,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4afbfd...<!-- 4afbfd3969acf2ac5de53a86ef4afeeda22118ea8ea4049693eb6bfca9ad24f1 --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/F0EF19821bf000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/E4095CB59E42829E2C4978F35245778F1/user32.pdb) |
 
-### 10.0.29634
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8ff270...<!-- 8ff270e27590527437c36488ac59b41b04e28541f2499db036bc41a4e23f3395 --> | 2026-07-27 | e641ee6e...<!-- e641ee6e-2254-41bd-8b0a-1f82f298818f --> | 10.0.29634.1000 | 10.0.29634.1000 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/48729F101bf000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/40FB5602F6A5D046799513674C958F131/user32.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
