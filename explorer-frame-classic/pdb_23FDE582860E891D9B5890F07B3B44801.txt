@@ -1,1 +1,1 @@
-1#explorerframe.dll#x86-64_1103177450_3280896#bool __cdecl CanShowModernNavBar(void)#1292468#public: static bool __cdecl CachedExplorerExtensionState::IsModernNavBarAvailable(void)#
+1#explorerframe.dll#x86-64_1103177450_3280896#bool __cdecl CanShowModernNavBar(void)#1292468#public: static bool __cdecl CachedExplorerExtensionState::IsModernNavBarAvailable(void)##public: virtual long __cdecl CNavBar::Load(struct IStream *)#579824
