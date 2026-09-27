@@ -1,0 +1,1 @@
+1#3083494078#2244608#_DrawShadowTextEx@44#587392#_FillRectClr@12#513618#struct HBRUSH__ * __stdcall ListBox_GetBrush(struct tagLBIV *,struct HBRUSH__ * *)#1195864#void __stdcall ComboEx_OnDrawItem(struct COMBOEX *,struct tagDRAWITEMSTRUCT *)#361407#_SHThemeDrawText@56#585984

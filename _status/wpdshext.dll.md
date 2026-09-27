@@ -156,8 +156,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4de5b2...<!-- 4de5b29a71d13c11e8c7c371cec05b091835997db5b91939827df15bb79758cc --> | 2026-09-27 | deac6f2d...<!-- deac6f2d-1605-4162-b85c-1c5e9219959a --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/9E58BFAEa1000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/21F722E24A96ED52B91DDAFDBEB224821/wpdshext.pdb) |
 | ec09f9...<!-- ec09f9138a8c278feb648b63b174cad745c29c56d61c0a720d1ca01bae5abf4e --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.5983 | 10.0.22621.5983 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/D11F5785a3000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/EFD5EB997FB7B7B8B7E85ED1C9582DB71/wpdshext.pdb) |
-| 4de5b2...<!-- 4de5b29a71d13c11e8c7c371cec05b091835997db5b91939827df15bb79758cc --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/9E58BFAEa1000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/21F722E24A96ED52B91DDAFDBEB224821/wpdshext.pdb) |
 
 ### 10.0.19041
 

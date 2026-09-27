@@ -120,8 +120,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3537b5...<!-- 3537b5fed43eb734cf2398f71e6fb2981eebb624dfbc79d2605f2810732258c3 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> |  | 10.0.26100.9577 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/1A445B6C5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/05BA503BE7C96F5850481341420DFC051/notepad.pdb) |
-| 38494d...<!-- 38494d477e5cfd964105f5f87633bfc277c24c507f6f638c3d1968e741268a6b --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> |  | 10.0.26100.9568 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/4701097F5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/142D24998C3B1FC643597FAA9D825B8A1/notepad.pdb) |
+| 3537b5...<!-- 3537b5fed43eb734cf2398f71e6fb2981eebb624dfbc79d2605f2810732258c3 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> | 10.0.26100.9577 | 10.0.26100.9577 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/1A445B6C5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/05BA503BE7C96F5850481341420DFC051/notepad.pdb) |
+| 38494d...<!-- 38494d477e5cfd964105f5f87633bfc277c24c507f6f638c3d1968e741268a6b --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> | 10.0.26100.9568 | 10.0.26100.9568 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/4701097F5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/142D24998C3B1FC643597FAA9D825B8A1/notepad.pdb) |
 | 9fe331...<!-- 9fe331655509830c7d26be57af1398fb57f66873892647958bd79ac679870db3 --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 77d315...<!-- 77d3150fccd2b815ac61f8d7c4cc629ddfa2806c468a3410c273f64b35941a67 --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/notepad.exe/54AD88C75a000/notepad.exe) | ❓ |
 | 468ffe...<!-- 468ffe129c395abf6b21a09efdf261910a95fb98aa982ead73caa7b2b684577e --> | 2026-09-22 | 624f8f61...<!-- 624f8f61-fd5b-4df9-b992-122be8fab976 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/112F10A45a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/7C615E8830F1E7745577F37A0DDC2E7E1/notepad.pdb) |
@@ -138,8 +138,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 972efb...<!-- 972efbb0e7990a0b8404bbf9c7a57b047db169628aba7a017fd815ee5202e4d3 --> | 2026-09-27 | deac6f2d...<!-- deac6f2d-1605-4162-b85c-1c5e9219959a --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/E798EFB45a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/C694C0AA7279CC672966901283BF50541/notepad.pdb) |
 | 49f096...<!-- 49f096cbf9337b0a80bde835d29be41bc9371057c4ff6c72f8a36158c29cfa3a --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.5415 | 10.0.22621.5415 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/1FDC050A5a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/0B69D09F523FDBA9038877386D16F60F1/notepad.pdb) |
-| 972efb...<!-- 972efbb0e7990a0b8404bbf9c7a57b047db169628aba7a017fd815ee5202e4d3 --> | 2026-09-14 | 47b617ee...<!-- 47b617ee-13f4-41c7-8b23-14c4547ecddc --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/notepad.exe/E798EFB45a000/notepad.exe) | [🟢](https://msdl.microsoft.com/download/symbols/notepad.pdb/C694C0AA7279CC672966901283BF50541/notepad.pdb) |
 
 ### 10.0.19041
 
