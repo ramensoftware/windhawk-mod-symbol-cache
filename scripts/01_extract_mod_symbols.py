@@ -182,7 +182,12 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
     ],
 }
 
-SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
+SYMBOL_MODULES_SKIP: list[str] = [
+    'chrome.dll',
+    'msedge.dll',
+]
+
+SYMBOL_MODULES_SKIP_PER_MOD: dict[str, list[str]] = {
     # https://github.com/ramensoftware/windhawk-mods/pull/2905#issuecomment-3703476284
     'old-explorer-sysmenu-behavior': ['explorerframe.dll'],
 
@@ -196,10 +201,6 @@ SYMBOL_MODULES_SKIP: dict[str, list[str]] = {
     'word-mathtype-dark-fix': ['wwlib.dll'],
     'word-omath-shade-fix': ['wwlib.dll'],
     'word-pdf-lossless-export': ['mso.dll'],
-
-    # Chrome mods, use noUndecoratedSymbols.
-    'chrome-context-menu-items': ['chrome.dll'],
-    'chrome-native-ui-tweaks': ['chrome.dll'],
 }
 
 # The architecture macros mods are expected to branch on, with the values
@@ -577,7 +578,10 @@ def main():
 
             for arch in mod_symbols:
                 for module in mod_symbols[arch]:
-                    if module in SYMBOL_MODULES_SKIP.get(mod_name, []):
+                    if module in SYMBOL_MODULES_SKIP:
+                        continue
+
+                    if module in SYMBOL_MODULES_SKIP_PER_MOD.get(mod_name, []):
                         continue
 
                     result_arch = result.setdefault(mod_name, {}).setdefault(arch, {})
