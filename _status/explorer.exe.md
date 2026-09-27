@@ -10,7 +10,6 @@
 | 01d253...<!-- 01d2538b33a7f1ec8b80f176b0aa6203a19e0342195ad0e9ff956fded4e56ded --> | 2026-09-14 | KB5129194 | 10.0.28000.2952 | 10.0.28000.2952 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/B4886922333000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/7ED4D6641ABC8B3D1A8310EC4022898B1/explorer.pdb) |
 | 8e0ea2...<!-- 8e0ea221871b2a5c644a067437d0b89bab2050635d77344e0856d5afee43dc95 --> | 2026-08-27 | KB5120996 | 10.0.28000.2804 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/D13F2E63333000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/18F0385BF5D243152563B6C0DCB013AB1/explorer.pdb) |
 | f14848...<!-- f148488dc2762b08cf23d9530719533b6930283745c114a7c29ad18b57978625 --> | 2026-08-11 | KB5121000 | 10.0.28000.2704 | 10.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/1C187841332000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/2CC0605D74A386C149E268EB8A3977091/explorer.pdb) |
-| c78207...<!-- c78207467a277a39b1392a995b400bd65ec968c187bc63e17db2f28e04d99d6a --> | 2026-07-28 | KB5101681 | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/DC888D08332000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/905BE594D1783F9BEC5BCCE5B0A711181/explorer.pdb) |
 
 ### 10.0.26100
 
@@ -20,7 +19,6 @@
 | 87811a...<!-- 87811a107eed62900b230c49a252170d6a7307e94a08307ce972f9b9b8155d54 --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/03F6C974338000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/C210483522254E320D82BE76F0DFA4E51/explorer.pdb) |
 | 91c570...<!-- 91c57066b3908150c405e34e8ebacfe69e60c33a6689bb76f516b3f97d5aa282 --> | 2026-08-27 | KB5120998 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/4DE7F396338000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/72FA7A9B32A15473777A1E2A14232A371/explorer.pdb) |
 | c5e95f...<!-- c5e95f643581ffd5eda5b6bac0dea664208357037e074d65cde6d5f10bc2c083 --> | 2026-08-11 | KB5121003 | 10.0.26100.9168 | 10.0.26100.9168 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/77CB28FB334000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/4BF64FA877FDAC2DD1BCD616FA92B2631/explorer.pdb) |
-| 6214a8...<!-- 6214a8c9fe2e9310522981cfacbbfbb99d58d9b6a7d473d5ee1d5092925b81ae --> | 2026-07-28 | KB5101684 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/44E2FD1F334000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/154E44D38D993518419A1E2D9211FDE21/explorer.pdb) |
 
 ### 10.0.22621
 
@@ -66,7 +64,6 @@
 | c9d02c...<!-- c9d02c8b9a88c3083bed82f5fa8f9f1904c2a4486924f9316110b5a32c7d11aa --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/707291D3324000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/5450C2FF0E2178919F3BD68ADF0E5FAF1/explorer.pdb) |
 | 002845...<!-- 0028458668df7f7a0bef27ed2aa440dc9c7e5e4f528951271986ff6123e4e45f --> | 2026-08-27 | KB5120998 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/24B7BA5A324000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/108A494E6141E105A8911D197FABE5CE1/explorer.pdb) |
 | e110ae...<!-- e110ae599a499295b3c63d2f4be7d5852ed03321aa84ac4cb50e9018204d4082 --> | 2026-08-11 | KB5121003 | 10.0.26100.9168 | 10.0.26100.9168 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/C8AEB31831f000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/EACD29168DBC4DA5DFDF4C9335AC6C101/explorer.pdb) |
-| 039d95...<!-- 039d95d21fc9db97d8e1db38d87d38d907fe8a0b91d60126b6ee47d751d9c071 --> | 2026-07-28 | KB5101684 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/E1251C5031f000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/1A009C2582408F15A8654ECDA01E7E731/explorer.pdb) |
 
 ### 10.0.22621
 

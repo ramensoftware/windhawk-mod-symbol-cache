@@ -58,7 +58,6 @@
 | 2cdb24...<!-- 2cdb24fd580b421fff8fd447eb649f628d1f1a3b98362f13a5a5704161face47 --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2952 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/C9F4A50C44b000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/6E9D821FA613A9506DAEC732418A8C4F1/ntdll.pdb) |
 | 81f9d5...<!-- 81f9d523d199ba1a8bb5fb6081b39e62cdb3289aa2346880c4db43edc6922f9b --> | 2026-08-27 | KB5120996 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/DE830DD844b000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/C74D871CF2AE0CD28C521D145AE2BBC41/ntdll.pdb) |
 | 521c95...<!-- 521c956a8a492a66022fcf102f8ff398411aafb99741a61c26b6020c724e303f --> | 2026-08-11 | KB5121000 |  | 10.0.28000.2704 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/96615DAD43b000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/9DBB4F6C4CACEAC3052C0803B124D0991/ntdll.pdb) |
-| 7028ce...<!-- 7028cec1e493c6a376ec3cbde9e2a6e87df4350e322eeb90b4742edf485177f2 --> | 2026-07-28 | KB5101681 |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/B12670A243b000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/48B8D686821950888706E98840C19F5C1/ntdll.pdb) |
 
 ### 10.0.26100
 
@@ -69,7 +68,6 @@
 | 5c67b3...<!-- 5c67b3cc5d63acb726e3a4a1102e6f9c731f1bb25980b8c11c7614ded0a49480 --> | 2026-09-08 | KB5124008 | 10.0.26100.9444 | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/2BCDF86E437000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/BDAB85197CB3DC219E5E696016C46E271/ntdll.pdb) |
 | 0de39a...<!-- 0de39a0a81be5e71cfbdd0c726a601a865e20ea0e0d8ec2cafd37398657e73e1 --> | 2026-08-27 | KB5120998 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/E9F9D9C2437000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/B8F8AD888DB2994EE92D3A3FA0E45D141/ntdll.pdb) |
 | fe3a3f...<!-- fe3a3fe58f93f55e68cd25d3edffc0ed4af4bd45413688457085795e5b688fc1 --> | 2026-08-11 | KB5121003 | 10.0.26100.9168 | 10.0.26100.9168 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/105BCDDA437000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/E157281927AF98C944BC0EC52F7B86CB1/ntdll.pdb) |
-| 3c2099...<!-- 3c2099c528a226ea9839da2c2aad4bf841f9b9cc1e1d01678de8206b2350eef4 --> | 2026-07-28 | KB5101684 |  | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/6AD008A7437000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/BBAFA03A5AFE95DD9E73A771CCEC66AE1/ntdll.pdb) |
 
 ### 10.0.22621
 
