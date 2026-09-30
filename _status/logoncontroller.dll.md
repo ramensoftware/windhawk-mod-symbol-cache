@@ -99,12 +99,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 365315...<!-- 3653158df912c23fd1d68d4f5a279482f824e01e44fbe8d8e4bed2be2b891a04 --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> | 10.0.29648.1000 | 10.0.29648.1000 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/73C1E3CBec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/DD21D79E9812CC900CB19439482CFF931/logoncontroller.pdb) |
 
-### 10.0.29639
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ee8984...<!-- ee8984cf031033efd4f32f1a6e4b528816970031b255aa7c04e804705088de1f --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/D1E75B25eb000/logoncontroller.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -127,7 +121,6 @@
 | 42037b...<!-- 42037bd4160a3e11702e5eeefca542223e48a688da06c64cb07518381cf06908 --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | d1a41f...<!-- d1a41fa6b9ae1436a61f365ab0bf7ec12bd3870300bcfb28007ea49080032eaa --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/9E7FBFFDec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/E0B13E07A146FA3F0F4096FF3E0BE9651/logoncontroller.pdb) |
 | 6fa721...<!-- 6fa721295164f0d42667d62b1e77b6eecfac8569f652f8c6b898d515e66640f9 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> |  | 10.0.28000.2630 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/7207C74Eeb000/logoncontroller.dll) | ❓ |
-| 565011...<!-- 565011fd1964382eb1ea8fc58dd90c9aba00e48a67f9f90b479979048979f9e1 --> | 2026-07-31 | b7003d33...<!-- b7003d33-2aee-43be-bcbe-46c9631ad9d5 --> |  | 10.0.28000.2623 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/D1D77A96ed000/logoncontroller.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -155,8 +148,6 @@
 | e36f44...<!-- e36f440737e62f46820d153817cae9b73c78612c1ec09ff8eb29a93d7f0a59ed --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> |  | 10.0.26100.9202 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/7429EA54ed000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/DE620A5B68B6FA1FE6D093E95B3C69131/logoncontroller.pdb) |
 | f394f2...<!-- f394f2b7d1d6788d4c28dd9775229cec765df03e1491c7a78bd5071f835d07d7 --> | 2026-08-16 | 721dfe56...<!-- 721dfe56-4a9a-452f-8e73-934e3ac45619 --> |  | 10.0.26100.9267 | 🔴 | ❓ |
 | cb188f...<!-- cb188f96247d54103587aac21c3a798e0ef7e2adde60421b526758411dbd21b1 --> | 2026-08-11 | 0485f51d...<!-- 0485f51d-b291-4823-89b8-c6be2fd43fee --> | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/57449DE8ec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A13F991178BDCD74323BD7F2E2B8E62E1/logoncontroller.pdb) |
-| 9b961c...<!-- 9b961cdf25ca4e69da54d3104c7b5de672b8363662c002e583a5fd203cb5f698 --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> |  | 10.0.26100.9032 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/56B2EBBDec000/logoncontroller.dll) | ❓ |
-| 300239...<!-- 30023908e4b92b506997bdd6c86d094b32d10f2c02eefa73cf4e9345870abc0a --> | 2026-07-31 | 83017951...<!-- 83017951-233a-4465-ab28-a6d74c2e1502 --> |  | 10.0.26100.9022 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/EA89455Aec000/logoncontroller.dll) | ❓ |
 
 ### 10.0.22621
 

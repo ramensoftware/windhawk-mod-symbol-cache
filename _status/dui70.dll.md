@@ -102,12 +102,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4d5d8f...<!-- 4d5d8f8ed3d5cb04c05703f1d2bb08e8dc39124b0cbb72ac4edcdb09fa9a81b6 --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> | 10.0.29648.1000 | 10.0.29648.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/37809CDE1a1000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/130ADA39C8F69AF7FFA882CD3B2A21A51/DUI70.pdb) |
 
-### 10.0.29639
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 638472...<!-- 63847217264e7b0051bcb9e2a32c7bcc02a4946aec60ef3e9e0f57dd968d930d --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/985586E21a1000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/C06A779D4DCE3DB1B4B7EF9C96A1818E1/DUI70.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -129,7 +123,6 @@
 | a7a6d5...<!-- a7a6d5e4c62a3607d685306b4e3832be3ac0ded759c80ee9980d5dec98b98268 --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | e40e88...<!-- e40e8810595390401f9032cebd6ccb8293bc4dae90b6292088b58c391954fc79 --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/DC72BD641ad000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/6FD4EC4F2350563AB5E95505C97FA6071/DUI70.pdb) |
 | e24e83...<!-- e24e83615105930e5053a6e546e8fc906b060e375a72c240a79419eb0283af36 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> |  | 10.0.28000.2630 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/0EC5ECD41a7000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/A344FBE14BBC929F3175CFC5F633BF701/DUI70.pdb) |
-| 34bee3...<!-- 34bee392947418ab718f087d94ff5c546327a4576cbb41db49d0a6dd08daea6c --> | 2026-07-31 | b7003d33...<!-- b7003d33-2aee-43be-bcbe-46c9631ad9d5 --> |  | 10.0.28000.2623 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/BBDD51581ad000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/F8D669217957D85AC6B0F902FE7FCCCE1/DUI70.pdb) |
 
 ### 10.0.26100
 
@@ -154,8 +147,6 @@
 | dbe714...<!-- dbe714b4eb7a3b99d958fec402ca62d2d8231e2c28675bbb910ebb11cdf330bc --> | 2026-08-17 | 5a2f54fc...<!-- 5a2f54fc-cd21-47c2-93b5-8898b439ef90 --> |  | 10.0.26100.9072 | 🔴 | ❓ |
 | 0ea39f...<!-- 0ea39f3165be1f4577c00ca7e8c3e7d43d950553442d4a4bc027afae97a93a90 --> | 2026-08-16 | 721dfe56...<!-- 721dfe56-4a9a-452f-8e73-934e3ac45619 --> | 10.0.26100.9267 | 10.0.26100.9267 | [🔴](https://msdl.microsoft.com/download/symbols/dui70.dll/2AD16F511aa000/dui70.dll) | ❓ |
 | 86e4a4...<!-- 86e4a409e30eb7ae1d0b8d6bab7b05b37121e68cc05b9dabffda1e34738c1465 --> | 2026-08-11 | 0485f51d...<!-- 0485f51d-b291-4823-89b8-c6be2fd43fee --> | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/21228F201aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/7C42B616C7BC830629E2CC333BA3E2FE1/DUI70.pdb) |
-| ac88b0...<!-- ac88b09017f65aafcecb55744a069cc84c97e4595f2d146419514907d9fef384 --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> |  | 10.0.26100.9032 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/3F83C5FB1aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/5F117D5A28E02708D915BCC06613000E1/DUI70.pdb) |
-| 87fdd9...<!-- 87fdd9b57fd6f923cf39107d44fbbd92c617c0bc55584361367e70eb0d2601b1 --> | 2026-07-31 | 83017951...<!-- 83017951-233a-4465-ab28-a6d74c2e1502 --> |  | 10.0.26100.9022 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/17960C651aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/9A890F8BC4666361692057BE0B2DA62E1/DUI70.pdb) |
 
 ### 10.0.22621
 

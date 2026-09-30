@@ -70,12 +70,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 02a5ce...<!-- 02a5ce3ab3095886be857003c9be848861017c3761f3284831636d86ec2b1f5d --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> | 10.0.29648.1000 | 10.0.29648.1000 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/C73B831446000/dinput8.dll) | ❓ |
 
-### 10.0.29639
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7de7e5...<!-- 7de7e5831a9e08ced88c34350227577dd0da9506329a0891f002891e8894809f --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> | 10.0.29639.1000 | 10.0.29639.1000 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/D9DD60DB46000/dinput8.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

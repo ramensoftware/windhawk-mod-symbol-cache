@@ -62,12 +62,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | cc4834...<!-- cc4834ab1cc98930007289de152dc201b7d2cf52b97202f12b033ebb49485325 --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> |  | 10.0.29648.1000 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/ECE6023E400000/controlcenter.dll) | ❓ |
 
-### 10.0.29639
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b9a9ae...<!-- b9a9aeb50379bb0885c01d5312a05f9519cfe2178e04b9e6f158d354d65da57c --> | 2026-07-31 | 1465e4b6...<!-- 1465e4b6-f413-4b5c-8220-feb161c7f73d --> |  | 10.0.29639.1000 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/D05CC5163f7000/controlcenter.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -86,7 +80,6 @@
 | c724f6...<!-- c724f6d6a5bc9545826d7463a949a57e645e8b5b4422e8e9da7c7731d5604073 --> | 2026-08-17 | 550f25cd...<!-- 550f25cd-469b-4c98-999c-b2d663f9f56a --> |  | 10.0.28000.2731 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/E024E1AB400000/controlcenter.dll) | ❓ |
 | 99f025...<!-- 99f025a3091bcb068ea9b641e8a42448e1cd6e3542c721cf65b7c11a712a3151 --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> |  | 10.0.28000.2605 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/9C047BD03f6000/controlcenter.dll) | ❓ |
 | c3e67a...<!-- c3e67a7dd819d94df71bd93c54d1beb4a034e4332156f363fef9bc2ff5eee840 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> |  | 10.0.28000.2630 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/AE174B123fb000/controlcenter.dll) | ❓ |
-| 374db3...<!-- 374db38d8661e4fdc5d5eb479e493bb96079491c66cc7484dd2e3131184d2239 --> | 2026-07-31 | b7003d33...<!-- b7003d33-2aee-43be-bcbe-46c9631ad9d5 --> |  | 10.0.28000.2623 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/866CA4E73ff000/controlcenter.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -112,5 +105,3 @@
 | e6a32b...<!-- e6a32be97b58ca283df6142af20915d27eec52d699049f0cb1d81f03061aee4b --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> |  | 10.0.26100.9202 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B37753923d3000/controlcenter.dll) | ❓ |
 | d83d76...<!-- d83d76d500964eb1eb9150362bab96a506b624041841097eac8c9afc5892ec38 --> | 2026-08-16 | 721dfe56...<!-- 721dfe56-4a9a-452f-8e73-934e3ac45619 --> |  | 10.0.26100.9267 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/C47CED1F3d3000/controlcenter.dll) | ❓ |
 | e35dd0...<!-- e35dd0b8940bc97da379c6b3e6a5c5f6d1d6ccbdee2d062d660148c30fcf37af --> | 2026-08-11 | 0485f51d...<!-- 0485f51d-b291-4823-89b8-c6be2fd43fee --> |  | 10.0.26100.8972 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/381C21E73d3000/controlcenter.dll) | ❓ |
-| 4021b7...<!-- 4021b73f26c56d2dea2e10f1612ffa845bd8486310a63108ba75c95b05f981f8 --> | 2026-07-31 | 10c2347e...<!-- 10c2347e-f1b1-43ee-8442-3ded03f519c5 --> |  | 10.0.26100.9032 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/8DCB68D53d3000/controlcenter.dll) | ❓ |
-| 9566a4...<!-- 9566a47a080467ff6b74d88d68b66093818c887cf8b412594f1b6f916988fd8b --> | 2026-07-31 | 83017951...<!-- 83017951-233a-4465-ab28-a6d74c2e1502 --> |  | 10.0.26100.9022 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/9183A8CF3d3000/controlcenter.dll) | ❓ |
