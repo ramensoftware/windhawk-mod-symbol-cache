@@ -120,7 +120,6 @@
 | 166e6e...<!-- 166e6ed3f6673d1578b702075d75f0c780c6e9b9e77db63f00d6e35192b0c328 --> | 2026-08-17 | 550f25cd...<!-- 550f25cd-469b-4c98-999c-b2d663f9f56a --> |  | 10.0.28000.2731 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/741E4D27ed000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/D8DA55C43E532CBB658820DE07AE905B1/logoncontroller.pdb) |
 | 42037b...<!-- 42037bd4160a3e11702e5eeefca542223e48a688da06c64cb07518381cf06908 --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | d1a41f...<!-- d1a41fa6b9ae1436a61f365ab0bf7ec12bd3870300bcfb28007ea49080032eaa --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> |  | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/9E7FBFFDec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/E0B13E07A146FA3F0F4096FF3E0BE9651/logoncontroller.pdb) |
-| 6fa721...<!-- 6fa721295164f0d42667d62b1e77b6eecfac8569f652f8c6b898d515e66640f9 --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> |  | 10.0.28000.2630 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/7207C74Eeb000/logoncontroller.dll) | ❓ |
 
 ### 10.0.26100
 

@@ -128,7 +128,6 @@
 | c33732...<!-- c33732fdcdbdda0a4438d20454abcf144bcf34105ed92add90954e5431c97cbb --> | 2026-08-17 | 550f25cd...<!-- 550f25cd-469b-4c98-999c-b2d663f9f56a --> |  | 10.0.28000.2731 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/6B1FB06571000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/3270B806F34BA8FEF484171B2F7CE91D1/thumbcache.pdb) |
 | e58db3...<!-- e58db34cc3e8c0c17f4b68027975e1ca3c10da18aa01858083b2df714861821d --> | 2026-08-14 | 40e0a64b...<!-- 40e0a64b-c53f-42dc-ba76-8ebfd2e14926 --> |  | 10.0.28000.2796 | 🔴 | ❓ |
 | d6f2fc...<!-- d6f2fcdc54a0ab867f4abdbc009133ae800b0e1cfcb421a6cdc0128fe6871b8b --> | 2026-08-11 | 312f676b...<!-- 312f676b-2cbe-41aa-ba85-85c09c88518c --> | 10.0.28000.2605 | 10.0.28000.2605 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/E48CBB0C72000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/B88A5C00C1922C0054DEED197913B6401/thumbcache.pdb) |
-| 3bc2e6...<!-- 3bc2e6e72b22bd0c5a52ffa108f2a10317689769f44134108e8042edd6002c3a --> | 2026-08-01 | 973afe13...<!-- 973afe13-857e-44d3-9dd3-65f44ba2bdf1 --> |  | 10.0.28000.2630 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/6C9F91C76e000/thumbcache.dll) | ❓ |
 
 ### 10.0.26100
 
