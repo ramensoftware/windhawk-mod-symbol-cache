@@ -1,0 +1,1 @@
+1#twinui.pcshell.dll#x86-64_1723520218_339968#private: struct tagRECT __cdecl SearchBoxOnTaskbarSearchAppPositioner::GetAppRectForSearchBoxOnTaskbar(struct MonitorInfo const &,bool,int,int,bool)##int __cdecl Mirror_IsThreadRTL(void)##private: void __cdecl SearchBoxOnTaskbarSearchAppPositioner::AdjustAppRectForCenterAlignedTaskbar(struct tagRECT *,struct MonitorInfo,int)#
