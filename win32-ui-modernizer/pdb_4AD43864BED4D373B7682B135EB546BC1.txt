@@ -1,1 +1,1 @@
-1#shell32.dll#x86_2165769061_6840320#_DrawPie@20#5158481#void __stdcall _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *)#3760716
+1#shell32.dll#x86_2165769061_6840320#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#5985039#_DrawPie@20#5158481#void __stdcall _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *)#3760716

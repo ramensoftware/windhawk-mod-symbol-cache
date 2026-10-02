@@ -1,0 +1,1 @@
+1#windows.storage.dll#x86-64_3588882976_9089024#private: long __cdecl RegDataDrivenCommand::CheckTogglePane(unsigned long *)#431616#private: long __cdecl RegDataDrivenCommand::_TryPane(int *)#2419724#public: virtual long __cdecl CDefImageRenderer::Draw(struct HDC__ *,struct tagRECT const *)#1444352#private: int __cdecl CDefImageRenderer::_GetOverlayIndex(void)#1447040

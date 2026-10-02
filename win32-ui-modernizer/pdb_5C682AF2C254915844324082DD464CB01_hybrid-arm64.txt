@@ -1,1 +1,1 @@
-1;dui70.dll;arm64_2879428614_3448832;public: void __cdecl DirectUI::Element::PaintBackground(struct HDC__ *,class DirectUI::Value *,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &);217760
+1;dui70.dll;arm64_2879428614_3448832;struct HWND__ * __cdecl DirectUI::GetHwndFromElement(class DirectUI::Element *);432888;public: void __cdecl DirectUI::Element::PaintBackground(struct HDC__ *,class DirectUI::Value *,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &,struct tagRECT const &);217760
