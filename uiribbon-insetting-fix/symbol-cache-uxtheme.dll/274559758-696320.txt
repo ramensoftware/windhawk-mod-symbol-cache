@@ -1,0 +1,1 @@
+1#274559758#696320#int __cdecl _GetNcBtnMetrics(struct _NCWNDMET *,struct _NCTHEMEMET const *,struct HICON__ *,int)#119264#ClassicGetSystemMetrics#119184

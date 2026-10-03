@@ -1,0 +1,1 @@
+1#user32.dll#x86_2773558856_2048000#_GetWindowBordersForDpi@20#860189#struct tagWND * __fastcall ValidateHwnd(struct HWND__ *)#167312#__HasCaptionIcon@8#861130
