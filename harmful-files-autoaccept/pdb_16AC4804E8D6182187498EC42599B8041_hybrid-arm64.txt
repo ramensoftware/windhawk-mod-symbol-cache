@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_3883344575_15581184;public: virtual long __cdecl CSecurityZoneChecker::ShowSecurityZoneDialog(unsigned long,unsigned long,unsigned short const *,struct HWND__ *,struct IUnknown *,int *);3696560
