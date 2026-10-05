@@ -14,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a56b63...<!-- a56b63841a8bd2a5ae9a7529401cd23e2b1513eb96138406e24bc60cc90e0dbb --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/8CDD4686fe000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/CE3A45AF18F05E8CB0F410F32117F0E11/logoncontroller.pdb) |
+| a56b63...<!-- a56b63841a8bd2a5ae9a7529401cd23e2b1513eb96138406e24bc60cc90e0dbb --> | 2026-09-22 | KB5124010 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/8CDD4686fe000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/CE3A45AF18F05E8CB0F410F32117F0E11/logoncontroller.pdb) |
 | b6312d...<!-- b6312d8f81b5308640f8316124b82673fabbd7c1a4246fca565b7d927ebcbb61 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/E65FB9C4ed000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/DB2D6619B047D30FB542059EA8E02CC91/logoncontroller.pdb) |
 | cb188f...<!-- cb188f96247d54103587aac21c3a798e0ef7e2adde60421b526758411dbd21b1 --> | 2026-08-11 | KB5121003 | 10.0.26100.8972 | 10.0.26100.8972 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/57449DE8ec000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A13F991178BDCD74323BD7F2E2B8E62E1/logoncontroller.pdb) |
 
