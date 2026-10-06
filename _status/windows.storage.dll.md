@@ -88,7 +88,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 296fe0...<!-- 296fe0301f899879fa831563dacf740d14baea11fc13b94b295ca8f3d4a81e28 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/windows.storage.dll/E21FA93E8ba000/windows.storage.dll) | ❓ |
+| 296fe0...<!-- 296fe0301f899879fa831563dacf740d14baea11fc13b94b295ca8f3d4a81e28 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.storage.dll/E21FA93E8ba000/windows.storage.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Storage.pdb/DD337E87A8A7B6335C67C0EFC80187801/Windows.Storage.pdb) |
 
 ### 10.0.29671
 

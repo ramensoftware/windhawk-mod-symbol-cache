@@ -78,7 +78,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9010d0...<!-- 9010d030e971b661aeea7804266ad412e73454a75fda92d51db0a0a941af331b --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/applicationframe.dll/FB42EE15ad000/applicationframe.dll) | ❓ |
+| 9010d0...<!-- 9010d030e971b661aeea7804266ad412e73454a75fda92d51db0a0a941af331b --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/FB42EE15ad000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/010781DFA085F026690F5C28BA79A0C11/ApplicationFrame.pdb) |
 
 ### 10.0.29671
 

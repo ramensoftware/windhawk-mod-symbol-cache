@@ -69,7 +69,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a1376d...<!-- a1376db1702c6a13eb72d3fb57a5e2ff4e4d9236513cc1136616d456a25008ba --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/431D76CF159000/securityhealthsso.dll) | ❓ |
+| a1376d...<!-- a1376db1702c6a13eb72d3fb57a5e2ff4e4d9236513cc1136616d456a25008ba --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/431D76CF159000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/AFB382ED98332AF8658D1157CB015AA01/SecurityHealthSSO.pdb) |
 
 ### 10.0.29671
 

@@ -312,7 +312,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 325d24...<!-- 325d2463fb8f30bd0e1e1a25950252006d6ec1fe761ea84dfbe118967fd7a349 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 6.10 | 6.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/comctl32.dll/5CF29CC6278000/comctl32.dll) | ❓ |
+| 325d24...<!-- 325d2463fb8f30bd0e1e1a25950252006d6ec1fe761ea84dfbe118967fd7a349 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 6.10 | 6.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.dll/5CF29CC6278000/comctl32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comctl32.pdb/73A859D7C884414F9A49AB860CD01EA91/comctl32.pdb) |
 
 ### 6.0.29671
 

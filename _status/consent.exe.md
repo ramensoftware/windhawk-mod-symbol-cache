@@ -78,7 +78,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a474cc...<!-- a474cc37c262d2f4bad9f108f811e621a951d75d1e6261e276520051319dac9e --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/consent.exe/489F61C13e000/consent.exe) | ❓ |
+| a474cc...<!-- a474cc37c262d2f4bad9f108f811e621a951d75d1e6261e276520051319dac9e --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/489F61C13e000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/CAED23A084491419D8F30537BF19CF011/consent.pdb) |
 
 ### 10.0.29671
 

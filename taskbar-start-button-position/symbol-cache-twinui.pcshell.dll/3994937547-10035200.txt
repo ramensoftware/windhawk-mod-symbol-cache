@@ -1,0 +1,1 @@
+1#3994937547#10035200#private: struct tagRECT __cdecl SearchBoxOnTaskbarSearchAppPositioner::GetAppRectForSearchBoxOnTaskbar(struct MonitorInfo const &,bool,int,int,bool)#4702828#int __cdecl Mirror_IsThreadRTL(void)#126496#private: void __cdecl SearchBoxOnTaskbarSearchAppPositioner::AdjustAppRectForCenterAlignedTaskbar(struct tagRECT *,struct MonitorInfo,int)#4700828

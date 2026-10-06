@@ -77,7 +77,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c37a52...<!-- c37a52fe30dc020927748232950330628f8728dbf3a3e65003c22bdd2d09cddc --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/rundll32.exe/C3444C3517000/rundll32.exe) | ❓ |
+| c37a52...<!-- c37a52fe30dc020927748232950330628f8728dbf3a3e65003c22bdd2d09cddc --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.exe/C3444C3517000/rundll32.exe) | [🟢](https://msdl.microsoft.com/download/symbols/rundll32.pdb/C7DB5BFF91FDFD080F6C6369E85B812B1/rundll32.pdb) |
 
 ### 10.0.29671
 

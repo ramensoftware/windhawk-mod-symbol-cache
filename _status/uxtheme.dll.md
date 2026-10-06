@@ -88,7 +88,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| cb5aca...<!-- cb5aca70594f58fabb2d3068e895574366dea7ed63fc0a8047865ef4f21eb138 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/uxtheme.dll/209CAF5Da6000/uxtheme.dll) | ❓ |
+| cb5aca...<!-- cb5aca70594f58fabb2d3068e895574366dea7ed63fc0a8047865ef4f21eb138 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/209CAF5Da6000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/1EE55E622E1E4C8685C603D48C6463481/uxtheme.pdb) |
 
 ### 10.0.29671
 

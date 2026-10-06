@@ -80,7 +80,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bb3bdb...<!-- bb3bdb01597e3af2ed2cf32c061c620c98e2e9990a29df5cc556bf19eace2c28 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/winlogon.exe/E40A9148ec000/winlogon.exe) | ❓ |
+| bb3bdb...<!-- bb3bdb01597e3af2ed2cf32c061c620c98e2e9990a29df5cc556bf19eace2c28 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/E40A9148ec000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/1BD35827FD6DCFC93D1C4703E6B42F221/winlogon.pdb) |
 
 ### 10.0.29671
 

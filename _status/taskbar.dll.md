@@ -58,7 +58,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 30fcf9...<!-- 30fcf9522913a4f4ece606ad5994e74505a0d0400b93ced94d073be3ea428292 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/taskbar.dll/54A1AD6B312000/taskbar.dll) | ❓ |
+| 30fcf9...<!-- 30fcf9522913a4f4ece606ad5994e74505a0d0400b93ced94d073be3ea428292 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/54A1AD6B312000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/2AE031BAEF098A4D8D7FC6958B53FF381/Taskbar.pdb) |
 
 ### 10.0.29671
 

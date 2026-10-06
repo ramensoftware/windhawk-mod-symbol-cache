@@ -79,7 +79,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 68cd5f...<!-- 68cd5f974005036bc94454065b9837287481854e8b49432f87edb73f04082451 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/wpdshext.dll/D8EA73A9a7000/wpdshext.dll) | ❓ |
+| 68cd5f...<!-- 68cd5f974005036bc94454065b9837287481854e8b49432f87edb73f04082451 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.dll/D8EA73A9a7000/wpdshext.dll) | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/681D27A719B6E71344E09B82F64EF7751/wpdshext.pdb) |
 
 ### 10.0.29671
 

@@ -42,7 +42,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e51fbb...<!-- e51fbbfd07135033c298c28903583ea8f71b60d6fabc4c64c2c663f9f564c5ca --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> |  | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6BBFA410418000/controlcenter.dll) | ❓ |
+| e51fbb...<!-- e51fbbfd07135033c298c28903583ea8f71b60d6fabc4c64c2c663f9f564c5ca --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> |  | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6BBFA410418000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/A50BD542632E96715E7363B6433A5A9B1/ControlCenter.pdb) |
 
 ### 10.0.29671
 

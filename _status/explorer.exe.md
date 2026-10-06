@@ -84,7 +84,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ced4b5...<!-- ced4b59cdd1079c2c6bff32ae7c37b0781ae0ea3788d63ca9d40368e861fd89e --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/explorer.exe/626D56FE324000/explorer.exe) | ❓ |
+| ced4b5...<!-- ced4b59cdd1079c2c6bff32ae7c37b0781ae0ea3788d63ca9d40368e861fd89e --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/626D56FE324000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/40198B7C9E4E2783C09C11928FEE98081/explorer.pdb) |
 
 ### 10.0.29671
 

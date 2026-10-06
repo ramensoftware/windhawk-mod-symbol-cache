@@ -102,7 +102,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ec3836...<!-- ec38361f74260bf4a1d949bb2cdd924a51d14ce0dc44c36a29cfa2d119f9e0e8 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/comdlg32.dll/0009FDB0e8000/comdlg32.dll) | ❓ |
+| ec3836...<!-- ec38361f74260bf4a1d949bb2cdd924a51d14ce0dc44c36a29cfa2d119f9e0e8 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/0009FDB0e8000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/2459675F45E80BE852013B528E86DBCB1/comdlg32.pdb) |
 
 ### 10.0.29671
 

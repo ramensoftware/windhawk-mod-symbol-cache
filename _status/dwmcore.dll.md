@@ -83,7 +83,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 262db8...<!-- 262db8505899edc7d8de820fdce1efa1b0879ca994ed99a2f950ba4c76bc6110 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/dwmcore.dll/6459EEC93e0000/dwmcore.dll) | ❓ |
+| 262db8...<!-- 262db8505899edc7d8de820fdce1efa1b0879ca994ed99a2f950ba4c76bc6110 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/6459EEC93e0000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/32F6EA2AD99E82FF06F8B6BA6068809C1/dwmcore.pdb) |
 
 ### 10.0.29671
 

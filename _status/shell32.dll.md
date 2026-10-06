@@ -105,7 +105,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8d35e7...<!-- 8d35e7a747e77c52d0972e06a2387d29fe0880b49c5db742efabdb60885bc010 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/shell32.dll/2279AAD275e000/shell32.dll) | ❓ |
+| 8d35e7...<!-- 8d35e7a747e77c52d0972e06a2387d29fe0880b49c5db742efabdb60885bc010 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/shell32.dll/2279AAD275e000/shell32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shell32.pdb/9AEBCD7CEA66988F436F79A9FD18F6C81/shell32.pdb) |
 
 ### 10.0.29671
 

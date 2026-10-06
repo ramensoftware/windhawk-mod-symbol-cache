@@ -80,7 +80,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 421083...<!-- 4210834b3f8f930fb3d767cfab2926ecef6be4bdf90ff5da1a4c939d040c7621 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/themeui.dll/1D756C1997000/themeui.dll) | ❓ |
+| 421083...<!-- 4210834b3f8f930fb3d767cfab2926ecef6be4bdf90ff5da1a4c939d040c7621 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/1D756C1997000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/BB3BB690488276C43F3467770B7ED0941/ThemeUI.pdb) |
 
 ### 10.0.29671
 

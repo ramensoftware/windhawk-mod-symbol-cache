@@ -111,7 +111,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1af354...<!-- 1af3548260c5a293d631b9442d05564518f0fef70c5ee1f052a7cf2b61b92fdb --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/shlwapi.dll/571B272D60000/shlwapi.dll) | ❓ |
+| 1af354...<!-- 1af3548260c5a293d631b9442d05564518f0fef70c5ee1f052a7cf2b61b92fdb --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/571B272D60000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/195F6C8A3B9E6122F9BBC52CCB8410971/shlwapi.pdb) |
 
 ### 10.0.29671
 
