@@ -83,7 +83,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7bcf28...<!-- 7bcf28a42ab303d0bac229e063defaee35098289c39a51eb2f608e2368c0af75 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/twinui.dll/78AEBE81505000/twinui.dll) | ❓ |
+| 7bcf28...<!-- 7bcf28a42ab303d0bac229e063defaee35098289c39a51eb2f608e2368c0af75 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/78AEBE81505000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/DE5037894FBEB1E2B0EFB61CECE98DF21/twinui.pdb) |
 
 ### 10.0.29671
 
