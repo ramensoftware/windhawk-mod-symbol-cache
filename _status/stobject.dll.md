@@ -80,7 +80,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c0f7d6...<!-- c0f7d6e498e702ced1c6a94e4f863c9b0909845dd5ce7df58f933a145a5d4e5e --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/stobject.dll/114839E560000/stobject.dll) | ❓ |
+| c0f7d6...<!-- c0f7d6e498e702ced1c6a94e4f863c9b0909845dd5ce7df58f933a145a5d4e5e --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/114839E560000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/B9DCAC1D3517448867C4EBF62F54787A1/stobject.pdb) |
 
 ### 10.0.29671
 

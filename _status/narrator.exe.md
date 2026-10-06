@@ -80,7 +80,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e5f29f...<!-- e5f29f348ec23c61a331c16518314e9cfae2b21729fb8e4c382a45746b782b10 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/narrator.exe/38B762F7121000/narrator.exe) | ❓ |
+| e5f29f...<!-- e5f29f348ec23c61a331c16518314e9cfae2b21729fb8e4c382a45746b782b10 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/narrator.exe/38B762F7121000/narrator.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Narrator.pdb/F47DD6C5DF15C60F84C17B924BC67EFC1/Narrator.pdb) |
 
 ### 10.0.29671
 

@@ -82,7 +82,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c0f291...<!-- c0f291acc41b9d3e8c5a43b43e1611be705d3df6919083a6c56e293276b13ccb --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/dui70.dll/C962D39C1a1000/dui70.dll) | ❓ |
+| c0f291...<!-- c0f291acc41b9d3e8c5a43b43e1611be705d3df6919083a6c56e293276b13ccb --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/C962D39C1a1000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/1EB38761836C0EA00B466134D53489881/DUI70.pdb) |
 
 ### 10.0.29671
 

@@ -77,7 +77,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7b472a...<!-- 7b472a00f389f9b11b64cc620df34fd09eef29f59d187e6dbd5ea5c4f285c1b8 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/7FE856683f000/sndvolsso.dll) | ❓ |
+| 7b472a...<!-- 7b472a00f389f9b11b64cc620df34fd09eef29f59d187e6dbd5ea5c4f285c1b8 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/7FE856683f000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/3DBFB465C6EC397CC9D1951DA627A3D51/SndVolSSO.pdb) |
 
 ### 10.0.29671
 

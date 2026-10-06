@@ -77,7 +77,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2d89f2...<!-- 2d89f266ee2c42ce88b777c6033ecd6691231daf03c4bd9dd0af2b8064f4a5aa --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/usoapi.dll/3C72A4B633000/usoapi.dll) | ❓ |
+| 2d89f2...<!-- 2d89f266ee2c42ce88b777c6033ecd6691231daf03c4bd9dd0af2b8064f4a5aa --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/3C72A4B633000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/C4DBC2787599440EB69ACB23F854D29D1/UsoApi.pdb) |
 
 ### 10.0.29671
 

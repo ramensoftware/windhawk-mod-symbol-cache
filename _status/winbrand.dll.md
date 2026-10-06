@@ -78,7 +78,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a9a400...<!-- a9a4005758f8e87947139b41ef1e4ab839612f3e337c4959c7dc8282f3a1a025 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/winbrand.dll/EF4A882F31000/winbrand.dll) | ❓ |
+| a9a400...<!-- a9a4005758f8e87947139b41ef1e4ab839612f3e337c4959c7dc8282f3a1a025 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/EF4A882F31000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/6ECBEE0019621425551DA402991B9EB71/winbrand.pdb) |
 
 ### 10.0.29671
 

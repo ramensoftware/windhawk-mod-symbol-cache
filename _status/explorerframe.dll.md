@@ -80,7 +80,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 221d7c...<!-- 221d7c72a19746b586b93f50fdbf3fabc0d625205315b776af0faf7ee730d9cb --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/explorerframe.dll/1DC54F782f1000/explorerframe.dll) | ❓ |
+| 221d7c...<!-- 221d7c72a19746b586b93f50fdbf3fabc0d625205315b776af0faf7ee730d9cb --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/explorerframe.dll/1DC54F782f1000/explorerframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/13625C420396417CB6EAF319E20EE0DA1/ExplorerFrame.pdb) |
 
 ### 10.0.29671
 

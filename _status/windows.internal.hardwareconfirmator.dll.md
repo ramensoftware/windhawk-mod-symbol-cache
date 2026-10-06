@@ -53,7 +53,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ba6ac4...<!-- ba6ac400a5447939e55a5ef5eada670b763c110adf14ed33d00a40bd5cbe6c10 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/BD559C619c000/windows.internal.hardwareconfirmator.dll) | ❓ |
+| ba6ac4...<!-- ba6ac400a5447939e55a5ef5eada670b763c110adf14ed33d00a40bd5cbe6c10 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/BD559C619c000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/B82F95B2B330E12173C39E530F0C04E21/Windows.Internal.HardwareConfirmator.pdb) |
 
 ### 10.0.29671
 

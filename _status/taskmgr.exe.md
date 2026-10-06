@@ -94,7 +94,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c134e9...<!-- c134e97f4781d4f8f36edec342704d1e561a3c3e91e08a3e378cee19853b832f --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/taskmgr.exe/BA62ADE2564000/taskmgr.exe) | ❓ |
+| c134e9...<!-- c134e97f4781d4f8f36edec342704d1e561a3c3e91e08a3e378cee19853b832f --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/BA62ADE2564000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/EF480A12DEC91EFA0D259435E79B46F91/Taskmgr.pdb) |
 
 ### 10.0.29671
 
