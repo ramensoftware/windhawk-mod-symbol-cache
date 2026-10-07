@@ -1,0 +1,1 @@
+1#3403251920#9084928#public: virtual long __cdecl CShellItem::GetDisplayName(enum _SIGDN,unsigned short * *)#510112#public: virtual long __cdecl CShellItem::GetDisplayName(enum _SIGDN,unsigned short **)##public: virtual long __cdecl CShellItem::GetDisplayName(enum _SIGDN,wchar_t * *)##public: virtual long __cdecl CShellItem::GetDisplayName(enum _SIGDN,wchar_t **)#
