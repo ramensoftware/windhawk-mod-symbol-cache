@@ -1,0 +1,1 @@
+1#comctl32.dll#x86_1777948721_2273280#_DrawShadowTextEx@44#589536#_FillRectClr@12#768239#struct HBRUSH__ * __stdcall ListBox_GetBrush(struct tagLBIV *,struct HBRUSH__ * *)#1224707#void __stdcall ComboEx_OnDrawItem(struct COMBOEX *,struct tagDRAWITEMSTRUCT *)#128616#_SHThemeDrawText@56#587712

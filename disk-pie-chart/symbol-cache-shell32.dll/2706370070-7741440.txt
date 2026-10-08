@@ -1,0 +1,1 @@
+1#2706370070#7741440#void __cdecl _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *)#3084656#DrawPie#4470752

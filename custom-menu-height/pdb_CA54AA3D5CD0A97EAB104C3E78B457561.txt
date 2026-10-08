@@ -1,0 +1,1 @@
+1#museuxdocked.dll#x86-64_836777685_102400#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#53064

@@ -1,0 +1,1 @@
+1#165226745#5853184#public: long __cdecl CAdapter::Update(bool *,unsigned long)#250104#public: unsigned __int64 __cdecl CAdapter::GetAdapterStat(unsigned long,enum NETCOLUMNID,int)#252512#private: void __cdecl CAdapter::UpdateDNSName(unsigned short const *,struct ADAPTER_INFOEX *)#255340
