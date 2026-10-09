@@ -1,0 +1,1 @@
+1#1101627365#2805760#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#
