@@ -17,6 +17,11 @@ from manual_pdb import synthesize_pdb_lookup_pe
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
 BINARY_MAX_AGE_DAYS_BEFORE_DELETION = 60
 
+# Insider binaries without a virtual size in Winbindex are probed with every
+# candidate size, and ones which aren't on the symbol server shortly after the
+# build is released rarely appear later, so they're only tried while recent.
+INSIDER_BINARY_WITHOUT_SIZE_MAX_AGE_DAYS_TO_DOWNLOAD = 2
+
 NAMES_TO_ALLOW_404 = [
     # Old binary, missing in insider builds.
     'explorerextensions.dll',
@@ -211,20 +216,6 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
                 print(f'Skipping {hash} which is too old: {age_days} days')
             continue
 
-        if 'virtualSize' in hash_file_info:
-            file_url = make_symbol_server_url(name, hash_file_info['timestamp'], hash_file_info['virtualSize'])
-        else:
-            file_url = '\t'.join(make_symbol_server_candidate_urls(name,
-                                                                   hash_file_info['timestamp'],
-                                                                   hash_file_info['size'],
-                                                                   hash_file_info['lastSectionPointerToRawData'],
-                                                                   hash_file_info['lastSectionVirtualAddress']))
-
-        aria2c_list += f'{file_url}\n'
-        aria2c_list += f'  dir={file_path.parent}\n'
-        aria2c_list += f'  out={file_path.name}\n'
-        aria2c_list += f'  auto-file-renaming=false\n'
-
         # Match the manual mapping by timestamp; the (timestamp, image_size) key
         # is unique per build but Winbindex's virtualSize is sometimes absent or
         # differs slightly, so we don't compare on size and pull image_size out
@@ -243,6 +234,24 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
                 ))
                 break
 
+        if 'virtualSize' in hash_file_info:
+            file_url = make_symbol_server_url(name, hash_file_info['timestamp'], hash_file_info['virtualSize'])
+        elif insider and age_days > INSIDER_BINARY_WITHOUT_SIZE_MAX_AGE_DAYS_TO_DOWNLOAD:
+            if VERBOSE_OUTPUT:
+                print(f'Skipping {hash} which is an insider binary without size: {age_days} days')
+            continue
+        else:
+            file_url = '\t'.join(make_symbol_server_candidate_urls(name,
+                                                                   hash_file_info['timestamp'],
+                                                                   hash_file_info['size'],
+                                                                   hash_file_info['lastSectionPointerToRawData'],
+                                                                   hash_file_info['lastSectionVirtualAddress']))
+
+        aria2c_list += f'{file_url}\n'
+        aria2c_list += f'  dir={file_path.parent}\n'
+        aria2c_list += f'  out={file_path.name}\n'
+        aria2c_list += f'  auto-file-renaming=false\n'
+
     if aria2c_list:
         # Can't use stdin due to the following bug:
         # https://github.com/aria2/aria2/issues/2138
@@ -259,9 +268,9 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
             os.unlink(aria2c_list_tmp.name)
 
     # For any manual-mapping hashes whose real binary didn't land, drop a
-    # synthetic PE in its place so script 03 can resolve symbols normally. We
-    # still attempted the download above, so MSDL restorations are picked up
-    # automatically; synth PEs only appear when the download genuinely failed.
+    # synthetic PE in its place so script 03 can resolve symbols normally. Where
+    # the download was attempted above, MSDL restorations are picked up
+    # automatically and synth PEs only appear when it genuinely failed.
     for file_path, machine, timestamp, image_size, manual_entry in manual_synth_candidates:
         if file_path.exists():
             continue
