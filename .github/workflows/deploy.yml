@@ -29,6 +29,11 @@ jobs:
           repository: ramensoftware/windhawk-mods
           ref: pages
           path: windhawk-mods
+          sparse-checkout: |
+            /mods/*.wh.cpp
+            /mods/*/*.wh.cpp
+            /mods/*/versions.json
+          sparse-checkout-cone-mode: false
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
