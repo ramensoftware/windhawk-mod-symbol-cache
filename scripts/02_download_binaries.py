@@ -1,19 +1,16 @@
-import gzip
 import json
 import os
 import re
 import shutil
 import subprocess
 import tempfile
-import time
 from argparse import ArgumentParser
 from datetime import datetime
 from pathlib import Path
 
-import requests
-
 from manual_pdb import synthesize_pdb_lookup_pe
 from symbols_file import SYMBOLS_FILE_SUFFIX
+from winbindex import download_winbindex_data, load_winbindex_data
 
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
 BINARY_MAX_AGE_DAYS_BEFORE_DELETION = 60
@@ -22,13 +19,6 @@ BINARY_MAX_AGE_DAYS_BEFORE_DELETION = 60
 # candidate size, and ones which aren't on the symbol server shortly after the
 # build is released rarely appear later, so they're only tried while recent.
 INSIDER_BINARY_WITHOUT_SIZE_MAX_AGE_DAYS_TO_DOWNLOAD = 2
-
-NAMES_TO_ALLOW_404 = [
-    # Old binary, missing in insider builds.
-    'explorerextensions.dll',
-    # New binary, not available in stable builds yet.
-    'systemtray.dll',
-]
 
 # Manual (binary, timestamp, image_size) -> (pdb_filename, pdb_fingerprint)
 # mappings extracted from Windhawk debug logs. When a binary isn't on the symbol
@@ -98,40 +88,10 @@ def make_symbol_server_candidate_urls(file_name,
     return urls
 
 
-def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, manual_pdb_mapping: dict, target_arch: str, insider=False):
-    def djb2_hash(s):
-        h = 5381
-        for c in s:
-            h = ((h << 5) + h + ord(c)) & 0xFFFFFFFF
-        return h
-
-    if insider:
-        url = f'https://m417z.com/winbindex-data-insider/by_filename_compressed/{djb2_hash(name) & 0xFF:02x}/{name}.json.gz'
-    elif target_arch == 'arm64':
-        url = f'https://m417z.com/winbindex-data-arm64/by_filename_compressed/{name}.json.gz'
-    else:
-        url = f'https://winbindex.m417z.com/data/by_filename_compressed/{name}.json.gz'
-
-    while True:
-        try:
-            r = requests.get(url)
-            if 500 <= r.status_code < 600:
-                raise Exception(f'Server Error: {r.status_code} for url: {url}')
-            break
-        except Exception as e:
-            print(f'ERROR: failed to get {url}, retrying in 10 seconds')
-            print(f'       {e}')
-            time.sleep(10)
-
-    if 400 <= r.status_code < 500:
-        if r.status_code == 404 and name in NAMES_TO_ALLOW_404:
-            return
-
-        raise Exception(f'Client Error: {r.status_code} for url: {url}')
-
-    data_compressed = r.content
-    data_json_str = gzip.decompress(data_compressed).decode()
-    data = json.loads(data_json_str)
+def download_binaries_from_symbol_server(name: str, target_folder: Path, previous_folder: Path, winbindex_folder: Path, manual_pdb_mapping: dict, target_arch: str, insider=False):
+    data = load_winbindex_data(winbindex_folder, name, target_arch, insider)
+    if data is None:
+        return
 
     aria2c_list = ''
     # (file_path, machine, timestamp, image_size, manual_entry) per entry.
@@ -285,7 +245,7 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         print(f'Wrote synth PE for {file_path.name}')
 
 
-def download_modules(module: tuple[str, str], binaries_folder: Path, previous_binaries_folder: Path, manual_pdb_mapping: dict):
+def download_modules(module: tuple[str, str], binaries_folder: Path, previous_binaries_folder: Path, winbindex_folder: Path, manual_pdb_mapping: dict):
     arch, module_name = module
 
     target_folder = binaries_folder / module_name / arch
@@ -293,8 +253,8 @@ def download_modules(module: tuple[str, str], binaries_folder: Path, previous_bi
 
     previous_folder = previous_binaries_folder / module_name / arch
 
-    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, manual_pdb_mapping, arch)
-    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, manual_pdb_mapping, arch, insider=True)
+    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, winbindex_folder, manual_pdb_mapping, arch)
+    download_binaries_from_symbol_server(module_name, target_folder, previous_folder, winbindex_folder, manual_pdb_mapping, arch, insider=True)
 
 
 def main():
@@ -302,17 +262,25 @@ def main():
     parser.add_argument('extracted_symbols', type=Path)
     parser.add_argument('binaries_folder', type=Path)
     parser.add_argument('previous_binaries_folder', type=Path)
+    parser.add_argument('winbindex_folder', type=Path)
     args = parser.parse_args()
 
     extracted_symbols = args.extracted_symbols
     binaries_folder = args.binaries_folder
     previous_binaries_folder = args.previous_binaries_folder
+    winbindex_folder = args.winbindex_folder
 
     modules = get_modules_from_extracted_symbols(extracted_symbols)
     manual_pdb_mapping = load_manual_pdb_mappings(MANUAL_PDB_MAPPINGS_PATH)
 
+    download_winbindex_data(winbindex_folder, [
+        (module_name, arch, insider)
+        for arch, module_name in modules
+        for insider in (False, True)
+    ])
+
     for module in modules:
-        download_modules(module, binaries_folder, previous_binaries_folder, manual_pdb_mapping)
+        download_modules(module, binaries_folder, previous_binaries_folder, winbindex_folder, manual_pdb_mapping)
 
     if previous_binaries_folder.exists():
         shutil.rmtree(previous_binaries_folder)

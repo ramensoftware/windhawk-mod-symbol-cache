@@ -72,7 +72,8 @@ jobs:
           python -u main/scripts/02_download_binaries.py \
             extracted_symbols.json \
             binaries \
-            binaries_previous
+            binaries_previous \
+            winbindex
       - name: Run 03_extract_symbols_from_binaries
         run: |
           python -u main/scripts/03_extract_symbols_from_binaries.py \
@@ -133,6 +134,7 @@ jobs:
           python -u main/scripts/05_create_status.py \
             extracted_symbols.json \
             binaries \
+            winbindex \
             symbol_cache/_status
 
       - name: Deploy

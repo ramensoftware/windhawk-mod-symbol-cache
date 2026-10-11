@@ -1,14 +1,11 @@
-import gzip
 import json
 from argparse import ArgumentParser
-from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 
-import requests
-
 from symbols_file import SYMBOLS_FILE_SUFFIX, read_symbols_file_pe_info
+from winbindex import download_winbindex_data, load_winbindex_data
 
 SYMBOL_SERVER_BASE = 'https://msdl.microsoft.com/download/symbols'
 
@@ -30,17 +27,6 @@ MACHINE_TYPE_TO_ARCH: dict[int, str] = {
     43620: 'arm64',
     452: 'arm',
 }
-
-# Kept in sync with NAMES_TO_ALLOW_404 in 02_download_binaries.py: the status
-# page should not be more permissive than the script that drives the cache.
-NAMES_TO_ALLOW_404 = [
-    # Old binary, missing in insider builds.
-    'explorerextensions.dll',
-    # New binary, not available in stable builds yet.
-    'systemtray.dll',
-]
-
-WINBINDEX_FETCH_WORKERS = 8
 
 # Matches BINARY_MAX_AGE_DAYS_BEFORE_DELETION in 02_download_binaries.py - older
 # entries don't have local cache info, so reporting on them is uninformative.
@@ -76,53 +62,6 @@ class StatusRow:
     file_available: bool
     pdb_url: str | None
     pdb_available: bool
-
-
-def djb2_hash(s: str) -> int:
-    h = 5381
-    for c in s:
-        h = ((h << 5) + h + ord(c)) & 0xFFFFFFFF
-    return h
-
-
-def fetch_winbindex_data(session: requests.Session, name: str, target_arch: str, insider: bool):
-    if insider:
-        url = (
-            f'https://m417z.com/winbindex-data-insider/by_filename_compressed/'
-            f'{djb2_hash(name) & 0xFF:02x}/{name}.json.gz'
-        )
-    elif target_arch == 'arm64':
-        url = f'https://m417z.com/winbindex-data-arm64/by_filename_compressed/{name}.json.gz'
-    else:
-        url = f'https://winbindex.m417z.com/data/by_filename_compressed/{name}.json.gz'
-
-    r = session.get(url, timeout=60)
-    if r.status_code == 404 and name in NAMES_TO_ALLOW_404:
-        return None
-    r.raise_for_status()
-    return json.loads(gzip.decompress(r.content).decode())
-
-
-def fetch_all_winbindex_data(modules: list[str]) -> dict[tuple[str, str], dict | None]:
-    """Fetch Winbindex data for every (module, variant) pair in parallel."""
-    tasks = [
-        (name, label, target_arch, insider)
-        for name in modules
-        for label, target_arch, insider in ARCH_VARIANTS
-    ]
-
-    session = requests.Session()
-
-    def fetch(task):
-        name, label, target_arch, insider = task
-        data = fetch_winbindex_data(session, name, target_arch, insider)
-        return (name, label), data
-
-    cache: dict[tuple[str, str], dict | None] = {}
-    with ThreadPoolExecutor(max_workers=WINBINDEX_FETCH_WORKERS) as ex:
-        for key, data in ex.map(fetch, tasks):
-            cache[key] = data
-    return cache
 
 
 def make_file_url(file_name: str, timestamp: int, virtual_size: int) -> str:
@@ -512,15 +451,18 @@ def render_toc(names: list[str]) -> str:
     return '\n'.join(lines) + '\n'
 
 
-def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_folder: Path):
+def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex_folder: Path, status_folder: Path):
     status_folder.mkdir(parents=True, exist_ok=True)
 
     module_archs = get_modules_from_extracted_symbols(extracted_symbols_path)
     modules = sorted(module_archs)
     manual_pdb_mapping = load_manual_pdb_mappings(MANUAL_PDB_MAPPINGS_PATH)
 
-    print(f'Fetching Winbindex data for {len(modules)} binaries')
-    winbindex_cache = fetch_all_winbindex_data(modules)
+    download_winbindex_data(winbindex_folder, [
+        (name, target_arch, insider)
+        for name in modules
+        for _, target_arch, insider in ARCH_VARIANTS
+    ])
 
     now = datetime.now()
 
@@ -532,7 +474,7 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, status_fo
         arch_sections: dict[str, str] = {}
         for label, target_arch, insider in ARCH_VARIANTS:
             attempted = target_arch in attempted_archs
-            data = winbindex_cache.get((name, label))
+            data = load_winbindex_data(winbindex_folder, name, target_arch, insider)
             rows = collect_rows(
                 name, target_arch, insider, attempted, data, local_map, manual_pdb_mapping, now
             )
@@ -549,10 +491,11 @@ def main():
     parser = ArgumentParser()
     parser.add_argument('extracted_symbols_path', type=Path)
     parser.add_argument('binaries_folder', type=Path)
+    parser.add_argument('winbindex_folder', type=Path)
     parser.add_argument('status_folder', type=Path)
     args = parser.parse_args()
 
-    create_status(args.extracted_symbols_path, args.binaries_folder, args.status_folder)
+    create_status(args.extracted_symbols_path, args.binaries_folder, args.winbindex_folder, args.status_folder)
 
 
 if __name__ == '__main__':
