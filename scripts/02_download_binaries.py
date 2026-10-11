@@ -9,7 +9,7 @@ from datetime import datetime
 from pathlib import Path
 
 from manual_pdb import synthesize_pdb_lookup_pe
-from symbols_file import SYMBOLS_FILE_SUFFIX
+from symbols_file import ADDRESSES_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX
 from winbindex import download_winbindex_data, load_winbindex_data
 
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
@@ -154,15 +154,19 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
 
         file_path = target_folder / file_name
         file_path_symbols = file_path.with_name(file_path.name + SYMBOLS_FILE_SUFFIX)
+        file_path_addresses = file_path.with_name(file_path.name + ADDRESSES_FILE_SUFFIX)
 
         previous_file_path = previous_folder / file_name
         previous_file_path_symbols = previous_file_path.with_name(previous_file_path.name + SYMBOLS_FILE_SUFFIX)
+        previous_file_path_addresses = previous_file_path.with_name(previous_file_path.name + ADDRESSES_FILE_SUFFIX)
 
         if VERBOSE_OUTPUT:
             print(file_path)
 
         if previous_file_path_symbols.exists():
             previous_file_path_symbols.rename(file_path_symbols)
+            if previous_file_path_addresses.exists():
+                previous_file_path_addresses.rename(file_path_addresses)
             continue
 
         if previous_file_path.exists():

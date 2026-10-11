@@ -12,6 +12,9 @@ from compression import zstd
 
 SYMBOLS_FILE_SUFFIX = '.txt.zst'
 
+# The addresses which were found in a symbols file are kept next to it.
+ADDRESSES_FILE_SUFFIX = '.addresses.json'
+
 # A file is written once and then read on every run. Higher levels barely make
 # the files smaller and compress several times slower.
 _COMPRESSION_LEVEL = 9

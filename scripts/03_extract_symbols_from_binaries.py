@@ -7,7 +7,8 @@ from struct import unpack
 
 import pefile
 
-from symbols_file import SYMBOLS_FILE_SUFFIX, write_symbols_file
+from symbols_file import (ADDRESSES_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX,
+                          write_symbols_file)
 
 POOL_PROCESSES = 4
 
@@ -172,7 +173,8 @@ def extract_all_symbols(binaries_folder: Path,
     symbols_path_resolved = symbols_path.resolve()    
 
     paths = list(p for p in binaries_folder.rglob('*')
-                 if p.is_file() and not p.name.endswith(SYMBOLS_FILE_SUFFIX))
+                 if p.is_file() and not p.name.endswith((SYMBOLS_FILE_SUFFIX,
+                                                         ADDRESSES_FILE_SUFFIX)))
 
     with Pool(POOL_PROCESSES) as pool:
         errors = pool.starmap(extract_all_symbols_worker, zip(

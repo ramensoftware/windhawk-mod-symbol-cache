@@ -53,10 +53,12 @@ jobs:
           key: cache-binaries-and-symbols-v2-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: cache-binaries-and-symbols-v2-
 
-      - name: Calculate cache file list hash (before)
-        id: cache-file-list-hash-before
+      # The hash covers modification times as well, since an addresses file is
+      # written again by script 04 under the same name.
+      - name: Calculate cache hash (before)
+        id: cache-hash-before
         run: |
-          echo "hash=$(find binaries -type f | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
+          echo "hash=$(find binaries -type f -printf '%p %T@\n' | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
 
       - name: Rename cache folder
         if: ${{ steps.cache-binaries-and-symbols.outputs.cache-matched-key != '' }}
@@ -82,15 +84,15 @@ jobs:
             main/scripts/tools \
             symbols
 
-      - name: Calculate cache file list hash (after)
-        id: cache-file-list-hash-after
+      - name: Calculate cache hash (after)
+        id: cache-hash-after
         run: |
-          echo "hash=$(find binaries -type f | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
+          echo "hash=$(find binaries -type f -printf '%p %T@\n' | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
 
-      - name: Cache file list changed?
-        id: cache-file-list-changed
+      - name: Cache changed?
+        id: cache-changed
         run: |
-          if [ "${{ steps.cache-file-list-hash-before.outputs.hash }}" = "${{ steps.cache-file-list-hash-after.outputs.hash }}" ]; then
+          if [ "${{ steps.cache-hash-before.outputs.hash }}" = "${{ steps.cache-hash-after.outputs.hash }}" ]; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -115,19 +117,19 @@ jobs:
       - name: Run 04_create_mod_cache
         if: >-
           ${{
-            steps.cache-file-list-changed.outputs.changed == 'true' ||
+            steps.cache-changed.outputs.changed == 'true' ||
             steps.last-deploy-commit-message-changed.outputs.changed == 'true'
           }}
         run: |
           python -u main/scripts/04_create_mod_cache.py \
             binaries \
             extracted_symbols.json \
-            symbol_cache
+            symbol_cache.fi
 
       - name: Run 05_create_status
         if: >-
           ${{
-            steps.cache-file-list-changed.outputs.changed == 'true' ||
+            steps.cache-changed.outputs.changed == 'true' ||
             steps.last-deploy-commit-message-changed.outputs.changed == 'true'
           }}
         run: |
@@ -135,34 +137,45 @@ jobs:
             extracted_symbols.json \
             binaries \
             winbindex \
-            symbol_cache/_status
+            status.fi
 
+      # The generated files replace the whole tree (deleteall), and the commit is
+      # created even if nothing changed, to record what was deployed.
       - name: Deploy
         if: >-
           ${{
-            steps.cache-file-list-changed.outputs.changed == 'true' ||
+            steps.cache-changed.outputs.changed == 'true' ||
             steps.last-deploy-commit-message-changed.outputs.changed == 'true'
           }}
         run: |
-          src_dir=symbol_cache
           deploy_dir="${{ runner.temp }}/deploy"
           deploy_branch=gh-pages
+          message="deploy: ${{ github.sha }}, mods@${{ steps.checkout-windhawk-mods.outputs.commit }}"
 
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           echo Cloning the repository
-          git clone -c maintenance.auto=false --branch $deploy_branch --depth 1 --no-checkout https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git "$deploy_dir"
-          echo Adding generated files to the repository
-          git --git-dir="$deploy_dir/.git" --work-tree="$src_dir" add -A
-          touch "$deploy_dir/.nojekyll"
-          git -C "$deploy_dir" add .nojekyll
-          echo Committing changes
-          git -C "$deploy_dir" commit -m "deploy: ${{ github.sha }}, mods@${{ steps.checkout-windhawk-mods.outputs.commit }}" --allow-empty
+          git clone --branch $deploy_branch --depth 1 --no-checkout https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git "$deploy_dir"
+          echo Committing generated files
+          {
+            echo "commit refs/heads/$deploy_branch"
+            echo "committer github-actions[bot] <github-actions[bot]@users.noreply.github.com> now"
+            echo "data $(( ${#message} + 1 ))"
+            echo "$message"
+            echo "from refs/heads/$deploy_branch^0"
+            echo "deleteall"
+            cat symbol_cache.fi status.fi
+            echo "M 100644 inline .nojekyll"
+            echo "data 0"
+          } | git -C "$deploy_dir" fast-import --quiet --date-format=now
           echo Pushing to GitHub
           git -C "$deploy_dir" push origin $deploy_branch
 
+      - name: Calculate cache hash (final)
+        id: cache-hash-final
+        run: |
+          echo "hash=$(find binaries -type f -printf '%p %T@\n' | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
+
       - name: Save cache - binaries and symbols
-        if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
+        if: ${{ steps.cache-hash-final.outputs.hash != steps.cache-hash-before.outputs.hash }}
         uses: actions/cache/save@v5
         with:
           path: binaries
@@ -171,7 +184,7 @@ jobs:
       # The save step only warns when it fails, so the older entries are kept
       # unless the new one is listed.
       - name: Delete older caches - binaries and symbols
-        if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
+        if: ${{ steps.cache-hash-final.outputs.hash != steps.cache-hash-before.outputs.hash }}
         env:
           GH_TOKEN: ${{ github.token }}  # required by gh
           REPO: ${{ github.repository }}

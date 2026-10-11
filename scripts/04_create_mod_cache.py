@@ -4,7 +4,9 @@ from argparse import ArgumentParser
 from enum import StrEnum
 from pathlib import Path
 
-from symbols_file import SYMBOLS_FILE_SUFFIX, read_symbols_file_lines
+from fast_import import FastImportFiles
+from symbols_file import (ADDRESSES_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX,
+                          read_symbols_file_lines, read_symbols_file_pe_info)
 
 # For Windhawk older than v1.5.
 MOD_CACHE_LEGACY_SEPARATORS = {
@@ -33,7 +35,8 @@ def get_all_used_symbols_per_binary(extracted_symbols: dict[str, dict[str, dict[
 
 
 def create_mod_cache_file(
-    cache_path: Path,
+    files: FastImportFiles,
+    cache_path: str,
     sep: str,
     val1: str,
     val2: str,
@@ -47,59 +50,51 @@ def create_mod_cache_file(
     if sep in val2:
         raise Exception(f'Invalid value with separator {sep}: {val2}')
 
-    cache_path.parent.mkdir(parents=True, exist_ok=True)
-    with cache_path.open('w', encoding='utf-8') as f:
-        f.write(f'1{sep}{val1}{sep}{val2}')
+    content = f'1{sep}{val1}{sep}{val2}'
 
-        for symbol in mod_symbols:
-            if sep in symbol:
-                raise Exception(f'Invalid symbol with separator {sep}: {symbol}')
+    for symbol in mod_symbols:
+        if sep in symbol:
+            raise Exception(f'Invalid symbol with separator {sep}: {symbol}')
 
-            address1 = symbol_addresses.get(symbol, '')
-            if address1 is None:
+        address1 = symbol_addresses.get(symbol, '')
+        if address1 is None:
+            raise Exception(f'Duplicate symbol {symbol}')
+
+        if arch_for_hybrid_pe and not re.match(r'arch=\w+\\', symbol):
+            symbol_arch_prefix_mapping = {
+                'x86': ArchPrefix.x86,
+                'amd64': ArchPrefix.amd64,
+                'arm64': ArchPrefix.arm64,
+            }
+            symbol_arch_prefix = symbol_arch_prefix_mapping[arch_for_hybrid_pe]
+            address2 = symbol_addresses.get(symbol_arch_prefix + symbol, '')
+            if address2 is None:
                 raise Exception(f'Duplicate symbol {symbol}')
 
-            if arch_for_hybrid_pe and not re.match(r'arch=\w+\\', symbol):
-                symbol_arch_prefix_mapping = {
-                    'x86': ArchPrefix.x86,
-                    'amd64': ArchPrefix.amd64,
-                    'arm64': ArchPrefix.arm64,
-                }
-                symbol_arch_prefix = symbol_arch_prefix_mapping[arch_for_hybrid_pe]
-                address2 = symbol_addresses.get(symbol_arch_prefix + symbol, '')
-                if address2 is None:
-                    raise Exception(f'Duplicate symbol {symbol}')
+            if address1 and address2:
+                raise Exception(f'Duplicate symbol {symbol}')
 
-                if address1 and address2:
-                    raise Exception(f'Duplicate symbol {symbol}')
+            address = address1 or address2
+        else:
+            address = address1
 
-                address = address1 or address2
-            else:
-                address = address1
+        content += f'{sep}{symbol}{sep}{address}'
 
-            f.write(f'{sep}{symbol}{sep}{address}')
+    files.write(cache_path, content)
 
 
-def create_mod_cache_for_symbols_file(
-    symbol_cache_path: Path,
-    extracted_symbols: dict,
-    binary_name: str,
-    arch: str,
-    symbols_file: Path,
-    all_used_symbols: set[str],
-):
-    symbols = {}
-    timestamp = None
-    image_size = None
-    is_hybrid = False
-    pdb_fingerprint = None
-
-    all_used_symbols_bytes_with_prefix = set()
-    for symbol in all_used_symbols:
-        all_used_symbols_bytes_with_prefix.add(symbol.encode())
+def find_symbol_addresses(symbols_file: Path, symbols: set[str]):
+    """The address of each of the symbols in a symbols file, or None for one
+    which appears more than once. A symbol without an arch prefix is also looked
+    for with each of the prefixes."""
+    symbols_bytes_with_prefix = set()
+    for symbol in symbols:
+        symbols_bytes_with_prefix.add(symbol.encode())
         if not re.match(r'arch=\w+\\', symbol):
             for arch_prefix in ArchPrefix:
-                all_used_symbols_bytes_with_prefix.add((arch_prefix + symbol).encode())
+                symbols_bytes_with_prefix.add((arch_prefix + symbol).encode())
+
+    addresses: dict[str, int | None] = {}
 
     # This is a hot loop, keep it optimized.
     for line in read_symbols_file_lines(symbols_file):
@@ -109,45 +104,62 @@ def create_mod_cache_for_symbols_file(
         if line[0] == 91:  # '['
             assert line[9] == 93 and line[10] == 32  # '] '
             symbol = line[11:]
-            if symbol in all_used_symbols_bytes_with_prefix:
+            if symbol in symbols_bytes_with_prefix:
                 symbol = symbol.decode()
                 address = int(line[1:9], 16)
-                if symbol in symbols:
+                if symbol in addresses:
                     # Duplicate symbol.
-                    symbols[symbol] = None
+                    addresses[symbol] = None
                 else:
-                    symbols[symbol] = address
+                    addresses[symbol] = address
             continue
 
         line = line.decode()
 
-        if line.startswith(f'timestamp='):
-            timestamp = int(line.split('=')[1])
-            continue
+        # The PE information, which is read separately, and the symbol count.
+        if not line.startswith(('machine=', 'timestamp=', 'image_size=',
+                                'is_hybrid=', 'pdb_fingerprint=',
+                                'pdb_filename=', 'Found ')):
+            raise Exception(f'Unknown line: {line}')
 
-        if line.startswith(f'image_size='):
-            image_size = int(line.split('=')[1])
-            continue
+    return addresses
 
-        if line.startswith(f'machine='):
-            continue
 
-        if line.startswith(f'is_hybrid='):
-            assert line.split('=')[1] == 'True'
-            is_hybrid = True
-            continue
+def get_symbol_addresses(symbols_file: Path, symbols: set[str]):
+    """find_symbol_addresses, with the result kept in an addresses file next to
+    the symbols file. A symbols file never changes, so it's only scanned again
+    for a symbol which it wasn't scanned for before."""
+    addresses_file = symbols_file.with_name(
+        symbols_file.name.removesuffix(SYMBOLS_FILE_SUFFIX) + ADDRESSES_FILE_SUFFIX)
 
-        if line.startswith(f'pdb_fingerprint='):
-            pdb_fingerprint = line.split('=')[1]
-            continue
+    if addresses_file.exists():
+        cached = json.loads(addresses_file.read_text(encoding='utf-8'))
+        if symbols <= set(cached['symbols']):
+            return cached['addresses']
 
-        if line.startswith(f'pdb_filename='):
-            continue
+    addresses = find_symbol_addresses(symbols_file, symbols)
 
-        if line.startswith(f'Found '):
-            continue
+    addresses_file.write_text(json.dumps({
+        'symbols': sorted(symbols),
+        'addresses': addresses,
+    }), encoding='utf-8')
 
-        raise Exception(f'Unknown line: {line}')
+    return addresses
+
+
+def create_mod_cache_for_symbols_file(
+    files: FastImportFiles,
+    extracted_symbols: dict,
+    binary_name: str,
+    arch: str,
+    symbols_file: Path,
+    all_used_symbols: set[str],
+):
+    pe_info = read_symbols_file_pe_info(symbols_file)
+    timestamp = int(pe_info['timestamp'])
+    image_size = int(pe_info['image_size'])
+    is_hybrid = 'is_hybrid' in pe_info
+    pdb_fingerprint = pe_info.get('pdb_fingerprint')
 
     # For now, only cache ARM64 hybrid symbols. Later, it's possible to add
     # other architectures for hybrid symbols, as well as other architectures
@@ -157,6 +169,8 @@ def create_mod_cache_for_symbols_file(
     # * arm64 -> amd64, arm64
     if is_hybrid and arch != 'arm64':
         return
+
+    symbols = get_symbol_addresses(symbols_file, all_used_symbols)
 
     for mod_name, mod_archs in extracted_symbols.items():
         if arch not in mod_archs:
@@ -175,11 +189,12 @@ def create_mod_cache_for_symbols_file(
                 legacy_cache_key = f'symbol-{arch}-cache-{binary_name}'
 
         if legacy_cache_key:
-            symbol_cache_file_path = symbol_cache_path / mod_name / legacy_cache_key / f'{timestamp}-{image_size}.txt'
+            symbol_cache_file_path = f'{mod_name}/{legacy_cache_key}/{timestamp}-{image_size}.txt'
 
             sep = MOD_CACHE_LEGACY_SEPARATORS.get(mod_name, '#')
 
             create_mod_cache_file(
+                files,
                 symbol_cache_file_path,
                 sep,
                 str(timestamp),
@@ -205,11 +220,12 @@ def create_mod_cache_for_symbols_file(
             if is_hybrid:
                 cache_key += f'_hybrid-{arch_mapping[arch]}'
 
-        symbol_cache_file_path = symbol_cache_path / mod_name / f'{cache_key}.txt'
+        symbol_cache_file_path = f'{mod_name}/{cache_key}.txt'
 
         sep = ';' if is_hybrid else '#'
 
         create_mod_cache_file(
+            files,
             symbol_cache_file_path,
             sep,
             binary_name.replace(sep, '_'),
@@ -228,30 +244,31 @@ def create_mod_cache(binaries_folder: Path,
 
     all_used_symbols_per_binary = get_all_used_symbols_per_binary(extracted_symbols)
 
-    for binary_name in binaries_folder.glob('*'):
-        if binary_name.is_file():
-            continue
-
-        for arch in binary_name.glob('*'):
-            if arch.is_file():
+    with FastImportFiles(symbol_cache_path) as files:
+        for binary_name in binaries_folder.glob('*'):
+            if binary_name.is_file():
                 continue
 
-            for symbols_file in arch.glob('*' + SYMBOLS_FILE_SUFFIX):
-                if not symbols_file.is_file():
+            for arch in binary_name.glob('*'):
+                if arch.is_file():
                     continue
 
-                try:
-                    create_mod_cache_for_symbols_file(
-                        symbol_cache_path,
-                        extracted_symbols,
-                        binary_name.name,
-                        arch.name,
-                        symbols_file,
-                        all_used_symbols_per_binary[binary_name.name],
-                    )
-                except Exception as e:
-                    print(f'Failed to create mod cache for {symbols_file}: {e}')
-                    raise
+                for symbols_file in arch.glob('*' + SYMBOLS_FILE_SUFFIX):
+                    if not symbols_file.is_file():
+                        continue
+
+                    try:
+                        create_mod_cache_for_symbols_file(
+                            files,
+                            extracted_symbols,
+                            binary_name.name,
+                            arch.name,
+                            symbols_file,
+                            all_used_symbols_per_binary[binary_name.name],
+                        )
+                    except Exception as e:
+                        print(f'Failed to create mod cache for {symbols_file}: {e}')
+                        raise
 
 
 def main():

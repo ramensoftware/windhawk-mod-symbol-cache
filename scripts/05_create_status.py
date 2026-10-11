@@ -4,10 +4,14 @@ from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 
+from fast_import import FastImportFiles
 from symbols_file import SYMBOLS_FILE_SUFFIX, read_symbols_file_pe_info
 from winbindex import download_winbindex_data, load_winbindex_data
 
 SYMBOL_SERVER_BASE = 'https://msdl.microsoft.com/download/symbols'
+
+# The folder of the deployed symbol cache which the status pages go to.
+STATUS_FOLDER = '_status'
 
 # Display label, target machine architecture, insider flag.
 ARCH_VARIANTS: list[tuple[str, str, bool]] = [
@@ -451,9 +455,7 @@ def render_toc(names: list[str]) -> str:
     return '\n'.join(lines) + '\n'
 
 
-def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex_folder: Path, status_folder: Path):
-    status_folder.mkdir(parents=True, exist_ok=True)
-
+def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex_folder: Path, status_path: Path):
     module_archs = get_modules_from_extracted_symbols(extracted_symbols_path)
     modules = sorted(module_archs)
     manual_pdb_mapping = load_manual_pdb_mappings(MANUAL_PDB_MAPPINGS_PATH)
@@ -466,25 +468,26 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex
 
     now = datetime.now()
 
-    for name in modules:
-        print(f'Processing {name}')
-        local_map = build_local_info_map(binaries_folder, name)
-        attempted_archs = module_archs[name]
+    with FastImportFiles(status_path) as files:
+        for name in modules:
+            print(f'Processing {name}')
+            local_map = build_local_info_map(binaries_folder, name)
+            attempted_archs = module_archs[name]
 
-        arch_sections: dict[str, str] = {}
-        for label, target_arch, insider in ARCH_VARIANTS:
-            attempted = target_arch in attempted_archs
-            data = load_winbindex_data(winbindex_folder, name, target_arch, insider)
-            rows = collect_rows(
-                name, target_arch, insider, attempted, data, local_map, manual_pdb_mapping, now
-            )
-            arch_sections[label] = render_arch_section(rows, insider)
+            arch_sections: dict[str, str] = {}
+            for label, target_arch, insider in ARCH_VARIANTS:
+                attempted = target_arch in attempted_archs
+                data = load_winbindex_data(winbindex_folder, name, target_arch, insider)
+                rows = collect_rows(
+                    name, target_arch, insider, attempted, data, local_map, manual_pdb_mapping, now
+                )
+                arch_sections[label] = render_arch_section(rows, insider)
 
-        page = render_binary_page(name, arch_sections)
-        (status_folder / f'{name}.md').write_text(page, encoding='utf-8')
+            page = render_binary_page(name, arch_sections)
+            files.write(f'{STATUS_FOLDER}/{name}.md', page)
 
-    toc = render_toc(modules)
-    (status_folder / 'README.md').write_text(toc, encoding='utf-8')
+        toc = render_toc(modules)
+        files.write(f'{STATUS_FOLDER}/README.md', toc)
 
 
 def main():
@@ -492,10 +495,10 @@ def main():
     parser.add_argument('extracted_symbols_path', type=Path)
     parser.add_argument('binaries_folder', type=Path)
     parser.add_argument('winbindex_folder', type=Path)
-    parser.add_argument('status_folder', type=Path)
+    parser.add_argument('status_path', type=Path)
     args = parser.parse_args()
 
-    create_status(args.extracted_symbols_path, args.binaries_folder, args.winbindex_folder, args.status_folder)
+    create_status(args.extracted_symbols_path, args.binaries_folder, args.winbindex_folder, args.status_path)
 
 
 if __name__ == '__main__':
