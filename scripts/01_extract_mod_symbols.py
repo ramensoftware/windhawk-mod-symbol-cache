@@ -525,7 +525,7 @@ def get_mod_symbols(path: Path, patches: list[tuple[str, str]]):
 
     metadata = get_mod_metadata(mod_source)
 
-    for arch in metadata['architectures']:
+    for arch in sorted(metadata['architectures']):
         symbol_blocks = get_mod_symbol_blocks(mod_source, arch)
         for block in symbol_blocks:
             for module in block['modules']:
