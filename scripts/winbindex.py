@@ -16,8 +16,6 @@ import requests
 NAMES_TO_ALLOW_404 = [
     # Old binary, missing in insider builds.
     'explorerextensions.dll',
-    # New binary, not available in stable builds yet.
-    'systemtray.dll',
 ]
 
 _DOWNLOAD_WORKERS = 8
