@@ -1,0 +1,1 @@
+1#twinui.dll#x86-64_406699827_5226496#private: long __cdecl CDCompAbstractThumbnail::_AddTransition(unsigned int,unsigned int,struct TA_TIMINGFUNCTION *,struct IUIAnimationStoryboard2 *,struct IUIAnimationVariable2 *,double * const,unsigned int,bool)#527940#public: virtual bool __cdecl CSwitchThumbnailDeviceManager::AnimationsEnabled(void)#1903248

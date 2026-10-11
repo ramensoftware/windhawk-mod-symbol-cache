@@ -1,0 +1,1 @@
+1#2921495489#5423104#private: long __cdecl CDCompAbstractThumbnail::_AddTransition(unsigned int,unsigned int,struct TA_TIMINGFUNCTION *,struct IUIAnimationStoryboard2 *,struct IUIAnimationVariable2 *,double * const,unsigned int,bool)#577888#public: virtual bool __cdecl CSwitchThumbnailDeviceManager::AnimationsEnabled(void)#1820080
