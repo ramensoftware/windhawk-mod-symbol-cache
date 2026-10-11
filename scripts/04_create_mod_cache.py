@@ -1,9 +1,10 @@
 import json
-import mmap
 import re
 from argparse import ArgumentParser
 from enum import StrEnum
 from pathlib import Path
+
+from symbols_file import SYMBOLS_FILE_SUFFIX, read_symbols_file_lines
 
 # For Windhawk older than v1.5.
 MOD_CACHE_LEGACY_SEPARATORS = {
@@ -100,62 +101,53 @@ def create_mod_cache_for_symbols_file(
             for arch_prefix in ArchPrefix:
                 all_used_symbols_bytes_with_prefix.add((arch_prefix + symbol).encode())
 
-    with (
-        symbols_file.open('r', encoding='utf-8') as f,
-        mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ) as m
-    ):
-        # This is a hot loop, keep it optimized.
-        while line := m.readline():
-            if line[-2:] == b'\r\n':
-                line = line[:-2]
-            elif line[-1:] == b'\n':
-                line = line[:-1]
+    # This is a hot loop, keep it optimized.
+    for line in read_symbols_file_lines(symbols_file):
+        if line == b'':
+            continue
 
-            if line == b'':
-                continue
+        if line[0] == 91:  # '['
+            assert line[9] == 93 and line[10] == 32  # '] '
+            symbol = line[11:]
+            if symbol in all_used_symbols_bytes_with_prefix:
+                symbol = symbol.decode()
+                address = int(line[1:9], 16)
+                if symbol in symbols:
+                    # Duplicate symbol.
+                    symbols[symbol] = None
+                else:
+                    symbols[symbol] = address
+            continue
 
-            if line[0] == 91:  # '['
-                assert line[9] == 93 and line[10] == 32  # '] '
-                symbol = line[11:]
-                if symbol in all_used_symbols_bytes_with_prefix:
-                    symbol = symbol.decode()
-                    address = int(line[1:9], 16)
-                    if symbol in symbols:
-                        # Duplicate symbol.
-                        symbols[symbol] = None
-                    else:
-                        symbols[symbol] = address
-                continue
+        line = line.decode()
 
-            line = line.decode()
+        if line.startswith(f'timestamp='):
+            timestamp = int(line.split('=')[1])
+            continue
 
-            if line.startswith(f'timestamp='):
-                timestamp = int(line.split('=')[1])
-                continue
+        if line.startswith(f'image_size='):
+            image_size = int(line.split('=')[1])
+            continue
 
-            if line.startswith(f'image_size='):
-                image_size = int(line.split('=')[1])
-                continue
+        if line.startswith(f'machine='):
+            continue
 
-            if line.startswith(f'machine='):
-                continue
+        if line.startswith(f'is_hybrid='):
+            assert line.split('=')[1] == 'True'
+            is_hybrid = True
+            continue
 
-            if line.startswith(f'is_hybrid='):
-                assert line.split('=')[1] == 'True'
-                is_hybrid = True
-                continue
+        if line.startswith(f'pdb_fingerprint='):
+            pdb_fingerprint = line.split('=')[1]
+            continue
 
-            if line.startswith(f'pdb_fingerprint='):
-                pdb_fingerprint = line.split('=')[1]
-                continue
+        if line.startswith(f'pdb_filename='):
+            continue
 
-            if line.startswith(f'pdb_filename='):
-                continue
+        if line.startswith(f'Found '):
+            continue
 
-            if line.startswith(f'Found '):
-                continue
-
-            raise Exception(f'Unknown line: {line}')
+        raise Exception(f'Unknown line: {line}')
 
     # For now, only cache ARM64 hybrid symbols. Later, it's possible to add
     # other architectures for hybrid symbols, as well as other architectures
@@ -244,7 +236,7 @@ def create_mod_cache(binaries_folder: Path,
             if arch.is_file():
                 continue
 
-            for symbols_file in arch.glob('*.txt'):
+            for symbols_file in arch.glob('*' + SYMBOLS_FILE_SUFFIX):
                 if not symbols_file.is_file():
                     continue
 

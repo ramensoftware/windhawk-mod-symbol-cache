@@ -53,7 +53,7 @@ def synthesize_pdb_lookup_pe(machine: int,
     if len(pdb_fingerprint) <= 32:
         raise ValueError(f'pdb_fingerprint too short: {pdb_fingerprint!r}')
 
-    # Fingerprint format (per script 03's append_pe_information): hex dump of
+    # Fingerprint format (per script 03's get_pe_information): hex dump of
     # GUID's Data1/Data2/Data3/Data4 components followed by the decimal age.
     # On disk those components are written in their native endianness (LE for
     # the three integers, raw bytes for Data4), which is what we need here.

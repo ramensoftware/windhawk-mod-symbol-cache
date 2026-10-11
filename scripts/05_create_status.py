@@ -8,6 +8,8 @@ from pathlib import Path
 
 import requests
 
+from symbols_file import SYMBOLS_FILE_SUFFIX, read_symbols_file_pe_info
+
 SYMBOL_SERVER_BASE = 'https://msdl.microsoft.com/download/symbols'
 
 # Display label, target machine architecture, insider flag.
@@ -40,17 +42,12 @@ NAMES_TO_ALLOW_404 = [
 
 WINBINDEX_FETCH_WORKERS = 8
 
-# Metadata lines (machine=, timestamp=, pdb_fingerprint=, pdb_filename=) are
-# appended at the end of each .txt by append_pe_information in script 03.
-# Reading just the tail avoids loading multi-MB symbol blobs that we don't need.
-SYMBOLS_TXT_TAIL_BYTES = 4096
-
 # Matches BINARY_MAX_AGE_DAYS_BEFORE_DELETION in 02_download_binaries.py - older
 # entries don't have local cache info, so reporting on them is uninformative.
 DATA_MAX_AGE_DAYS = 60
 
 # A pdb_fingerprint is a 32-char GUID in hex followed by the decimal age, as
-# written by append_pe_information in script 03.
+# written by get_pe_information in script 03.
 PDB_FINGERPRINT_GUID_LEN = 32
 
 # Manual (binary, timestamp, image_size) -> (pdb_filename, pdb_fingerprint)
@@ -241,42 +238,21 @@ def latest_update_info(
     return last_date, last_update_id, last_assembly_version
 
 
-def parse_symbols_txt_tail(txt_path: Path) -> LocalFileInfo:
-    """Read just the tail of a .txt file produced by 03_extract_symbols_from_binaries
-    to pull out the metadata lines without scanning megabytes of symbols.
+def read_local_file_info(symbols_path: Path) -> LocalFileInfo:
+    """Read the PE information of a symbols file produced by
+    03_extract_symbols_from_binaries.
 
-    A `timestamp=` line indicates `append_pe_information` ran, which only happens
-    when `windhawk-symbol-helper.exe` succeeded - i.e. the PDB was downloadable.
+    A `timestamp` entry indicates the PE information was recorded, which only
+    happens when `windhawk-symbol-helper.exe` succeeded - i.e. the PDB was
+    downloadable.
     """
-    extraction_done = False
-    pdb_filename: str | None = None
-    pdb_fingerprint: str | None = None
-
-    with txt_path.open('rb') as f:
-        f.seek(0, 2)
-        size = f.tell()
-        f.seek(max(0, size - SYMBOLS_TXT_TAIL_BYTES))
-        tail = f.read()
-
-    for raw_line in tail.splitlines():
-        try:
-            line = raw_line.decode('utf-8')
-        except UnicodeDecodeError:
-            # The fixed-size tail can land mid-codepoint on the first line; the
-            # metadata fields are pure ASCII so any undecodable line is junk.
-            continue
-        if line.startswith('timestamp='):
-            extraction_done = True
-        elif line.startswith('pdb_filename='):
-            pdb_filename = line.split('=', 1)[1]
-        elif line.startswith('pdb_fingerprint='):
-            pdb_fingerprint = line.split('=', 1)[1]
+    pe_info = read_symbols_file_pe_info(symbols_path)
 
     return LocalFileInfo(
         file_present=True,
-        extraction_done=extraction_done,
-        pdb_filename=pdb_filename,
-        pdb_fingerprint=pdb_fingerprint,
+        extraction_done='timestamp' in pe_info,
+        pdb_filename=pe_info.get('pdb_filename'),
+        pdb_fingerprint=pe_info.get('pdb_fingerprint'),
     )
 
 
@@ -289,7 +265,7 @@ def build_local_info_map(binaries_folder: Path, name: str) -> dict[str, LocalFil
         return {}
 
     extension = name.rsplit('.', 1)[-1] if '.' in name else ''
-    txt_suffix = f'.{extension}.txt' if extension else '.txt'
+    symbols_suffix = f'.{extension}{SYMBOLS_FILE_SUFFIX}' if extension else SYMBOLS_FILE_SUFFIX
     bin_suffix = f'.{extension}' if extension else ''
 
     result: dict[str, LocalFileInfo] = {}
@@ -298,9 +274,9 @@ def build_local_info_map(binaries_folder: Path, name: str) -> dict[str, LocalFil
             continue
         for entry in arch_dir.iterdir():
             entry_name = entry.name
-            if entry_name.endswith(txt_suffix):
-                hash_value = entry_name[: -len(txt_suffix)]
-                result[hash_value] = parse_symbols_txt_tail(entry)
+            if entry_name.endswith(symbols_suffix):
+                hash_value = entry_name[: -len(symbols_suffix)]
+                result[hash_value] = read_local_file_info(entry)
             elif bin_suffix and entry_name.endswith(bin_suffix):
                 # Unprocessed binary (script 03 hasn't run yet).
                 hash_value = entry_name[: -len(bin_suffix)]
@@ -417,7 +393,7 @@ def collect_rows(
 
         # A matching manual mapping means the binary itself isn't on the symbol
         # server (that's why we synthesize a PE in script 02), so report the
-        # File column as unavailable even though we have a local .txt.
+        # File column as unavailable even though we have a local symbols file.
         file_available = (
             bool(local and local.file_present) and manual_entry is None
         )

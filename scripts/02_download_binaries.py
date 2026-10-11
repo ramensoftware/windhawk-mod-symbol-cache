@@ -13,6 +13,7 @@ from pathlib import Path
 import requests
 
 from manual_pdb import synthesize_pdb_lookup_pe
+from symbols_file import SYMBOLS_FILE_SUFFIX
 
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
 BINARY_MAX_AGE_DAYS_BEFORE_DELETION = 60
@@ -192,10 +193,10 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         file_name = re.sub(r'^.*\.(.*)$', rf'{hash}.\g<1>', name)
 
         file_path = target_folder / file_name
-        file_path_symbols = file_path.with_name(file_path.name + '.txt')
+        file_path_symbols = file_path.with_name(file_path.name + SYMBOLS_FILE_SUFFIX)
 
         previous_file_path = previous_folder / file_name
-        previous_file_path_symbols = previous_file_path.with_name(previous_file_path.name + '.txt')
+        previous_file_path_symbols = previous_file_path.with_name(previous_file_path.name + SYMBOLS_FILE_SUFFIX)
 
         if VERBOSE_OUTPUT:
             print(file_path)

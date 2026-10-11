@@ -17,7 +17,9 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: binaries
-          key: cache-binaries-and-symbols-key-v1
+          key: cache-binaries-and-symbols-v2-${{ github.run_id }}
+          restore-keys: cache-binaries-and-symbols-v2-
+          fail-on-cache-miss: true
       - name: Upload cache as artifact
         uses: actions/upload-artifact@v7
         with:

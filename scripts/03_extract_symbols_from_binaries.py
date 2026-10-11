@@ -7,6 +7,8 @@ from struct import unpack
 
 import pefile
 
+from symbols_file import SYMBOLS_FILE_SUFFIX, write_symbols_file
+
 POOL_PROCESSES = 4
 
 
@@ -120,41 +122,47 @@ def get_pdb_info_from_img(filename: Path):
     return last_result
 
 
-def append_pe_information(executable_path: Path, output_path: Path):
+def get_pe_information(executable_path: Path):
     pe_extra_data = get_pe_extra_data(executable_path)
     is_hybrid = is_hybrid_img(executable_path)
     pdb_info = get_pdb_info_from_img(executable_path)
 
-    with output_path.open('a') as f:
-        f.write(f'machine={pe_extra_data["machine"]}\n')
-        f.write(f'timestamp={pe_extra_data["timestamp"]}\n')
-        f.write(f'image_size={pe_extra_data["image_size"]}\n')
+    pe_info = {
+        'machine': pe_extra_data['machine'],
+        'timestamp': pe_extra_data['timestamp'],
+        'image_size': pe_extra_data['image_size'],
+    }
 
-        if is_hybrid:
-            f.write(f'is_hybrid=True\n')
+    if is_hybrid:
+        pe_info['is_hybrid'] = True
 
-        if pdb_info:
-            f.write(f'pdb_fingerprint={pdb_info[0]}\n')
-            f.write(f'pdb_filename={pdb_info[1]}\n')
+    if pdb_info:
+        pe_info['pdb_fingerprint'] = pdb_info[0]
+        pe_info['pdb_filename'] = pdb_info[1]
+
+    return pe_info
 
 
 def extract_all_symbols_worker(path: Path,
                                windhawk_symbol_helper_path: Path,
                                windhawk_engine_path: Path,
                                symbols_path: Path):
+    helper_output_path = path.with_name(path.name + '.txt')
     try:
-        output_path = path.with_name(path.name + '.txt')
         run_windhawk_symbol_helper(windhawk_symbol_helper_path,
                                    windhawk_engine_path,
                                    symbols_path,
                                    path,
-                                   output_path)
-        append_pe_information(path, output_path)
+                                   helper_output_path)
+        write_symbols_file(path.with_name(path.name + SYMBOLS_FILE_SUFFIX),
+                           get_pe_information(path),
+                           helper_output_path.read_bytes())
         return None
     except Exception as e:
         return f'Failed to extract symbols from binary {path}: {e}'
     finally:
         path.unlink()
+        helper_output_path.unlink(missing_ok=True)
 
 
 def extract_all_symbols(binaries_folder: Path,
@@ -163,7 +171,8 @@ def extract_all_symbols(binaries_folder: Path,
                         symbols_path: Path):
     symbols_path_resolved = symbols_path.resolve()    
 
-    paths = list(p for p in binaries_folder.rglob('*') if p.is_file() and p.suffix != '.txt')
+    paths = list(p for p in binaries_folder.rglob('*')
+                 if p.is_file() and not p.name.endswith(SYMBOLS_FILE_SUFFIX))
 
     with Pool(POOL_PROCESSES) as pool:
         errors = pool.starmap(extract_all_symbols_worker, zip(

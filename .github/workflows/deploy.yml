@@ -43,14 +43,18 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install -r main/.github/requirements.txt
 
-      # Workaround for updating cache:
-      # https://github.com/actions/cache/issues/342#issuecomment-1363953531
+      # A cache entry can't be overwritten, so each save gets a new key, and the
+      # newest entry is restored by prefix. The v1 entry holds uncompressed
+      # symbols files, which the migration step below converts.
       - name: Restore cache - binaries and symbols
         uses: actions/cache/restore@v5
         id: cache-binaries-and-symbols
         with:
           path: binaries
-          key: cache-binaries-and-symbols-key-v1
+          key: cache-binaries-and-symbols-v2-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            cache-binaries-and-symbols-v2-
+            cache-binaries-and-symbols-key-v1
 
       - name: Calculate cache file list hash (before)
         id: cache-file-list-hash-before
@@ -58,8 +62,12 @@ jobs:
           echo "hash=$(find binaries -type f | sort | sha256sum | awk '{print $1}')" >> $GITHUB_OUTPUT
 
       - name: Rename cache folder
-        if: ${{ steps.cache-binaries-and-symbols.outputs.cache-hit }}
+        if: ${{ steps.cache-binaries-and-symbols.outputs.cache-matched-key != '' }}
         run: mv binaries binaries_previous
+
+      - name: Migrate cache symbols files
+        if: ${{ steps.cache-binaries-and-symbols.outputs.cache-matched-key == 'cache-binaries-and-symbols-key-v1' }}
+        run: python -u main/scripts/migrate_symbols_files.py binaries_previous
 
       - name: Run 01_extract_mod_symbols
         run: |
@@ -158,21 +166,27 @@ jobs:
           echo Pushing to GitHub
           git -C "$deploy_dir" push origin $deploy_branch
 
-      # Workaround for updating cache:
-      # https://github.com/actions/cache/issues/342#issuecomment-1363953531
-      - name: Clear cache - binaries and symbols
-        if: >-
-          ${{
-            steps.cache-file-list-changed.outputs.changed == 'true' &&
-            steps.cache-binaries-and-symbols.outputs.cache-hit
-          }}
-        env:
-          GH_TOKEN: ${{ github.token }}  # required by gh
-        run: |
-          gh cache delete cache-binaries-and-symbols-key-v1 -R ${{ github.repository }}
       - name: Save cache - binaries and symbols
         if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
         uses: actions/cache/save@v5
         with:
           path: binaries
-          key: cache-binaries-and-symbols-key-v1
+          key: ${{ steps.cache-binaries-and-symbols.outputs.cache-primary-key }}
+
+      # The save step only warns when it fails, so the older entries are kept
+      # unless the new one is listed.
+      - name: Delete older caches - binaries and symbols
+        if: ${{ steps.cache-file-list-changed.outputs.changed == 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}  # required by gh
+          REPO: ${{ github.repository }}
+          KEY: ${{ steps.cache-binaries-and-symbols.outputs.cache-primary-key }}
+        run: |
+          caches=$(gh cache list -R "$REPO" --key cache-binaries-and-symbols- --limit 100 --json id,key)
+          if [ "$(jq --arg key "$KEY" 'any(.key == $key)' <<< "$caches")" != true ]; then
+            echo "::warning::Cache $KEY isn't listed, keeping the older entries"
+            exit 0
+          fi
+          for id in $(jq --arg key "$KEY" '.[] | select(.key != $key) | .id' <<< "$caches"); do
+            gh cache delete "$id" -R "$REPO"
+          done
