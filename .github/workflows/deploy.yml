@@ -64,11 +64,33 @@ jobs:
         if: ${{ steps.cache-binaries-and-symbols.outputs.cache-matched-key != '' }}
         run: mv binaries binaries_previous
 
+      - name: Restore cache - extracted mod symbols
+        uses: actions/cache/restore@v5
+        id: cache-extracted-mod-symbols
+        with:
+          path: extracted_mod_symbols_cache.json
+          key: cache-extracted-mod-symbols-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: cache-extracted-mod-symbols-v1-
+
+      - name: Calculate extracted mod symbols cache hash (before)
+        id: extracted-mod-symbols-cache-hash-before
+        run: |
+          echo "hash=${{ hashFiles('extracted_mod_symbols_cache.json') }}" >> $GITHUB_OUTPUT
+
       - name: Run 01_extract_mod_symbols
         run: |
           python -u main/scripts/01_extract_mod_symbols.py \
+            --cache-file extracted_mod_symbols_cache.json \
             windhawk-mods/mods \
             extracted_symbols.json
+
+      - name: Save cache - extracted mod symbols
+        if: ${{ hashFiles('extracted_mod_symbols_cache.json') != steps.extracted-mod-symbols-cache-hash-before.outputs.hash }}
+        uses: actions/cache/save@v5
+        with:
+          path: extracted_mod_symbols_cache.json
+          key: ${{ steps.cache-extracted-mod-symbols.outputs.cache-primary-key }}
+
       - name: Run 02_download_binaries
         run: |
           python -u main/scripts/02_download_binaries.py \

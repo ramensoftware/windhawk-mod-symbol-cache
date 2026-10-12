@@ -1,3 +1,4 @@
+import hashlib
 import json
 import re
 import time
@@ -5,6 +6,7 @@ from argparse import ArgumentParser
 from enum import StrEnum, auto
 from pathlib import Path
 
+import preprocessor
 from preprocessor import (
     Macros,
     blank_comments,
@@ -515,13 +517,17 @@ def get_mod_symbol_blocks(mod_source: str, arch: Architecture):
     return symbol_blocks
 
 
-def get_mod_symbols(path: Path, patches: list[tuple[str, str]]):
-    result = {}
-
+def read_mod_source(path: Path, patches: list[tuple[str, str]]):
     mod_source = path.read_text(encoding='utf-8')
 
     for patch in patches:
         mod_source = re.sub(patch[0], patch[1], mod_source, flags=re.MULTILINE)
+
+    return mod_source
+
+
+def get_mod_symbols(mod_source: str):
+    result = {}
 
     metadata = get_mod_metadata(mod_source)
 
@@ -535,6 +541,61 @@ def get_mod_symbols(path: Path, patches: list[tuple[str, str]]):
                     dict.fromkeys(result_arch.get(module, []) + block['symbols']))
 
     return result
+
+
+def get_extractor_hash():
+    """A hash of the code which get_mod_symbols runs."""
+    hasher = hashlib.sha256()
+    for path in [Path(__file__), Path(preprocessor.__file__)]:
+        hasher.update(path.read_bytes())
+
+    return hasher.hexdigest()
+
+
+class ModSymbolsCache:
+    """get_mod_symbols with its results kept in a file.
+
+    A result depends on nothing but the mod source and the extractor code, so
+    it's keyed by a hash of both, and a failure is kept like any other result.
+    Only the entries which were looked up are saved, which drops the ones for
+    mod versions that are no longer processed and the ones for older code.
+    """
+
+    def __init__(self, path: Path | None):
+        self.path = path
+        self.extractor_hash = get_extractor_hash()
+        self.saved_entries = {}
+        if path and path.exists():
+            self.saved_entries = json.loads(path.read_text(encoding='utf-8'))
+
+        self.entries = {}
+        self.extracted_count = 0
+        self.cached_count = 0
+
+    def get_mod_symbols(self, mod_source: str):
+        key = hashlib.sha256((self.extractor_hash + mod_source).encode()).hexdigest()
+
+        entry: dict | None = self.entries.get(key) or self.saved_entries.get(key)
+        if entry:
+            self.cached_count += 1
+        else:
+            self.extracted_count += 1
+            try:
+                entry = {'symbols': get_mod_symbols(mod_source)}
+            except Exception as e:
+                entry = {'error': str(e)}
+
+        self.entries[key] = entry
+
+        if 'error' in entry:
+            raise Exception(entry['error'])
+
+        return entry['symbols']
+
+    def save(self):
+        if self.path:
+            self.path.write_text(json.dumps(dict(sorted(self.entries.items()))),
+                                 encoding='utf-8')
 
 
 def get_relevant_mod_versions(mods_folder: Path, mod_name: str):
@@ -557,10 +618,13 @@ def main():
     parser = ArgumentParser()
     parser.add_argument('mods_folder', type=Path)
     parser.add_argument('output_file', type=Path)
+    parser.add_argument('--cache-file', type=Path)
     args = parser.parse_args()
 
     mods_folder: Path = args.mods_folder
     output_file: Path = args.output_file
+
+    cache = ModSymbolsCache(args.cache_file)
 
     result = {}
 
@@ -571,7 +635,8 @@ def main():
             relative_path = str(mod_version_path.relative_to(mods_folder).as_posix())
 
             try:
-                mod_symbols = get_mod_symbols(mod_version_path, MOD_PATCHES.get(relative_path, []))
+                mod_source = read_mod_source(mod_version_path, MOD_PATCHES.get(relative_path, []))
+                mod_symbols = cache.get_mod_symbols(mod_source)
             except Exception as e:
                 print(f'Failed to extract symbols from mod {relative_path}: {e}')
                 continue
@@ -591,6 +656,9 @@ def main():
                             result_arch.get(module, []) + mod_symbols[arch][module]
                         )
                     )
+
+    cache.save()
+    print(f'Mod versions: {cache.extracted_count} extracted, {cache.cached_count} from the cache')
 
     if str(output_file) == '-':
         print(json.dumps(result, indent=2))
