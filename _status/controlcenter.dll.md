@@ -6,14 +6,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1753c3...<!-- 1753c39539ef555055768664e5ef0b39881c0f1f41196705120c9c22ddd906bb --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/DC983834400000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/64B89726EF979105CCACF39836D928911/ControlCenter.pdb) |
+| 1753c3...<!-- 1753c39539ef555055768664e5ef0b39881c0f1f41196705120c9c22ddd906bb --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/DC983834400000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/64B89726EF979105CCACF39836D928911/ControlCenter.pdb) |
 | d6a5c8...<!-- d6a5c89e1ca1f9bd8e68d80f704b03f99705160bb6cac0d333fabe4131286de9 --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/CE9A4C23400000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/E7DB1937F9EA0F05DF60EC30CC68029F1/ControlCenter.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0a9a84...<!-- 0a9a84b0b7ed6110a410bd76150ce0da04dc29b901838155ab7ce2d8bf2ffb51 --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7162BCEC3ea000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/69549732A6CF1C43FDF7ED1FD2227E421/ControlCenter.pdb) |
+| 0a9a84...<!-- 0a9a84b0b7ed6110a410bd76150ce0da04dc29b901838155ab7ce2d8bf2ffb51 --> | 2026-10-13 | KB5127648 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7162BCEC3ea000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/69549732A6CF1C43FDF7ED1FD2227E421/ControlCenter.pdb) |
 | 3e9a30...<!-- 3e9a30bd1e92220baeeba90cd0ac409ae541c650019ad7c80aec97daf39c3261 --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/F0B032A13d3000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/DF9EB504497489406F7BE1FFB9144D541/ControlCenter.pdb) |
 
 ## ARM64 (release builds)

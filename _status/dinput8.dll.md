@@ -6,19 +6,19 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7decf3...<!-- 7decf3d2f1451f703cd95d19c48ece55c9a8e004064c440aa0a2f8d3c8c906f0 --> | 2026-09-22 | KB5124006 | 10.0.28000.2336 | 10.0.28000.2336 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/55E0C2194b000/dinput8.dll) | ❓ |
+| 7decf3...<!-- 7decf3d2f1451f703cd95d19c48ece55c9a8e004064c440aa0a2f8d3c8c906f0 --> | 2026-10-13 | KB5127646 | 10.0.28000.2336 | 10.0.28000.2336 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/55E0C2194b000/dinput8.dll) | ❓ |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b0f100...<!-- b0f10001fccd05e9863d84588be9b9f8389656d95177287dd4c6cf3be4bf1dfe --> | 2026-09-22 | KB5124010 | 10.0.26100.8521 | 10.0.26100.8521 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/7F46186B4b000/dinput8.dll) | ❓ |
+| b0f100...<!-- b0f10001fccd05e9863d84588be9b9f8389656d95177287dd4c6cf3be4bf1dfe --> | 2026-10-13 | KB5127648 | 10.0.26100.8521 | 10.0.26100.8521 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/7F46186B4b000/dinput8.dll) | ❓ |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a266ba...<!-- a266baf25193931d3f112589f175dafd3f4cc4e6072f488a0ef0a755980b7f5c --> | 2026-09-14 | KB5129239 | 10.0.14393.1737 | 10.0.14393.1770 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/59BB036540000/dinput8.dll) | ❓ |
+| a266ba...<!-- a266baf25193931d3f112589f175dafd3f4cc4e6072f488a0ef0a755980b7f5c --> | 2026-10-13 | KB5126868 | 10.0.14393.1737 | 10.0.14393.1770 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/59BB036540000/dinput8.dll) | ❓ |
 
 ## ARM64 (release builds)
 

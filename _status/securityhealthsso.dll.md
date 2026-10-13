@@ -6,19 +6,19 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6d0b9c...<!-- 6d0b9c0cce9abe60326b300d8481db7060c45fdff0aeb107ffc80a58630534cc --> | 2026-09-22 | KB5124006 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/48FA601Bec000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/4812BB09BD8648B1E80DED62841943451/SecurityHealthSSO.pdb) |
+| 6d0b9c...<!-- 6d0b9c0cce9abe60326b300d8481db7060c45fdff0aeb107ffc80a58630534cc --> | 2026-10-13 | KB5127646 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/48FA601Bec000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/4812BB09BD8648B1E80DED62841943451/SecurityHealthSSO.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c93415...<!-- c934153328c21141790fb4a5dea62afe60c52b135b8043f1d3515abf6fc73efb --> | 2026-09-22 | KB5124010 | 10.0.26100.9278 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/9DA9D320ea000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/F608D6EDF8A1C74CA9B614FF8DF7D8F01/SecurityHealthSSO.pdb) |
+| c93415...<!-- c934153328c21141790fb4a5dea62afe60c52b135b8043f1d3515abf6fc73efb --> | 2026-10-13 | KB5127648 | 10.0.26100.9278 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/9DA9D320ea000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/F608D6EDF8A1C74CA9B614FF8DF7D8F01/SecurityHealthSSO.pdb) |
 
 ### 10.0.22621
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 705088...<!-- 70508871588216a1451de854026c0de44fd61b4e91243a98d4da7150c68d9ee2 --> | 2026-09-14 | KB5129242 |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/B6F31283e7000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/3DFBC4E7AE81226D23E3AFF0DB53583C1/SecurityHealthSSO.pdb) |
+| 705088...<!-- 70508871588216a1451de854026c0de44fd61b4e91243a98d4da7150c68d9ee2 --> | 2026-10-13 | KB5126653 |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/B6F31283e7000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/3DFBC4E7AE81226D23E3AFF0DB53583C1/SecurityHealthSSO.pdb) |
 
 ### 10.0.19041
 
@@ -30,7 +30,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7383a0...<!-- 7383a0c9481ca7a64cf62d0b533886b34d96b5113ac8b543d5d5aa75adbd56bd --> | 2026-09-14 | KB5129238 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/8C422CE6e8000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/08C3B1B4A65004B8164A74D9EEC49D2E1/SecurityHealthSSO.pdb) |
+| 7383a0...<!-- 7383a0c9481ca7a64cf62d0b533886b34d96b5113ac8b543d5d5aa75adbd56bd --> | 2026-10-13 | KB5126651 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsso.dll/8C422CE6e8000/securityhealthsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSSO.pdb/08C3B1B4A65004B8164A74D9EEC49D2E1/SecurityHealthSSO.pdb) |
 
 ## ARM64 (release builds)
 
