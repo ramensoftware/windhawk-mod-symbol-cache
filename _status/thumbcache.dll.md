@@ -177,7 +177,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 489a98...<!-- 489a9820dbcf70881fc1ee3b9b864c543a484eb06de2b48c523158d5889150d4 --> | 2026-09-26 | 8ad91eff...<!-- 8ad91eff-78ee-4a86-b364-33a6578b38de --> | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/AEE935EC68000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/AC893E9EBD3D092957B8CF9DD5A56FD51/thumbcache.pdb) |
 | f58a83...<!-- f58a8334f4da6a6b74d3a1d151af6cc3e8b7940b4046e40e4198cb855a569a20 --> | 2026-09-26 | 8ad91eff...<!-- 8ad91eff-78ee-4a86-b364-33a6578b38de --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/D120AC6566000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/DC1DC519628FFEC413D84442B7B220941/thumbcache.pdb) |
-| 8baa8b...<!-- 8baa8b369c32c6aed3cd8da647fea4631a51c37ab92d3d79f31b740dd31c1789 --> | 2026-08-13 | bad2be40...<!-- bad2be40-10fb-4c85-9604-108e3131e6f9 --> | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/2D8A7EB367000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/1095A3B90A8042882DDEAC273354239E1/thumbcache.pdb) |
 
 ### 10.0.17763
 
