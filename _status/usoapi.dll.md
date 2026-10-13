@@ -25,7 +25,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b13174...<!-- b131748fd32baef8f1876e424a923202f1198156208fc2a9730bef62e7fccf22 --> | 2026-09-14 | KB5129236 | 10.0.19041.5438 | 10.0.19041.5438 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/55BDD5E727000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/82D8B3A9EAB1294D163DE39B3F25871E1/UsoApi.pdb) |
+| b13174...<!-- b131748fd32baef8f1876e424a923202f1198156208fc2a9730bef62e7fccf22 --> | 2026-10-13 | KB5126657 | 10.0.19041.5438 | 10.0.19041.5438 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/55BDD5E727000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/82D8B3A9EAB1294D163DE39B3F25871E1/UsoApi.pdb) |
 
 ### 10.0.17763
 

@@ -25,7 +25,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f986a9...<!-- f986a93665bd580356a5823c327271cefdeb4d2bcd1a8ec5cfa1203723b23e10 --> | 2026-09-14 | KB5129236 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9AF37F856a000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/B7DADA081762B9F2712F82BB48DB74391/Windows.UI.BlockedShutdown.pdb) |
+| f986a9...<!-- f986a93665bd580356a5823c327271cefdeb4d2bcd1a8ec5cfa1203723b23e10 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9AF37F856a000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/B7DADA081762B9F2712F82BB48DB74391/Windows.UI.BlockedShutdown.pdb) |
 
 ### 10.0.17763
 

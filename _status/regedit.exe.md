@@ -24,7 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 86f638...<!-- 86f6382cbcc4dd5346654fed069b6b4ada74a878318eb9b3f16eaf4fa67b60e0 --> | 2026-09-14 | KB5129236 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/7717097Fa2000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/C9F3A59C4C8B8FFDEC02E6178FCB96391/regedit.pdb) |
+| 86f638...<!-- 86f6382cbcc4dd5346654fed069b6b4ada74a878318eb9b3f16eaf4fa67b60e0 --> | 2026-10-13 | KB5126657 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/7717097Fa2000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/C9F3A59C4C8B8FFDEC02E6178FCB96391/regedit.pdb) |
 
 ### 10.0.17763
 

@@ -24,7 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ead5bb...<!-- ead5bbb7752377bb4d9bf8dcc38a34969e254e5da87889b8d4b4788e3be0b0ef --> | 2026-09-14 | KB5129236 | 10.0.19041.4355 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/4CAD0B8119000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/803A9FD7DCB79764CF50624DBC130F791/SecurityHealthSystray.pdb) |
+| ead5bb...<!-- ead5bbb7752377bb4d9bf8dcc38a34969e254e5da87889b8d4b4788e3be0b0ef --> | 2026-10-13 | KB5126657 | 10.0.19041.4355 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/4CAD0B8119000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/803A9FD7DCB79764CF50624DBC130F791/SecurityHealthSystray.pdb) |
 
 ### 10.0.17763
 

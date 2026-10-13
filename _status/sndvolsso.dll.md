@@ -25,13 +25,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1bdf8f...<!-- 1bdf8f8c4e58c69f9999d2af375cf00a28e0436d032bbc40169ba8737d1963b8 --> | 2026-09-14 | KB5129236 | 10.0.19041.7548 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/D753707650000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/1F2C3DB143ADA0666234DD4A1AA6DA441/SndVolSSO.pdb) |
+| 1bdf8f...<!-- 1bdf8f8c4e58c69f9999d2af375cf00a28e0436d032bbc40169ba8737d1963b8 --> | 2026-10-13 | KB5126657 | 10.0.19041.7548 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/D753707650000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/1F2C3DB143ADA0666234DD4A1AA6DA441/SndVolSSO.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c76fb3...<!-- c76fb3136b7fdaeb83ba863f832c2635c02a5517c97243c16208b0a5024db00b --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/94C2BDA6BF0B409E206CFC485616AC971/SndVolSSO.pdb) |
+| c76fb3...<!-- c76fb3136b7fdaeb83ba863f832c2635c02a5517c97243c16208b0a5024db00b --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/6A1B3681ce000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/94C2BDA6BF0B409E206CFC485616AC971/SndVolSSO.pdb) |
 | 8cd9b2...<!-- 8cd9b203a3724b4a712dc35b2f20510874a2dee87e6863498966a23bd405585c --> | 2026-09-14 | KB5129238 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/589ECC3Fce000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/6FB6BE7D72EDF804D7D53E8A727AAF381/SndVolSSO.pdb) |
 
 ### 10.0.14393

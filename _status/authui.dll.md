@@ -26,7 +26,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4bb335...<!-- 4bb335861e33117a020e0e9024664758e91d83436d96df2f55a02bd361c2a918 --> | 2026-09-14 | KB5129236 | 10.0.19041.7548 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/C4DFECD44e000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/721955CFC5ED5C5985430F03DF4690451/authui.pdb) |
+| 4bb335...<!-- 4bb335861e33117a020e0e9024664758e91d83436d96df2f55a02bd361c2a918 --> | 2026-10-13 | KB5126657 | 10.0.19041.7548 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/C4DFECD44e000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/721955CFC5ED5C5985430F03DF4690451/authui.pdb) |
 
 ### 10.0.17763
 

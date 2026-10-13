@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1e50ca...<!-- 1e50cab91e791c4eb22d71c4e3c69c184b62932a8797e79cbd242419fe63a7d1 --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3231 | 🔴 | ❓ |
+| 1e50ca...<!-- 1e50cab91e791c4eb22d71c4e3c69c184b62932a8797e79cbd242419fe63a7d1 --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/414B00F3f5000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0B11EFA185051533EA402197BFBDC4071/winlogon.pdb) |
 | e3c687...<!-- e3c6875449b00da17b707205a2adb5352cd92b878f5915321bb3445046f096cd --> | 2026-09-22 | KB5124006 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/440C1B0Cf5000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/9F79CBE09A62636063CA6F697AA9EA271/winlogon.pdb) |
 | d1295d...<!-- d1295d8ed3d16135ce99123faaf87352edab73f18c012008e2ba2ad5977bc278 --> | 2026-09-14 | KB5129194 | 10.0.28000.2804 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/29D6C239f1000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/BC9D402866BB7FE581F99C48D543A8C11/winlogon.pdb) |
 
@@ -14,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2baa43...<!-- 2baa43fa3e9b1694fbe86b789854b24217a1cf4802a94d1bc28bc45290a89d63 --> | 2026-10-13 | KB5127648 |  | 10.0.26100.9711 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/2BE8AB4088C5B923E6F852DBFEFD6F351/winlogon.pdb) |
+| 2baa43...<!-- 2baa43fa3e9b1694fbe86b789854b24217a1cf4802a94d1bc28bc45290a89d63 --> | 2026-10-13 | KB5127648 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/063A5381f7000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/2BE8AB4088C5B923E6F852DBFEFD6F351/winlogon.pdb) |
 | 70a0eb...<!-- 70a0ebff6f5a4b1e79c041f7034c6866f437a0c9cb6272357ec2ec5de3eb5c4d --> | 2026-09-22 | KB5124010 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/91F53A2Df7000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/B149A9F204844E9F76AFFA92F7765F7D1/winlogon.pdb) |
 | e2fc3b...<!-- e2fc3b31ce2c45f33c1035549511be8fca08679353e79823f4eca38d99e2ea9f --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/D26B5E9Af4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/25D2E1BED4DFA958C747FFC83693A1EA1/winlogon.pdb) |
 | 8d0719...<!-- 8d0719298efb3289c8df3987ff21933a56617a6c6bbbcee392e80b3b56816838 --> | 2026-08-27 | KB5120998 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/43B04718f4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/C967C5BAE63530B0F0A425CD284071121/winlogon.pdb) |
@@ -23,27 +23,28 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| efd351...<!-- efd3511fdb3040f627046e5157b052fc28fee737305a909c701a9782db094d6e --> | 2026-10-13 | KB5126653 |  | 10.0.22621.7649 | 🔴 | ❓ |
+| efd351...<!-- efd3511fdb3040f627046e5157b052fc28fee737305a909c701a9782db094d6e --> | 2026-10-13 | KB5126653 |  | 10.0.22621.7649 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/07B0E649DDF07AAC0F71DC3C79432F1D1/winlogon.pdb) |
 | b36786...<!-- b36786ebbd852f3953fa8d926de573d3885c82559143411bbd5a0075f8c02da9 --> | 2026-09-14 | KB5129242 | 10.0.22621.7517 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/98D556DDf4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/641D3295555BE2A71918DBDF37FE995E1/winlogon.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| edf757...<!-- edf75701a7b3bfad862bbed206bb090d2f3a7f736bdf74ce0595fc984522a77f --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🔴 | ❓ |
 | 474c9f...<!-- 474c9f96d3cddecf2cd380b22ba46b4e844d7681f613b2988228da1c4f5f0f2a --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/A067D689ed000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0A07D037FC0D7AD8798EA8817B551D241/winlogon.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 493e4b...<!-- 493e4bdc3866357d2dd7636a344c6c1182e817d3a652b720d43911fdc31015d6 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/09320656A37EC1156D12E1289A9642B51/winlogon.pdb) |
+| 493e4b...<!-- 493e4bdc3866357d2dd7636a344c6c1182e817d3a652b720d43911fdc31015d6 --> | 2026-10-13 | KB5126651 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/D59A3FA0c4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/09320656A37EC1156D12E1289A9642B51/winlogon.pdb) |
 | f7c4e4...<!-- f7c4e4ee2d91e0a1cbaddc264b383405916e3a3dab8fdf2bdafc3b0d956e1a8b --> | 2026-09-14 | KB5129238 | 10.0.17763.9121 | 10.0.17763.9121 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/8994E0EAc4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/0175C25487A4EC6C65807D693F67A8251/winlogon.pdb) |
 
 ### 10.0.14393
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 57b1a5...<!-- 57b1a58b02550446bd889180103dc4abaeef1b2346f0bcbf9ad9eaafdc93ddc9 --> | 2026-10-13 | KB5126868 | 10.0.14393.9611 | 10.0.14393.9611 | [🔴](https://msdl.microsoft.com/download/symbols/winlogon.exe/6AC8D47Faa000/winlogon.exe) | ❓ |
+| 57b1a5...<!-- 57b1a58b02550446bd889180103dc4abaeef1b2346f0bcbf9ad9eaafdc93ddc9 --> | 2026-10-13 | KB5126868 | 10.0.14393.9611 | 10.0.14393.9611 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/6AC8D47Faa000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/E2301B7BD1B1459C884C7B82635F4FFB1/winlogon.pdb) |
 | ad6d24...<!-- ad6d241906e46829d21d7c5800fe6db9d5d0486301a8bfdc07fb55368fb55c66 --> | 2026-09-14 | KB5129239 | 10.0.14393.9418 | 10.0.14393.9418 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/6A775216aa000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/2B147A6FFE8C4F119DF0AA489161AF801/winlogon.pdb) |
 
 ## ARM64 (release builds)

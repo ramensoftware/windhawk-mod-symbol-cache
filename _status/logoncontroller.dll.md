@@ -26,13 +26,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c76521...<!-- c7652167b06eabf7481d0c2d399d3d4295cf89a3d27696ed4136135c941ae116 --> | 2026-09-14 | KB5129236 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/33213CF6da000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/51817B2A54E459B43DD844596F3187E51/logoncontroller.pdb) |
+| c76521...<!-- c7652167b06eabf7481d0c2d399d3d4295cf89a3d27696ed4136135c941ae116 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/33213CF6da000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/51817B2A54E459B43DD844596F3187E51/logoncontroller.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e54f56...<!-- e54f56af91995a83f5a78521f3403522d23965061e7f261df3631bf9140106c6 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/84AB407DC0EBA5FC78E56F89F75CB3FD1/logoncontroller.pdb) |
+| e54f56...<!-- e54f56af91995a83f5a78521f3403522d23965061e7f261df3631bf9140106c6 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/7A751979c6000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/84AB407DC0EBA5FC78E56F89F75CB3FD1/logoncontroller.pdb) |
 | 94a63e...<!-- 94a63e1477267632922be2897c2d80a046095016f0a4926f626ccbff33b16688 --> | 2026-09-14 | KB5129238 |  | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/062E3002c6000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/B8AE0354DF9FEF43373207237B9DE55A1/logoncontroller.pdb) |
 
 ### 10.0.14393

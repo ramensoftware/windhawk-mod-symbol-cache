@@ -12,7 +12,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 06a71d...<!-- 06a71d96df0291b8d679204ae5b13db69d6a35fc4751090d9642bba4047cd1bb --> | 2026-09-14 | KB5129236 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/van.dll/3B8AD5C258000/van.dll) | [🟢](https://msdl.microsoft.com/download/symbols/van.pdb/B3EFC1F900ADF9C77A81A1CB935C449D1/van.pdb) |
+| 06a71d...<!-- 06a71d96df0291b8d679204ae5b13db69d6a35fc4751090d9642bba4047cd1bb --> | 2026-10-13 | KB5126657 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/van.dll/3B8AD5C258000/van.dll) | [🟢](https://msdl.microsoft.com/download/symbols/van.pdb/B3EFC1F900ADF9C77A81A1CB935C449D1/van.pdb) |
 
 ### 10.0.17763
 

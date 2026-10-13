@@ -24,7 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6a158b...<!-- 6a158bf2dd6baa53b1422aca5950dfe20a6cd1e0d0d3d6d454c8da9a9483a97f --> | 2026-09-14 | KB5129236 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/F25F605953000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/070955D9AB8CB8B9CE31620188A00F831/ActionCenter.pdb) |
+| 6a158b...<!-- 6a158bf2dd6baa53b1422aca5950dfe20a6cd1e0d0d3d6d454c8da9a9483a97f --> | 2026-10-13 | KB5126657 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/F25F605953000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/070955D9AB8CB8B9CE31620188A00F831/ActionCenter.pdb) |
 
 ### 10.0.17763
 

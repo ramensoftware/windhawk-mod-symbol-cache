@@ -24,7 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b20a81...<!-- b20a815df62470baebd522dde896dc9c628e6faedcb1a0b8ef228a045614dd09 --> | 2026-09-14 | KB5129236 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/9AE7A0E92d000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/127F596D0A70CEFEBB10F34F3729F87C1/sysdm.pdb) |
+| b20a81...<!-- b20a815df62470baebd522dde896dc9c628e6faedcb1a0b8ef228a045614dd09 --> | 2026-10-13 | KB5126657 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/9AE7A0E92d000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/127F596D0A70CEFEBB10F34F3729F87C1/sysdm.pdb) |
 
 ### 10.0.17763
 

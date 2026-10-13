@@ -26,13 +26,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1ca4a0...<!-- 1ca4a07d278fdb37165511161d5aa45cd16744ca573e3169027b8b3ee1f5bd0f --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/328AC0A47c000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/92A98FB6912989E1229AA141DF023A721/ThemeUI.pdb) |
+| 1ca4a0...<!-- 1ca4a07d278fdb37165511161d5aa45cd16744ca573e3169027b8b3ee1f5bd0f --> | 2026-10-13 | KB5126657 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/328AC0A47c000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/92A98FB6912989E1229AA141DF023A721/ThemeUI.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 177706...<!-- 17770695af1678c9ce2f19a6839c7180abe9ea73a652cd85b6d537d1f0f54f87 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | 🔴 | ❓ |
+| 177706...<!-- 17770695af1678c9ce2f19a6839c7180abe9ea73a652cd85b6d537d1f0f54f87 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/B1ED3C65D2E232301EF61836745BE7C71/ThemeUI.pdb) |
 | eeb46e...<!-- eeb46e9d0596eaf60d201d5e733d387466951c2dc4351586ba42aa7390eb9a27 --> | 2026-09-14 | KB5129238 | 10.0.17763.9121 | 10.0.17763.9121 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/C05473F82ca000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/198CE198C2C60CBE3A022B00FFCDFE231/ThemeUI.pdb) |
 
 ### 10.0.14393

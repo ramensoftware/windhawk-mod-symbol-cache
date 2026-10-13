@@ -25,7 +25,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| badf47...<!-- badf4752413cb0cbdc03fb95820ca167f0cdc63b597ccdb5ef43111180e088b0 --> | 2026-09-14 | KB5129236 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/A7CB0DC067000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/F82156702AA106C55FB8DAE38396AEB81/cmd.pdb) |
+| badf47...<!-- badf4752413cb0cbdc03fb95820ca167f0cdc63b597ccdb5ef43111180e088b0 --> | 2026-10-13 | KB5126657 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/A7CB0DC067000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/F82156702AA106C55FB8DAE38396AEB81/cmd.pdb) |
 
 ### 10.0.17763
 

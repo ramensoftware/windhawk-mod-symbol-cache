@@ -26,13 +26,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9b28d0...<!-- 9b28d00006941f6d1e3d930c96549cb9195ca739938c3bd657e3c9fc52844fb1 --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/829C0CAC1b4000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/1AD5A17643D49A30E444F181DFB62D9C1/DUI70.pdb) |
+| 9b28d0...<!-- 9b28d00006941f6d1e3d930c96549cb9195ca739938c3bd657e3c9fc52844fb1 --> | 2026-10-13 | KB5126657 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/829C0CAC1b4000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/1AD5A17643D49A30E444F181DFB62D9C1/DUI70.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 387e62...<!-- 387e620b88b693844e010c06d855226209bd4ed45c39039dfb64c58f736a3035 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/908779D701CF6009BFFA2595C5D70AF61/DUI70.pdb) |
+| 387e62...<!-- 387e620b88b693844e010c06d855226209bd4ed45c39039dfb64c58f736a3035 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/DC0998CD1b5000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/908779D701CF6009BFFA2595C5D70AF61/DUI70.pdb) |
 | b5fced...<!-- b5fced036cc2938185a892a063e3038b091bc61f76bceec3940c21a6880b1b6a --> | 2026-09-14 | KB5129238 | 10.0.17763.9121 | 10.0.17763.9121 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/0D4430261b5000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/43BC970F6F64795DDD1C263F247EC86A1/DUI70.pdb) |
 
 ### 10.0.14393
