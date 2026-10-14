@@ -21,7 +21,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b3b347...<!-- b3b347184916f2aa701ba7c99d5ccd7f421cafac3d3646848dbf6982098e95dd --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/CB3314F3a7000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/50E2FFC62841D40D28B8EC0FB905BDFA1/MusNotifyIcon.pdb) |
+| b3b347...<!-- b3b347184916f2aa701ba7c99d5ccd7f421cafac3d3646848dbf6982098e95dd --> | 2026-10-13 | KB5126657 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/CB3314F3a7000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/50E2FFC62841D40D28B8EC0FB905BDFA1/MusNotifyIcon.pdb) |
 
 ## x64 (insider preview builds)
 
