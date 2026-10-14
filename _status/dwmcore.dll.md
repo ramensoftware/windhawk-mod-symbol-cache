@@ -29,7 +29,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 225beb...<!-- 225bebd22a794f0bfb7278a962d9b8480580a8b442ad2e0725392939cb994322 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🔴 | ❓ |
+| 225beb...<!-- 225bebd22a794f0bfb7278a962d9b8480580a8b442ad2e0725392939cb994322 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/A8AB10E43B34B4CD9F04CE04F08994BB1/dwmcore.pdb) |
 | b7488e...<!-- b7488eb96e3ad2a845fdf0cd03d2d729e970eca81e08c087ce7a6deea8d2cd9d --> | 2026-09-14 | KB5129236 | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.dll/F1A0D9C4376000/dwmcore.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmcore.pdb/72052572E107EC32B9A529B7B7487E091/dwmcore.pdb) |
 
 ### 10.0.17763

@@ -30,7 +30,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| fec170...<!-- fec170290d8abf881a23db2b2e95ba5198eb7fd64a379955b744049533cda409 --> | 2026-10-13 | KB5126657 | 10.0.19041.7802 | 10.0.19041.7802 | [🔴](https://msdl.microsoft.com/download/symbols/explorer.exe/A10DDF9F5c9000/explorer.exe) | ❓ |
+| fec170...<!-- fec170290d8abf881a23db2b2e95ba5198eb7fd64a379955b744049533cda409 --> | 2026-10-13 | KB5126657 | 10.0.19041.7802 | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/A10DDF9F5c9000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/EC4C6AC6D86EFCE1957E2081396E1AE41/explorer.pdb) |
 | c49305...<!-- c493059ca065b0780ce5a430ade23f74c79c9578ec49c1fb18d7ad3f81dfec5e --> | 2026-09-14 | KB5129236 | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/explorer.exe/7A77DC0C5c9000/explorer.exe) | [🟢](https://msdl.microsoft.com/download/symbols/explorer.pdb/F64FA3EC9614C872C94A67CF7FB904641/explorer.pdb) |
 
 ### 10.0.17763

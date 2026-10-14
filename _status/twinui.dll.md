@@ -29,7 +29,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 384cf9...<!-- 384cf937d902e01c198fdc1ff877a4da30b679413f34621b31cbb392e0de575d --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🔴 | ❓ |
+| 384cf9...<!-- 384cf937d902e01c198fdc1ff877a4da30b679413f34621b31cbb392e0de575d --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/684FAB113D41FAE666BE01B90F26F2E11/twinui.pdb) |
 | f31438...<!-- f314388904e70b6e39acf437b1d1c0bdfff57faefe27d59dff198747081cca87 --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.dll/15FB3EA761b000/twinui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/F8BC08557F2FC0C9216601E9E3B6284A1/twinui.pdb) |
 
 ### 10.0.17763

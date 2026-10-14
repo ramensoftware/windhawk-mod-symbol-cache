@@ -29,7 +29,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8f09bd...<!-- 8f09bdd5bcb25e53510144beccd63c7b8331aa06dd0829d5b20c1a48f9185bb1 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🔴 | ❓ |
+| 8f09bd...<!-- 8f09bdd5bcb25e53510144beccd63c7b8331aa06dd0829d5b20c1a48f9185bb1 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/F419133F477034AF2EB72024281F35431/CBDHSvc.pdb) |
 | 6625c7...<!-- 6625c7385a9ff4f5701ad8ffa02a36f4ed7c42e3dc8aa95e2f08d67779f3b3a9 --> | 2026-09-14 | KB5129236 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/A441B576101000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/C9F6A6A785AFCBACA8801929508E2B1F1/CBDHSvc.pdb) |
 
 ### 10.0.17763
