@@ -1,0 +1,1 @@
+1#4145295234#6426624#private: long __thiscall RegDataDrivenCommand::CheckTogglePane(unsigned long *)#883310#private: long __thiscall RegDataDrivenCommand::_TryPane(int *)#1796909#public: virtual long __thiscall CDefImageRenderer::Draw(struct HDC__ *,struct tagRECT const *)##private: int __thiscall CDefImageRenderer::_GetOverlayIndex(void)#4303284
