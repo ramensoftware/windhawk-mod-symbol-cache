@@ -1,0 +1,1 @@
+1#taskbar.view.dll#arm64_1756844499_14901248#public: virtual int __cdecl winrt::impl::produce<struct winrt::SystemTray::implementation::DateTimeIconContent,struct winrt::Windows::UI::Xaml::IFrameworkElementOverrides>::OnApplyTemplate(void)#2116896
