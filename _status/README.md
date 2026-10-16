@@ -20,6 +20,7 @@
 | [explorerextensions.dll](explorerextensions.dll.md) |
 | [explorerframe.dll](explorerframe.dll.md) |
 | [fileexplorerextensions.dll](fileexplorerextensions.dll.md) |
+| [inputapp.dll](inputapp.dll.md) |
 | [logoncontroller.dll](logoncontroller.dll.md) |
 | [monotificationux.exe](monotificationux.exe.md) |
 | [mshtml.dll](mshtml.dll.md) |

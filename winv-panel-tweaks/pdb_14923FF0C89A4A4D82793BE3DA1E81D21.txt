@@ -1,0 +1,1 @@
+1#inputapp.dll#arm64_1785168388_1703936#private: void __cdecl WindowsInternal::ComposableShell::Experiences::TextInputUndocked::InputApp::ExpressiveSuggestionUIPage::ResetControlSize(class Windows::Foundation::Size)#522552
