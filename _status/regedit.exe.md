@@ -130,7 +130,6 @@
 | 2a2a3b...<!-- 2a2a3b73ab4e4d0b3dacf2061e85111ea621a88cc09f8e8d9e03f267e7047105 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> | 10.0.26100.8951 | 10.0.26100.8951 | [🔴](https://msdl.microsoft.com/download/symbols/regedit.exe/23334E27cf000/regedit.exe) | ❓ |
 | 50aa0a...<!-- 50aa0a8c6f2e67b7aff6e8d28cadf0025a55d5dfd2b1651168839bbac8ac7657 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> | 10.0.26100.9306 | 10.0.26100.9306 | [🔴](https://msdl.microsoft.com/download/symbols/regedit.exe/AF7128EEcf000/regedit.exe) | ❓ |
 | f9693b...<!-- f9693bde34f4614d0900ac8e6abac1b4b6be11701a743362f535f4531251e95a --> | 2026-08-21 | 3391da38...<!-- 3391da38-3726-440a-8d1d-5ff656ae4cf9 --> | 10.0.26100.8941 | 10.0.26100.8941 | [🔴](https://msdl.microsoft.com/download/symbols/regedit.exe/AF59C8B2cf000/regedit.exe) | ❓ |
-| 0d7735...<!-- 0d7735343005142d694aaeb270bcee46f4298797dc1f9f6e82391a106bb5a40f --> | 2026-08-16 | 721dfe56...<!-- 721dfe56-4a9a-452f-8e73-934e3ac45619 --> | 10.0.26100.9267 | 10.0.26100.9267 | [🔴](https://msdl.microsoft.com/download/symbols/regedit.exe/913A6562cf000/regedit.exe) | ❓ |
 
 ### 10.0.22621
 

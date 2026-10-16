@@ -176,7 +176,6 @@
 | 601f35...<!-- 601f35b796f53ca52f96c4fa7b433acbfaff9c75586d2080a1810713090783c3 --> | 2026-09-03 | ddaefaf4...<!-- ddaefaf4-7678-4b18-b3b8-36daa7993aec --> | 11.00.26100.9072 | 11.0.26100.9072 | [🔴](https://msdl.microsoft.com/download/symbols/mshtml.dll/0E2E8DC016fe000/mshtml.dll) | ❓ |
 | 45e2b0...<!-- 45e2b09fbb36c6f9a3716a398661d9fcd0eb4e682de057a3ff99a22bfbf2f7ff --> | 2026-08-21 | 3391da38...<!-- 3391da38-3726-440a-8d1d-5ff656ae4cf9 --> | 11.00.26100.9223 | 11.0.26100.9223 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/1707D2A516fe000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/4F8AF26ACE7F5A41F44279E444A9023C1/mshtml.pdb) |
 | 369f29...<!-- 369f29cbcc9a2448f06035eefe4fd7d6462982633fcf98bd1eb3f39f0b548d74 --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> | 11.00.26100.9202 | 11.0.26100.9202 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/0062E9A116fe000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/4C0A5D34187F2CDC87F0049C896087D01/mshtml.pdb) |
-| 311948...<!-- 311948c1a063465394812490462fbd0bc626bf8ad817ba9fce503c4cc6a7ab64 --> | 2026-08-16 | 721dfe56...<!-- 721dfe56-4a9a-452f-8e73-934e3ac45619 --> |  | 11.0.26100.9267 | 🔴 | ❓ |
 
 ### 11.0.22621
 

@@ -145,7 +145,6 @@
 | 788401...<!-- 7884011ccbdd7cffdbc3b881f91f87808c6d979022ec2ce269676dfde6bfb539 --> | 2026-08-21 | 3391da38...<!-- 3391da38-3726-440a-8d1d-5ff656ae4cf9 --> |  | 10.0.26100.9223 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/A951B6AE61000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/4BDCDD17616714567EDFA1DA5E8C502B1/Windows.UI.BlockedShutdown.pdb) |
 | c660ae...<!-- c660ae04578ef7d212480eaf59a7f8ec34a8a351eec63ebe67e5a829e1391041 --> | 2026-08-17 | 5a2f54fc...<!-- 5a2f54fc-cd21-47c2-93b5-8898b439ef90 --> |  | 10.0.26100.9212 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/57A0A69261000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/F50D91DA3C5DE56EC5C6F08A949E34781/Windows.UI.BlockedShutdown.pdb) |
 | 6b8eb1...<!-- 6b8eb1667ef3b631a3fac255630226578011b7aeac64e8f587b7d3dbcd509f37 --> | 2026-08-17 | f166fc4f...<!-- f166fc4f-3e8d-41b9-8e6c-40b20ebe3098 --> |  | 10.0.26100.9202 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/5CDF50DB61000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/8BFC7FA3D109404C6A80241F51FAFBFA1/Windows.UI.BlockedShutdown.pdb) |
-| 30ec0f...<!-- 30ec0f570f61b46b23a91b9f20fa8c99e90cfd1a4d1adedaff7af3e90973db65 --> | 2026-08-16 | 721dfe56...<!-- 721dfe56-4a9a-452f-8e73-934e3ac45619 --> |  | 10.0.26100.9267 | 🔴 | ❓ |
 
 ### 10.0.22621
 
