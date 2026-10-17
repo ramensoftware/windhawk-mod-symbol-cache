@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_1544652839_6569984;public: virtual long __cdecl CBrowserHost::Refresh(long);1605904;public: virtual long __thiscall CBrowserHost::Refresh(long);
