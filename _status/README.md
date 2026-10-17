@@ -12,6 +12,7 @@
 | [consent.exe](consent.exe.md) |
 | [controlcenter.dll](controlcenter.dll.md) |
 | [d2d1.dll](d2d1.dll.md) |
+| [desktopswitcherdatamodel.dll](desktopswitcherdatamodel.dll.md) |
 | [dinput8.dll](dinput8.dll.md) |
 | [dui70.dll](dui70.dll.md) |
 | [dwmcore.dll](dwmcore.dll.md) |

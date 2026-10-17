@@ -1,0 +1,1 @@
+1;desktopswitcherdatamodel.dll;arm64_3752092827_774144;public: virtual long __cdecl WindowThumbnailFactoryBase::get_SourceSize(struct Windows::Foundation::Size *);37264;public: virtual long __cdecl WindowThumbnailFactoryBase::get_Bounds(struct Windows::Foundation::Rect *);127920
