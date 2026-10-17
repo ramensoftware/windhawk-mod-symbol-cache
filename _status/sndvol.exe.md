@@ -96,12 +96,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b6ec00...<!-- b6ec0045313c5d0f11733f728e717565167f19c56dc3f743eb929fc33f5ab043 --> | 2026-09-08 | 5a916774...<!-- 5a916774-d166-4271-b5a9-e0aa04ca3ce8 --> | 10.0.29661.1000 | 10.0.29661.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/EDBBECB449000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/ACE1347B0595FDAFFEDF835CFA6D77651/SndVol.pdb) |
 
-### 10.0.29648
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 375f34...<!-- 375f3458e2928f71848e0328c4ca5ed969e8ff55565ea8950cc94f864262f670 --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> | 10.0.29648.1000 | 10.0.29648.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/44CA7C7C49000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/2A994F5FB368193F59BE58D1C12917301/SndVol.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |

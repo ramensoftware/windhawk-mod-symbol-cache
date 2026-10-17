@@ -58,12 +58,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9d4b8d...<!-- 9d4b8d6ca898a7e353b49b45b1aac7cef3f33aef518bf0cb6a764da05cd19596 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 2607.21001.0.0 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A5F09384da000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/5FB3FAD9C0CE40BE922F5299058654D91/StartMenu.pdb) |
 
-### 10.0.29648
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| fc5067...<!-- fc506751188b8e2fe5f4c8ffdb74529cb8b4cefcf3b717cae9e1e8d3437eb752 --> | 2026-08-17 | f322908e...<!-- f322908e-723d-4e4a-9606-c687956d38f0 --> | 2606.23001.100.0 | 10.0.29648.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A3D72104d2000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/D7D3C429C0934B4B9C665CF26B9B6B891/StartMenu.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
