@@ -1,0 +1,1 @@
+1#user32.dll#x86_1774819939_2048000#long __stdcall RealDefWindowProcWorker(struct tagWND *,unsigned int,unsigned int,long,unsigned long)#180384#void __stdcall RenderTooltip(struct HWND__ *,struct HDC__ *,struct TooltipInfo *)#483346#int __stdcall MB_DlgProc(struct HWND__ *,unsigned int,unsigned int,long)#716896#void __stdcall DrawCommandRectangle(struct HWND__ *)#715462
