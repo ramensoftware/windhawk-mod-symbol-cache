@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_566967271_15523840;public: virtual long __cdecl CPinnedList::GetAppIDForPinnedItem(struct _ITEMIDLIST_ABSOLUTE const *,unsigned short * *);4123168;protected: long __cdecl CPinnedList::InternalModify(struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMIDLIST_ABSOLUTE const *,enum PINNEDLISTMODIFYCALLER,enum PinnedListModifyFlags);4133496

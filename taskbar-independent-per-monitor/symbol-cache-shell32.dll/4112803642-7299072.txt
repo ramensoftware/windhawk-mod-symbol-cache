@@ -1,0 +1,1 @@
+1#4112803642#7299072#public: virtual long __cdecl CPinnedList::GetAppIDForPinnedItem(struct _ITEMIDLIST_ABSOLUTE const *,unsigned short * *)#1729024#protected: long __cdecl CPinnedList::InternalModify(struct _ITEMIDLIST_ABSOLUTE const *,struct _ITEMIDLIST_ABSOLUTE const *,enum PINNEDLISTMODIFYCALLER,enum PinnedListModifyFlags)#900844
