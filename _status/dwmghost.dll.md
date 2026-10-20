@@ -100,7 +100,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 388984...<!-- 388984b46caa56463fc5c81d526f72841a3b6a7f0c577926df9399f1ff04ec75 --> | 2026-10-18 | 10188b6c...<!-- 10188b6c-6fec-4be3-b7e8-744c398e9a35 --> |  | 10.0.28000.2672 | 🔴 | ❓ |
+| 388984...<!-- 388984b46caa56463fc5c81d526f72841a3b6a7f0c577926df9399f1ff04ec75 --> | 2026-10-18 | 10188b6c...<!-- 10188b6c-6fec-4be3-b7e8-744c398e9a35 --> | 10.0.28000.2672 | 10.0.28000.2672 | [🔴](https://msdl.microsoft.com/download/symbols/dwmghost.dll/4D741FF818000/dwmghost.dll) | ❓ |
 | fe9b3d...<!-- fe9b3dd9f51d472b83ef359c71813c8e39d1b97580fb58d6db372cd7f51c2fcb --> | 2026-10-18 | 10188b6c...<!-- 10188b6c-6fec-4be3-b7e8-744c398e9a35 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/dwmghost.dll/6ABE24B818000/dwmghost.dll) | ❓ |
 | d86e22...<!-- d86e220e1465d81cfd4063c0f9701ed24efed452849dcdcecd3096f7703978e7 --> | 2026-10-16 | fc519353...<!-- fc519353-e665-48ed-9f00-6c8473ad43a0 --> |  | 10.0.28000.3351 | 🔴 | ❓ |
 | d15271...<!-- d15271bb85e6511f4689f95d6b5665e2ce4903b1103510c71b959d12c0d82e6b --> | 2026-10-16 | fc27c714...<!-- fc27c714-c711-4a26-808c-b5073c5186a7 --> |  | 10.0.28000.3023 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/780E9EAC18000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/0AC626000F2617779E147072EF632D111/dwmghost.pdb) |

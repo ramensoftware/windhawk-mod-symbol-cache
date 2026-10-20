@@ -92,7 +92,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e21216...<!-- e2121651f0f00cdab6ce41ef02c0c322a853474f45777d42fd9ca0bbf0581d29 --> | 2026-10-16 | 5b5d01bf...<!-- 5b5d01bf-77cf-41fd-800b-db0821ebc30b --> |  | 10.0.26100.9807 | 🔴 | ❓ |
+| e21216...<!-- e2121651f0f00cdab6ce41ef02c0c322a853474f45777d42fd9ca0bbf0581d29 --> | 2026-10-16 | 5b5d01bf...<!-- 5b5d01bf-77cf-41fd-800b-db0821ebc30b --> |  | 10.0.26100.9807 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/2A53EC8841d000/controlcenter.dll) | ❓ |
 | 61556f...<!-- 61556f846b06e7b62b1c22a637184d10414d5f8698e1292e560529e33afa837d --> | 2026-10-16 | b7cbe624...<!-- b7cbe624-ae0e-43a7-93e4-b56e624489ee --> |  | 10.0.26100.9616 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/A1C744C141d000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/1CBCEBE5F29DF38A167FFF0901A6FAC51/ControlCenter.pdb) |
 | a1eccc...<!-- a1eccc1e12cbd72a105331154fbb892923369d595f1208c87ba297441df85ac1 --> | 2026-10-16 | c3a9b208...<!-- c3a9b208-4ef4-47b9-a35d-c49436347474 --> |  | 10.0.26100.9606 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6FDDC2E041d000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/C9E6F817B9D57C577FD079B3061265DE1/ControlCenter.pdb) |
 | 093bf7...<!-- 093bf7da2fd0756da1134b910e921a18777bc87e12e6bb460b92ef29ba255c92 --> | 2026-10-16 | c3a9b208...<!-- c3a9b208-4ef4-47b9-a35d-c49436347474 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
