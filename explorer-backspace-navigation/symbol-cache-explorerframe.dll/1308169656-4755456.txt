@@ -1,0 +1,1 @@
+1#1308169656#4755456#private: long __cdecl CShellBrowser::_MayTranslateAccelerator(struct tagMSG *,int)#1183300
