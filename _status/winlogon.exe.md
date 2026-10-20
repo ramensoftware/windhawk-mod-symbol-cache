@@ -23,7 +23,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| efd351...<!-- efd3511fdb3040f627046e5157b052fc28fee737305a909c701a9782db094d6e --> | 2026-10-13 | KB5126653 |  | 10.0.22621.7649 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/07B0E649DDF07AAC0F71DC3C79432F1D1/winlogon.pdb) |
+| efd351...<!-- efd3511fdb3040f627046e5157b052fc28fee737305a909c701a9782db094d6e --> | 2026-10-13 | KB5126653 | 10.0.22621.7649 | 10.0.22621.7649 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/FFFF3BCDf4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/07B0E649DDF07AAC0F71DC3C79432F1D1/winlogon.pdb) |
 | b36786...<!-- b36786ebbd852f3953fa8d926de573d3885c82559143411bbd5a0075f8c02da9 --> | 2026-09-14 | KB5129242 | 10.0.22621.7517 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.exe/98D556DDf4000/winlogon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/winlogon.pdb/641D3295555BE2A71918DBDF37FE995E1/winlogon.pdb) |
 
 ### 10.0.19041
