@@ -116,7 +116,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ff91bc...<!-- ff91bca2fb35e7d1ed9654a8e323dbc23fed5b1a4ef4866f2887e4708c924c5f --> | 2026-10-16 | 5b5d01bf...<!-- 5b5d01bf-77cf-41fd-800b-db0821ebc30b --> |  | 10.0.26100.9807 | 🔴 | ❓ |
+| ff91bc...<!-- ff91bca2fb35e7d1ed9654a8e323dbc23fed5b1a4ef4866f2887e4708c924c5f --> | 2026-10-16 | 5b5d01bf...<!-- 5b5d01bf-77cf-41fd-800b-db0821ebc30b --> | 10.0.26100.9807 | 10.0.26100.9807 | [🔴](https://msdl.microsoft.com/download/symbols/taskbar.dll/7BA9A53231a000/taskbar.dll) | ❓ |
 | 6653fc...<!-- 6653fce9aa67eddda26a97a552f5eedb05e00a46b7220410839d35dce8da36a1 --> | 2026-10-16 | b7cbe624...<!-- b7cbe624-ae0e-43a7-93e4-b56e624489ee --> |  | 10.0.26100.9750 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/D787DE5B31d000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/B2426758A5604DE96240D6C44785BEA11/Taskbar.pdb) |
 | c3b218...<!-- c3b218444a516fe6096881cd86b2d6e2d26dc17fd740fa4cbf0e26d130c813fb --> | 2026-10-16 | c3a9b208...<!-- c3a9b208-4ef4-47b9-a35d-c49436347474 --> |  | 10.0.26100.9739 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/1ABD5FDC31d000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/446643BAEA92EFA9BC90C45F46DF107E1/Taskbar.pdb) |
 | 4d9ff3...<!-- 4d9ff31417b1efaf7193a923a53147d6f64e9a379eb20c037da968a2cecc26a6 --> | 2026-10-16 | c3a9b208...<!-- c3a9b208-4ef4-47b9-a35d-c49436347474 --> |  | 10.0.26100.1746 | 🔴 | ❓ |

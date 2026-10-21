@@ -7,7 +7,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | eb19c7...<!-- eb19c719f65a11fe891de77ab88e1a3addbe134f25c50dc266525ed97303080a --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3231 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/C8F5CE632C7BD537D6A3443F9AE356BA1/CBDHSvc.pdb) |
-| 35493d...<!-- 35493d8f1845976af2d746627411e8a09e9dc1a10f3e2f3a80e40cb039a6e965 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/28546462da000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/7EE7900620E71488DBA824BBB604B13F1/CBDHSvc.pdb) |
+| 35493d...<!-- 35493d8f1845976af2d746627411e8a09e9dc1a10f3e2f3a80e40cb039a6e965 --> | 2026-09-22 | KB5124006 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/28546462da000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/7EE7900620E71488DBA824BBB604B13F1/CBDHSvc.pdb) |
 | 2e3e4e...<!-- 2e3e4e19378b0b6648c62a16c6ff1b1727ad1104829afc87c26c6cb4fcb402f7 --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/D1057E11da000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/A3909CA20FD55EA77D7BBDDB05C1E5B71/CBDHSvc.pdb) |
 
 ### 10.0.26100
@@ -36,7 +36,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 53976e...<!-- 53976ea8a4fb2eff1cd73f35dfeea210680ed0c4f637104162840f77e1c2e3e4 --> | 2026-10-13 | KB5126651 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/AC86A332f2000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/8530D4AC79F9A44954A13F777D7FFB941/CBDHSvc.pdb) |
+| 53976e...<!-- 53976ea8a4fb2eff1cd73f35dfeea210680ed0c4f637104162840f77e1c2e3e4 --> | 2026-10-13 | KB5126651 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/AC86A332f2000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/8530D4AC79F9A44954A13F777D7FFB941/CBDHSvc.pdb) |
 | 227dbe...<!-- 227dbe1edce079566f08669e1c346135f1a0e677a3e7bfdd21a79fd05ade9299 --> | 2026-09-14 | KB5129238 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/5E2B9608f1000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/B9504263996FF1EF830D71BBE38AA3D81/CBDHSvc.pdb) |
 
 ## ARM64 (release builds)
