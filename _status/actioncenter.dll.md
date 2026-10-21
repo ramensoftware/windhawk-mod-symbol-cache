@@ -126,7 +126,6 @@
 | 04a748...<!-- 04a74887b0b99570c4e97b2b7d2827eb22575ef4870847ffcd41c70fedfe9fb2 --> | 2026-10-07 | 02efa92f...<!-- 02efa92f-f60e-42c2-b154-9eefbab96752 --> | 10.0.26100.9472 | 10.0.26100.9472 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/AD0194FE53000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/365867762F4B48E64C725B48E2B2FB681/ActionCenter.pdb) |
 | ce7659...<!-- ce7659a6004eda7b12b665fae564ba891d7e4963f4609b61d30ab634508ffa27 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> | 10.0.26100.9233 | 10.0.26100.9233 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/683E7BB853000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/89FC159709A719EB434D9881ABE0428A1/ActionCenter.pdb) |
 | 4eba64...<!-- 4eba64faa0dff8093d6e1c62ae88525e4901c66b1b2dec27e59892a488ebbfde --> | 2026-09-08 | 1e7eaea8...<!-- 1e7eaea8-4d56-4e85-ba1b-ee9e239bfb1e --> |  | 10.0.26100.9306 | 🔴 | ❓ |
-| 53a4c7...<!-- 53a4c7afec6264aff769cf0477397db31c15baa4cf97671bc42a446298f58a5a --> | 2026-08-21 | 3391da38...<!-- 3391da38-3726-440a-8d1d-5ff656ae4cf9 --> | 10.0.26100.9223 | 10.0.26100.9223 | [🟢](https://msdl.microsoft.com/download/symbols/actioncenter.dll/2133954553000/actioncenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ActionCenter.pdb/A45C471C4E754B1F3A9DEC6096878D851/ActionCenter.pdb) |
 
 ### 10.0.22621
 
