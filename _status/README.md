@@ -50,6 +50,7 @@
 | [taskbar.dll](taskbar.dll.md) |
 | [taskbar.view.dll](taskbar.view.dll.md) |
 | [taskmgr.exe](taskmgr.exe.md) |
+| [textinput.dll](textinput.dll.md) |
 | [themeui.dll](themeui.dll.md) |
 | [thumbcache.dll](thumbcache.dll.md) |
 | [timedate.cpl](timedate.cpl.md) |
