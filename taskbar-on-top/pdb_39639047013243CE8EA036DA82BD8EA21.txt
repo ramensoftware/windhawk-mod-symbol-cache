@@ -1,0 +1,1 @@
+1#systemtray.dll#arm64_1791833875_2633728#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#255624#public: void __cdecl winrt::SystemTray::implementation::TextIconContent::ShowContextMenu(void)#706488#public: void __cdecl winrt::SystemTray::implementation::DateTimeIconContent::ShowContextMenu(void)#205944

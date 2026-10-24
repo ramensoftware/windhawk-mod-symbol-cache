@@ -1,0 +1,1 @@
+1#1791834006#2121728#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#241192#private: void __cdecl winrt::SystemTray::implementation::IconView::OnTappedHandler(struct winrt::Windows::Foundation::IInspectable const &,struct winrt::Windows::UI::Xaml::Input::TappedRoutedEventArgs)#271120

@@ -1,0 +1,1 @@
+1#systemtray.dll#x86-64_1791834006_2121728#public: void __cdecl winrt::SystemTray::implementation::DateTimeIconContent::OnApplyTemplate(void)#193884#public: virtual int __cdecl winrt::impl::produce<struct winrt::SystemTray::implementation::BadgeIconContent,struct winrt::SystemTray::IBadgeIconContent>::get_ViewModel(void * *)#81392

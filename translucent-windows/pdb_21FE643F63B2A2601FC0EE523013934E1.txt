@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86_3317711707_2572288#private: void __thiscall CNscTree::DrawDivider(struct HDC__ *,struct _TREEITEM *)#1206636#public: virtual long __thiscall CNscTree::GetWindowsDDT(struct HWND__ * *,struct HWND__ * *)#543456

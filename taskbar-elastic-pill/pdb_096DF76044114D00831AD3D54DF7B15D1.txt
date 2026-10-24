@@ -1,0 +1,1 @@
+1#searchux.ui.dll#x86-64_1791411516_12537856#private: void __cdecl winrt::SearchUx::SearchUI::implementation::SearchIconButton::UpdateVisualStates(void)##protected: void __cdecl winrt::SearchUx::SearchUI::implementation::SearchIconButton::PlayStateChange(void)#
