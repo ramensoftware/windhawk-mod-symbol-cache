@@ -1,0 +1,1 @@
+1#712973640#688128#protected: static int __cdecl CThemeMenu::Attach(struct HWND__ *,struct HMENU__ *,int,bool,class CThemeMenu * *)#97484
