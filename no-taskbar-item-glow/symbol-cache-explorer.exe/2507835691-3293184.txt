@@ -1,0 +1,1 @@
+1#2507835691#3293184#long __cdecl DrawRadialGradient(struct HDC__ *,struct tag_TASKBAND_RADIALGRADIENT *)#

@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_3169987251_3682304#public: virtual long __cdecl CTaskBand::SwitchTo(struct ITaskItem *,int)#298208
