@@ -1,0 +1,1 @@
+1#1789086128#9969664#private: void __cdecl winrt::Taskbar::implementation::TaskbarFrame::OnTaskbarLayoutChildBoundsChanged(void)#1797392#private: void __cdecl winrt::Taskbar::implementation::TaskListButton::UpdateVisualStates(void)#457184
