@@ -137,7 +137,6 @@
 | 4cf9a3...<!-- 4cf9a3348e0eabee98b36e6808c44d9d8c1202eb3c094c8496c1feeaf54b1e2a --> | 2026-09-08 | 73af1746...<!-- 73af1746-b001-4dd4-ba00-e8ef4cccfd8b --> |  | 10.0.28000.2824 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/83B8318C71000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/137CAEF97C4FD867D377D767DF7B644D1/thumbcache.pdb) |
 | 5c3429...<!-- 5c342922d14c02af263283ef585d3601f592b821a1428049db2c4edaabe90330 --> | 2026-09-08 | 668a580d...<!-- 668a580d-b965-4af5-9ad5-177f6eeef492 --> |  | 10.0.28000.2818 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/458EFA0874000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/CE20701A64346501F02AFF5365D2C5581/thumbcache.pdb) |
 | 14f931...<!-- 14f931e256d878beb046a1622ef247924254ab1ae293e735f246fd3614414755 --> | 2026-08-27 | 8f595bc2...<!-- 8f595bc2-11e8-4b7d-91e0-c457277db89e --> |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/9C7BA7C771000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/1D6F1D1D063625EA344796711512F8E31/thumbcache.pdb) |
-| 9e33d1...<!-- 9e33d1ed1bfb6c52193f7ca6d8d278c3fea5b1495284777d4bff4caf18c09d21 --> | 2026-08-25 | c33fa37f...<!-- c33fa37f-afea-400a-ac98-b9e22004ab5f --> |  | 10.0.28000.2672 | 🔴 | ❓ |
 
 ### 10.0.26100
 
