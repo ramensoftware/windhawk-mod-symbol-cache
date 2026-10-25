@@ -142,7 +142,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| cffb4c...<!-- cffb4c8bc88e269e0819181bab3eef5b1886674ece039fdeb73e3f22011f5ce2 --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🔴 | ❓ |
+| cffb4c...<!-- cffb4c8bc88e269e0819181bab3eef5b1886674ece039fdeb73e3f22011f5ce2 --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/FD6AF60C10126D41700CF7D790921EA61/uDWM.pdb) |
 | 92bfec...<!-- 92bfecbdd9f4803d1ad23171ab9370c9d02774abf60ad29e85149aaf866e85e8 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.9756 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/0F2B70B9F2419403C1AD97BE844851661/uDWM.pdb) |
 | e40b72...<!-- e40b72fa11b8f293517c3d162b4e7baea734ba3690027c09743916c5a1e20ff9 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 556a76...<!-- 556a76646def66f5b6a688ee8b2ab6bd977a9e9ee7b5949aae6b98d70e55d0b7 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/udwm.dll/8574564D130000/udwm.dll) | ❓ |

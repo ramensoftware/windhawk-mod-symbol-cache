@@ -123,7 +123,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c14755...<!-- c1475533d23520fc72b284ce835544aedd79ab80a83588d54d2363343cf64ee4 --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🔴 | ❓ |
+| c14755...<!-- c1475533d23520fc72b284ce835544aedd79ab80a83588d54d2363343cf64ee4 --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/AE0CA337E1A838EC4E9B42795188B0301/Taskbar.pdb) |
 | ad11c5...<!-- ad11c54ce7d8cec129b0188895e036cbd3a08dcb65dfe046688309d5aa3d8000 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.9756 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/1127CB420D32A32B6BC61696A7988FF41/Taskbar.pdb) |
 | 4d9ff3...<!-- 4d9ff31417b1efaf7193a923a53147d6f64e9a379eb20c037da968a2cecc26a6 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | c989e0...<!-- c989e01581bc502519ea2a5c698c2b192aa719a4a30e707a21fc7a09c848d15f --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/taskbar.dll/D62AE2682df000/taskbar.dll) | ❓ |

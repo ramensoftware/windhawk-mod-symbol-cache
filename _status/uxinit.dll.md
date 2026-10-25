@@ -136,7 +136,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8232f1...<!-- 8232f134e79dc1faa69280130f215792f90454d76a252de2b52d398347f84aba --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🔴 | ❓ |
+| 8232f1...<!-- 8232f134e79dc1faa69280130f215792f90454d76a252de2b52d398347f84aba --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/896771B76E805526C9C3FF4A2A9745471/UXInit.pdb) |
 | f0b500...<!-- f0b5003aa81112d9b25938f658f265fbd750ca5dd6c5e8c435185a4dab6c188f --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.9756 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/115F8A9EE3445E1EE5795EE8865330FD1/UXInit.pdb) |
 | 980f3d...<!-- 980f3de0ac72de365b09db347de72281b08800c0b41ef034131a7740e1d167f7 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 99eb5d...<!-- 99eb5d6a7fd9d5b735d07801f13d6ac2083ab577bfff212988f0953cef4c73eb --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/uxinit.dll/E041F08927000/uxinit.dll) | ❓ |

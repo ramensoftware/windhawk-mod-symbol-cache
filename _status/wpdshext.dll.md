@@ -130,7 +130,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 7c6c57...<!-- 7c6c57fc86892dca29848c08dc95b0c09d1b461cff7ed709993c44493dae7db7 --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🔴 | ❓ |
+| 7c6c57...<!-- 7c6c57fc86892dca29848c08dc95b0c09d1b461cff7ed709993c44493dae7db7 --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> |  | 10.0.26100.9767 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/83D718F8E6CEFD07ACB8EFC94BBDAEFF1/wpdshext.pdb) |
 | 049908...<!-- 049908fdcb844bc1cf04723993ac3746d98cf4fcbf4bceb6badd05f815453875 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.9756 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/wpdshext.pdb/EDB028F0799CA2DCA9CB4DE02159BE911/wpdshext.pdb) |
 | ec9d43...<!-- ec9d4348c2075d802709c74a1fe5d0ffa37bac096ac923eb218cfbb8e787388c --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 94f7da...<!-- 94f7daa3e8c1e52838a6b9423d21dfebc3742a715e4bb86264d9f718ba112444 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/wpdshext.dll/F2DA6849a4000/wpdshext.dll) | ❓ |

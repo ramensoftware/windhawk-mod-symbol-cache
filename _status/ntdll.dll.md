@@ -161,7 +161,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4ebde3...<!-- 4ebde39100356f6aec3460666e24e77a32abf1f7250de7f0f21711f78b2b67bb --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> | 10.0.26100.9767 | 10.0.26100.9767 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/BF4CF1DC26c000/ntdll.dll) | ❓ |
+| 4ebde3...<!-- 4ebde39100356f6aec3460666e24e77a32abf1f7250de7f0f21711f78b2b67bb --> | 2026-10-23 | d63ae637...<!-- d63ae637-0511-4ee2-a034-5ee555b16788 --> | 10.0.26100.9767 | 10.0.26100.9767 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/BF4CF1DC26c000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/06BB828604035C7B336C30311B44276E1/ntdll.pdb) |
 | b89ba2...<!-- b89ba23e85f6dbad14ba7acb99ffa47aa11da2d2978da209e2443a81073d39b2 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> |  | 10.0.26100.9756 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/EE7F11F3D38390EC1A7193840E91E42F1/ntdll.pdb) |
 | 6d01a5...<!-- 6d01a55ce6bddc64d13f3120b1a5a9498892d22873fdb3ec549069c9eefeed5e --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 10.0.26100.1746 | 10.0.26100.1746 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/DCE746FA263000/ntdll.dll) | ❓ |
 | 6e62de...<!-- 6e62dee2f82f04ac0a7ce1c1c3697f75108c480fbe60fb5de9cb98bcd4879b0d --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/A1D4DBE0255000/ntdll.dll) | ❓ |
