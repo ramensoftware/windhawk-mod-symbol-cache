@@ -1,0 +1,1 @@
+1#taskmgr.exe#arm64_3763659598_6471680#private: void __cdecl AtmView::SetBorderUponNavigationForColumnHeader(void)#992776#private: void __cdecl AtmView::SetBorderUponNavigationForListRow(void)#993000#private: void __cdecl AtmView::SetBorderUponNavigationForListRowWithColumnTraversal(void)#993392#void __cdecl SetBorderUponNavigatingIntoElement(class DirectUI::Element *)#778816
