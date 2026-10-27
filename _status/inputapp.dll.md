@@ -62,13 +62,6 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29695
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e5e880...<!-- e5e880ae35c669d923fba0a5821e56e6e588f58549e5be27516d01f5cf934b20 --> | 2026-10-23 | 9775f6a3...<!-- 9775f6a3-8aa9-43c2-a875-e0fed7c1e81c --> | 2608.26000.0.0 | 10.0.29695.1001 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A8F272A153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/511C47B9DCE34C4D8E2E6777D36627BF1/InputApp.pdb) |
-| 757adb...<!-- 757adbd344233b38aa5b73abd53f65a7408854893cb256377ec41a0cdb3ca9c0 --> | 2026-10-23 | 9775f6a3...<!-- 9775f6a3-8aa9-43c2-a875-e0fed7c1e81c --> | 2608.26000.0.0 | 10.0.29695.1001 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A8F2D17153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/E98787A4B6DF4D9AABC6771261165F0C1/InputApp.pdb) |
-
 ### 10.0.29683
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -102,11 +95,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| e5e880...<!-- e5e880ae35c669d923fba0a5821e56e6e588f58549e5be27516d01f5cf934b20 --> | 2026-10-26 | 2954e2ae...<!-- 2954e2ae-6b9e-4fe2-8760-4e469910623b --> | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A8F272A153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/511C47B9DCE34C4D8E2E6777D36627BF1/InputApp.pdb) |
+| 757adb...<!-- 757adbd344233b38aa5b73abd53f65a7408854893cb256377ec41a0cdb3ca9c0 --> | 2026-10-26 | 2954e2ae...<!-- 2954e2ae-6b9e-4fe2-8760-4e469910623b --> | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A8F2D17153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/E98787A4B6DF4D9AABC6771261165F0C1/InputApp.pdb) |
+| 66198b...<!-- 66198b8cec01b90e0fd674225429ac4223f56700502d6a548e436583c086c8f5 --> | 2026-10-26 | 2954e2ae...<!-- 2954e2ae-6b9e-4fe2-8760-4e469910623b --> | 2124.21210.0.0 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/66A961DE15a000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/7475211BBB914587938AECDB550484191/InputApp.pdb) |
+| d7e484...<!-- d7e48438610c23613b2fe969db90da25dc06aecebccb19c1f579f9ab44adbdd4 --> | 2026-10-26 | 2954e2ae...<!-- 2954e2ae-6b9e-4fe2-8760-4e469910623b --> | 2024.8604.0.0 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/66035DDD158000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/02B02F87AC15489D8801AF6A2CD33CC61/InputApp.pdb) |
 | de0145...<!-- de01458db23280edbd72947f82bbeb27895398c65661d6db23d41b05743f1e45 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 2609.28000.0.0 | 10.0.26100.9757 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6ABABCAC153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/E7ADFA875B3449CC8AB5A8140B32AF911/InputApp.pdb) |
 | 373703...<!-- 373703eacad29567d4902b5ce94d3327ec10fdb5d283845d49a1878ab92583ff --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 2609.28000.0.0 | 10.0.26100.9756 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6ABABFDA153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/587B9911D1E240BA81D1300E4642F5EA1/InputApp.pdb) |
 | 231b29...<!-- 231b29a4fc709e0bb28a5958b8bcb10afcebf5069dedd1f401c220620e814117 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 2124.23305.0.0 | 10.0.26100.1746 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/66C4E5C515a000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/116BE0E37A4C46C6A5ACB9081FD8FE3A1/InputApp.pdb) |
-| d7e484...<!-- d7e48438610c23613b2fe969db90da25dc06aecebccb19c1f579f9ab44adbdd4 --> | 2026-10-23 | e40554cc...<!-- e40554cc-ac0b-4a07-b9a0-701d7893a07e --> | 2024.8604.0.0 | 10.0.26100.6 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/66035DDD158000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/02B02F87AC15489D8801AF6A2CD33CC61/InputApp.pdb) |
-| 66198b...<!-- 66198b8cec01b90e0fd674225429ac4223f56700502d6a548e436583c086c8f5 --> | 2026-10-16 | 5b5d01bf...<!-- 5b5d01bf-77cf-41fd-800b-db0821ebc30b --> | 2124.21210.0.0 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/66A961DE15a000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/7475211BBB914587938AECDB550484191/InputApp.pdb) |
 | aebe41...<!-- aebe41a2f48a6c0625f766363042b014b53684c0a6ac48ad3b422f6b01a72096 --> | 2026-09-08 | 1e7eaea8...<!-- 1e7eaea8-4d56-4e85-ba1b-ee9e239bfb1e --> | 2608.18000.0.0 | 10.0.26100.9343 | [🔴](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A83B6E6153000/inputapp.dll) | ❓ |
 | 1be6e8...<!-- 1be6e81d389ba671ac5bb2de6edcf9f0d98b2e7f962400355561dc00d82a5a15 --> | 2026-09-08 | 1e7eaea8...<!-- 1e7eaea8-4d56-4e85-ba1b-ee9e239bfb1e --> | 2608.18000.0.0 | 10.0.26100.9343 | [🔴](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A83BABB153000/inputapp.dll) | ❓ |
 
