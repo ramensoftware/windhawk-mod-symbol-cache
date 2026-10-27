@@ -22,13 +22,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9819d9...<!-- 9819d99d88ea89f47960bfaec0096b74bfa65c95631fed5ced9e0134400644d3 --> | 2026-10-13 | KB5126653 | 2126.18700.0.0 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A4BB3E9aa9000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/BFC0F856A5F84EE5B885A8237567E4A31/TextInput.pdb) |
+| 9819d9...<!-- 9819d99d88ea89f47960bfaec0096b74bfa65c95631fed5ced9e0134400644d3 --> | 2026-10-26 | KB5134130 | 2126.18700.0.0 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A4BB3E9aa9000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/BFC0F856A5F84EE5B885A8237567E4A31/TextInput.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5ca136...<!-- 5ca13655656941df2ce4e69496f334af3f2e72c1bbb12ed851404ae663cd44a5 --> | 2026-10-13 | KB5126657 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6789C643c6c000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/F52D82D0FDCA4BBD81CE0CDB11A665B21/TextInput.pdb) |
+| 5ca136...<!-- 5ca13655656941df2ce4e69496f334af3f2e72c1bbb12ed851404ae663cd44a5 --> | 2026-10-26 | KB5134125 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6789C643c6c000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/F52D82D0FDCA4BBD81CE0CDB11A665B21/TextInput.pdb) |
 
 ## ARM64 (release builds)
 
@@ -36,8 +36,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a1faaa...<!-- a1faaa2b8127b01f97c95463e705bb9ad69ec5157e5c5b84d94d6fa532c3abb3 --> | 2026-10-13 | KB5127646 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A67819Dd6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/58549B6EDEC24A0EA0E2247A0E05CBE91/TextInput.pdb) |
-| 771a88...<!-- 771a885c1c51e6667d12294d655c1548b116cf92880cbbd626b233c891f78cae --> | 2026-10-13 | KB5127646 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A678155d6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/8F222DAC09434BE588BB08D8BC6BA5DB1/TextInput.pdb) |
+| a1faaa...<!-- a1faaa2b8127b01f97c95463e705bb9ad69ec5157e5c5b84d94d6fa532c3abb3 --> | 2026-10-26 | KB5134134 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A67819Dd6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/58549B6EDEC24A0EA0E2247A0E05CBE91/TextInput.pdb) |
+| 771a88...<!-- 771a885c1c51e6667d12294d655c1548b116cf92880cbbd626b233c891f78cae --> | 2026-10-26 | KB5134134 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A678155d6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/8F222DAC09434BE588BB08D8BC6BA5DB1/TextInput.pdb) |
 | 27549c...<!-- 27549c36a28dd3f3c7a810108f868668a27926cd37f36df09a79f57eb00f3a9b --> | 2026-09-14 | KB5129194 | 2606.22000.0.0 | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/textinput.dll/6A39ACE3d9b000/textinput.dll) | ❓ |
 | 130968...<!-- 130968f1419e31cc63f4cc36e4c0880af49eae2f3029a1c89e7b459024bd06f7 --> | 2026-09-14 | KB5129194 | 2606.22000.0.0 | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/textinput.dll/6A39AFBCd9b000/textinput.dll) | ❓ |
 
@@ -45,20 +45,20 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bcdde7...<!-- bcdde7e42f76ac800aa3299fd8e5505d184ce6b222702268c57f1f83e8e4f40b --> | 2026-10-13 | KB5127648 | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A8F2C33d6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/98ACA56433414150926476E30A93D5381/TextInput.pdb) |
-| 8faf5f...<!-- 8faf5f7c2283076fbcb2a5c1b415c79cfa20d1fe5aef92904d9ed10f4478c125 --> | 2026-10-13 | KB5127648 | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A8F26E0d6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/83E4F61BF7B14FAFBB04D184A3C3CA7F1/TextInput.pdb) |
+| bcdde7...<!-- bcdde7e42f76ac800aa3299fd8e5505d184ce6b222702268c57f1f83e8e4f40b --> | 2026-10-26 | KB5134133 | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A8F2C33d6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/98ACA56433414150926476E30A93D5381/TextInput.pdb) |
+| 8faf5f...<!-- 8faf5f7c2283076fbcb2a5c1b415c79cfa20d1fe5aef92904d9ed10f4478c125 --> | 2026-10-26 | KB5134133 | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A8F26E0d6a000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/83E4F61BF7B14FAFBB04D184A3C3CA7F1/TextInput.pdb) |
 
 ### 10.0.22621
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 353359...<!-- 353359d71fa4b0b69bfb106de5ac8f452c28394105b6dc5310abf8e09a2c92a6 --> | 2026-10-13 | KB5126653 | 2126.18700.0.0 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A4BB056dc4000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/DD4ECF372E544E548858FE73BEAE09861/TextInput.pdb) |
+| 353359...<!-- 353359d71fa4b0b69bfb106de5ac8f452c28394105b6dc5310abf8e09a2c92a6 --> | 2026-10-26 | KB5134130 | 2126.18700.0.0 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A4BB056dc4000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/DD4ECF372E544E548858FE73BEAE09861/TextInput.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c86d35...<!-- c86d3554afaa8ccb482a87e77d915f2ad26023652e424db2a3e3c0d436ca39b7 --> | 2026-10-13 | KB5126657 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6789C68Cdeb000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/1D9A46ECCB174AEEAB3D42333543700B1/TextInput.pdb) |
+| c86d35...<!-- c86d3554afaa8ccb482a87e77d915f2ad26023652e424db2a3e3c0d436ca39b7 --> | 2026-10-26 | KB5134125 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6789C68Cdeb000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/1D9A46ECCB174AEEAB3D42333543700B1/TextInput.pdb) |
 
 ## x64 (insider preview builds)
 

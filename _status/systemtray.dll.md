@@ -22,14 +22,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 64b278...<!-- 64b278240ee5643d737f419b8b5d7da1ed7ce54657b0ec074c20a4d6f3ccf749 --> | 2026-10-13 | KB5127646 | 2607.29000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A6A3AB529a000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/8BCEB4501F994184A43A11E96CB4F3D01/SystemTray.pdb) |
+| 64b278...<!-- 64b278240ee5643d737f419b8b5d7da1ed7ce54657b0ec074c20a4d6f3ccf749 --> | 2026-10-26 | KB5134134 | 2607.29000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A6A3AB529a000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/8BCEB4501F994184A43A11E96CB4F3D01/SystemTray.pdb) |
 | 589773...<!-- 589773ce308a781094a97bcd769a3e552c3ba6d232def14fc7b39772122b403a --> | 2026-09-14 | KB5129194 | 2607.2000.0.0 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A460D1B296000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/6EF51C2E1B454380B5E1EAC270A19A011/SystemTray.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d1dc1e...<!-- d1dc1edfea99a1b2d3d4c418a289074da98c03398a7a30e64a83da9111e66712 --> | 2026-10-13 | KB5127648 | 2608.26001.100.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6AA9E5572a4000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/C8E0E672344149FE918FDA747CD5FAD11/SystemTray.pdb) |
+| d1dc1e...<!-- d1dc1edfea99a1b2d3d4c418a289074da98c03398a7a30e64a83da9111e66712 --> | 2026-10-26 | KB5134133 | 2608.26001.100.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6AA9E5572a4000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/C8E0E672344149FE918FDA747CD5FAD11/SystemTray.pdb) |
 | 5ed692...<!-- 5ed692ffb7606b36c27a8800d4434beb86079e6008f00c2c2e4c02b4ba865c39 --> | 2026-09-14 | KB5129195 | 2607.28000.0.0 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A69198529a000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/BA79E88D6C5340C6A68B549A603971FC1/SystemTray.pdb) |
 
 ## x64 (insider preview builds)
