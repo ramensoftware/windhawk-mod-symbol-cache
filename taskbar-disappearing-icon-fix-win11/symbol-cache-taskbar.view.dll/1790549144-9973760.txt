@@ -1,0 +1,1 @@
+1#1790549144#9973760#public: void __cdecl winrt::Taskbar::implementation::TaskListButton::DisplayName(struct winrt::hstring)#2093636#public: void __cdecl winrt::Taskbar::implementation::TaskListButton::DisplayName(struct winrt::hstring) __ptr64#
