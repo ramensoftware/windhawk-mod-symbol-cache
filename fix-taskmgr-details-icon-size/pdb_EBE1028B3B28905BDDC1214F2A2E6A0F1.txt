@@ -1,0 +1,1 @@
+1#taskmgr.exe#x86-64_715994062_5836800#public: long __cdecl WdcDataMonitor::CreateImageListWithResizedImage(void)#1528700#public: long __cdecl WdcDataMonitor::AddResizedIconToImageList(struct HICON__ *,int *)#1527588

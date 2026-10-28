@@ -1,0 +1,1 @@
+1#3376198174#5722112#public: long __cdecl WdcDataMonitor::CreateImageListWithResizedImage(void)#1622524#public: long __cdecl WdcDataMonitor::AddResizedIconToImageList(struct HICON__ *,int *)#997708
