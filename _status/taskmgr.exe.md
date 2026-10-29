@@ -57,8 +57,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 98fe09...<!-- 98fe09740972deb53afce58731795e396a3c19c10a578270abd1ddcb29f80aa9 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
-| 644093...<!-- 6440934fa8bf5597b63203de5b5c05073c5559b00c5f150de44e771062b430b4 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
+| 98fe09...<!-- 98fe09740972deb53afce58731795e396a3c19c10a578270abd1ddcb29f80aa9 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/57D591F29F0068F235FF51BFB1395D981/Taskmgr.pdb) |
+| 644093...<!-- 6440934fa8bf5597b63203de5b5c05073c5559b00c5f150de44e771062b430b4 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/245EC0E67D6DAA934532B8FFC2CF5BB01/taskmgr.pdb) |
 | 79e712...<!-- 79e712cafbdfee6a58a10c84d02837e6ecab726a38f7551e09777a46f2bc4956 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/93CC31A5623000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/4A114801D42245E322D845B3B9B264E01/Taskmgr.pdb) |
 | 1dc096...<!-- 1dc096000ccb242c5aad08652b86ef0bafe85b783588bcbcc0d990c70b998ae0 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/3AA67D4A50000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/D036778A88E1668EE024537304793C1A1/taskmgr.pdb) |
 | 890b75...<!-- 890b75072bd12f278e34f6f2748a91ce5e952435af3f604fcef9d82ee6697469 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/4332464C623000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/705C3B72E036F179738665B7D199CCC11/Taskmgr.pdb) |

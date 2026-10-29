@@ -45,7 +45,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bedcdc...<!-- bedcdc6b782d6b7dc1e46c978fd71dc730943077026b8f57d5ac7f61f4b1ec4b --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
+| bedcdc...<!-- bedcdc6b782d6b7dc1e46c978fd71dc730943077026b8f57d5ac7f61f4b1ec4b --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/96AA0699DF447A556AA22FC8A47712611/SndVol.pdb) |
 | 6fb9ac...<!-- 6fb9ac8ec83960da3e43e9bc180ebecbc82b966a82f7ed7e5dcd3407fe573097 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/D8A959E24d000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/8CD5F086C298B990A6F2C159C1FB76821/SndVol.pdb) |
 
 ### 10.0.26100

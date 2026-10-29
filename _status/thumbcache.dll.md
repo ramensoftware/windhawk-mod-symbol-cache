@@ -50,7 +50,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| dcd28c...<!-- dcd28cba4cc1663842809ce694b6486b87fb350ffc242941f9bdefbe3c0dffe6 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
+| dcd28c...<!-- dcd28cba4cc1663842809ce694b6486b87fb350ffc242941f9bdefbe3c0dffe6 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/671448D86683075850D9AAD9D82FEDE11/thumbcache.pdb) |
 | 82027e...<!-- 82027e532f59b9fff2b00a732a8de322383e9b21c0d452e75f3e8806431aec34 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/12256FFBed000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/9EABB688119C7D07C59AAA8D49235AFB1/thumbcache.pdb) |
 | 6043d0...<!-- 6043d0fa5fc7a9ca77876d0d4b21493b07daa8ac224db68b4c3304de8d4ed4f2 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/05B82BB9ed000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/D653F0200F238952B91F79488E0F1C401/thumbcache.pdb) |
 | 5063ae...<!-- 5063aef63db8ae34273e646db4f62ef88dbe8c5034e5e8258f45d0a1ca861677 --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2952 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/31140D93e3000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/3F0D62ED7A50A86CFA460E1A1E9168471/thumbcache.pdb) |

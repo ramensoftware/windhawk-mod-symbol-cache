@@ -32,7 +32,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 04e330...<!-- 04e330832e441f0c404a7fcfb51607f7be2c5ae8379bc21a772507d2efb581a2 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
+| 04e330...<!-- 04e330832e441f0c404a7fcfb51607f7be2c5ae8379bc21a772507d2efb581a2 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/01BC795E2F2C3A3D5B2B3B5F81E14B951/Taskbar.pdb) |
 | 9c17c7...<!-- 9c17c77d4d43b4eca6aa2b2d5c09060d0555f1b7bdff1729eb3c9b23ff979960 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/E286881A375000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/0FB2DED25A4884EE47F313E88985B8F21/Taskbar.pdb) |
 | 041a20...<!-- 041a2049f8b07e62bc62b4cde729f5c34e7a505f986a1671c515a41931b5d915 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/44E4378C375000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/D18D60685B0ED08C5E926EA51CCD9CF91/Taskbar.pdb) |
 | ae36b8...<!-- ae36b87dab6cc9340b7955e990a521c5916a4f0b004f9b8ab1b8d1d54bb850ba --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2952 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.dll/3D6C2C1F374000/taskbar.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.pdb/82D0FE6F983AFE8B842554ED7919A9AA1/Taskbar.pdb) |

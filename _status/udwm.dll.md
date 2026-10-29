@@ -51,7 +51,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| eab358...<!-- eab358f44547eb139278858cfded3eeedb342efcc1a65b911ba520981a6f228e --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
+| eab358...<!-- eab358f44547eb139278858cfded3eeedb342efcc1a65b911ba520981a6f228e --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/8FF1EF8974F35008D9C4C8DCCD282CEB1/uDWM.pdb) |
 | 97faec...<!-- 97faec8c897dddada5a20c946e9030961e7bb1db5ebf6d45473f3d3635511d45 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/28B8EBC5150000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/BD9B698021A0CF95520B9F20E05D52DD1/uDWM.pdb) |
 | bc7c31...<!-- bc7c312b89c5215ae7fb36c1a7405d977565039efbf612c189dd46b516e948ff --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/64F997DD150000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/9047CA3097196B772766796D9D68853B1/uDWM.pdb) |
 | fd26dd...<!-- fd26dddc1e082a00a6738b49de16438934d50aec1a75060bb133437a89e59b96 --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/41FAD381143000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/6B011219B47DDECBF8078A383FB740591/uDWM.pdb) |
