@@ -1,0 +1,1 @@
+1#dui70.dll#arm64_512896985_1802240#struct HWND__ * __cdecl DirectUI::GetHwndFromElement(class DirectUI::Element *)#125248

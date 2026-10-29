@@ -1,0 +1,1 @@
+1#1844864377#1732608#struct HWND__ * __cdecl DirectUI::GetHwndFromElement(class DirectUI::Element *)#309328

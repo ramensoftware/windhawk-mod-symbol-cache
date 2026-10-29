@@ -1,0 +1,1 @@
+1#windows.storage.dll#x86-64_4189350746_9089024#private: void __cdecl CDefCollection::_OnDeleteViewItem(struct tagITEMKEY const *,unsigned long)#1412308

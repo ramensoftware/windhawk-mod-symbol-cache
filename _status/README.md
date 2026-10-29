@@ -15,6 +15,7 @@
 | [desktopswitcherdatamodel.dll](desktopswitcherdatamodel.dll.md) |
 | [dinput8.dll](dinput8.dll.md) |
 | [dui70.dll](dui70.dll.md) |
+| [duser.dll](duser.dll.md) |
 | [dwmcore.dll](dwmcore.dll.md) |
 | [dwmghost.dll](dwmghost.dll.md) |
 | [explorer.exe](explorer.exe.md) |

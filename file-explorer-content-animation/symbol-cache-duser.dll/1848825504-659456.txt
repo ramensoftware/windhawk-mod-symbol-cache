@@ -1,0 +1,1 @@
+1#1848825504#659456#private: void __cdecl DuVisual::xrDrawFull(struct PaintInfo *)#35152
