@@ -1,0 +1,1 @@
+1#1928509912#3067904#void __cdecl GDIHelpers::FillRectARGB(struct HDC__ *,struct tagRECT const *,unsigned char,unsigned long,bool)##private: void __cdecl CTaskBtnGroup::_DrawBar(struct HDC__ *,struct BUTTONRENDERINFO const &,struct BUTTONRENDERINFOSTATES const &)#
