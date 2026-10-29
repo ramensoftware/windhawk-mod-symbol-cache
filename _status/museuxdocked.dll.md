@@ -36,7 +36,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8345cd...<!-- 8345cddf943a4f3e111fc15690094eb05d441c8a6b590a0540e69d75bfdc03d2 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | 🔴 | ❓ |
+| 8345cd...<!-- 8345cddf943a4f3e111fc15690094eb05d441c8a6b590a0540e69d75bfdc03d2 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/E311D64FBEAC461F5ED3DD03EBDFA28E1/MuseUxDocked.pdb) |
 | 8ebbde...<!-- 8ebbdead6caccd660cc0761dfebdb8e798a89840600ca41e8223bcbc7604b927 --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/86B0E7EB1a000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/CAA510531FDA71DBAF3D42F23D7317791/MuseUxDocked.pdb) |
 | 433c48...<!-- 433c4891dd3637453e45589ef831d0914a5eba7ffdfaa8aaf54f31ca95a029bf --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/museuxdocked.dll/2ACB0B7A1d000/museuxdocked.dll) | [🟢](https://msdl.microsoft.com/download/symbols/MuseUxDocked.pdb/42285256AB9E3678D6C40736A2EFC1001/MuseUxDocked.pdb) |
 

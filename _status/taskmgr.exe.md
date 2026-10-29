@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 716814...<!-- 716814d1c07d9e28cf8cc698a46ee52401cccb90b7bfe5f6b5a287fb1a4fcc5c --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | 🔴 | ❓ |
+| 716814...<!-- 716814d1c07d9e28cf8cc698a46ee52401cccb90b7bfe5f6b5a287fb1a4fcc5c --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/79C569582034A41F31236927AE7F609E1/Taskmgr.pdb) |
 | 1d5980...<!-- 1d598024ed3adeea24a544707e0c1339e53c9ac8e2c92f0f468056fa97bdfc84 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/0D34AC14F5AF2F2EABBAB8065AA3551A1/taskmgr.pdb) |
 | 734f1a...<!-- 734f1acd7e107ff051077cd649c167b70d90cc31e2bd903eecf3936bc3d24589 --> | 2026-10-26 | KB5134133 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/8FC94E44623000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/85C3E04771877779528BD78431D79F7D1/Taskmgr.pdb) |
 | 964d1d...<!-- 964d1dd64a735c8e3051262de5376af023681e0c6416c8e78ff031a97fec45dd --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/61C6832850000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/013A33DBF51169D30E7E587D66FB315E1/taskmgr.pdb) |
