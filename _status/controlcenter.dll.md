@@ -24,7 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 59a988...<!-- 59a988f875a48258cd726c7ebda8cfd9ea01bb4364c32ca222749cec2581f0f4 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/5AEA4A614D2087BEB2326F4713C3498A1/ControlCenter.pdb) |
+| 59a988...<!-- 59a988f875a48258cd726c7ebda8cfd9ea01bb4364c32ca222749cec2581f0f4 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/A26AC3DC636000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/5AEA4A614D2087BEB2326F4713C3498A1/ControlCenter.pdb) |
 | d41376...<!-- d4137638e505bf5cdf4023aedaedcff0082732d084bcb3a0974348e9f1b3cfb0 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B4E2F4D55c2000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/A008702F032762B4BBA7F8E84E789E201/ControlCenter.pdb) |
 | d728c8...<!-- d728c88b2ed28bb4600666ba3143bca54645069769a88614dece08a22f768171 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B7E8CE845c2000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/CC808F5FE3B52727C45D6A73E1C9FECA1/ControlCenter.pdb) |
 | 145c6a...<!-- 145c6ab6c3ee048fd041c97ef23db03218bd791dbf1ce4ed5346f255f764d843 --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/0609FBBB5c2000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/7C0A6EE814C1DE3D13B118D592394EDB1/ControlCenter.pdb) |
@@ -33,7 +33,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 878afa...<!-- 878afabac0f27b373d9ded477134ea550e0a47bb212a462bffac19218662a33a --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/233C151CF8CF5EFF3779BD8725BC46601/ControlCenter.pdb) |
+| 878afa...<!-- 878afabac0f27b373d9ded477134ea550e0a47bb212a462bffac19218662a33a --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/88A54D745ee000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/233C151CF8CF5EFF3779BD8725BC46601/ControlCenter.pdb) |
 | 540d98...<!-- 540d98210610bfc81b1e8ff8ac41f24892cfde2a03ef0fe6e34608c0462397bf --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/AA275FD6514000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/47D23679AFD11C68236FFA05175C2EE11/ControlCenter.pdb) |
 | fd0ce7...<!-- fd0ce76f81eb1b67471165021a8fbccfbdba55dc3d585211a3e59cfebe6899bc --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/55BA84714f1000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/0092C347A5AD4D2EADF303296F762C2D1/ControlCenter.pdb) |
 
