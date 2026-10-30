@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4dc139...<!-- 4dc139f4dd6d257ce1aa3f1817a8c38ef5f5a9afadb992542aea2347ff8ac40c --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🔴 | ❓ |
+| 4dc139...<!-- 4dc139f4dd6d257ce1aa3f1817a8c38ef5f5a9afadb992542aea2347ff8ac40c --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/DE4F707BB555FCAF1B1B39ED694A9C2B1/Windows.Internal.HardwareConfirmator.pdb) |
 | 34c4df...<!-- 34c4df9fa03ac9cb433de1fb94b8c0e14125164490c0a2e4b30e6ca4f5052717 --> | 2026-10-13 | KB5127646 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/B349651A98000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/29B737CCA7FA2445E6B68408AD9AB6F21/Windows.Internal.HardwareConfirmator.pdb) |
 
 ### 10.0.26100
@@ -91,7 +91,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4dc139...<!-- 4dc139f4dd6d257ce1aa3f1817a8c38ef5f5a9afadb992542aea2347ff8ac40c --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🔴 | ❓ |
+| 4dc139...<!-- 4dc139f4dd6d257ce1aa3f1817a8c38ef5f5a9afadb992542aea2347ff8ac40c --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/DE4F707BB555FCAF1B1B39ED694A9C2B1/Windows.Internal.HardwareConfirmator.pdb) |
 | b62a8e...<!-- b62a8ed44bd6a203ad10fccfae1414c774cbbdd888057e6e76d0743c98477a0c --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/259AF48599000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/B4BA8243E46B2347756DBCF8810931D71/Windows.Internal.HardwareConfirmator.pdb) |
 | 34c4df...<!-- 34c4df9fa03ac9cb433de1fb94b8c0e14125164490c0a2e4b30e6ca4f5052717 --> | 2026-10-27 | a7fff915...<!-- a7fff915-161e-425b-b467-15932061440c --> |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/B349651A98000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/29B737CCA7FA2445E6B68408AD9AB6F21/Windows.Internal.HardwareConfirmator.pdb) |
 | 2a63ef...<!-- 2a63efe5876c3375ffa7372b4a29a415e5b1a8972d4e809accdb9dc18ca07cc2 --> | 2026-10-23 | 5486793c...<!-- 5486793c-ef16-4f21-b397-f0321a833424 --> |  | 10.0.28000.3302 | [🟢](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/3632FF4499000/windows.internal.hardwareconfirmator.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/6D982B8A433644E19978D4165816B2FD1/Windows.Internal.HardwareConfirmator.pdb) |
