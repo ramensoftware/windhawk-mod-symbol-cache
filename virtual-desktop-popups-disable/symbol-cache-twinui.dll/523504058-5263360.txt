@@ -1,0 +1,1 @@
+1#523504058#5263360#public: virtual long __cdecl CAudioFlyoutController::VirtualDesktopSwitched(struct IVirtualDesktop *)##public: virtual long __cdecl CAudioFlyoutController::VirtualDesktopSwitched(struct IVirtualDesktop *,enum VirtualDesktopSwitchType)#3453600

@@ -1,0 +1,1 @@
+1#190606990#10321920#public: long __cdecl VirtualDesktopGestureWindow::Commit(struct IVirtualDesktopGestureHandlerPrivate *,unsigned int,float,bool)#6434000#public: long __cdecl VirtualDesktopHotKeyWindow::Commit(struct IVirtualDesktopSwitchAnimator2 *,float)#6471404#private: long __cdecl CVirtualDesktopHotkeyHandler::_CycleInDirection(enum VirtualDesktopSwitchDirection)#6426572

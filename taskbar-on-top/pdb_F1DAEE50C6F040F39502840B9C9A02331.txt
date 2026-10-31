@@ -1,0 +1,1 @@
+1#startmenu.dll#arm64_1791852780_5971968#private: enum winrt::StartMenu::implementation::DockedAnimationTypes::TaskbarEdge __cdecl winrt::StartMenu::implementation::StartBlendedFlexFrame::GetCurrentTaskbarEdge(enum winrt::StartMenu::implementation::DockedAnimationTypes::TaskbarEdge)#2560536

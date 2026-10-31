@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_969107450_15826944;private: static int __cdecl CControlPanelAppletList::s_SortAppletsInCategory(int const *,int const *,__int64);4211440;private: static int __cdecl CControlPanelAppletList::s_FindAppletInSortArray(unsigned short const *,unsigned short const * const *,int);

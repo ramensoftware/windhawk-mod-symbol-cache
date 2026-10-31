@@ -1,0 +1,1 @@
+1#4012750540#352256#public: virtual long __cdecl WindowThumbnailFactoryBase::get_SourceSize(struct Windows::Foundation::Size *)#116304#public: virtual long __cdecl WindowThumbnailFactoryBase::get_Bounds(struct Windows::Foundation::Rect *)#115440

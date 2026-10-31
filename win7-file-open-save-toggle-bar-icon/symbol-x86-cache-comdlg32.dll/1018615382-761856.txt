@@ -1,0 +1,1 @@
+1#1018615382#761856#protected: void __thiscall CFileOpenSave::ScaleAndSetToggleBarImageListIfNeeded(void)#299773#protected: void __thiscall CFileOpenSave::_SetToggleBar(void)#299486

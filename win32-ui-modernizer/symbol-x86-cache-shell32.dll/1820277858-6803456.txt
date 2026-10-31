@@ -1,0 +1,1 @@
+1#1820277858#6803456#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#5947744#_DrawPie@20#5129321#void __stdcall _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *)#3758284

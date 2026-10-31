@@ -1,0 +1,1 @@
+1#246856567#987136#int g_fShutdownResolverDisabled#922008#WluiInformLogonUI#65596#WluiGetShutdownResolverInfo#330708
