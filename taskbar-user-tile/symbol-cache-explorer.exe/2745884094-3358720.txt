@@ -1,0 +1,1 @@
+1#2745884094#3358720#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)##protected: virtual void __cdecl ClockButton::v_OnDisplayStateChange(bool)#
