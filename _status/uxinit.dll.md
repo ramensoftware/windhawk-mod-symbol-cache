@@ -144,7 +144,6 @@
 | a1085a...<!-- a1085a6271d32b460e7030bb7a0f732674fb0ea4648702fcdfe5f5a1e95752be --> | 2026-10-02 | 85607ef9...<!-- 85607ef9-78bd-4a56-9d3e-ae965b063469 --> |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/A30936832b000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/B7959202E0B71759937537AA14A738881/UXInit.pdb) |
 | a1dffb...<!-- a1dffb77141ebc0bdabc9dfa03d036bd2117ff6c914391bcca6b63f2092aee04 --> | 2026-09-11 | 9531141a...<!-- 9531141a-6621-4a9a-809b-f92c4599691b --> |  | 10.0.28000.2912 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/82F23A522a000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/36F61D35C352C7301BE6FDBB754AFB7E1/UXInit.pdb) |
 | a7baab...<!-- a7baab2983f1d7c79c2beba11722bb139759a1e70274408b4e576f513ca7159c --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> |  | 10.0.28000.2754 | 🔴 | ❓ |
-| c18903...<!-- c18903f8c13f7686c717ea35362b2933cb430cbda9181ddc7d89a1821fdb6f34 --> | 2026-08-31 | 8cc32347...<!-- 8cc32347-8fd4-4cd7-b705-f0c5a772dd71 --> |  | 10.0.28000.2738 | [🟢](https://msdl.microsoft.com/download/symbols/uxinit.dll/A2BB3EF829000/uxinit.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UXInit.pdb/320918EAD535281D59D8987F3CD6AA611/UXInit.pdb) |
 
 ### 10.0.26100
 

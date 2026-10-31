@@ -1,0 +1,1 @@
+1#182132724#8114176#private: static bool __cdecl CDesktopWatermark::s_IsRetailReady(void)#
