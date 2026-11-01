@@ -1,0 +1,1 @@
+1#4029201089#741376#public: unsigned long __cdecl CListView::GetSortColumnColor(void)#

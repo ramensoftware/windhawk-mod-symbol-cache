@@ -121,7 +121,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b07981...<!-- b079818a41dba113f6bafef30801231076de3e539872ed545ebf985f6c54f178 --> | 2026-10-30 | 6848e148...<!-- 6848e148-e484-4f7e-a9be-7b00db0f2013 --> |  | 10.0.26100.9843 | 🔴 | ❓ |
+| b07981...<!-- b079818a41dba113f6bafef30801231076de3e539872ed545ebf985f6c54f178 --> | 2026-10-30 | 6848e148...<!-- 6848e148-e484-4f7e-a9be-7b00db0f2013 --> |  | 10.0.26100.9843 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/50C1F5252E0B8AF4088E35B32A9053451/Windows.Internal.HardwareConfirmator.pdb) |
 | 337cd2...<!-- 337cd2395852ddeb96a0f17ec4e464c45b3df8cc5057c6bb95b8e1e535583a20 --> | 2026-10-30 | 0aaa4b9b...<!-- 0aaa4b9b-83a8-452a-876d-61194aa75fdc --> |  | 10.0.26100.9836 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Windows.Internal.HardwareConfirmator.pdb/1484FEE674451FE2C870AB293F9AF4861/Windows.Internal.HardwareConfirmator.pdb) |
 | b13378...<!-- b13378c15955888a5e6a746260ab3a7e1e8ad31a177fa7f418ab009e261234ed --> | 2026-10-30 | 0aaa4b9b...<!-- 0aaa4b9b-83a8-452a-876d-61194aa75fdc --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 56aad9...<!-- 56aad9c73aadf613fef6ad85b1e2aef7f437fff45ae1f8122447ab4556c044cf --> | 2026-10-30 | 0aaa4b9b...<!-- 0aaa4b9b-83a8-452a-876d-61194aa75fdc --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.hardwareconfirmator.dll/B0E9954880000/windows.internal.hardwareconfirmator.dll) | ❓ |

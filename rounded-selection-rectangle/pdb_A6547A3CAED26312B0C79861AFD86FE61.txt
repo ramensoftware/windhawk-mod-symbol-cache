@@ -1,0 +1,1 @@
+1#comctl32.dll#x86_1461092323_36864#private: void __thiscall CLVDrawManager::_PaintMarquee(struct HDC__ *,void *,struct tagRECT const *)##public: void __thiscall CLVSelectionManager::DragSelect(int,int)#

@@ -156,7 +156,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bcc14e...<!-- bcc14edb812b223952d690ea4f9b7f66db5488329f434020d18c408e2406846e --> | 2026-10-30 | 6848e148...<!-- 6848e148-e484-4f7e-a9be-7b00db0f2013 --> | 10.0.26100.9843 | 10.0.26100.9843 | [🔴](https://msdl.microsoft.com/download/symbols/dui70.dll/3EC7DC7C1aa000/dui70.dll) | ❓ |
+| bcc14e...<!-- bcc14edb812b223952d690ea4f9b7f66db5488329f434020d18c408e2406846e --> | 2026-10-30 | 6848e148...<!-- 6848e148-e484-4f7e-a9be-7b00db0f2013 --> | 10.0.26100.9843 | 10.0.26100.9843 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/3EC7DC7C1aa000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/206D05AC032FEA244A2F2621E7E252741/DUI70.pdb) |
 | e942a2...<!-- e942a26e81cda46d1a463d20ebd9327f0af58f91432b6d953ab34348e6d3d5fe --> | 2026-10-30 | 0aaa4b9b...<!-- 0aaa4b9b-83a8-452a-876d-61194aa75fdc --> |  | 10.0.26100.9836 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/FCFFB6B3BA1F8D1305B7AE19F7B394711/DUI70.pdb) |
 | 3bda45...<!-- 3bda45dd80fe8b847510dce62a19d2f4244a225ac883f64c41c668b1d96fa3e3 --> | 2026-10-30 | 0aaa4b9b...<!-- 0aaa4b9b-83a8-452a-876d-61194aa75fdc --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 5ff53a...<!-- 5ff53a2160204bbfaa98df0f35ff1cee5e8a3b7e1d82e6fe5e07885545b9fb81 --> | 2026-10-30 | 0aaa4b9b...<!-- 0aaa4b9b-83a8-452a-876d-61194aa75fdc --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/dui70.dll/14DCDDAA1a4000/dui70.dll) | ❓ |

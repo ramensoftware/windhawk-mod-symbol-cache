@@ -1,0 +1,1 @@
+1#3314088478#2568192#public: void __thiscall UIMarqueeSelector::StartMarquee(struct tagPOINT,class DirectUI::Element *,enum INITIALSELECTION,enum CLICKBUTTON,enum __MIDL___MIDL_itf_itemsview_0000_0004_0001,class UIItem *)#2182535#public: void __thiscall UIMarqueeSelector::EndMarquee(void)#2181331

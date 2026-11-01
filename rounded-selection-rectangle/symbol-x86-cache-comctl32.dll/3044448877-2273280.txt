@@ -1,0 +1,1 @@
+1#3044448877#2273280#private: void __thiscall CLVDrawManager::_PaintMarquee(struct HDC__ *,void *,struct tagRECT const *)#1777800#public: void __thiscall CLVSelectionManager::DragSelect(int,int)#1785419
