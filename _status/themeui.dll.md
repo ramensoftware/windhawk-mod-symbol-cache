@@ -125,7 +125,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| fbcfa2...<!-- fbcfa2e9895eb4877167e0539ff79912060545ce0dbfb01ccff9ddf8d231a334 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
+| fbcfa2...<!-- fbcfa2e9895eb4877167e0539ff79912060545ce0dbfb01ccff9ddf8d231a334 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/9D6624A7CD1523A5CFF8E6DC3F16E0611/ThemeUI.pdb) |
 | d82247...<!-- d8224731de01bf40687e9ba35a580ef869263f285450afc32d9a42cf6d249823 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/FB167998EFF34E2A430B117E7A5F2C2C1/ThemeUI.pdb) |
 | 9e9413...<!-- 9e941320a373734d580d0836363f4762d255767b1623fed2364b15c06904ea81 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/themeui.dll/61FDEF9096000/themeui.dll) | ❓ |
 | 83c7c8...<!-- 83c7c893bbae838eeb325a6b6823d1e082dee6a1df8b85429ccb959ec17c208c --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/A2D1C382EBFE12CCF0F09CDF064684B71/ThemeUI.pdb) |

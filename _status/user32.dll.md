@@ -151,8 +151,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ef79d8...<!-- ef79d8978f6fffb23c2059a2a4a4ceea15ec8406bd691a401f94a3c84e9f0ba6 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
-| cc7b6a...<!-- cc7b6aad2fe68cb9ca6942b3e308184a120fe9e8213d26484ad02d08979c4ae1 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
+| ef79d8...<!-- ef79d8978f6fffb23c2059a2a4a4ceea15ec8406bd691a401f94a3c84e9f0ba6 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/D1575A96B431D9CA812691AF18F56B991/user32.pdb) |
+| cc7b6a...<!-- cc7b6aad2fe68cb9ca6942b3e308184a120fe9e8213d26484ad02d08979c4ae1 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/259E9A80D910EC49B47F89323D6F29FB1/user32.pdb) |
 | e1f4b8...<!-- e1f4b8bb7f8dcff7dd24fbe7e2ebe437931470df291909daad2532fc30ca5f05 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/319E241003D1E2494E8233CB4F68F8991/user32.pdb) |
 | 536eb3...<!-- 536eb3a9aef657ff889a83099c29b1debcf7db206abc2a748696de8638dd1978 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/076CC1D3E32E313297C8B89B1F86CB1C1/user32.pdb) |
 | 925bab...<!-- 925babc2e563cbdc41198e4a7c0f574683e12641389ccc81bf440fe071e6a3ac --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/user32.dll/88CA90571c7000/user32.dll) | ❓ |

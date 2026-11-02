@@ -140,7 +140,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 25ce0f...<!-- 25ce0fd4257438fb27ebd5abdd23cec638774a796109f42a48f610858fbfa4b1 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
+| 25ce0f...<!-- 25ce0fd4257438fb27ebd5abdd23cec638774a796109f42a48f610858fbfa4b1 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/D8B31E89C325397F558BCA4EAFDCC06C1/taskmgr.pdb) |
 | 1bb2a7...<!-- 1bb2a7815e90008941442a76d2b10bd5f753dec0480b9004092532ae843a98ef --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
 | f5206f...<!-- f5206f583aa93f494e2e00c4e57a4d2d96b732a5706c00c9daa5d01a16e5000f --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/1FD2E7022543C1569362C683FA5341EA1/Taskmgr.pdb) |
 | 937acf...<!-- 937acfc3af14fe59b81a52a0d15232d80364543806247d0aee5318b00611ab41 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/92908F783AD5FE6165AF0824BDF7D57A1/taskmgr.pdb) |

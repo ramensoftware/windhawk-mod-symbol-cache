@@ -155,7 +155,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f722ef...<!-- f722efb5b2f0e0be72983706e56ba290b2160b6b43c5ea4f34924a58543d44ee --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
+| f722ef...<!-- f722efb5b2f0e0be72983706e56ba290b2160b6b43c5ea4f34924a58543d44ee --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/A4597EC113310AB86EAB45ED9CC71EB61/shlwapi.pdb) |
 | f547e8...<!-- f547e8b4bd0fdcff05cd4b0d7b7361c20927b996bb1ceb2fbf0dcc6f4d89b6cc --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.dll/5B04E0F714000/shlwapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/E4CDF06766580B2C6E18BF735D5D0D591/shlwapi.pdb) |
 | 346aea...<!-- 346aea77d0a81459cf1cbe7e2896139235e3d830e48372138cce2da3f45bd66c --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
 | be4f04...<!-- be4f04a00255b11be502d88848ec5e58451186f70435ebabeb9aba64aaa46768 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/shlwapi.pdb/64EB3B1E035F6E4C6B6742F2D88FD1191/shlwapi.pdb) |

@@ -94,7 +94,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ceca77...<!-- ceca77af4e9165f0cbd931a7929a3f135a65d274f6b91dd092b85c1d0be097a6 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
+| ceca77...<!-- ceca77af4e9165f0cbd931a7929a3f135a65d274f6b91dd092b85c1d0be097a6 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/3CCE5A2A0D3A8B2C9B357335069D553C1/SecurityHealthSsoUdk.pdb) |
 | 68f596...<!-- 68f5964774fd6c4d3467e582d070159c191c659d2a7d372c7c316af1c582fe68 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/E35A78B63E648C779800A44630427ECD1/SecurityHealthSsoUdk.pdb) |
 | a3a655...<!-- a3a655556b87dd5573092618cb5ffc48eb5514b0754d0ea818e82e71452189ad --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/securityhealthssoudk.dll/5417A11A1c000/securityhealthssoudk.dll) | ❓ |
 | 705bbf...<!-- 705bbfe65d0a7807520d227774bef1952ddfebf93fe72c05da5c6b02302fcf9c --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSsoUdk.pdb/A868B60E183EF2865C74866D8F2E148D1/SecurityHealthSsoUdk.pdb) |

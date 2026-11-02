@@ -122,7 +122,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0ca615...<!-- 0ca61504debd61ee1f221d8c9157068b3abc0018d893bd8406645ede71d0b084 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🔴 | ❓ |
+| 0ca615...<!-- 0ca61504debd61ee1f221d8c9157068b3abc0018d893bd8406645ede71d0b084 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/C6FA2F66871A117A134A25A23D517A3F1/SndVolSSO.pdb) |
 | 7135fc...<!-- 7135fc2a11cb05d3a99d4032a98b98b73282e0bb0363f7872e51bee2d9834833 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/0D3C9F9FA08310E6DFE16B8EF2403FF81/SndVolSSO.pdb) |
 | d20d92...<!-- d20d92102b87688217a1b92b519b46952104410744abc673c0ed3a0b81a363f5 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/DA8281E544000/sndvolsso.dll) | ❓ |
 | 7789b8...<!-- 7789b8e2ac825dae55c8c178eba82981cb948dd25708cdf7ef90843b03f8e516 --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/A28C02AD392AEE4E9B54F2F6EC1634331/SndVolSSO.pdb) |
