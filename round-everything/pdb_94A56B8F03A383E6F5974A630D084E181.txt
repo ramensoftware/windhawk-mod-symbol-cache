@@ -1,0 +1,1 @@
+1#udwm.dll#arm64_3879870103_1404928#private: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)#193776#public: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)##public: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#796216#private: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#

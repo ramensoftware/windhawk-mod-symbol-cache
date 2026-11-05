@@ -1,0 +1,1 @@
+1#3196143598#1318912#private: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)#119632#public: float __cdecl CTopLevelWindow::GetRadiusFromCornerStyle(void)##public: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#609640#private: float __cdecl CTopLevelWindow::GetFloatCornerRadiusForCurrentStyle(void)#
