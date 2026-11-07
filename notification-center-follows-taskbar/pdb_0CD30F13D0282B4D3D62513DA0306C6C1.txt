@@ -1,0 +1,1 @@
+1#controlcenter.dll#x86-64_4273562456_4390912#public: virtual int __cdecl winrt::impl::produce<struct winrt::ControlCenter::implementation::MediaTransportControls,struct winrt::ControlCenter::IMediaTransportControls>::OnShowing(void)#2699664

@@ -1,0 +1,1 @@
+1#systemtray.dll#x86-64_1793058309_2113536#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#241192
