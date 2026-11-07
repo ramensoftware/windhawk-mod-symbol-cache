@@ -71,6 +71,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29704
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 7f8c29...<!-- 7f8c295e7b079caad06222bf95c1be5edc986e233a653269543675e3cd2e32bb --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/09F9901355000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/C1ED04DDBE844610A69E45EF0FA292E11/DesktopSwitcherDataModel.pdb) |
+
 ### 10.0.29698
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -117,9 +123,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c346ff...<!-- c346ff492ca045a581bf713c592f231b056c952e9e838add2200f978ce4e24a6 --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/04849ED356000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/84CB80215E1C9035B96DEA125A7D287A1/DesktopSwitcherDataModel.pdb) |
+| c346ff...<!-- c346ff492ca045a581bf713c592f231b056c952e9e838add2200f978ce4e24a6 --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/04849ED356000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/84CB80215E1C9035B96DEA125A7D287A1/DesktopSwitcherDataModel.pdb) |
+| d23760...<!-- d23760daf60b2405fca4256bc5222e04ac365cf9fab1e14ab610cf361669412b --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/ACA908F057000/desktopswitcherdatamodel.dll) | ❓ |
 | 6eb0ec...<!-- 6eb0ec16abc60cddc330361372ac2f47c633a13cda9c94605c6006b16be99fbf --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/EF2DB6CC56000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/9DF923493797C5EDD78F804266A038D21/DesktopSwitcherDataModel.pdb) |
-| d23760...<!-- d23760daf60b2405fca4256bc5222e04ac365cf9fab1e14ab610cf361669412b --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/ACA908F057000/desktopswitcherdatamodel.dll) | ❓ |
 | 4577b6...<!-- 4577b69e27a9bf186684420da96c3da6a5bc5983bd643af1c048a756fb854fe3 --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/C94D797561F102E571DD2ECE210D13D81/DesktopSwitcherDataModel.pdb) |
 | e86a91...<!-- e86a911bc097e9ebe7a6faa1ff7c4df494509db4eee384464332576347c32da3 --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/266F665F57000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/72209E2B12142F93FE42F507841AD5641/DesktopSwitcherDataModel.pdb) |
 | 178104...<!-- 1781042ed8baf11ec448ef54b69983b9e8def973dda5191701ea3b33cb6e29fc --> | 2026-10-27 | a7fff915...<!-- a7fff915-161e-425b-b467-15932061440c --> | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/E0C8728859000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/14199856528EB908D230F414103E49BF1/DesktopSwitcherDataModel.pdb) |

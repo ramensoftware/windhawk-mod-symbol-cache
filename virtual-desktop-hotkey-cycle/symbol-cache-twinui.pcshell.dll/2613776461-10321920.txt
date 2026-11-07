@@ -1,0 +1,1 @@
+1#2613776461#10321920#public: virtual long __cdecl CVirtualDesktopCollection::GetAdjacentVirtualDesktop(struct IVirtualDesktop *,unsigned int,struct _GUID const &,void * *)#6393360

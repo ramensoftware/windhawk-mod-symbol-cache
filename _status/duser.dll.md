@@ -62,6 +62,12 @@
 
 ## x64 (insider preview builds)
 
+### 10.0.29704
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 44f041...<!-- 44f04197e25d22ca6659d2a69b352ffc60f1000d4f5884a7322633b48df41cde --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/B6BC23B3a2000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/E878F0065BC115AB3581A071A0CBC99A1/DUser.pdb) |
+
 ### 10.0.29698
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -108,9 +114,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1a0d24...<!-- 1a0d24ed30ac7fca5c0b299ba751cd8fa664ec2b7c329a0f8c6cac341746fe0f --> | 2026-10-30 | 63e3467c...<!-- 63e3467c-e031-4c2d-b7c8-e32b12753247 --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/BB9F0460a1000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/F42448F5DC4CC6DC7E015FC11CED0CE71/DUser.pdb) |
+| 1a0d24...<!-- 1a0d24ed30ac7fca5c0b299ba751cd8fa664ec2b7c329a0f8c6cac341746fe0f --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/BB9F0460a1000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/F42448F5DC4CC6DC7E015FC11CED0CE71/DUser.pdb) |
+| 2cbfae...<!-- 2cbfae0d963790216a143205bea4feb1c1d0d6383fb05ca3714590c130244623 --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/F279CA0Da3000/duser.dll) | ❓ |
 | 5d801c...<!-- 5d801ce2824eedc0486b91547595184e085afcad6e615ecf39ee528189f96ad9 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/FEACC6E1a1000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/823475D1B353A34C4540B25CDE47CC871/DUser.pdb) |
-| 2cbfae...<!-- 2cbfae0d963790216a143205bea4feb1c1d0d6383fb05ca3714590c130244623 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/F279CA0Da3000/duser.dll) | ❓ |
 | 24b13b...<!-- 24b13bff11878f0f6c3e2b4e4ba5895e6fcf5b8c03e890cb77b823819e5b93e1 --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/E4FEFE201A4E4BB0F00AF6CF75543DB31/DUser.pdb) |
 | feb966...<!-- feb9669aaa05b6fe357c04cafa13b091713e19deb4c93b5b36b8c52382c5e266 --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/2FB70E88a3000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/192C7962764133C51AC332D4300711161/DUser.pdb) |
 | 5f2b4f...<!-- 5f2b4fd3745c9efdce380f11afb12f52519520751472fea96287c8e7eed0e4bb --> | 2026-10-27 | a7fff915...<!-- a7fff915-161e-425b-b467-15932061440c --> | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/D0BFF08Aa4000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/57D2E68F2FA454BF8A28A59ADBBE4F461/DUser.pdb) |

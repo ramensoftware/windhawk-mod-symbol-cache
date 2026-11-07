@@ -50,11 +50,11 @@
 
 ## x64 (insider preview builds)
 
-### 10.0.29698
+### 10.0.29704
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bdc976...<!-- bdc976e34ea066870c27b4b8a77a93ddf64584d31c9b2a845304e1ef5bf5057a --> | 2026-10-30 | aab2b64c...<!-- aab2b64c-3521-4716-9060-632df5659bfd --> | 2609.8002.200.6000 | 10.0.29698.1000 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6AB5CA44c01000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/D4650CE10AB542C0A5DE73F89874651A1/SearchUx.UI.pdb) |
+| bdc976...<!-- bdc976e34ea066870c27b4b8a77a93ddf64584d31c9b2a845304e1ef5bf5057a --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 2609.8002.200.6000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6AB5CA44c01000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/D4650CE10AB542C0A5DE73F89874651A1/SearchUx.UI.pdb) |
 
 ### 10.0.29695
 
@@ -90,8 +90,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 750a1f...<!-- 750a1f684617bbbc32632fa36494cbc50e9c850c6530b95a31f7bc078bf8b2c3 --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> |  | 10.0.28000.3454 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/FE16C08BB45E4157821E011461163C431/SearchUx.UI.pdb) |
+| e0df92...<!-- e0df92f7f8e70e1f3f3a6b68fe8fb239ba004c8c2280ea427534a6742ec3722c --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> | 2125.23902.10.0 | 10.0.28000.7 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/68AFED15b73000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/D3638DE942D141DAA0BE34B5D6AED6A01/SearchUx.UI.pdb) |
 | 133baf...<!-- 133bafc05305b4524eb66f29047901936009631a28f22688839acee4fd1774c7 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 2609.12000.100.6000 | 10.0.28000.3382 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6AB9A68Bc01000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/331DB4BD76864AEA9969C1D434F503C61/SearchUx.UI.pdb) |
-| e0df92...<!-- e0df92f7f8e70e1f3f3a6b68fe8fb239ba004c8c2280ea427534a6742ec3722c --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> | 2125.23902.10.0 | 10.0.28000.7 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/68AFED15b73000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/D3638DE942D141DAA0BE34B5D6AED6A01/SearchUx.UI.pdb) |
 | aaf80a...<!-- aaf80afcafb87a3d1ce4f7b4b16ae42f4338e99f3859854d97c57035d6c76536 --> | 2026-10-28 | 8f550c54...<!-- 8f550c54-da87-45d3-89e3-0c03a6f16ae8 --> |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6AB5CD37bcf000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/7E3F58AEF13B46B781154A1C5464F7DA1/SearchUx.UI.pdb) |
 | c911db...<!-- c911dbc3015188b43c967f238c544c638d9b21ef98489925b7cca97494997240 --> | 2026-10-27 | a7fff915...<!-- a7fff915-161e-425b-b467-15932061440c --> | 2608.3000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A70FEE6bd1000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/C2879607F4B44B9CA790515C12F8DCDF1/SearchUx.UI.pdb) |
 | 8e6a2a...<!-- 8e6a2adf9d0e07516ff117331d8663bc071992ca86d340e06f05c79700745003 --> | 2026-09-14 | dfc70cae...<!-- dfc70cae-9c31-49f0-a42c-b337feb729a4 --> |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/searchux.ui.dll/6A54B60Cbc9000/searchux.ui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SearchUx.UI.pdb/747A30D498284EBD9178239E6F5C87811/SearchUx.UI.pdb) |
