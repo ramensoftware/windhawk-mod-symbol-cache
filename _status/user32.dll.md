@@ -86,7 +86,6 @@
 | 90f409...<!-- 90f409bf477b5ba1075bb4d574aacb4447cc3a5b6588b380d802b5e382ab3d81 --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/DCBFEC1729e000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/52EA59DD432526BA75917BC4FE6AC6041/user32.pdb) |
 | 159727...<!-- 1597274e00747d6bd4709a113301436d419a1203acec19f6ddbfd73855ad3c96 --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9457 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/BCC85DC185000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/3E2868A0AD93F10D457DEF5E820FE1991/user32.pdb) |
 | f2fc06...<!-- f2fc06e7e5016a15ad7f7f4ee250154b7d41d0a0706bf14927a3bbd4c42727dd --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/6A13855B28b000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/6A65CB0CB9D087D34A8EF52AE29417EC1/user32.pdb) |
-| 547fd3...<!-- 547fd33f3cdf2d9b6ca5f5e016036e28f292313a609afa44be4e1e9ba19c5e7c --> | 2026-09-08 | KB5124008 |  | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/456A0E0885000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/4904ACCE12B41D74750CB00F211544B41/user32.pdb) |
 
 ### 10.0.22621
 
