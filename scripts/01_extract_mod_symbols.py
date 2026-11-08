@@ -4,6 +4,7 @@ import re
 import time
 from argparse import ArgumentParser
 from enum import StrEnum, auto
+from fnmatch import fnmatchcase
 from pathlib import Path
 
 import preprocessor
@@ -38,6 +39,13 @@ MOD_PATCHES: dict[str, list[tuple[str, str]]] = {
         (
             r'^const WindhawkUtils::SYMBOL_HOOK hooks\b',
             r'// explorer.exe\n\g<0>'
+        ),
+    ],
+    'brave-acrylic/*.wh.cpp': [
+        # Filled at runtime from a table this script can't read.
+        (
+            r'^[ \t]*WindhawkUtils::SYMBOL_HOOK hooks\[kFeatureSlots\];[ \t]*$',
+            r''
         ),
     ],
     'change-explorer-default-location/1.0.0.wh.cpp': [
@@ -635,7 +643,11 @@ def main():
             relative_path = str(mod_version_path.relative_to(mods_folder).as_posix())
 
             try:
-                mod_source = read_mod_source(mod_version_path, MOD_PATCHES.get(relative_path, []))
+                patches = [patch
+                           for pattern, mod_patches in MOD_PATCHES.items()
+                           if fnmatchcase(relative_path, pattern)
+                           for patch in mod_patches]
+                mod_source = read_mod_source(mod_version_path, patches)
                 mod_symbols = cache.get_mod_symbols(mod_source)
             except Exception as e:
                 print(f'Failed to extract symbols from mod {relative_path}: {e}')
