@@ -121,12 +121,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 70d4eb...<!-- 70d4eb920a59b09c1677e71cc86160673f00dbd2b4e0cd5c5e4fb8685afb59a6 --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 10.0.29667.1000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/1AD5468940000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/2AAB5EB8309938015D113A598AB6B20A1/authui.pdb) |
 
-### 10.0.29661
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f114f2...<!-- f114f289bbce9d4fb259b86e3142015517f976f8f3ca82463db9e3a33d5d4f30 --> | 2026-09-08 | 5a916774...<!-- 5a916774-d166-4271-b5a9-e0aa04ca3ce8 --> | 10.0.29661.1000 | 10.0.29661.1000 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/B816249640000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/A6F8EA10B3D76B3E9D1019E6D177980C1/authui.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -151,8 +145,6 @@
 | c7181d...<!-- c7181d47160d317cf57c23539d63ce881418706d04a8bac892225aebd3b5537a --> | 2026-09-11 | f2d98e30...<!-- f2d98e30-41c5-4f61-bcd3-7a8e344f54c0 --> |  | 10.0.28000.3079 | 🔴 | ❓ |
 | 4f580c...<!-- 4f580ca3d1afc94e61d6a6abcb828be4fdc3bb4fb9adec1e0ab886e6e2e44aaa --> | 2026-09-11 | 9531141a...<!-- 9531141a-6621-4a9a-809b-f92c4599691b --> |  | 10.0.28000.3002 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/3C38F0AA43000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/5605FEA87918001BEAB2E63BCC68A5631/authui.pdb) |
 | ad530c...<!-- ad530c3615dc154c1dadc4e2974d00202f0c877e859f8481eb28c863d4d4e0a0 --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> |  | 10.0.28000.2991 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/D2FE372D43000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/53B20AFDCF10730335737C0A274944321/authui.pdb) |
-| ea93ca...<!-- ea93ca196bc2cfb1d7ce0810e2265da971585fca33af8a8abb76071984420623 --> | 2026-09-08 | 73af1746...<!-- 73af1746-b001-4dd4-ba00-e8ef4cccfd8b --> |  | 10.0.28000.2912 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/DCD4D92443000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/21DE6DD4CD71EB38009B50BD14A4DB171/authui.pdb) |
-| c95675...<!-- c95675280ca01a7898d8f967798d901852dcdcad04a0d82d2954d79c9b5deeab --> | 2026-09-08 | 668a580d...<!-- 668a580d-b965-4af5-9ad5-177f6eeef492 --> |  | 10.0.28000.2754 | 🔴 | ❓ |
 
 ### 10.0.26100
 
@@ -182,8 +174,6 @@
 | 24bc17...<!-- 24bc17066e8f8fbe5c41152dd12538422a0c8f08516e58869e76f9201210b682 --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> |  | 10.0.26100.9482 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/60AA93D743000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/41790BD005EC29F98F076FCA471B224F1/authui.pdb) |
 | 396edc...<!-- 396edc292b07078d6eed9ef0e37bd949371c3a8b20fe164903768176d719c58f --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> |  | 10.0.26100.9472 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/84EFEF9C43000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/E9400BF9B5726BCD3A89BB1622B037011/authui.pdb) |
 | a030a4...<!-- a030a4a34ee15ad1317517b84384138a105c1d659fd739ef4dc756edeceee15e --> | 2026-09-10 | 95cc0dd5...<!-- 95cc0dd5-949f-452e-9115-30f6c5836016 --> |  | 10.0.26100.9539 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/09BBB713B31B53BD8A0C32F011444FB31/authui.pdb) |
-| 4420cd...<!-- 4420cdcc276943244d5e2f77b61d9462e864551caa13ff953343517a874f6e69 --> | 2026-09-08 | f79e9e51...<!-- f79e9e51-35df-4d29-8ba2-e917ee87e10a --> |  | 10.0.26100.9352 | 🔴 | ❓ |
-| 679494...<!-- 6794947f1151e4b00a84c42c23943262697718080ff9342c98288a54ef9094dc --> | 2026-09-08 | 1e7eaea8...<!-- 1e7eaea8-4d56-4e85-ba1b-ee9e239bfb1e --> |  | 10.0.26100.9306 | 🔴 | ❓ |
 
 ### 10.0.22621
 

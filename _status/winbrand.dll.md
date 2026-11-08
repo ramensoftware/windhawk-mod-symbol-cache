@@ -117,17 +117,11 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | bfcbc9...<!-- bfcbc9ea0aa8880a6902fcd432c24f85e5eb1b6b974ee026f3782d347e6b22cf --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 10.0.29667.1000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/4271728E31000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/139E2FF6E0C6B813132D3B9B0C13333F1/winbrand.pdb) |
 
-### 10.0.29661
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4d972b...<!-- 4d972ba3c00c336f7c6c8645486f2c07624c0b1bf8de7ffb0850eab06b18bece --> | 2026-09-08 | 5a916774...<!-- 5a916774-d166-4271-b5a9-e0aa04ca3ce8 --> | 10.0.29661.1000 | 10.0.29661.1000 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/09D25A0931000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/7A22AEA6DB2298C7C32577A06D90F96D1/winbrand.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9530b2...<!-- 9530b231c2788ec0fa1c78312cf59415e0cd65867d2dfaa8028037f16c340180 --> | 2026-11-06 | c2244dcc...<!-- c2244dcc-57d1-40f2-875b-97c56c2cc86c --> |  | 10.0.28000.3442 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/4F404A36C498003753B868208077B1AF1/winbrand.pdb) |
+| 9530b2...<!-- 9530b231c2788ec0fa1c78312cf59415e0cd65867d2dfaa8028037f16c340180 --> | 2026-11-06 | c2244dcc...<!-- c2244dcc-57d1-40f2-875b-97c56c2cc86c --> |  | 10.0.28000.3442 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/A08F256533000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/4F404A36C498003753B868208077B1AF1/winbrand.pdb) |
 | b8ef37...<!-- b8ef37032e0da8c01bbb88a7a67884c83e6009aa66114111064cda99201adea1 --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/F12F252D33000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/C545A186F9BEB7D3D418972076FE75AE1/winbrand.pdb) |
 | b8831b...<!-- b8831b50ca72b6e9b8f8d8a0fabd2460fe5b4803afe11de0d0d62d7c459f3fd9 --> | 2026-11-06 | c2244dcc...<!-- c2244dcc-57d1-40f2-875b-97c56c2cc86c --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/winbrand.dll/2198D02433000/winbrand.dll) | ❓ |
 | b57bb9...<!-- b57bb91723fb8b169e4fa43f20b1526aa8a3794ef17cf3b0f824821ae128037a --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/65F2C38B33000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/DDB2576222B4F90EA46FD3DE442B4BA81/winbrand.pdb) |
@@ -145,7 +139,6 @@
 | 22fddd...<!-- 22fddd74888e62252a4b1e80102db505afc9d184ab568498c6e44ff3f09aecba --> | 2026-09-11 | f2d98e30...<!-- f2d98e30-41c5-4f61-bcd3-7a8e344f54c0 --> |  | 10.0.28000.3079 | 🔴 | ❓ |
 | a3bf4b...<!-- a3bf4bb22aa795fa51bf00d08fe968701ff518ebf2cfedd5797e44baff420339 --> | 2026-09-11 | 9531141a...<!-- 9531141a-6621-4a9a-809b-f92c4599691b --> |  | 10.0.28000.2912 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/925FFC8B33000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/4A798C4B9CF2E9A55FB074D7B8BB9DDC1/winbrand.pdb) |
 | 22f610...<!-- 22f610ff9c4ac1e8f5cebcb3a0a585e8fd8508bf36862953da37c2c88a3ab06b --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> |  | 10.0.28000.2901 | 🔴 | ❓ |
-| c6887b...<!-- c6887b82c22de12d8b063f4541eee6a8281c718f6d6ac9af89ba322fcb78cb4e --> | 2026-09-08 | 668a580d...<!-- 668a580d-b965-4af5-9ad5-177f6eeef492 --> |  | 10.0.28000.2904 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/2B2AB0C234000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/699E7AA3B01E712D34477368EDD3997D1/winbrand.pdb) |
 
 ### 10.0.26100
 
