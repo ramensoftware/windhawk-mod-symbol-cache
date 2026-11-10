@@ -23,7 +23,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 43d135...<!-- 43d135c1ba22e273d87b046688b86e40f169abbf34b96a775de5d0049a7290b6 --> | 2026-10-26 | KB5134130 |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/24732265166000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/41F39ED416F4E62F6086D50087F6BCC41/windows.ui.fileexplorer.pdb) |
+| 43d135...<!-- 43d135c1ba22e273d87b046688b86e40f169abbf34b96a775de5d0049a7290b6 --> | 2026-11-10 | KB5131087 |  | 10.0.22621.7219 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/24732265166000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/41F39ED416F4E62F6086D50087F6BCC41/windows.ui.fileexplorer.pdb) |
 
 ### 10.0.19041
 
@@ -71,7 +71,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3b9c76...<!-- 3b9c76a255d45a520182d73a7c2cde23df1fad6fd2846549435507bdd4b925a5 --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/E252EB32193000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/643FA0C24885931C55EE1C15DB8961781/windows.ui.fileexplorer.pdb) |
+| 3b9c76...<!-- 3b9c76a255d45a520182d73a7c2cde23df1fad6fd2846549435507bdd4b925a5 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/E252EB32193000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/643FA0C24885931C55EE1C15DB8961781/windows.ui.fileexplorer.pdb) |
 
 ### 10.0.29698
 
@@ -169,7 +169,6 @@
 | 5063f5...<!-- 5063f5bbdaf05c00064fa12b1a955dd4dfa35d5c55dfabfd9aadbcbb1c2ebc7f --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/D592F42A1c0000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/12675DEE5B620E857BA4B90DF80828FD1/windows.ui.fileexplorer.pdb) |
 | bdf38e...<!-- bdf38e0bbfa8000388cb469adcf91dd0b19d8f9c5bff9cb899cdf40b51ecb2c2 --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> |  | 10.0.26100.9482 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/3808ACC01d9000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/17DC0454EE8A0C83A97BC6AC85F120ED1/windows.ui.fileexplorer.pdb) |
 | 1299a7...<!-- 1299a72c16dba5298bb80a7bc58918555cd031a765f901aab36074f9a860d8c3 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> |  | 10.0.26100.9472 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/854BA4411da000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/086EF626775B3AE1387D3BB41B9447DF1/windows.ui.fileexplorer.pdb) |
-| dc3dad...<!-- dc3dad5da84e665da5e85770a24267fb6c36924d04fa2e5b52501afa68ca580d --> | 2026-09-10 | 95cc0dd5...<!-- 95cc0dd5-949f-452e-9115-30f6c5836016 --> | 10.0.26100.9539 | 10.0.26100.9539 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/98B8AB231da000/windows.ui.fileexplorer.dll) | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/5FB36457A8C5E2B6D0B337C8A34299C91/windows.ui.fileexplorer.pdb) |
 
 ### 10.0.22621
 

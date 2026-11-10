@@ -19,7 +19,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 2fcadf...<!-- 2fcadfc3a746e3334dbe9e50d6f690d3e2ee2d50d80c072c9c85ad0773cb1bbc --> | 2026-10-26 | KB5134130 | 10.0.22621.6931 | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/CF8EA2D317000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/D4EF2F946DD0F8D0A5F349E2C70599B71/dwmghost.pdb) |
+| 2fcadf...<!-- 2fcadfc3a746e3334dbe9e50d6f690d3e2ee2d50d80c072c9c85ad0773cb1bbc --> | 2026-11-10 | KB5131087 | 10.0.22621.6931 | 10.0.22621.6931 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/CF8EA2D317000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/D4EF2F946DD0F8D0A5F349E2C70599B71/dwmghost.pdb) |
 
 ### 10.0.19041
 
@@ -37,7 +37,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 33d6d9...<!-- 33d6d9407e364ca400dcae84f5a3bbac25e1b392ebfb78d395c782c01a35f8cd --> | 2026-10-26 | KB5134123 | 10.0.14393.8592 | 10.0.14393.8592 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/68F9A1CB17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B987C80F37AE4A4CAA997CBCD06AE5641/dwmghost.pdb) |
+| 33d6d9...<!-- 33d6d9407e364ca400dcae84f5a3bbac25e1b392ebfb78d395c782c01a35f8cd --> | 2026-11-10 | KB5131291 | 10.0.14393.8592 | 10.0.14393.8592 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/68F9A1CB17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/B987C80F37AE4A4CAA997CBCD06AE5641/dwmghost.pdb) |
 
 ## ARM64 (release builds)
 
@@ -72,7 +72,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1924a1...<!-- 1924a13d3c7d1e50528f56a64ee88fb2898f7736daabc51d80af033a85b85321 --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/F4330BCF17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/41F961ACC023D21F66ADBFAE25A8AAE51/dwmghost.pdb) |
+| 1924a1...<!-- 1924a13d3c7d1e50528f56a64ee88fb2898f7736daabc51d80af033a85b85321 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/F4330BCF17000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/41F961ACC023D21F66ADBFAE25A8AAE51/dwmghost.pdb) |
 
 ### 10.0.29698
 

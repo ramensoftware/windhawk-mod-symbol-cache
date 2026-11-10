@@ -19,6 +19,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 910b06...<!-- 910b06f1c84cfba6a29638ebbd4dc843451d7714c5c45347cc4b15a81b2cf597 --> | 2026-11-10 | KB5131291 | 10.0.14393.9685 | 10.0.14393.9685 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/6AEC3625784000/startui.dll) | ❓ |
 | 0086de...<!-- 0086de180b4e47445ac81b77e6d34ad87015473e828853c5eff86a3f6c7c2595 --> | 2026-10-26 | KB5134123 | 10.0.14393.9339 | 10.0.14393.9339 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/6A51BFE0784000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/5BC435B21E844224AF16ADC0D5E93ED31/StartUI.pdb) |
 
 ## ARM64 (release builds)

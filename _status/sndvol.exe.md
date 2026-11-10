@@ -19,7 +19,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 32deb4...<!-- 32deb446f0b28fbda14d0450e7cd4a6c7b7cfaf0968cc73f7cd6173f1bdffa4c --> | 2026-10-26 | KB5134130 | 10.0.22621.3527 | 10.0.22621.5415 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/462471D24a000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/3EBDBB75AAFA706ECAF642E8CE7BD6BC1/SndVol.pdb) |
+| 32deb4...<!-- 32deb446f0b28fbda14d0450e7cd4a6c7b7cfaf0968cc73f7cd6173f1bdffa4c --> | 2026-11-10 | KB5131087 | 10.0.22621.3527 | 10.0.22621.5415 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/462471D24a000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/3EBDBB75AAFA706ECAF642E8CE7BD6BC1/SndVol.pdb) |
 
 ### 10.0.19041
 
@@ -37,7 +37,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 273292...<!-- 2732928784b876ed541310f26bce97785e8999f4d2b4e6e02996c5dc28bc4a9f --> | 2026-10-26 | KB5134123 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/66BAD42E41000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C06073396C204441A396269FBE862DBD1/SndVol.pdb) |
+| 273292...<!-- 2732928784b876ed541310f26bce97785e8999f4d2b4e6e02996c5dc28bc4a9f --> | 2026-11-10 | KB5131291 | 10.0.14393.7330 | 10.0.14393.7330 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/66BAD42E41000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/C06073396C204441A396269FBE862DBD1/SndVol.pdb) |
 
 ## ARM64 (release builds)
 
@@ -72,7 +72,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 63e616...<!-- 63e616f5d53c2a1fc0590ca7827d4395ba170ed9f4be93ef93f7137590e9c603 --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/46D9D40548000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/B54A9CA7A006FE92F20B5F036FF349041/SndVol.pdb) |
+| 63e616...<!-- 63e616f5d53c2a1fc0590ca7827d4395ba170ed9f4be93ef93f7137590e9c603 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvol.exe/46D9D40548000/sndvol.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SndVol.pdb/B54A9CA7A006FE92F20B5F036FF349041/SndVol.pdb) |
 
 ### 10.0.29698
 

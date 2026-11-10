@@ -24,6 +24,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 460c4e...<!-- 460c4e68ae97dae32b809d487cdd509492615e643a9b88d8834f9018eecefd85 --> | 2026-11-10 | KB5131087 |  | 10.0.22621.7711 | 🔴 | ❓ |
 | 06004e...<!-- 06004ea24b56500b56eb892c19fb851597b9368cd47db0fe211305d8078f3f0e --> | 2026-10-26 | KB5134130 |  | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/A8FE455316a000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/EF4516E082CCD0FB543D13E15C5CFC391/uDWM.pdb) |
 
 ### 10.0.19041
@@ -43,7 +44,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 88f005...<!-- 88f00577ed09cee7bdfffa377c27462d0a8d601415e4f94ec5961c9998937a9a --> | 2026-10-26 | KB5134123 | 10.0.14393.9339 | 10.0.14393.9339 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/6A51BFC2d1000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/C97ADD02D1FE429995252C9D983F36171/uDWM.pdb) |
+| 88f005...<!-- 88f00577ed09cee7bdfffa377c27462d0a8d601415e4f94ec5961c9998937a9a --> | 2026-11-10 | KB5131291 | 10.0.14393.9339 | 10.0.14393.9339 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/6A51BFC2d1000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/C97ADD02D1FE429995252C9D983F36171/uDWM.pdb) |
 
 ## ARM64 (release builds)
 
@@ -84,7 +85,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 319651...<!-- 3196518fb1717d6ffb03aeb2fd41a9d6f85c68cf613e96619fdf6e717e675af3 --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/CE626E6E143000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/D0A575252EC44735F761600FEAD8578B1/uDWM.pdb) |
+| 319651...<!-- 3196518fb1717d6ffb03aeb2fd41a9d6f85c68cf613e96619fdf6e717e675af3 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/CE626E6E143000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/D0A575252EC44735F761600FEAD8578B1/uDWM.pdb) |
 
 ### 10.0.29698
 
@@ -180,7 +181,6 @@
 | 336093...<!-- 3360935b0b39574e948757027066a1f1b8548815142f25527e0559ba4bd9e9af --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/240E386A142000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/7B7A567CBAA0411755DE638D3FD164F61/uDWM.pdb) |
 | 74586e...<!-- 74586e2b78fe389aaff0f2f90a2df1166afa6dd8684cf2de9f5d27a9c2224ac8 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> |  | 10.0.26100.9472 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/98C18BF014a000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/BAF130284B1742A301E5AAC1BE3CD0EC1/uDWM.pdb) |
 | 156259...<!-- 1562599329090703691febac4c5610e3d25b1cceb1acd503c286f3f7b59d71aa --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> |  | 10.0.26100.9352 | 🔴 | ❓ |
-| edbb3a...<!-- edbb3a5c0038dad85e53f950c3f93c1e26a0421f3d21d4d649c61031ef043d5a --> | 2026-09-10 | 95cc0dd5...<!-- 95cc0dd5-949f-452e-9115-30f6c5836016 --> | 10.0.26100.9539 | 10.0.26100.9539 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/15AA3CD114a000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/06778693146D3091EB3177A1A0653FED1/uDWM.pdb) |
 
 ### 10.0.22621
 

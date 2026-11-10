@@ -22,7 +22,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 07996a...<!-- 07996a400ce247dfdbe85ca05bb8b78ff5e86924133962b7cdfdf2708980f8fa --> | 2026-10-26 | KB5134130 | 2125.7000.0.0 | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/67D0A2D8d2000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/37890A22A877416BBD2840825CA237801/SnapLayout.pdb) |
+| 07996a...<!-- 07996a400ce247dfdbe85ca05bb8b78ff5e86924133962b7cdfdf2708980f8fa --> | 2026-11-10 | KB5131087 | 2125.7000.0.0 | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/67D0A2D8d2000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/37890A22A877416BBD2840825CA237801/SnapLayout.pdb) |
 
 ## ARM64 (release builds)
 
@@ -54,7 +54,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f14cff...<!-- f14cfff0c4fcb2b75e12192e52b3c8c64659044abfe66b5f89ea7b157f4d6538 --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 2609.12000.0.0 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6AA4E29Cd5000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/648603EAD61049A39AA6849999F11BD71/SnapLayout.pdb) |
+| f14cff...<!-- f14cfff0c4fcb2b75e12192e52b3c8c64659044abfe66b5f89ea7b157f4d6538 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 2609.12000.0.0 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6AA4E29Cd5000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/648603EAD61049A39AA6849999F11BD71/SnapLayout.pdb) |
 
 ### 10.0.29698
 

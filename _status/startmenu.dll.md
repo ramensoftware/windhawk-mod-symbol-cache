@@ -22,7 +22,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 00ebbb...<!-- 00ebbbce3040a0b605f9f61f6abc1be9f4aa5b0a53823807145f7ed619862daa --> | 2026-10-26 | KB5134130 |  | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/68EE987E3f6000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/BC2BD4A225164454BB1BBF94E9B9787B1/StartMenu.pdb) |
+| 00ebbb...<!-- 00ebbbce3040a0b605f9f61f6abc1be9f4aa5b0a53823807145f7ed619862daa --> | 2026-11-10 | KB5131087 |  | 10.0.22621.6274 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/68EE987E3f6000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/BC2BD4A225164454BB1BBF94E9B9787B1/StartMenu.pdb) |
 
 ## ARM64 (release builds)
 
@@ -54,7 +54,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1d27e3...<!-- 1d27e367292a93652429d914131d44fca0e0d157a72584d3b45893b81dc8c85f --> | 2026-11-06 | 9001e7ee...<!-- 9001e7ee-0788-40a8-bbda-6dd61a8811fb --> | 2609.10000.0.0 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6AA20BB14bf000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/56B534EB3B9E4FFBA4B0E7E44BD350EA1/StartMenu.pdb) |
+| 1d27e3...<!-- 1d27e367292a93652429d914131d44fca0e0d157a72584d3b45893b81dc8c85f --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 2609.10000.0.0 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6AA20BB14bf000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/56B534EB3B9E4FFBA4B0E7E44BD350EA1/StartMenu.pdb) |
 
 ### 10.0.29683
 
