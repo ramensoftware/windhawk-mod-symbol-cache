@@ -96,7 +96,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 15fece...<!-- 15fece3028cc13aa184df0f73453d2b54935bb38be18c275205cb0b384f721a2 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> |  | 10.0.29704.1010 | 🔴 | ❓ |
+| 15fece...<!-- 15fece3028cc13aa184df0f73453d2b54935bb38be18c275205cb0b384f721a2 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> |  | 10.0.29704.1010 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/083E803CC4EB67C495D38D9617B3D45D1/ntdll.pdb) |
 | b06591...<!-- b06591c3a3d1b814536ff107a93856026c5c4da6b306975914ecc4d347617e20 --> | 2026-11-09 | 64b19285...<!-- 64b19285-7e29-43e6-90c1-16e24ae2500e --> | 10.0.29704.1000 | 10.0.29704.1000 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/8D7A2B7E267000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/E832408B6121937A097400B0B60DDDDC1/ntdll.pdb) |
 
 ### 10.0.29698
