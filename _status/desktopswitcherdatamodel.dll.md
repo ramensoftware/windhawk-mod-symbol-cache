@@ -175,8 +175,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5c55c4...<!-- 5c55c41abd5a01632bc2a3e7913e879f3211d0af82be74497a3bbb4b1983f9e5 --> | 2026-10-26 | d397976e...<!-- d397976e-a38d-48a5-b3a0-7e6a0b3c2b27 --> | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/2947B2D044000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/346D3BF4065450E3BCFA6D1F7D50AB7E1/DesktopSwitcherDataModel.pdb) |
-| f0c824...<!-- f0c824142fb3c5901f849db4556ef0f70b036d92c6e959368b0db17d24b46a72 --> | 2026-10-26 | d397976e...<!-- d397976e-a38d-48a5-b3a0-7e6a0b3c2b27 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/95F8AF7C44000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/D29D533DF184FD7C5973E3B655A32A0E1/DesktopSwitcherDataModel.pdb) |
+| 5c55c4...<!-- 5c55c41abd5a01632bc2a3e7913e879f3211d0af82be74497a3bbb4b1983f9e5 --> | 2026-11-10 | a01ef2a5...<!-- a01ef2a5-8ac0-4c21-9df2-e4e106ab9795 --> | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/2947B2D044000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/346D3BF4065450E3BCFA6D1F7D50AB7E1/DesktopSwitcherDataModel.pdb) |
+| f0c824...<!-- f0c824142fb3c5901f849db4556ef0f70b036d92c6e959368b0db17d24b46a72 --> | 2026-11-10 | a01ef2a5...<!-- a01ef2a5-8ac0-4c21-9df2-e4e106ab9795 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/95F8AF7C44000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/D29D533DF184FD7C5973E3B655A32A0E1/DesktopSwitcherDataModel.pdb) |
 
 ### 10.0.17763
 

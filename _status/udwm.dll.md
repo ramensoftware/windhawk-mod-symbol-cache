@@ -198,8 +198,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9d540d...<!-- 9d540d42c9c3247070d8779060afa8793c48b5a1dbe7276289254d44dd655363 --> | 2026-10-26 | d397976e...<!-- d397976e-a38d-48a5-b3a0-7e6a0b3c2b27 --> |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/23BD15F9fe000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/9D1F8876EE7ED5EE12C92F6CB025BA221/uDWM.pdb) |
-| 0f5684...<!-- 0f568436ea5c7fce6435b4eec9966b2ea0437c5f34700b6bce080493352d697b --> | 2026-10-26 | d397976e...<!-- d397976e-a38d-48a5-b3a0-7e6a0b3c2b27 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/1EB981B7fd000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/23881388DE00EC46F3B3079ED926E9281/uDWM.pdb) |
+| 9d540d...<!-- 9d540d42c9c3247070d8779060afa8793c48b5a1dbe7276289254d44dd655363 --> | 2026-11-10 | a01ef2a5...<!-- a01ef2a5-8ac0-4c21-9df2-e4e106ab9795 --> |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/23BD15F9fe000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/9D1F8876EE7ED5EE12C92F6CB025BA221/uDWM.pdb) |
+| 0f5684...<!-- 0f568436ea5c7fce6435b4eec9966b2ea0437c5f34700b6bce080493352d697b --> | 2026-11-10 | a01ef2a5...<!-- a01ef2a5-8ac0-4c21-9df2-e4e106ab9795 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/1EB981B7fd000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/23881388DE00EC46F3B3079ED926E9281/uDWM.pdb) |
 | c6eec2...<!-- c6eec2e5ce7d0f6b3f2eae8facc1a29e2f62ea5d2e80b5ca48f3c6d3afb7f397 --> | 2026-10-17 | a9e09df0...<!-- a9e09df0-89c0-4f5a-81dc-99a1ee2c74f8 --> | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/E163C083fe000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/B8B85705B05F65C5A5F28D0A724F47521/uDWM.pdb) |
 
 ### 10.0.17763
