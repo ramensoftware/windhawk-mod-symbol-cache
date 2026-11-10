@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| b32759...<!-- b3275907f2c28e48b9cd197d1fd3096dc11425a13829db6a301c392d7ed4ec50 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🔴 | ❓ |
 | bac618...<!-- bac618c9eee99fba7d1de36a8ab60f3215a68716c713cd9f8f4b1896060b8136 --> | 2026-10-26 | KB5134125 | 10.0.19041.7802 | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/39475076820000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/5B8A374C433E6412F6A07837648D4D9F1/StartUI.pdb) |
 | 0315f6...<!-- 0315f60c6c75dbcb6aa51e9d8875eb1b469bfdf42c14e89997074ab95aa8a549 --> | 2026-09-14 | KB5129236 | 10.0.19041.7725 | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/F7758DBC821000/startui.dll) | ❓ |
 
@@ -13,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 599436...<!-- 599436dd77d96909395ad66b8e612477fcf5a54bbd167daf249b76b69ed14b22 --> | 2026-10-26 | KB5134124 | 10.0.17763.5830 | 10.0.17763.5830 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/664D5FDD904000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/FA6C3617E1774048AE12FF2E35D36AA91/StartUI.pdb) |
+| 599436...<!-- 599436dd77d96909395ad66b8e612477fcf5a54bbd167daf249b76b69ed14b22 --> | 2026-11-10 | KB5131085 | 10.0.17763.5830 | 10.0.17763.5830 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/664D5FDD904000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/FA6C3617E1774048AE12FF2E35D36AA91/StartUI.pdb) |
 
 ### 10.0.14393
 

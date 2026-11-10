@@ -12,14 +12,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3d4314...<!-- 3d431451a684cef774e5ed60a42dc678582ce012ade8f3284a13e0ed27341ecc --> | 2026-10-26 | KB5134125 | 10.0.19041.7811 | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/ABBEBC1A219000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/96CF81FDAA6A823B3E2DF48EFB279D331/pnidui.pdb) |
+| 3d4314...<!-- 3d431451a684cef774e5ed60a42dc678582ce012ade8f3284a13e0ed27341ecc --> | 2026-11-10 | KB5131096 | 10.0.19041.7811 | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/ABBEBC1A219000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/96CF81FDAA6A823B3E2DF48EFB279D331/pnidui.pdb) |
 | 663daf...<!-- 663daf252ab8b03d50da9f59255c18fdaa5aef2feaf5d2400f0294d6df34f403 --> | 2026-10-13 | KB5126657 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/CC2D6BBC219000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/101E192C23FC5237B64C8B678B1946E61/pnidui.pdb) |
 
 ### 10.0.17763
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 146706...<!-- 1467064c8d277cb91e485c52824b57d8a7f1f69fb1b740e084f5f86fcddf7f3e --> | 2026-10-26 | KB5134124 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/226B918A20b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/4EC32AB42275799F7E106A9FA5B0C39F1/pnidui.pdb) |
+| 146706...<!-- 1467064c8d277cb91e485c52824b57d8a7f1f69fb1b740e084f5f86fcddf7f3e --> | 2026-11-10 | KB5131085 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/226B918A20b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/4EC32AB42275799F7E106A9FA5B0C39F1/pnidui.pdb) |
 
 ### 10.0.14393
 
