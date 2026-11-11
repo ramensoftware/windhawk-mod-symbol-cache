@@ -5,8 +5,8 @@ from enum import StrEnum
 from pathlib import Path
 
 from fast_import import FastImportFiles
-from symbols_file import (ADDRESSES_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX,
-                          read_symbols_file_lines, read_symbols_file_pe_info)
+from symbols_file import (ABSENT_SYMBOL_PREFIX, PORTED_SYMBOLS_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX,
+                          addresses_file_path, read_symbols_file_lines, read_symbols_file_pe_info)
 
 # For Windhawk older than v1.5.
 MOD_CACHE_LEGACY_SEPARATORS = {
@@ -43,7 +43,14 @@ def create_mod_cache_file(
     mod_symbols: list[str],
     symbol_addresses: dict,
     arch_for_hybrid_pe: str,
+    omit_unknown_symbols: bool = False,
 ):
+    """Write a cache file. A symbol without an address is written with an
+    empty one, which tells the engine that it doesn't exist. With
+    omit_unknown_symbols, only a symbol whose address is an empty string is
+    written that way, and one which isn't in symbol_addresses at all is left
+    out, so the engine looks for it in the PDB. No file is written if that
+    leaves out every symbol."""
     if sep in val1:
         raise Exception(f'Invalid value with separator {sep}: {val1}')
 
@@ -51,10 +58,15 @@ def create_mod_cache_file(
         raise Exception(f'Invalid value with separator {sep}: {val2}')
 
     content = f'1{sep}{val1}{sep}{val2}'
+    written = 0
 
     for symbol in mod_symbols:
         if sep in symbol:
             raise Exception(f'Invalid symbol with separator {sep}: {symbol}')
+
+        if omit_unknown_symbols and symbol not in symbol_addresses:
+            continue
+        written += 1
 
         address1 = symbol_addresses.get(symbol, '')
         if address1 is None:
@@ -80,13 +92,18 @@ def create_mod_cache_file(
 
         content += f'{sep}{symbol}{sep}{address}'
 
+    if omit_unknown_symbols and not written:
+        return
+
     files.write(cache_path, content)
 
 
 def find_symbol_addresses(symbols_file: Path, symbols: set[str]):
-    """The address of each of the symbols in a symbols file, or None for one
-    which appears more than once. A symbol without an arch prefix is also looked
-    for with each of the prefixes."""
+    """The address of each of the symbols in a symbols file, None for one
+    which appears more than once, or an empty string for one which the file
+    lists as absent. A symbol without an arch prefix is also looked for with
+    each of the prefixes."""
+    absent_prefix = ABSENT_SYMBOL_PREFIX.encode()
     symbols_bytes_with_prefix = set()
     for symbol in symbols:
         symbols_bytes_with_prefix.add(symbol.encode())
@@ -94,7 +111,7 @@ def find_symbol_addresses(symbols_file: Path, symbols: set[str]):
             for arch_prefix in ArchPrefix:
                 symbols_bytes_with_prefix.add((arch_prefix + symbol).encode())
 
-    addresses: dict[str, int | None] = {}
+    addresses: dict[str, int | str | None] = {}
 
     # This is a hot loop, keep it optimized.
     for line in read_symbols_file_lines(symbols_file):
@@ -114,12 +131,19 @@ def find_symbol_addresses(symbols_file: Path, symbols: set[str]):
                     addresses[symbol] = address
             continue
 
+        if line.startswith(absent_prefix):
+            symbol = line[len(absent_prefix):]
+            if symbol in symbols_bytes_with_prefix:
+                symbol = symbol.decode()
+                addresses[symbol] = None if symbol in addresses else ''
+            continue
+
         line = line.decode()
 
         # The PE information, which is read separately, and the symbol count.
         if not line.startswith(('machine=', 'timestamp=', 'image_size=',
                                 'is_hybrid=', 'pdb_fingerprint=',
-                                'pdb_filename=', 'Found ')):
+                                'pdb_filename=', 'ported=', 'Found ')):
             raise Exception(f'Unknown line: {line}')
 
     return addresses
@@ -129,8 +153,7 @@ def get_symbol_addresses(symbols_file: Path, symbols: set[str]):
     """find_symbol_addresses, with the result kept in an addresses file next to
     the symbols file. A symbols file never changes, so it's only scanned again
     for a symbol which it wasn't scanned for before."""
-    addresses_file = symbols_file.with_name(
-        symbols_file.name.removesuffix(SYMBOLS_FILE_SUFFIX) + ADDRESSES_FILE_SUFFIX)
+    addresses_file = addresses_file_path(symbols_file)
 
     if addresses_file.exists():
         cached = json.loads(addresses_file.read_text(encoding='utf-8'))
@@ -159,6 +182,7 @@ def create_mod_cache_for_symbols_file(
     timestamp = int(pe_info['timestamp'])
     image_size = int(pe_info['image_size'])
     is_hybrid = 'is_hybrid' in pe_info
+    is_ported = 'ported' in pe_info
     pdb_fingerprint = pe_info.get('pdb_fingerprint')
 
     # For now, only cache ARM64 hybrid symbols. Later, it's possible to add
@@ -179,10 +203,11 @@ def create_mod_cache_for_symbols_file(
         if binary_name not in mod_archs[arch]:
             continue
 
-        # Legacy symbol cache.
+        # Legacy symbol cache. Ported symbols only go to the new cache, from
+        # which the engine falls back to the PDB for a symbol it doesn't list.
         legacy_cache_key = None
 
-        if not is_hybrid:
+        if not is_hybrid and not is_ported:
             if arch == 'amd64':
                 legacy_cache_key = f'symbol-cache-{binary_name}'
             elif arch == 'x86':
@@ -224,15 +249,18 @@ def create_mod_cache_for_symbols_file(
 
         sep = ';' if is_hybrid else '#'
 
+        # The second value is ignored by the engine, the tag shows in its logs
+        # where the addresses came from.
         create_mod_cache_file(
             files,
             symbol_cache_file_path,
             sep,
             binary_name.replace(sep, '_'),
-            f'{arch_mapping[arch]}_{timestamp}_{image_size}',
+            f'{arch_mapping[arch]}_{timestamp}_{image_size}' + ('_ported' if is_ported else ''),
             mod_archs[arch][binary_name],
             symbols,
             arch if is_hybrid else '',
+            omit_unknown_symbols=is_ported,
         )
 
 
@@ -256,6 +284,14 @@ def create_mod_cache(binaries_folder: Path,
                 for symbols_file in arch.glob('*' + SYMBOLS_FILE_SUFFIX):
                     if not symbols_file.is_file():
                         continue
+
+                    # Ported symbols are only used until the binary's own are
+                    # extracted.
+                    if symbols_file.name.endswith(PORTED_SYMBOLS_FILE_SUFFIX):
+                        own_symbols_file = symbols_file.with_name(
+                            symbols_file.name.removesuffix(PORTED_SYMBOLS_FILE_SUFFIX) + SYMBOLS_FILE_SUFFIX)
+                        if own_symbols_file.exists():
+                            continue
 
                     try:
                         create_mod_cache_for_symbols_file(

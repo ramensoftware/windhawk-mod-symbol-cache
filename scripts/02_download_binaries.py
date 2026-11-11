@@ -1,6 +1,5 @@
 import json
 import os
-import re
 import shutil
 import subprocess
 import tempfile
@@ -9,7 +8,9 @@ from datetime import datetime
 from pathlib import Path
 
 from manual_pdb import synthesize_pdb_lookup_pe
-from symbols_file import ADDRESSES_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX
+from symbols_file import (ADDRESSES_FILE_SUFFIX, PORTED_SYMBOLS_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX,
+                          addresses_file_path, binary_file_name, ported_symbols_path,
+                          read_symbols_file_pe_info)
 from winbindex import download_winbindex_data, load_winbindex_data
 
 BINARY_MAX_AGE_DAYS_TO_DOWNLOAD = 30
@@ -34,6 +35,30 @@ def load_manual_pdb_mappings(path: Path) -> dict:
         return {}
     with path.open(encoding='utf-8') as f:
         return json.load(f)
+
+
+def place_ported_symbols(source: Path, target: Path, previous: Path):
+    """Put a ported symbols file in the binaries folder. The copy from the
+    previous run is kept while it's identical, so that its modification time,
+    and the cache hash with it, stay the same."""
+    if target.exists():
+        return
+    if previous.exists() and previous.read_bytes() == source.read_bytes():
+        previous.rename(target)
+        if addresses_file_path(previous).exists():
+            addresses_file_path(previous).rename(addresses_file_path(target))
+    else:
+        shutil.copyfile(source, target)
+
+
+def ported_synth_candidate(file_path: Path, pe_info: dict):
+    return (
+        file_path,
+        int(pe_info['machine']),
+        int(pe_info['timestamp']),
+        int(pe_info['image_size']),
+        {'pdb_filename': pe_info['pdb_filename'], 'pdb_fingerprint': pe_info['pdb_fingerprint']},
+    )
 
 
 def get_modules_from_extracted_symbols(extracted_symbols: Path):
@@ -150,7 +175,7 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         if age_days > BINARY_MAX_AGE_DAYS_BEFORE_DELETION:
             continue
 
-        file_name = re.sub(r'^.*\.(.*)$', rf'{hash}.\g<1>', name)
+        file_name = binary_file_name(name, hash)
 
         file_path = target_folder / file_name
         file_path_symbols = file_path.with_name(file_path.name + SYMBOLS_FILE_SUFFIX)
@@ -169,6 +194,18 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
                 previous_file_path_addresses.rename(file_path_addresses)
             continue
 
+        # Until the binary's own symbols are extracted, its ported symbols are
+        # used, and its PDB is looked for on every run with a synthetic PE.
+        ported_pe_info = None
+        ported_source = ported_symbols_path(name, target_arch, file_name)
+        if ported_source.exists() and not file_path_symbols.exists():
+            place_ported_symbols(
+                ported_source,
+                file_path.with_name(file_path.name + PORTED_SYMBOLS_FILE_SUFFIX),
+                previous_file_path.with_name(previous_file_path.name + PORTED_SYMBOLS_FILE_SUFFIX),
+            )
+            ported_pe_info = read_symbols_file_pe_info(ported_source)
+
         if previous_file_path.exists():
             previous_file_path.rename(file_path)
             continue
@@ -177,6 +214,8 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
             continue
 
         if age_days > BINARY_MAX_AGE_DAYS_TO_DOWNLOAD:
+            if ported_pe_info:
+                manual_synth_candidates.append(ported_synth_candidate(file_path, ported_pe_info))
             if VERBOSE_OUTPUT:
                 print(f'Skipping {hash} which is too old: {age_days} days')
             continue
@@ -198,6 +237,9 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
                     entry,
                 ))
                 break
+        else:
+            if ported_pe_info:
+                manual_synth_candidates.append(ported_synth_candidate(file_path, ported_pe_info))
 
         if 'virtualSize' in hash_file_info:
             file_url = make_symbol_server_url(name, hash_file_info['timestamp'], hash_file_info['virtualSize'])
@@ -232,8 +274,8 @@ def download_binaries_from_symbol_server(name: str, target_folder: Path, previou
         finally:
             os.unlink(aria2c_list_tmp.name)
 
-    # For any manual-mapping hashes whose real binary didn't land, drop a
-    # synthetic PE in its place so script 03 can resolve symbols normally. Where
+    # For any manual-mapping or ported hashes whose real binary didn't land, drop
+    # a synthetic PE in its place so script 03 can resolve symbols normally. Where
     # the download was attempted above, MSDL restorations are picked up
     # automatically and synth PEs only appear when it genuinely failed.
     for file_path, machine, timestamp, image_size, manual_entry in manual_synth_candidates:

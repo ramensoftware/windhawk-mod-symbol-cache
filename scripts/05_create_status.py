@@ -5,7 +5,8 @@ from datetime import datetime
 from pathlib import Path
 
 from fast_import import FastImportFiles
-from symbols_file import SYMBOLS_FILE_SUFFIX, read_symbols_file_pe_info
+from symbols_file import (PORTED_SYMBOLS_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX, binary_file_name,
+                          ported_symbols_path, read_symbols_file_pe_info)
 from winbindex import download_winbindex_data, load_winbindex_data
 
 SYMBOL_SERVER_BASE = 'https://msdl.microsoft.com/download/symbols'
@@ -52,6 +53,8 @@ class LocalFileInfo:
     extraction_done: bool
     pdb_filename: str | None
     pdb_fingerprint: str | None
+    # Only ported symbols are available.
+    ported: bool = False
 
 
 @dataclass
@@ -66,6 +69,7 @@ class StatusRow:
     file_available: bool
     pdb_url: str | None
     pdb_available: bool
+    ported: bool
 
 
 def make_file_url(file_name: str, timestamp: int, virtual_size: int) -> str:
@@ -209,15 +213,27 @@ def build_local_info_map(binaries_folder: Path, name: str) -> dict[str, LocalFil
 
     extension = name.rsplit('.', 1)[-1] if '.' in name else ''
     symbols_suffix = f'.{extension}{SYMBOLS_FILE_SUFFIX}' if extension else SYMBOLS_FILE_SUFFIX
+    ported_suffix = f'.{extension}{PORTED_SYMBOLS_FILE_SUFFIX}' if extension else PORTED_SYMBOLS_FILE_SUFFIX
     bin_suffix = f'.{extension}' if extension else ''
 
     result: dict[str, LocalFileInfo] = {}
+    ported: dict[str, LocalFileInfo] = {}
     for arch_dir in binary_dir.iterdir():
         if not arch_dir.is_dir():
             continue
         for entry in arch_dir.iterdir():
             entry_name = entry.name
-            if entry_name.endswith(symbols_suffix):
+            if entry_name.endswith(ported_suffix):
+                hash_value = entry_name[: -len(ported_suffix)]
+                pe_info = read_symbols_file_pe_info(entry)
+                ported[hash_value] = LocalFileInfo(
+                    file_present=False,
+                    extraction_done=False,
+                    pdb_filename=pe_info.get('pdb_filename'),
+                    pdb_fingerprint=pe_info.get('pdb_fingerprint'),
+                    ported=True,
+                )
+            elif entry_name.endswith(symbols_suffix):
                 hash_value = entry_name[: -len(symbols_suffix)]
                 result[hash_value] = read_local_file_info(entry)
             elif bin_suffix and entry_name.endswith(bin_suffix):
@@ -230,6 +246,8 @@ def build_local_info_map(binaries_folder: Path, name: str) -> dict[str, LocalFil
                         pdb_filename=None,
                         pdb_fingerprint=None,
                     )
+    for hash_value, info in ported.items():
+        result.setdefault(hash_value, info)
     return result
 
 
@@ -334,11 +352,14 @@ def collect_rows(
             guid, age = parse_pdb_fingerprint(manual_entry['pdb_fingerprint'])
             pdb_url = make_pdb_url(manual_entry['pdb_filename'], guid, age)
 
-        # A matching manual mapping means the binary itself isn't on the symbol
-        # server (that's why we synthesize a PE in script 02), so report the
-        # File column as unavailable even though we have a local symbols file.
+        # A matching manual mapping or ported symbols file means the binary
+        # itself isn't on the symbol server (that's why we synthesize a PE in
+        # script 02), so report the File column as unavailable even though we
+        # have a local symbols file.
+        has_ported_symbols = ported_symbols_path(
+            name, target_arch, binary_file_name(name, hash_value)).exists()
         file_available = (
-            bool(local and local.file_present) and manual_entry is None
+            bool(local and local.file_present) and manual_entry is None and not has_ported_symbols
         )
 
         rows.append(StatusRow(
@@ -352,6 +373,7 @@ def collect_rows(
             file_available=file_available,
             pdb_url=pdb_url,
             pdb_available=bool(local and local.extraction_done),
+            ported=bool(local and local.ported),
         ))
 
     # Sort by day only so same-day entries fall through to the version sort;
@@ -376,13 +398,16 @@ def availability_cell(url: str | None, attempted: bool, available: bool) -> str:
     return text
 
 
-def pdb_availability_cell(url: str | None, available: bool) -> str:
+def pdb_availability_cell(url: str | None, available: bool, ported: bool) -> str:
     # The PDB GUID+age comes from inspecting the binary, so without local info
     # we have no URL to query - PDB availability on the symbol server is
     # genuinely unknown rather than absent.
     if url is None:
         return '❓'
-    text = '🟢' if available else '🔴'
+    if available:
+        text = '🟢'
+    else:
+        text = '🟡' if ported else '🔴'
     return f'[{text}]({url})'
 
 
@@ -407,7 +432,7 @@ def render_table(rows: list[StatusRow], insider: bool) -> str:
         date_str = row.date.strftime('%Y-%m-%d')
         update_id_cell = render_update_id_cell(row.update_id, insider)
         file_cell = availability_cell(row.file_url, row.file_attempted, row.file_available)
-        pdb_cell = pdb_availability_cell(row.pdb_url, row.pdb_available)
+        pdb_cell = pdb_availability_cell(row.pdb_url, row.pdb_available, row.ported)
         lines.append(
             f'| {sha_cell} | {date_str} | {update_id_cell} | {row.version} | {row.assembly_version} | {file_cell} | {pdb_cell} |'
         )
@@ -448,8 +473,15 @@ def render_binary_page(name: str, arch_sections: dict[str, str]) -> str:
     return '\n'.join(parts)
 
 
-def render_toc(names: list[str]) -> str:
-    lines = ['# Symbol cache availability status', '', '| Binary |', '| ------ |']
+def render_toc(names: list[str], has_ported: bool) -> str:
+    lines = ['# Symbol cache availability status', '']
+    if has_ported:
+        lines += [
+            '🟡 in the PDB column: the PDB isn\'t on the symbol server, and the cache '
+            'uses symbols ported from builds with a PDB until it is.',
+            '',
+        ]
+    lines += ['| Binary |', '| ------ |']
     for name in sorted(names):
         lines.append(f'| [{name}]({name}.md) |')
     return '\n'.join(lines) + '\n'
@@ -467,6 +499,7 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex
     ])
 
     now = datetime.now()
+    has_ported = False
 
     with FastImportFiles(status_path) as files:
         for name in modules:
@@ -482,11 +515,12 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex
                     name, target_arch, insider, attempted, data, local_map, manual_pdb_mapping, now
                 )
                 arch_sections[label] = render_arch_section(rows, insider)
+                has_ported = has_ported or any(row.ported for row in rows)
 
             page = render_binary_page(name, arch_sections)
             files.write(f'{STATUS_FOLDER}/{name}.md', page)
 
-        toc = render_toc(modules)
+        toc = render_toc(modules, has_ported)
         files.write(f'{STATUS_FOLDER}/README.md', toc)
 
 
