@@ -1,5 +1,7 @@
 # Symbol cache availability status
 
+🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
+
 | Binary |
 | ------ |
 | [actioncenter.dll](actioncenter.dll.md) |
