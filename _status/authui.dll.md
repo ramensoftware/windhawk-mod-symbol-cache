@@ -186,8 +186,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| aa5265...<!-- aa5265b81dc173d68933a2b4407de01b6a64d3ee688b0d143ff24ed8c87701d2 --> | 2026-11-10 | 07b41b65...<!-- 07b41b65-78a6-4383-a4e8-e8c520b9a401 --> |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/7BF8B5744e000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/C466F908E40DD4310E5A595E4F8BE13A1/authui.pdb) |
-| 3c25dc...<!-- 3c25dc93cb2e109e50059b3ca351535e81d9ab70d03b1437bbf8ea7b1a4d80d7 --> | 2026-11-10 | 07b41b65...<!-- 07b41b65-78a6-4383-a4e8-e8c520b9a401 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/4EC862D346000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/97B6FFD6A62DD45711AB6BFA3AF9E3341/authui.pdb) |
+| aa5265...<!-- aa5265b81dc173d68933a2b4407de01b6a64d3ee688b0d143ff24ed8c87701d2 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/7BF8B5744e000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/C466F908E40DD4310E5A595E4F8BE13A1/authui.pdb) |
+| 3c25dc...<!-- 3c25dc93cb2e109e50059b3ca351535e81d9ab70d03b1437bbf8ea7b1a4d80d7 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/4EC862D346000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/97B6FFD6A62DD45711AB6BFA3AF9E3341/authui.pdb) |
 | 4bb335...<!-- 4bb335861e33117a020e0e9024664758e91d83436d96df2f55a02bd361c2a918 --> | 2026-10-17 | a9e09df0...<!-- a9e09df0-89c0-4f5a-81dc-99a1ee2c74f8 --> | 10.0.19041.7548 | 10.0.19041.7548 | [🟢](https://msdl.microsoft.com/download/symbols/authui.dll/C4DFECD44e000/authui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/authui.pdb/721955CFC5ED5C5985430F03DF4690451/authui.pdb) |
 
 ### 10.0.17763

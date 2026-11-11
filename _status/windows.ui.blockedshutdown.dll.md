@@ -176,8 +176,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f986a9...<!-- f986a93665bd580356a5823c327271cefdeb4d2bcd1a8ec5cfa1203723b23e10 --> | 2026-11-10 | 07b41b65...<!-- 07b41b65-78a6-4383-a4e8-e8c520b9a401 --> | 10.0.19041.7181 | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9AF37F856a000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/B7DADA081762B9F2712F82BB48DB74391/Windows.UI.BlockedShutdown.pdb) |
-| 0a4312...<!-- 0a4312549c17ce415f277834e6a744c10f63a2b262f1344959dbea697f743576 --> | 2026-11-10 | 07b41b65...<!-- 07b41b65-78a6-4383-a4e8-e8c520b9a401 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9C94ACC669000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/29B85E28D5F2812C7D0114D6880C8E181/Windows.UI.BlockedShutdown.pdb) |
+| f986a9...<!-- f986a93665bd580356a5823c327271cefdeb4d2bcd1a8ec5cfa1203723b23e10 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.7181 | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9AF37F856a000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/B7DADA081762B9F2712F82BB48DB74391/Windows.UI.BlockedShutdown.pdb) |
+| 0a4312...<!-- 0a4312549c17ce415f277834e6a744c10f63a2b262f1344959dbea697f743576 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/9C94ACC669000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/29B85E28D5F2812C7D0114D6880C8E181/Windows.UI.BlockedShutdown.pdb) |
 
 ### 10.0.17763
 

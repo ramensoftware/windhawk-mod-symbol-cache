@@ -46,8 +46,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| b32759...<!-- b3275907f2c28e48b9cd197d1fd3096dc11425a13829db6a301c392d7ed4ec50 --> | 2026-11-10 | 07b41b65...<!-- 07b41b65-78a6-4383-a4e8-e8c520b9a401 --> |  | 10.0.19041.7844 | 🔴 | ❓ |
-| df4664...<!-- df4664eaff496465bfefc8180c1667d6228b22e77566b02cc53064253524463e --> | 2026-11-10 | 07b41b65...<!-- 07b41b65-78a6-4383-a4e8-e8c520b9a401 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/1B3DBEF375e000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/7885110DCA9F111B65DEFB764A81F7861/StartUI.pdb) |
+| b32759...<!-- b3275907f2c28e48b9cd197d1fd3096dc11425a13829db6a301c392d7ed4ec50 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> |  | 10.0.19041.7844 | 🔴 | ❓ |
+| df4664...<!-- df4664eaff496465bfefc8180c1667d6228b22e77566b02cc53064253524463e --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/1B3DBEF375e000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/7885110DCA9F111B65DEFB764A81F7861/StartUI.pdb) |
 | bac618...<!-- bac618c9eee99fba7d1de36a8ab60f3215a68716c713cd9f8f4b1896060b8136 --> | 2026-10-26 | d397976e...<!-- d397976e-a38d-48a5-b3a0-7e6a0b3c2b27 --> | 10.0.19041.7802 | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/39475076820000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/5B8A374C433E6412F6A07837648D4D9F1/StartUI.pdb) |
 | 0315f6...<!-- 0315f60c6c75dbcb6aa51e9d8875eb1b469bfdf42c14e89997074ab95aa8a549 --> | 2026-09-26 | 8ad91eff...<!-- 8ad91eff-78ee-4a86-b364-33a6578b38de --> | 10.0.19041.7725 | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/F7758DBC821000/startui.dll) | ❓ |
 
