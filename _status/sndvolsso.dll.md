@@ -113,12 +113,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 7ee7cb...<!-- 7ee7cb2659fc91cc9867c8a71074761986e44490928b6b12cdd397247005666f --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/18A75F403f000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/335DC3561A996F378E03E16B2EF7DF651/SndVolSSO.pdb) |
 
-### 10.0.29667
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 28c4f1...<!-- 28c4f1b6f11b79183d5f162eb9856593ee87fbc6389d71197257224172dcaf49 --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 10.0.29667.1000 | 10.0.29667.1000 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/F99F0D633f000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/7F199A96C4C349F832E12374412222851/SndVolSSO.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -138,8 +132,6 @@
 | b643a9...<!-- b643a951d66e21df47ffdf906dc61ee30285bc8351e660e924e3b2ccd32b5995 --> | 2026-10-07 | 67693fb6...<!-- 67693fb6-2c1e-4edd-ac91-4b4997d13f6f --> |  | 10.0.28000.3142 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/DC6B95F743000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/E1CDD87175283F80EB7D258841E5A0751/SndVolSSO.pdb) |
 | 7b5f2e...<!-- 7b5f2eca7b0072a737168a88c3d9a9a6dab93e1ddab06d9004118877aa0b4bd0 --> | 2026-09-25 | 693744e6...<!-- 693744e6-e75c-486b-abf6-5f2c2854f0c3 --> | 10.0.28000.3032 | 10.0.28000.3032 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/4280DAF441000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/FB91D1364F6C91525C8B3E2C21742BD01/SndVolSSO.pdb) |
 | 963eba...<!-- 963eba0c263ed881528991a0289c2c3cafdabf27aaf8594eebd5b82d604f0a14 --> | 2026-09-25 | 63446a30...<!-- 63446a30-811d-4332-a796-1b18e51579b5 --> |  | 10.0.28000.3023 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/43D4AB2841000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/C9FD81623E86A8EE826ABE77CE396EC31/SndVolSSO.pdb) |
-| 622cf5...<!-- 622cf59021322ed0e85e3f416156b9c06002994dd0158360b169ae223752344a --> | 2026-09-11 | 9531141a...<!-- 9531141a-6621-4a9a-809b-f92c4599691b --> | 10.0.28000.2738 | 10.0.28000.2912 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/25F8758A41000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/417F43C69B2AE82341E62320CA9BF7091/SndVolSSO.pdb) |
-| a3d832...<!-- a3d8326a9e3324e09b4b444d7e800c9a2fa815e93ff56fa677fd7217f226fa51 --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> | 10.0.28000.2901 | 10.0.28000.2901 | [🔴](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/7A863D4944000/sndvolsso.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -166,7 +158,6 @@
 | c3798b...<!-- c3798b4e5e38d09f812b350f4d249f39bf197123e19356716d5974e8b29f216b --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> | 10.0.26100.9492 | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/5048C65D44000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/521815C6CC6AE26E31ACF0AF679272DE1/SndVolSSO.pdb) |
 | 8fae5f...<!-- 8fae5fba98c8b08952a061a26921602cb32fb3a724cd83f27772e6872ab49745 --> | 2026-09-18 | b5b12620...<!-- b5b12620-cbd9-4a69-9bb7-195869d6a48a --> | 10.0.26100.9352 | 10.0.26100.9352 | [🔴](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/886E969944000/sndvolsso.dll) | ❓ |
 | 8f3110...<!-- 8f3110063de6f306c5946fe51d7241e17befc549359e1b6326d56a4c79e3b120 --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/1E055EDC43000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/E26CA41395FC9D65B72AB784FEA770671/SndVolSSO.pdb) |
-| 599ee7...<!-- 599ee79378c15d3d153dc8c6e122259b45f6741d656a5811119a0fdd08f9664d --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> | 10.0.26100.9472 | 10.0.26100.9472 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/177AEB4544000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/1A80B9F2B4C9071EE30E4B62BE185BAE1/SndVolSSO.pdb) |
 
 ### 10.0.22621
 

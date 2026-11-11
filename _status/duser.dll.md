@@ -98,12 +98,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 6737d4...<!-- 6737d45c4e08be8ed4299fb3267af021ba2dcbb996e5f94fef0861dcf8741c9c --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/564D5449a1000/duser.dll) | ❓ |
 
-### 10.0.29667
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 64d874...<!-- 64d8741746ef50bea2430122e54896d1c8d10dd0c557b4d2f42684dea420c9dd --> | 2026-09-11 | ab907d94...<!-- ab907d94-05ad-4746-bb1b-111a2be79054 --> | 10.0.29667.1000 | 10.0.29667.1000 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/1A3CDB49a1000/duser.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -126,10 +120,6 @@
 | 0c7dfa...<!-- 0c7dfa754de47bd2aafc5ac7eb5de3c1ef4e19908dea9801c3171443179ff8c8 --> | 2026-09-25 | 63446a30...<!-- 63446a30-811d-4332-a796-1b18e51579b5 --> |  | 10.0.28000.3112 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/B5BA9A81a1000/duser.dll) | ❓ |
 | 395792...<!-- 395792adc4704e5227a0e3f01ae3e4d0682a3f9d82228aedead08e300c47757a --> | 2026-09-25 | 693744e6...<!-- 693744e6-e75c-486b-abf6-5f2c2854f0c3 --> |  | 10.0.28000.3032 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/FDA6A170a1000/duser.dll) | ❓ |
 | a42f98...<!-- a42f98240a3d290662365c9b38d451bc425fcada62c69c771d5d1fc83f0ff79f --> | 2026-09-14 | dfc70cae...<!-- dfc70cae-9c31-49f0-a42c-b337feb729a4 --> |  | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/78C2F24Da4000/duser.dll) | ❓ |
-| a7de02...<!-- a7de0203ecffc7aba818d4b468601bab6c12446e6d0fa834eadf355890755b52 --> | 2026-09-11 | f2d98e30...<!-- f2d98e30-41c5-4f61-bcd3-7a8e344f54c0 --> |  | 10.0.28000.3079 | 🔴 | ❓ |
-| 19b720...<!-- 19b7206072d3cb7b298d2f0e3a2c26b1482666f1c2449d1da19a6976dcdd917d --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> |  | 10.0.28000.2991 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/4DD70C05a4000/duser.dll) | ❓ |
-| dce9de...<!-- dce9dea3e559bcf07c09f7d3074ee40917eec1b11efbe8d7d6e6bd52cc87e1e8 --> | 2026-09-11 | 9531141a...<!-- 9531141a-6621-4a9a-809b-f92c4599691b --> |  | 10.0.28000.2912 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/0CD5820Da2000/duser.dll) | ❓ |
-| 018bbb...<!-- 018bbbcf5e96bdf0021f43955dbe684b87bbb9ff5e6860a1f096e3f9aebd7c7e --> | 2026-09-11 | 89384588...<!-- 89384588-3ee8-4ee6-90d4-e98a5f725eba --> |  | 10.0.28000.2818 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/8D329722a4000/duser.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -157,8 +147,6 @@
 | 2369b1...<!-- 2369b176fa6439a9325aad92cdda9f1cc4aadbed2eeb3078510ab5e2d78e712d --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> | 10.0.26100.9502 | 10.0.26100.9502 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/9EC00BF8a3000/duser.dll) | ❓ |
 | cd8cca...<!-- cd8ccafbb79164d0e940a875cd19de633c42f873b7c47a1d26904d7f6ee886d2 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> |  | 10.0.26100.9492 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/3262D5C5a3000/duser.dll) | ❓ |
 | 865575...<!-- 8655757bfbffab696a1cdff8f44c6bd0f6640626cb7d6dcfce24ab53a17ad5cc --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/9D4AE8DEa4000/duser.dll) | ❓ |
-| 6fbb8b...<!-- 6fbb8b7cfa7f6f8cb0ee400613b064e425127404f1d7911f7823d28b42d182af --> | 2026-09-11 | a13c52d6...<!-- a13c52d6-1b15-419a-a33e-36287bd44639 --> | 10.0.26100.9482 | 10.0.26100.9482 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/3D266174a4000/duser.dll) | ❓ |
-| aef91f...<!-- aef91f8cce8c505e38ae9c19e9e6b05239093a49666127fccc72427ef8f2f903 --> | 2026-09-11 | ba211ae3...<!-- ba211ae3-5323-4e1f-b63c-07da5b63ea0f --> |  | 10.0.26100.9472 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/C06E5DCBa4000/duser.dll) | ❓ |
 
 ### 10.0.22621
 
