@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_37379082_6070272_ported#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#352992#protected: virtual void __cdecl ClockButton::v_OnDisplayStateChange(bool)#2313488

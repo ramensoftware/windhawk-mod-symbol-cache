@@ -14,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c75c86...<!-- c75c867bef91cea5f6037b835548aaca5601e7e2172067f537a9c1f7ba2a6275 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/sysdm.pdb/211F31F136EAFF187BAF2933B4C10FEA1/sysdm.pdb) |
+| c75c86...<!-- c75c867bef91cea5f6037b835548aaca5601e7e2172067f537a9c1f7ba2a6275 --> | 2026-11-10 | KB5132061 | 10.0.26100.9974 | 10.0.26100.9974 | [🔴](https://msdl.microsoft.com/download/symbols/sysdm.cpl/5D9AF67935000/sysdm.cpl) | [🟡](https://msdl.microsoft.com/download/symbols/sysdm.pdb/211F31F136EAFF187BAF2933B4C10FEA1/sysdm.pdb) |
 | 8ef39a...<!-- 8ef39a1adef69b6a4dcbfdb23d5356a001951ce78cdfb2c02ed1fc0def6ae9de --> | 2026-10-28 | KB5127936 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/2D1790D330000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/8117A039E954717D2E53754F5BA0BAD91/sysdm.pdb) |
 
 ### 10.0.22621
@@ -28,7 +28,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 827a41...<!-- 827a41e49a2935397d1df0654adc98096fb1f591e9414b1f08a81b0e94a866b1 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🔴 | ❓ |
+| 827a41...<!-- 827a41e49a2935397d1df0654adc98096fb1f591e9414b1f08a81b0e94a866b1 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/sysdm.pdb/34D7B64CB2CBFAD7A22EACF6F34165A51/sysdm.pdb) |
 | b20a81...<!-- b20a815df62470baebd522dde896dc9c628e6faedcb1a0b8ef228a045614dd09 --> | 2026-10-26 | KB5134125 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/9AE7A0E92d000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/127F596D0A70CEFEBB10F34F3729F87C1/sysdm.pdb) |
 
 ### 10.0.17763
@@ -149,7 +149,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 827a41...<!-- 827a41e49a2935397d1df0654adc98096fb1f591e9414b1f08a81b0e94a866b1 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> |  | 10.0.19041.7844 | 🔴 | ❓ |
+| 827a41...<!-- 827a41e49a2935397d1df0654adc98096fb1f591e9414b1f08a81b0e94a866b1 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> |  | 10.0.19041.7844 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/sysdm.pdb/34D7B64CB2CBFAD7A22EACF6F34165A51/sysdm.pdb) |
 | 98c7e7...<!-- 98c7e747c5281b2f45d295358e4eab81db32f425d3c53232bef21c53fc6f1f46 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/B673D0612d000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/223F269C03923C1993BC6F12E29E3F8D1/sysdm.pdb) |
 | b20a81...<!-- b20a815df62470baebd522dde896dc9c628e6faedcb1a0b8ef228a045614dd09 --> | 2026-10-26 | d397976e...<!-- d397976e-a38d-48a5-b3a0-7e6a0b3c2b27 --> | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/9AE7A0E92d000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/127F596D0A70CEFEBB10F34F3729F87C1/sysdm.pdb) |
 
