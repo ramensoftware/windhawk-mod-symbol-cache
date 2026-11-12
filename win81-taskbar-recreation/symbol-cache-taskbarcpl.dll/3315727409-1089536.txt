@@ -1,0 +1,1 @@
+1#3315727409#1089536#protected: virtual bool __cdecl CTaskbarCniCplPage::OnButtonPressed(class DirectUI::Button *)#15280#protected: virtual void __cdecl CTaskbarCniCplPage::OnCancel(void)#15552#protected: virtual bool __cdecl CTaskbarCniCplPage::OnComboboxSelectionChange(class DirectUI::Combobox *)#15936

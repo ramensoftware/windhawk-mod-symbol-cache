@@ -16,6 +16,7 @@
 | [d2d1.dll](d2d1.dll.md) |
 | [desktopswitcherdatamodel.dll](desktopswitcherdatamodel.dll.md) |
 | [dinput8.dll](dinput8.dll.md) |
+| [dispbroker.desktop.dll](dispbroker.desktop.dll.md) |
 | [dui70.dll](dui70.dll.md) |
 | [duser.dll](duser.dll.md) |
 | [dwmcore.dll](dwmcore.dll.md) |
@@ -36,6 +37,7 @@
 | [pnidui.dll](pnidui.dll.md) |
 | [propsys.dll](propsys.dll.md) |
 | [regedit.exe](regedit.exe.md) |
+| [rpcrt4.dll](rpcrt4.dll.md) |
 | [rundll32.exe](rundll32.exe.md) |
 | [searchux.ui.dll](searchux.ui.dll.md) |
 | [securityhealthsso.dll](securityhealthsso.dll.md) |
@@ -53,6 +55,7 @@
 | [systemtray.dll](systemtray.dll.md) |
 | [taskbar.dll](taskbar.dll.md) |
 | [taskbar.view.dll](taskbar.view.dll.md) |
+| [taskbarcpl.dll](taskbarcpl.dll.md) |
 | [taskmgr.exe](taskmgr.exe.md) |
 | [textinput.dll](textinput.dll.md) |
 | [themeui.dll](themeui.dll.md) |

@@ -1,0 +1,1 @@
+1#taskbarcpl.dll#arm64_933958799_1236992#protected: virtual bool __cdecl CTaskbarCniCplPage::OnButtonPressed(class DirectUI::Button *)#13744#protected: virtual void __cdecl CTaskbarCniCplPage::OnCancel(void)#14000#protected: virtual bool __cdecl CTaskbarCniCplPage::OnComboboxSelectionChange(class DirectUI::Combobox *)#14352
