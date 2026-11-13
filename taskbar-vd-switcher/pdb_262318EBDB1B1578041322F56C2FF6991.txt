@@ -1,1 +1,1 @@
-1#explorer.exe#x86-64_3256690699_3309568_ported#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#
+1#explorer.exe#x86-64_3256690699_3309568#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#

@@ -1,0 +1,1 @@
+1;twinui.pcshell.dll;arm64_576665242_24150016;private: void __cdecl UndockedSearchAppExperienceManager::OnSearchAppHideRequestedTimer(void);5354416

@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_4199326957_3354624#public: bool __cdecl wil::details::FeatureImpl<struct __WilFeatureTraits_Feature_DisableWin10Taskbar>::__private_IsEnabled(void)##private: long __cdecl CTray::InitializeTrayUIComponent(void)#525724#long __cdecl TrayUI_CreateInstance(struct ITrayUIHost *,struct _GUID const &,void * *)##struct CTrayStatic c_trayStatic#2547264
