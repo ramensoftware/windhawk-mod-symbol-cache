@@ -2,7 +2,9 @@
 
 It holds the PE information of the binary as key=value lines, followed by the
 output of windhawk-symbol-helper.exe, zstd compressed. The PE information comes
-first so that it can be read without decompressing the symbols.
+first so that it can be read without decompressing the symbols. It has a
+'synthetic' entry if the binary was a PE synthesized to look up the PDB of a
+binary which isn't on the symbol server.
 
 A ported symbols file has the same format. It holds symbols which a symbol
 porter, kept outside of this repository, found by matching the binary against

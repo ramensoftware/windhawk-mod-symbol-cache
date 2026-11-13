@@ -7,6 +7,7 @@ from struct import unpack
 
 import pefile
 
+from manual_pdb import synthesize_pdb_lookup_pe
 from symbols_file import (ADDRESSES_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX,
                           write_symbols_file)
 
@@ -123,6 +124,20 @@ def get_pdb_info_from_img(filename: Path):
     return last_result
 
 
+def is_synthetic_pe(executable_path: Path, pe_info: dict) -> bool:
+    """Whether the file is the PE shell which synthesize_pdb_lookup_pe makes
+    for its PE information."""
+    synthetic = synthesize_pdb_lookup_pe(
+        machine=pe_info['machine'],
+        timestamp=pe_info['timestamp'],
+        image_size=pe_info['image_size'],
+        pdb_filename=pe_info['pdb_filename'],
+        pdb_fingerprint=pe_info['pdb_fingerprint'],
+    )
+    return (executable_path.stat().st_size == len(synthetic)
+            and executable_path.read_bytes() == synthetic)
+
+
 def get_pe_information(executable_path: Path):
     pe_extra_data = get_pe_extra_data(executable_path)
     is_hybrid = is_hybrid_img(executable_path)
@@ -140,6 +155,8 @@ def get_pe_information(executable_path: Path):
     if pdb_info:
         pe_info['pdb_fingerprint'] = pdb_info[0]
         pe_info['pdb_filename'] = pdb_info[1]
+        if is_synthetic_pe(executable_path, pe_info):
+            pe_info['synthetic'] = True
 
     return pe_info
 

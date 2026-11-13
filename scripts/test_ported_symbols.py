@@ -20,6 +20,7 @@ from unittest import mock
 _SCRIPTS = Path(__file__).resolve().parent
 sys.path.insert(0, str(_SCRIPTS))
 
+from manual_pdb import synthesize_pdb_lookup_pe
 from symbols_file import (PORTED_SYMBOLS_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX, addresses_file_path,
                           write_symbols_file)
 
@@ -34,6 +35,7 @@ def _load(module_name: str, file_name: str):
 download_binaries = _load('download_binaries', '02_download_binaries.py')
 extract_symbols = _load('extract_symbols', '03_extract_symbols_from_binaries.py')
 create_mod_cache = _load('create_mod_cache', '04_create_mod_cache.py')
+create_status = _load('create_status', '05_create_status.py')
 
 PE_INFO = {
     'machine': 34404,
@@ -98,6 +100,14 @@ class TestModCache(unittest.TestCase):
     def test_the_binary_own_symbols_take_precedence(self):
         self.write_ported()
         write(self.arch_folder / ('h.dll' + SYMBOLS_FILE_SUFFIX), PE_INFO,
+              ['Found 1 symbols', '[00002000] A'])
+        self.assertEqual(self.create_cache(), {
+            'mod/symbol-cache-x.dll/1-4096.txt': '1#1#4096#A#8192#B##C#',
+            f'mod/pdb_{PE_INFO["pdb_fingerprint"]}.txt': '1#x.dll#x86-64_1_4096#A#8192#B##C#',
+        })
+
+    def test_the_symbols_of_a_synthetic_pe_are_used(self):
+        write(self.arch_folder / ('h.dll' + SYMBOLS_FILE_SUFFIX), PE_INFO | {'synthetic': True},
               ['Found 1 symbols', '[00002000] A'])
         self.assertEqual(self.create_cache(), {
             'mod/symbol-cache-x.dll/1-4096.txt': '1#1#4096#A#8192#B##C#',
@@ -189,6 +199,44 @@ class TestPlacePortedSymbols(unittest.TestCase):
 
         self.assertEqual(self.target.read_bytes(), self.source.read_bytes())
         self.assertFalse(addresses_file_path(self.target).exists())
+
+
+class TestSyntheticPe(unittest.TestCase):
+    """The symbols of a binary which isn't on the symbol server, extracted from
+    a synthetic PE once its PDB is available."""
+
+    def setUp(self):
+        temp = tempfile.TemporaryDirectory()
+        self.addCleanup(temp.cleanup)
+        self.root = Path(temp.name)
+        self.pe = self.root / 'h.dll'
+        self.pe.write_bytes(synthesize_pdb_lookup_pe(**PE_INFO))
+
+    def test_a_synthetic_pe_is_recognized(self):
+        self.assertTrue(extract_symbols.get_pe_information(self.pe).get('synthetic'))
+
+    def test_another_pe_is_not(self):
+        self.pe.write_bytes(self.pe.read_bytes() + b'\0')
+        self.assertNotIn('synthetic', extract_symbols.get_pe_information(self.pe))
+
+    def file_available(self, pe_info: dict) -> bool:
+        binaries = self.root / 'binaries'
+        write(binaries / 'x.dll' / 'amd64' / ('h.dll' + SYMBOLS_FILE_SUFFIX), pe_info,
+              ['Found 1 symbols', '[00001000] A'])
+        data = {'h': {
+            'fileInfo': {'machineType': 34404, 'timestamp': 1, 'virtualSize': 4096},
+            'windowsVersions': {'11-24H2': {'KB1': {'updateInfo': {
+                'releaseDate': datetime.now().strftime('%Y-%m-%d')}}}},
+        }}
+        local_map = create_status.build_local_info_map(binaries, 'x.dll')
+        [row] = create_status.collect_rows('x.dll', 'amd64', False, True, data, local_map, {}, datetime.now())
+        return row.file_available
+
+    def test_the_status_shows_the_file_as_unavailable(self):
+        self.assertFalse(self.file_available(PE_INFO | {'synthetic': True}))
+
+    def test_the_status_shows_a_downloaded_file_as_available(self):
+        self.assertTrue(self.file_available(PE_INFO))
 
 
 if __name__ == '__main__':

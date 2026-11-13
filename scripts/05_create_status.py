@@ -5,8 +5,7 @@ from datetime import datetime
 from pathlib import Path
 
 from fast_import import FastImportFiles
-from symbols_file import (PORTED_SYMBOLS_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX, binary_file_name,
-                          ported_symbols_path, read_symbols_file_pe_info)
+from symbols_file import PORTED_SYMBOLS_FILE_SUFFIX, SYMBOLS_FILE_SUFFIX, read_symbols_file_pe_info
 from winbindex import download_winbindex_data, load_winbindex_data
 
 SYMBOL_SERVER_BASE = 'https://msdl.microsoft.com/download/symbols'
@@ -55,6 +54,8 @@ class LocalFileInfo:
     pdb_fingerprint: str | None
     # Only ported symbols are available.
     ported: bool = False
+    # The symbols were extracted from a PE synthesized in script 02.
+    synthetic: bool = False
 
 
 @dataclass
@@ -200,6 +201,7 @@ def read_local_file_info(symbols_path: Path) -> LocalFileInfo:
         extraction_done='timestamp' in pe_info,
         pdb_filename=pe_info.get('pdb_filename'),
         pdb_fingerprint=pe_info.get('pdb_fingerprint'),
+        synthetic='synthetic' in pe_info,
     )
 
 
@@ -352,14 +354,12 @@ def collect_rows(
             guid, age = parse_pdb_fingerprint(manual_entry['pdb_fingerprint'])
             pdb_url = make_pdb_url(manual_entry['pdb_filename'], guid, age)
 
-        # A matching manual mapping or ported symbols file means the binary
-        # itself isn't on the symbol server (that's why we synthesize a PE in
-        # script 02), so report the File column as unavailable even though we
-        # have a local symbols file.
-        has_ported_symbols = ported_symbols_path(
-            name, target_arch, binary_file_name(name, hash_value)).exists()
+        # A matching manual mapping or a synthetic PE means the binary itself
+        # isn't on the symbol server (that's why we synthesize a PE in script
+        # 02), so report the File column as unavailable even though we have a
+        # local symbols file.
         file_available = (
-            bool(local and local.file_present) and manual_entry is None and not has_ported_symbols
+            bool(local and local.file_present and not local.synthetic) and manual_entry is None
         )
 
         rows.append(StatusRow(

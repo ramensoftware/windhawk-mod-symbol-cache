@@ -143,7 +143,7 @@ def find_symbol_addresses(symbols_file: Path, symbols: set[str]):
         # The PE information, which is read separately, and the symbol count.
         if not line.startswith(('machine=', 'timestamp=', 'image_size=',
                                 'is_hybrid=', 'pdb_fingerprint=',
-                                'pdb_filename=', 'ported=', 'Found ')):
+                                'pdb_filename=', 'synthetic=', 'ported=', 'Found ')):
             raise Exception(f'Unknown line: {line}')
 
     return addresses
