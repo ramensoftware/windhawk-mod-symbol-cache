@@ -86,7 +86,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c1bdb1...<!-- c1bdb12081315d51c85605dadf12a567813c9288bb552a0ee31f37309fd8af98 --> | 2026-11-10 | KB5131096 |  | 11.0.19041.7844 | 🔴 | ❓ |
+| c1bdb1...<!-- c1bdb12081315d51c85605dadf12a567813c9288bb552a0ee31f37309fd8af98 --> | 2026-11-10 | KB5131096 |  | 11.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/853324CE66D4A9DA3972272291661C411/mshtml.pdb) |
 | 72821b...<!-- 72821b66fa34011abfc6385a23f4b2e319291759d067f80939abca8ac92a89bd --> | 2026-10-26 | KB5134125 |  | 11.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/DF6051D2161f000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/9220DF6C647880AC1D5D8BD58DBEBDF11/mshtml.pdb) |
 | 66d1e6...<!-- 66d1e6f6bbd9f7b933c9d7e86d911604537d15c2b23c271356af4ab0645dc75c --> | 2026-10-13 | KB5126657 |  | 11.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/F9F6ECE8AB478369420439D37C32D9691/mshtml.pdb) |
 | 10e31d...<!-- 10e31d5bc0d67f83025446a4b5af34ba878e8c451cbadec7043f14bfd2cf4edb --> | 2026-09-14 | KB5129236 |  | 11.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.dll/3A1CB96E161f000/mshtml.dll) | [🟢](https://msdl.microsoft.com/download/symbols/mshtml.pdb/93956B013AB0E673C0AB7685D8539A981/mshtml.pdb) |

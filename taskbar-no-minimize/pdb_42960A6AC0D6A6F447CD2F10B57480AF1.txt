@@ -1,1 +1,1 @@
-1#explorer.exe#x86-64_37379082_6070272_ported#public: virtual long __cdecl CTaskBand::SwitchTo(struct ITaskItem *,int)#2795792
+1#explorer.exe#x86-64_37379082_6070272#public: virtual long __cdecl CTaskBand::SwitchTo(struct ITaskItem *,int)#2795792

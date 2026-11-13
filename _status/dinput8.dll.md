@@ -29,7 +29,7 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9e1029...<!-- 9e10297ddab6c91085004523f4157252fb4a77cde5973f783dde7f32f536fb1c --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/2D1249B884000/dinput8.dll) | ❓ |
 | 282f05...<!-- 282f055278bd00f72b550346e3cfd3fbf77da9ea47bf31de6c8aebd535f0f19a --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/85A641CA84000/dinput8.dll) | ❓ |
-| 239d55...<!-- 239d55fd80f031bae0fbb2ea7ae47a521a0101427c1623dfe272e807d537ca6c --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2952 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/C31872B784000/dinput8.dll) | ❓ |
+| 239d55...<!-- 239d55fd80f031bae0fbb2ea7ae47a521a0101427c1623dfe272e807d537ca6c --> | 2026-09-14 | KB5129194 | 10.0.28000.2336 | 10.0.28000.2952 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/C31872B784000/dinput8.dll) | ❓ |
 
 ### 10.0.26100
 

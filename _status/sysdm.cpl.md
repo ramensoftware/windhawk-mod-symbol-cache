@@ -71,7 +71,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8cf6ae...<!-- 8cf6aee0f5dc47587de295b44e4d359cba6a79ae21b724a42b597d091fbb93aa --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🔴 | ❓ |
+| 8cf6ae...<!-- 8cf6aee0f5dc47587de295b44e4d359cba6a79ae21b724a42b597d091fbb93aa --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/A8017DA0F6AF99BFECE25E5C6C5B87C21/sysdm.pdb) |
 | fbbfb4...<!-- fbbfb4969cec83b2e3e6bdb1fd71dc83b40b7123e4b9c5eb3ce982291aee56b9 --> | 2026-10-26 | KB5134125 |  | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/5C79B5C22e000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/F413C67A762842A09D07C998408266E51/sysdm.pdb) |
 
 ## x64 (insider preview builds)

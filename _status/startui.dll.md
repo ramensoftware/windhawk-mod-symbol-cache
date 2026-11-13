@@ -20,7 +20,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 910b06...<!-- 910b06f1c84cfba6a29638ebbd4dc843451d7714c5c45347cc4b15a81b2cf597 --> | 2026-11-10 | KB5131291 | 10.0.14393.9685 | 10.0.14393.9685 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/6AEC3625784000/startui.dll) | ❓ |
+| 910b06...<!-- 910b06f1c84cfba6a29638ebbd4dc843451d7714c5c45347cc4b15a81b2cf597 --> | 2026-11-10 | KB5131291 | 10.0.14393.9685 | 10.0.14393.9685 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/6AEC3625784000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/C86C7528780740A39E3B63B025276E1F1/StartUI.pdb) |
 | 0086de...<!-- 0086de180b4e47445ac81b77e6d34ad87015473e828853c5eff86a3f6c7c2595 --> | 2026-10-26 | KB5134123 | 10.0.14393.9339 | 10.0.14393.9339 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/6A51BFE0784000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/5BC435B21E844224AF16ADC0D5E93ED31/StartUI.pdb) |
 
 ## ARM64 (release builds)
@@ -29,7 +29,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 47f32c...<!-- 47f32c7babd60f786accee755475d9eae2691e7af64daf64ee04a9ccbe07bb48 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🔴 | ❓ |
+| 47f32c...<!-- 47f32c7babd60f786accee755475d9eae2691e7af64daf64ee04a9ccbe07bb48 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/2A138ECCC87F67153E23C3B59CF3B7981/StartUI.pdb) |
 | 99d053...<!-- 99d053c684e3bb4cf2c96dc1c4222498bcc91a23297570996ac4c9b901be8ae8 --> | 2026-10-26 | KB5134125 |  | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/674DC675b86000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/DDAB8BD5301258925192E6CCD3392D911/StartUI.pdb) |
 | 9e739b...<!-- 9e739b54584f5a8d6e30af36b4b4cc082ab700b0ca6d6abdd17fd630b91b041e --> | 2026-09-14 | KB5129236 |  | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/F88C3555b86000/startui.dll) | ❓ |
 
