@@ -1,0 +1,1 @@
+1;shell32.dll;arm64_1277293214_15769600;bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *);5411552;DrawPie;4335128;void __cdecl _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *);3081200

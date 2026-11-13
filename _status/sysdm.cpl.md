@@ -49,7 +49,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 11feae...<!-- 11feae6ecc757610357fb1fa1d5936ceaaf354649486e0188c84a2b3ca9eb3a1 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🔴 | ❓ |
+| 11feae...<!-- 11feae6ecc757610357fb1fa1d5936ceaaf354649486e0188c84a2b3ca9eb3a1 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/D7319E029DEAB436BF09620FA10C18E81/sysdm.pdb) |
 | 504790...<!-- 50479037925d44afb532ff2d0b8fd7366ca6c068f23c51917ff9598fb8440e9e --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/18D683002f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/FA750BD1C704E404F0D808C6107EE9901/sysdm.pdb) |
 | 29fa07...<!-- 29fa07c81da8b3c267f4f9e85b5ad58616bcae29f5d2bfbc20fba65715380609 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/3A231C702f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/719A877F6FCAFE41678A7205165659C31/sysdm.pdb) |
 
@@ -57,7 +57,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 8c950f...<!-- 8c950ff68b2301cbb8ab0c145f16421a1e98d7c7f67740394fc72790c8d3f562 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🔴 | ❓ |
+| 8c950f...<!-- 8c950ff68b2301cbb8ab0c145f16421a1e98d7c7f67740394fc72790c8d3f562 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/0E4A2D108FEB663EDEECC539018EF2211/sysdm.pdb) |
 | b527a8...<!-- b527a868d42771880e5d9f0b19bde0f525778811436048cf0a864ae6fd5a59ea --> | 2026-10-28 | KB5127936 |  | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/5345AB5B2f000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/94CAB26FB6EA009E8B1A08FFA36852131/sysdm.pdb) |
 
 ### 10.0.22621

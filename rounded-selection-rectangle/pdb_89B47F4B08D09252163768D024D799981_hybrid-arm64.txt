@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_4248836434_6545408;public: void __cdecl UIMarqueeSelector::StartMarquee(struct tagPOINT,class DirectUI::Element *,enum INITIALSELECTION,enum CLICKBUTTON,enum __MIDL___MIDL_itf_itemsview_0000_0004_0001,class UIItem *);1234128;public: void __cdecl UIMarqueeSelector::EndMarquee(void);1231640

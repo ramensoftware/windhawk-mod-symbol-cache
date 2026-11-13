@@ -59,7 +59,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c58109...<!-- c58109a7e8f6426ffb9044a62b59ec9918da093373c3212f19444c0a12e059db --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🔴 | ❓ |
+| c58109...<!-- c58109a7e8f6426ffb9044a62b59ec9918da093373c3212f19444c0a12e059db --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/5FA565D311EDA834888657E0E68802AA1/thumbcache.pdb) |
 | 39eb6d...<!-- 39eb6d154e562f1668cf7bfd3b5bcdb75940c024b3b0b09216cc12f9f155924f --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/5CF87ABFf8000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/55E39D30022355C70BACFD448877DBC21/thumbcache.pdb) |
 | d95500...<!-- d9550036626afebc4f4c2dbb1f2a7e847ad256ab375ab86a087c33986d372afb --> | 2026-10-26 | KB5134133 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/DB2D71B5f5000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/5264613AAA87857A3C5818DCA0FC397C1/thumbcache.pdb) |
 | 29ae1c...<!-- 29ae1c7be40b6af53d8dbfa8b3930b9b4ac581858f45fa1c01ea974045868ad8 --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/07C7EC24f5000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/AD504C0F39A608071C56C343AE98854B1/thumbcache.pdb) |

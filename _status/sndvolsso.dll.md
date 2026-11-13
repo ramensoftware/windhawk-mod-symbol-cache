@@ -57,7 +57,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d06830...<!-- d06830412a1f3ccb1d88c51943ba620e9a535902259035b5bae81c8c0b3e3374 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🔴 | ❓ |
+| d06830...<!-- d06830412a1f3ccb1d88c51943ba620e9a535902259035b5bae81c8c0b3e3374 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/C9E9288092CC4144A93A4452A5FAF0C91/SndVolSSO.pdb) |
 | f9123c...<!-- f9123c34bc3514478b0eb1a2f8e6bee7fc6e90bb873702c5e7ae758c19ea7a67 --> | 2026-10-28 | KB5127936 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/2E3A26B486000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/77FEE2970D69F7A91D98DFDF4ED9A9611/SndVolSSO.pdb) |
 | a0c34c...<!-- a0c34ce55f70d63c9f7f5ec91c5c8245aa5e3bd90da20c1dffcbd0b0cd5cae8e --> | 2026-10-26 | KB5134133 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/33CB35C888000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/5DF9B0BA7EDD6FA7C20A40BE11A410711/SndVolSSO.pdb) |
 | b4d312...<!-- b4d3129a3246e81c580743668d45d9593c508e9357caf18835603ee93ef5e8e0 --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/sndvolsso.dll/1660054C88000/sndvolsso.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SndVolSSO.pdb/B3DD08D2DA8030A962536B1D27D9925F1/SndVolSSO.pdb) |

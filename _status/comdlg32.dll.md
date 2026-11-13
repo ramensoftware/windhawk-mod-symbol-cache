@@ -74,8 +74,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 670e4d...<!-- 670e4dc31329d779f2308386dff6dd498eaf68d7e3827d4ba37dff8a3d7452a9 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🔴 | ❓ |
-| 238438...<!-- 238438a052ab21defebd7270f93599dfcbeca424596479f27ca21e102a2059d5 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🔴 | ❓ |
+| 670e4d...<!-- 670e4dc31329d779f2308386dff6dd498eaf68d7e3827d4ba37dff8a3d7452a9 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/43CB6ABDA4A834113E6778BBEEDC1CEA1/comdlg32.pdb) |
+| 238438...<!-- 238438a052ab21defebd7270f93599dfcbeca424596479f27ca21e102a2059d5 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4A7F85F1AC4535D1A10F8BD85D2A32571/comdlg32.pdb) |
 | ea473a...<!-- ea473a96994bd2d960ffbd5ac971d8c293a28027e71ff0481a7bc989c31293bf --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A78018F71d3000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/3AE6863FB02687C40A7F69F73E9DF2171/comdlg32.pdb) |
 | b681c6...<!-- b681c6231b59d10518d7e5b26b1d0d54230a0a26c6cc9c5b5d9b7f603e71eb32 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/2A78615614000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/26038E550EC5B7DB99150B40C0E7B1371/comdlg32.pdb) |
 | 8518f7...<!-- 8518f7b9635ffd171b1f5dbc9270fd6cc1f6a517557982fd27e49393e4bcaca2 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A9D2551414000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/FE28B9C1F89509273FE4859C5829ABFC1/comdlg32.pdb) |
@@ -89,8 +89,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 93b4f0...<!-- 93b4f0d73721370914b04b69bd807411a173ae2d40705ec201e2f9ad6c0ef320 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🔴 | ❓ |
-| 0b3182...<!-- 0b3182534cfd6639e087047e132d80c2c0d2edd55fb44f73c4571bc7eba53e2a --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🔴 | ❓ |
+| 93b4f0...<!-- 93b4f0d73721370914b04b69bd807411a173ae2d40705ec201e2f9ad6c0ef320 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/420C3DFD6BA3363A1D9B1C6E0F31821C1/comdlg32.pdb) |
+| 0b3182...<!-- 0b3182534cfd6639e087047e132d80c2c0d2edd55fb44f73c4571bc7eba53e2a --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/5FBD7D06E963C50E4E7C844D0678909B1/comdlg32.pdb) |
 | b2d57b...<!-- b2d57bf43d0cbb6a54d3d56214ca78a10fbbdaea48c4a2052af80eadab97f0f6 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/557E00AC1d0000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/1B6A330099E31D38D180912CA73DC7C31/comdlg32.pdb) |
 | 3217c4...<!-- 3217c42d54919dac52d6a97f7b691cc40a017ccacdbb86ff6d2cf640b7d6a2b0 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/27DA2CB614000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/792C1E404B12ABCC0A9B59306FA17ADD1/comdlg32.pdb) |
 | d063f7...<!-- d063f76cef2f44c100c82d2b2c6e2fe1ddc5b7e29f7698aac9d65a49ecb11d55 --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/23CF13AA14000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/FA50399A3B02A4C7F53C2B0CB3FB4BB11/comdlg32.pdb) |
