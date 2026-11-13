@@ -464,8 +464,14 @@ def render_arch_section(rows: list[StatusRow], insider: bool) -> str:
     return '\n'.join(parts)
 
 
-def render_binary_page(name: str, arch_sections: dict[str, str]) -> str:
+def render_binary_page(name: str, arch_sections: dict[str, str], has_ported: bool) -> str:
     parts = [f'# {name}', '']
+    if has_ported:
+        parts += [
+            '🟡 in the PDB column: the PDB isn\'t on the symbol server, and the cache '
+            'uses symbols ported from builds with a PDB until it is.',
+            '',
+        ]
     for label, _, _ in ARCH_VARIANTS:
         parts.append(f'## {label}')
         parts.append('')
@@ -473,15 +479,8 @@ def render_binary_page(name: str, arch_sections: dict[str, str]) -> str:
     return '\n'.join(parts)
 
 
-def render_toc(names: list[str], has_ported: bool) -> str:
-    lines = ['# Symbol cache availability status', '']
-    if has_ported:
-        lines += [
-            '🟡 in the PDB column: the PDB isn\'t on the symbol server, and the cache '
-            'uses symbols ported from builds with a PDB until it is.',
-            '',
-        ]
-    lines += ['| Binary |', '| ------ |']
+def render_toc(names: list[str]) -> str:
+    lines = ['# Symbol cache availability status', '', '| Binary |', '| ------ |']
     for name in sorted(names):
         lines.append(f'| [{name}]({name}.md) |')
     return '\n'.join(lines) + '\n'
@@ -499,7 +498,6 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex
     ])
 
     now = datetime.now()
-    has_ported = False
 
     with FastImportFiles(status_path) as files:
         for name in modules:
@@ -508,6 +506,7 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex
             attempted_archs = module_archs[name]
 
             arch_sections: dict[str, str] = {}
+            has_ported = False
             for label, target_arch, insider in ARCH_VARIANTS:
                 attempted = target_arch in attempted_archs
                 data = load_winbindex_data(winbindex_folder, name, target_arch, insider)
@@ -517,10 +516,10 @@ def create_status(extracted_symbols_path: Path, binaries_folder: Path, winbindex
                 arch_sections[label] = render_arch_section(rows, insider)
                 has_ported = has_ported or any(row.ported for row in rows)
 
-            page = render_binary_page(name, arch_sections)
+            page = render_binary_page(name, arch_sections, has_ported)
             files.write(f'{STATUS_FOLDER}/{name}.md', page)
 
-        toc = render_toc(modules, has_ported)
+        toc = render_toc(modules)
         files.write(f'{STATUS_FOLDER}/README.md', toc)
 
 
