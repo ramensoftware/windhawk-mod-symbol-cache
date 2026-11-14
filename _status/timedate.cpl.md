@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | ad58d9...<!-- ad58d9079ae3f26a7dea0d88fe5d04cc41a02ec5f40f7e417419233a93b7044e --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/AAD3EF7C43000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/51DB463E3C1B6294557FBB26D48E937F1/timedate.pdb) |
 | 286fc0...<!-- 286fc0db1a75acbcd3540781f8ae568982719667f9f4fc1b837a1906d50305ef --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/E5438C1F43000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/993D158B1A282DA1E975FD6A3A83DB8D1/timedate.pdb) |
-| 919b6b...<!-- 919b6bf51a1ef89303abe987d7131e5c5b306f28cac7de4b8c65ff742002171b --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/C981500144000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/D8A8CE30AD8EACB715D256A0D9ED9EFC1/timedate.pdb) |
 
 ### 10.0.26100
 
@@ -16,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | e93895...<!-- e93895eecc1ce04beee3c5da736323794cf987bae6f929774e0afcf18af1d523 --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/3D6A12E943000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/4FF14ECB6034FE0D9B67BBFE5820703A1/timedate.pdb) |
 | de9f76...<!-- de9f762144891ad5a49750c98799f3633c8e6cb4ed4a9986ce49e5e4ecd70b66 --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/A99A52D043000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/3DB28D8419D254739832F1868125F28B1/timedate.pdb) |
-| 7dd07f...<!-- 7dd07fc6d9f0709e7a3038949d23aea5354bedaf5a9d7171116b94718b00fa3f --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/D6E993F243000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/0427D7464C66F8F47383FDF3839E83D21/timedate.pdb) |
 
 ### 10.0.22621
 
@@ -54,7 +52,6 @@
 | 8b17a9...<!-- 8b17a92eccf17dbfedfd461213a9cf5866d273f749bc7051717a5040c7084bac --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/D8596E0A7e000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/A2B30A104BA92AA81EBE360B30ACEE5E1/timedate.pdb) |
 | 1c22f0...<!-- 1c22f0d71aa2b55d881d3d23c0432a0895fa0f03944dd95db55c34a0380b878d --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/0B4DD4207c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/42F2234EE2503A1E4B38F9C3E991EDFC1/timedate.pdb) |
 | 594deb...<!-- 594deb458f685fed162670e03c2440f93a637d152f855edca70a217522368d18 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/33FDD81A7c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/364EEFCBF16887AAD9477580174282D21/timedate.pdb) |
-| 00ca72...<!-- 00ca72f56535506fbf3e83e3b5e753d1d93a73d8d805238e0229a7fe547a377b --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/6A6E823F7e000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/758C6DED2D5312C2B06575896CFEAA461/timedate.pdb) |
 
 ### 10.0.26100
 
@@ -64,7 +61,6 @@
 | dbb43a...<!-- dbb43a6f0673c0d844081fc48db25186516b4ea06b9568358fcc5493f105245e --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/C3D6C1807c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/732C7F5BBCEB70DBE2A8A4615DFFAF781/timedate.pdb) |
 | f253cf...<!-- f253cfeba00143504461be23b91d415162128572719fd6abc434c5cc373703c3 --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/6949885B7c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/CDE5816A1A18303CC6A901C19F0D85B91/timedate.pdb) |
 | 0bf441...<!-- 0bf4418a8c762f9117995ba0abb55000955361f84a635666147303ea17f6aa3e --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/A83B18E17c000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/BCCB08100035EACEB51EDBAC889362BB1/timedate.pdb) |
-| 137ee3...<!-- 137ee3168220b892ae573bd8202fe2d8c38eb6ceb45212bfcd41da7e186b9bd8 --> | 2026-09-14 | KB5129195 |  | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/15E3C6497b000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/6E779B1C3B3D933A73685AAD97B171FD1/timedate.pdb) |
 
 ### 10.0.22621
 

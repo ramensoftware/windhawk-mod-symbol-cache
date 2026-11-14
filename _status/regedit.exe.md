@@ -55,7 +55,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 29a202...<!-- 29a20241dd9f9c5361fe40b2dc1e2689c81ad3427fb71bbc9988b3230d450f67 --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/CF3963B1ce000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/2FB4EA82C186C49334024BE1F55694191/regedit.pdb) |
 | 75d6b5...<!-- 75d6b5216b674d6030eff0a191dd240543683243b55197f6e0e2bbb3c97a6e89 --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/A68967E0ce000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/B6C86F5C1D1EE1ED725ED0EF04695ECE1/regedit.pdb) |
-| 771e2a...<!-- 771e2a668a3c0b9e929992d97cbb810e1c6a2836c214eb2fb9403b8489b4db93 --> | 2026-09-14 | KB5129195 | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/54B2F5BFce000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/D0FE49BB7DE78EB2CB23C07B677AA43B1/regedit.pdb) |
 
 ### 10.0.22621
 

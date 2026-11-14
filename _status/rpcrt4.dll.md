@@ -19,7 +19,6 @@
 | e52b87...<!-- e52b8779f88892b53510cf63c1beb50fbd0004ddbf40d1c61b3e912cab9a2dc1 --> | 2026-10-28 | KB5127936 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/4DD745B4118000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/BE35FC6F45762DC6DDEFB2B0A8259E4A1/rpcrt4.pdb) |
 | c060f0...<!-- c060f02c11fb19c9c8a30b5077a87cdb17d4be40f08070a539ec73eb53402775 --> | 2026-10-26 | KB5134133 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/D22A3515118000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/98EB0270D0FF305F7ED48A570CFD4FF61/rpcrt4.pdb) |
 | dcf570...<!-- dcf5704bc1ceb9b46896c8c08a6c2448e1908111fe4ad829e25f3da61b26cdaf --> | 2026-09-22 | KB5124010 | 10.0.26100.9549 | 10.0.26100.9549 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/A1DC87E6118000/rpcrt4.dll) | ❓ |
-| 89af87...<!-- 89af87b6387bde4243306036fce2be89c67a328f93c25c53542e4c665b114747 --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/BB91989C118000/rpcrt4.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -27,7 +26,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | ac8719...<!-- ac87199aef08ac8eb6e4103fbef459390a0b0b736579fa5be728bcb2b5d2e3ae --> | 2026-11-10 | KB5131087 |  | 10.0.22621.7711 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/61DE70A3642B7667110AE831C449EBB81/rpcrt4.pdb) |
 | d435b7...<!-- d435b7eeb2375d07c2c7dbb6a61ae8079aa5f61e12c0b521fdd9054d29803a03 --> | 2026-10-26 | KB5134130 | 10.0.22621.7649 | 10.0.22621.7649 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/DF1AB2E5118000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/DDFD088166D22CE47BC8650B3180B7761/rpcrt4.pdb) |
-| cd2c9b...<!-- cd2c9bc180a9781e063306790bde337026d3779dabcc7cbf1b539e8776595ad2 --> | 2026-09-14 | KB5129242 |  | 10.0.22621.7582 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/1BA250DF118000/rpcrt4.dll) | ❓ |
 
 ### 10.0.19041
 
@@ -36,7 +34,6 @@
 | 029785...<!-- 0297858fc3e9a76c48f5f3b5e6d8a287443ac1f01d3d491a2d29001a0d529540 --> | 2026-11-10 | KB5131096 | 10.0.19041.7844 | 10.0.19041.7844 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/2B88C0DC126000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/4866BAE8FB38A550B6D91664D5EEC8A21/rpcrt4.pdb) |
 | 643665...<!-- 6436656d36dd076b0e339999dd323b0308437eb9e1e744bb89a2cbb0aedeccd5 --> | 2026-10-26 | KB5134125 | 10.0.19041.7811 | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/3D9E8ACC126000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/D91F868B61EDA847D4EFEB6A427FA5F31/rpcrt4.pdb) |
 | 2107a2...<!-- 2107a2e1227578724d70ed1572678aba9cba34a26221168dfe55bcff95901ba3 --> | 2026-10-13 | KB5126657 | 10.0.19041.7802 | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/EF558FB4126000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/8D4271CA6B55E94B4C93062EEC77D13E1/rpcrt4.pdb) |
-| 23b935...<!-- 23b935e0c28fe80e75807533d7f335991abd8e30a30a266ea3daa25827f11d30 --> | 2026-09-14 | KB5129236 | 10.0.19041.7725 | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/978686B0126000/rpcrt4.dll) | ❓ |
 
 ### 10.0.17763
 
@@ -44,7 +41,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | ddd802...<!-- ddd80211e0b7eee9029b8f5edcbfa2d3a8fc970b7182557aef3ec6055edb692f --> | 2026-11-10 | KB5131085 |  | 10.0.17763.9479 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/8AE89494048E3FAD86AC8C9A5AE659311/rpcrt4.pdb) |
 | e035c4...<!-- e035c40ad58e252140d29600b8abe4f6c70e040d7d996f4ae99fdd5835171c97 --> | 2026-10-26 | KB5134124 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/DF96F9EE11a000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/389F4D7C2E574868D0554039DDB9C7D81/rpcrt4.pdb) |
-| 648279...<!-- 64827930d377413df8e7657a30b1736b47c583692dc0074a4d6bde9f44410dec --> | 2026-09-14 | KB5129238 | 10.0.17763.9245 | 10.0.17763.9245 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/E310C1B611b000/rpcrt4.dll) | ❓ |
 
 ### 10.0.14393
 
@@ -52,7 +48,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | a3f062...<!-- a3f0622c68003c620bfa14d81cd5eadbf9838320382821558b1f812827aa8ba8 --> | 2026-11-10 | KB5131291 | 10.0.14393.9685 | 10.0.14393.9685 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/6AEC365511a000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/DAB474C3DA334B9A802309264817F1B31/rpcrt4.pdb) |
 | 56a631...<!-- 56a63192ea78f55cf7369559d0bccfc11df58433298973efe263397b8f2ea854 --> | 2026-10-26 | KB5134123 | 10.0.14393.9611 | 10.0.14393.9611 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/6AC8D4F211a000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/C270F5C0F63B49CE984DBB10B0D3E4371/rpcrt4.pdb) |
-| 06099e...<!-- 06099e3354f52a4f2c67ee5c8f52a6b3919f9ffd35f02150dce23e4ab7da89e7 --> | 2026-09-14 | KB5129239 | 10.0.14393.9507 | 10.0.14393.9507 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/6A97949A11b000/rpcrt4.dll) | ❓ |
 
 ## ARM64 (release builds)
 
@@ -64,7 +59,6 @@
 | ff5c1c...<!-- ff5c1c3bc5ecc69fc22ab1b8d817dcc7c1730d20eb0b847d16aa81ac44ccc8f6 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/E71E5B11210000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/D6DA583AE2C626CB864846F2ABAD1DFD1/rpcrt4.pdb) |
 | b498f8...<!-- b498f8ac87a039e07c4e6a74b4daa46b72ebf269d8918b1b17f62bc696de3de2 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/8F327463211000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/DC5773A8F8B4D71D554E0CBA1A4FA76B1/rpcrt4.pdb) |
 | 30cb4e...<!-- 30cb4e939f484b5ec688209fe00d98837703fed3030cbb02d02a592e39b7e2c1 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/E8507BC8212000/rpcrt4.dll) | ❓ |
-| 49701c...<!-- 49701cbd2597811e81d1208bff6a6798fb1fcee72f2de9f5e6e785637dce5bbf --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2952 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/095AB3E7212000/rpcrt4.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -74,7 +68,6 @@
 | 7e8b83...<!-- 7e8b8328e82566afde5429211501985d0483d1f66d481173e7674c871525d6a9 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/8A1173F3204000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/B6CDEC646AF56897E6B702C7BC22F95E1/rpcrt4.pdb) |
 | 854bfc...<!-- 854bfc00b740d39868b989ed3445e0162a1ce23086f6d5cc6fbc6baf5eb6587c --> | 2026-10-26 | KB5134133 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/2B9675C2204000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/E58129E125E85B01CD263A6C5BE1C6D91/rpcrt4.pdb) |
 | 1439d5...<!-- 1439d5f3c6b53c30a477d4558661f5f0b9401a9e3a9e285c7a088d292529cd76 --> | 2026-09-22 | KB5124010 |  | 10.0.26100.9549 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/3F71B0EB203000/rpcrt4.dll) | ❓ |
-| cf9fc8...<!-- cf9fc8888c8d927daa3a523ce2fe97522fbaa5e3e9e40a895ad4f4ec0547d9c9 --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/A03CB4CC203000/rpcrt4.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -82,7 +75,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 7f48ae...<!-- 7f48ae2c673adc1103b8cad4c80fd7d925d7b989adad1a15da181d86eb77aa8c --> | 2026-11-10 | KB5131087 |  | 10.0.22621.7711 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/543CF6E9141AA25E40BD3B2A8243D6C41/rpcrt4.pdb) |
 | 6cd1ba...<!-- 6cd1ba6abc9a686d81c9754fe0d6b10a9c3b27be6056f61cfb49e7aaaf1884bd --> | 2026-10-26 | KB5134130 |  | 10.0.22621.7649 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/1C8A6A68224000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/7FF5BA516BF6F0F78AB28C08A7E0C9B91/rpcrt4.pdb) |
-| 879ba9...<!-- 879ba9011cc5517ed66a3d1825ff09632c019d977fe19f49dca5aed7bab8a1d4 --> | 2026-09-14 | KB5129242 |  | 10.0.22621.7582 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/A56855B0223000/rpcrt4.dll) | ❓ |
 
 ### 10.0.19041
 
@@ -91,7 +83,6 @@
 | f33a6d...<!-- f33a6d18a36b6faaedf31b8db3b4adde5685dee904dd1d23de232c0f49cca8a8 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/2DDF14A08414F44C66A8C10AAE6338BE1/rpcrt4.pdb) |
 | a9bc57...<!-- a9bc57000574c5faff83087da44c2aa5a49ba700b3b2a00ac8669f197758ef14 --> | 2026-10-26 | KB5134125 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/1E894272125000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/54D0ADC92BFC6F7CC72617EB554FFC4B1/rpcrt4.pdb) |
 | 975e86...<!-- 975e867147c280f98c9cc198fc6d60b59a37e407e09dba5771c3f4d55d2b6ddc --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/72FC85EFC657B5A0BD538A4D6D78EC671/rpcrt4.pdb) |
-| ae85b8...<!-- ae85b81b086981ddf3e8cf2cbe9eb1da15b019af513ba741772bc78e91d5665e --> | 2026-09-14 | KB5129236 |  | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/4A6409A8125000/rpcrt4.dll) | ❓ |
 
 ## x64 (insider preview builds)
 

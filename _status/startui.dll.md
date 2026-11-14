@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b32759...<!-- b3275907f2c28e48b9cd197d1fd3096dc11425a13829db6a301c392d7ed4ec50 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/D3AF28D9C1D4C77FB1E2F642DE76F5CC1/StartUI.pdb) |
 | bac618...<!-- bac618c9eee99fba7d1de36a8ab60f3215a68716c713cd9f8f4b1896060b8136 --> | 2026-10-26 | KB5134125 | 10.0.19041.7802 | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/39475076820000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/5B8A374C433E6412F6A07837648D4D9F1/StartUI.pdb) |
-| 0315f6...<!-- 0315f60c6c75dbcb6aa51e9d8875eb1b469bfdf42c14e89997074ab95aa8a549 --> | 2026-09-14 | KB5129236 | 10.0.19041.7725 | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/F7758DBC821000/startui.dll) | ❓ |
 
 ### 10.0.17763
 
@@ -31,7 +30,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 47f32c...<!-- 47f32c7babd60f786accee755475d9eae2691e7af64daf64ee04a9ccbe07bb48 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/2A138ECCC87F67153E23C3B59CF3B7981/StartUI.pdb) |
 | 99d053...<!-- 99d053c684e3bb4cf2c96dc1c4222498bcc91a23297570996ac4c9b901be8ae8 --> | 2026-10-26 | KB5134125 |  | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/674DC675b86000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/DDAB8BD5301258925192E6CCD3392D911/StartUI.pdb) |
-| 9e739b...<!-- 9e739b54584f5a8d6e30af36b4b4cc082ab700b0ca6d6abdd17fd630b91b041e --> | 2026-09-14 | KB5129236 |  | 10.0.19041.7725 | [🔴](https://msdl.microsoft.com/download/symbols/startui.dll/F88C3555b86000/startui.dll) | ❓ |
 
 ## x64 (insider preview builds)
 

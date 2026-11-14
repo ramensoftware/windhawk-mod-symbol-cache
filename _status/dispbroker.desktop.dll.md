@@ -8,7 +8,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | eb8d47...<!-- eb8d47528eb703e64fc73ca1b0aa4a0ba2331e314b7befd7e59f519ca4f1c795 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/105925B612a000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/D9FB695270BAA028AA6EE3A68B953BD91/DispBroker.Desktop.pdb) |
 | fd8066...<!-- fd80666bcae9f228a31295243666316abb7ac6eab27572873b2cd9531e5d79d6 --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/F44A43AD12c000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/0D04DA5A1F42ACBA6C8AC84DD383F7BA1/DispBroker.Desktop.pdb) |
-| 39a489...<!-- 39a4898bb4387512756667e284fd87128b4cf3be87f745d564604b8040d7181e --> | 2026-09-14 | KB5129194 | 10.0.28000.2952 | 10.0.28000.2952 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/D3C4C52B12a000/dispbroker.desktop.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -16,7 +15,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | b3c08d...<!-- b3c08d8ee6e9fcfb0013f77d174729b2bdf4ef21d2c2c90cadf8b8fc58151464 --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/5756D25A129000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/DCBCA8261F21FC8252477B988AE1C6321/DispBroker.Desktop.pdb) |
 | 83a1ad...<!-- 83a1ad5d7182fd88b0d0c05e58a71bba21ad4f1adadffab720c1d0e691dade6a --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/122E822B127000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/C3333AEA66D568DC31A6F4D7EE7179A11/DispBroker.Desktop.pdb) |
-| 940767...<!-- 94076755d9a0e5ae3f93a472670a23c7cff8270f29555ce11b2a9f7d7c79e37c --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/FAE663E3126000/dispbroker.desktop.dll) | ❓ |
 
 ### 10.0.22621
 
@@ -38,7 +36,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 6465cc...<!-- 6465cce0e78f6b2debc9b8258e6bba73a5c81f1b0f7d0efb80229a3144f1e60a --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/2F26304914e000/dispbroker.desktop.dll) | ❓ |
 | 8dd1f1...<!-- 8dd1f19e155f5e9a6a45848955b0addb61fb9097e3a2d61faf602ac7930161de --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3086 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/7473B7B914f000/dispbroker.desktop.dll) | ❓ |
-| 261016...<!-- 26101699d9472dd5b3c292772954c6b5dbf7e0dfb8aee932e28d9c999f3f06ae --> | 2026-09-14 | KB5129194 |  | 10.0.28000.2952 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/3097BF1414e000/dispbroker.desktop.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -46,7 +43,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 84b911...<!-- 84b9114a2ee599318553ea980a724db5afd32827fa5862c907b770a607887543 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9818 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/80D5AE87155000/dispbroker.desktop.dll) | ❓ |
 | 0c444a...<!-- 0c444a6444cf01cf34474e88d98a2661495132b8aede60e41005810205c3e5b5 --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/83E90799154000/dispbroker.desktop.dll) | ❓ |
-| 2c4daa...<!-- 2c4daa33b7cc499cf570271680c76e1ca46c01405266c961d02252fe4cf30e02 --> | 2026-09-14 | KB5129195 | 10.0.26100.9444 | 10.0.26100.9444 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/05318925153000/dispbroker.desktop.dll) | ❓ |
 
 ### 10.0.22621
 

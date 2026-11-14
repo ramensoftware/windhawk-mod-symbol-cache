@@ -1,0 +1,1 @@
+1#1793865405#4665344#private: unsigned int __cdecl ClockButton::UpdateTextStringsIfNecessary(bool *)#341692

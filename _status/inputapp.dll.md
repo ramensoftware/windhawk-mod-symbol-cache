@@ -10,8 +10,6 @@
 | 3312d7...<!-- 3312d70217b54608ee61cd26feb3befbe4eaf9f0073b97c8fb1874395c1ff0ea --> | 2026-11-10 | KB5132059 | 2609.3001.0.0 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A99F491153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/98BE77F2C9E6468CA3228159CE0428001/InputApp.pdb) |
 | d33dfb...<!-- d33dfb67c52a0af70fcc8bf37ce54c98ed7f6a8a751e7a361eced569ee478d1e --> | 2026-10-13 | KB5127646 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A67826F153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/97382E2898574854BA4E54B4B748AE5A1/InputApp.pdb) |
 | 340b3f...<!-- 340b3f1833112e3db70ff26f2a6fdb533f30bbe80afadf1b3db57647e080561a --> | 2026-10-13 | KB5127646 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A677FA4153000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/FC43E0EFE47F4DFB8DCC9CAF255EB9DD1/InputApp.pdb) |
-| 7905a0...<!-- 7905a051560a20bd2e517213004623ae2ef50c2251f48fa8eecca4a1d222e8fa --> | 2026-09-14 | KB5129194 | 2606.22000.0.0 | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A39B087154000/inputapp.dll) | ❓ |
-| 5c8df6...<!-- 5c8df6ff3c2f3f69332c486e129a52de68943d8fbeb45288900614e6d3dd995d --> | 2026-09-14 | KB5129194 | 2606.22000.0.0 | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A39B107154000/inputapp.dll) | ❓ |
 
 ### 10.0.26100
 
@@ -44,8 +42,6 @@
 | 3e8de7...<!-- 3e8de764b5ec82db37353073f672cc27b7e116af0fa2e83b3b1092ce2b1dd1df --> | 2026-11-10 | KB5132059 | 2609.3001.0.0 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A99F7D71a0000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/1FA4CD6A7EAD4AEA9A7294D44FB452F91/InputApp.pdb) |
 | ba3e54...<!-- ba3e548aad2681815de242c07298e7f98c1da805bd692787369b4857ce3dc1b5 --> | 2026-10-26 | KB5134134 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A6782041a0000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/14923FF0C89A4A4D82793BE3DA1E81D21/InputApp.pdb) |
 | 914efe...<!-- 914efeb0ec3235cc222c2178834cb943bc5191620aa89f0b9e61419826472cb7 --> | 2026-10-26 | KB5134134 | 2607.27000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A6781F31a0000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/BFE368C259384F76BC34BCF6B8ABE4191/InputApp.pdb) |
-| db2bb2...<!-- db2bb2241a37504adf8f2490630d38cc4fdcc9b2386f9965dd85f8cd73a895db --> | 2026-09-14 | KB5129194 | 2606.22000.0.0 | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A39AD4F1a3000/inputapp.dll) | ❓ |
-| 89dcd7...<!-- 89dcd7f8460668ce226051737aa67d83adeaae8db35ac388fb91134d99c29bde --> | 2026-09-14 | KB5129194 | 2606.22000.0.0 | 10.0.28000.2804 | [🔴](https://msdl.microsoft.com/download/symbols/inputapp.dll/6A39B0291a3000/inputapp.dll) | ❓ |
 
 ### 10.0.26100
 
