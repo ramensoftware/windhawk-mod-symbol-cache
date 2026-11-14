@@ -1,0 +1,1 @@
+1#2389495396#3284992#public: virtual void __cdecl UIImage::Paint(struct HDC__ *,struct tagRECT const *,struct tagRECT const *,struct tagRECT *,struct tagRECT *)#598400

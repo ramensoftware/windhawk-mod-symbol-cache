@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_1833509965_2605056#public: virtual void __cdecl UIImage::Paint(struct HDC__ *,struct tagRECT const *,struct tagRECT const *,struct tagRECT *,struct tagRECT *)#185088
