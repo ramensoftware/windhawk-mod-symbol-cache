@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_353425539_3235840#private: int __cdecl CTray::RecomputeWorkArea(struct HMONITOR__ *,struct tagRECT *)#551196#public: virtual int __cdecl CTray::AppBarSetAutoHideBar(struct HWND__ *,int,unsigned int,struct HMONITOR__ *)#50816#protected: __int64 __cdecl CTray::_OnAppBarMessage(struct tagCOPYDATASTRUCT *)#51936

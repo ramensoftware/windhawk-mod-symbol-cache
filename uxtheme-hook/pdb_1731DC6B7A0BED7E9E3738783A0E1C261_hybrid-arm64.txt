@@ -1,0 +1,1 @@
+1;uxinit.dll;arm64_4034390342_303104;public: long __cdecl CThemeSignature::Verify(void *);

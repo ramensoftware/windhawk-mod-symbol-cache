@@ -1,0 +1,1 @@
+1#2236654587#1179648#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#608668

@@ -1,0 +1,1 @@
+1#4060914409#1253376#public: __cdecl Microsoft::Windows::ColorManagement::ColorManagementRpcServer::ColorManagementRpcServerImpl::ColorManagementRpcServerImpl(class std::shared_ptr<class Microsoft::Windows::ColorManagement::ColorManagementRpcServer::ColorManagementRpcServerPolicy> const &,bool)#81076#unsigned long g_GdiRampLimit#1170264

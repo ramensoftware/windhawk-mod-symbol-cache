@@ -22,13 +22,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5cb12d...<!-- 5cb12db70bbbcd064ff8678660dff5f575f9ca0ed1918b475a87aa603f642e3d --> | 2026-11-10 | KB5131087 | 10.0.22621.7582 | 10.0.22621.7582 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/EE622F8Eb4000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D57B1B7B97A9A7C8115ACDEC63CE19A61/uxtheme.pdb) |
+| 5cb12d...<!-- 5cb12db70bbbcd064ff8678660dff5f575f9ca0ed1918b475a87aa603f642e3d --> | 2026-11-13 | KB5136483 | 10.0.22621.7582 | 10.0.22621.7582 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/EE622F8Eb4000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D57B1B7B97A9A7C8115ACDEC63CE19A61/uxtheme.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 85e267...<!-- 85e26787282d70d203026e393242a8616cfd832d4e68db466151301b6063af4e --> | 2026-11-10 | KB5131096 | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/3A934CA39e000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/C8F31F27C3882144B7FF909836930B9A1/UxTheme.pdb) |
+| 85e267...<!-- 85e26787282d70d203026e393242a8616cfd832d4e68db466151301b6063af4e --> | 2026-11-13 | KB5136493 | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/3A934CA39e000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/C8F31F27C3882144B7FF909836930B9A1/UxTheme.pdb) |
 
 ### 10.0.17763
 
@@ -66,7 +66,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| db519e...<!-- db519ed8ae538ea2b42b2d94a87994f77bd5451dae6de8b2f9c7e1135d8353ae --> | 2026-11-10 | KB5131087 |  | 10.0.22621.7582 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/7036AC9C141000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/B965EA8E5E16DA5C33C9E3991CB260631/uxtheme.pdb) |
+| db519e...<!-- db519ed8ae538ea2b42b2d94a87994f77bd5451dae6de8b2f9c7e1135d8353ae --> | 2026-11-13 | KB5136483 |  | 10.0.22621.7582 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/7036AC9C141000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/B965EA8E5E16DA5C33C9E3991CB260631/uxtheme.pdb) |
 
 ### 10.0.19041
 
@@ -75,6 +75,12 @@
 | bce619...<!-- bce6198a25158dde6232a015ee4f8005734f9cd41801accf4582dfc933eff61a --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/5F52CFE69b000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/94145C363EE7BD8FDA17B513B8D2FCEC1/UxTheme.pdb) |
 
 ## x64 (insider preview builds)
+
+### 10.0.29708
+
+| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
+| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 0e7716...<!-- 0e7716a89760710726c7ac7abf026151775170ab3b722a60319c09fbd9151e3d --> | 2026-11-13 | a957679e...<!-- a957679e-46f0-4587-999f-711d92d6a097 --> | 10.0.29708.1003 | 10.0.29708.1003 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/86078EE0ae000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/3C32551559BFD1A234CEF6FCDC44608E1/uxtheme.pdb) |
 
 ### 10.0.29704
 
@@ -116,11 +122,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| b11783...<!-- b11783e2a5c1f9ac551c5891fb3127f32f71ccbec7bcb1a6ec43b123db830f09 --> | 2026-11-13 | 3c56791e...<!-- 3c56791e-9718-4ba7-bf14-90863212d38a --> |  | 10.0.28000.3612 | 🔴 | ❓ |
+| 907264...<!-- 9072647adb90f0c5f72287a68c460d5e98d883704ef4f205c09bec46a335dcae --> | 2026-11-13 | e250fa19...<!-- e250fa19-30d0-4855-9e78-61704792e155 --> |  | 10.0.28000.3531 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/F83B522478D6216061D7AA87D879665A1/uxtheme.pdb) |
+| 2a6c3f...<!-- 2a6c3f03db499fb73403b7e14eaa43b4d72e1764c7d7f825c59a3f56603730eb --> | 2026-11-13 | e250fa19...<!-- e250fa19-30d0-4855-9e78-61704792e155 --> |  | 10.0.28000.3442 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/6D613565a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/8AB396DC58BD46C3630CF11FDACD74991/uxtheme.pdb) |
+| 837b78...<!-- 837b78071bd36430daee2d702ca7caac09f9002aa6c7377a5c26addf9ad34a9f --> | 2026-11-13 | 6f8bd7d2...<!-- 6f8bd7d2-36a4-4ef7-b498-93b4c95c8df4 --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/735A48CCa8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D897C5EF88B3843291CBE6DEB3EA580F1/uxtheme.pdb) |
+| e7b15f...<!-- e7b15fc157b5ec2597b1cea3152e65f6a7184191542b81d94a352d0a84cca949 --> | 2026-11-13 | e250fa19...<!-- e250fa19-30d0-4855-9e78-61704792e155 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/uxtheme.dll/E3D9CC77a9000/uxtheme.dll) | ❓ |
+| 0f66a0...<!-- 0f66a0bf36b07336f1cefbde7f3a733448d5b40ba2df3dae0da2f64839ed1082 --> | 2026-11-13 | 3c56791e...<!-- 3c56791e-9718-4ba7-bf14-90863212d38a --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/D2D005DAa9000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/435DB96E757CD1B775CD1CAC7C55A4B21/uxtheme.pdb) |
 | 5088f6...<!-- 5088f620fe5855824476c244729054e39f7b6adc66108bb100e6671027757035 --> | 2026-11-10 | 0ebee78b...<!-- 0ebee78b-ea45-4f17-93a0-3146414efeb1 --> |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/74E0C909a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/1904C9C9651B0AF7543F89F7D7C35C511/uxtheme.pdb) |
-| 0f66a0...<!-- 0f66a0bf36b07336f1cefbde7f3a733448d5b40ba2df3dae0da2f64839ed1082 --> | 2026-11-10 | 0ebee78b...<!-- 0ebee78b-ea45-4f17-93a0-3146414efeb1 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/D2D005DAa9000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/435DB96E757CD1B775CD1CAC7C55A4B21/uxtheme.pdb) |
-| 2a6c3f...<!-- 2a6c3f03db499fb73403b7e14eaa43b4d72e1764c7d7f825c59a3f56603730eb --> | 2026-11-06 | c2244dcc...<!-- c2244dcc-57d1-40f2-875b-97c56c2cc86c --> |  | 10.0.28000.3442 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/6D613565a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/8AB396DC58BD46C3630CF11FDACD74991/uxtheme.pdb) |
-| 837b78...<!-- 837b78071bd36430daee2d702ca7caac09f9002aa6c7377a5c26addf9ad34a9f --> | 2026-11-06 | 5843705f...<!-- 5843705f-1c98-404a-a371-de61bb26c07e --> |  | 10.0.28000.3393 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/735A48CCa8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D897C5EF88B3843291CBE6DEB3EA580F1/uxtheme.pdb) |
-| e7b15f...<!-- e7b15fc157b5ec2597b1cea3152e65f6a7184191542b81d94a352d0a84cca949 --> | 2026-11-06 | c2244dcc...<!-- c2244dcc-57d1-40f2-875b-97c56c2cc86c --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/uxtheme.dll/E3D9CC77a9000/uxtheme.dll) | ❓ |
 | 68ae1c...<!-- 68ae1ca8c95a36a752dd45386a0c2b9bef539059bd0a7c5e26021eac128e2a02 --> | 2026-10-30 | 132bf691...<!-- 132bf691-577f-47d7-96e8-4b9fb50d1832 --> |  | 10.0.28000.3382 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/57ACAF81a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D7172E0DA29FD312EDFAE0CE6A4997A91/uxtheme.pdb) |
 | 7b9436...<!-- 7b943628e27dc70730919b1d23d2ca42dc11835d09444ab5da9d2e8209187ae6 --> | 2026-10-27 | a7fff915...<!-- a7fff915-161e-425b-b467-15932061440c --> | 10.0.28000.3231 | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/C12D58D0a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/0ECBE1C8C4D3CE15FA1E994EDF2C12381/uxtheme.pdb) |
 | cbe7de...<!-- cbe7de67779c880786999a45000fe8ea39f3203323aa52d74a298b6cb824de10 --> | 2026-10-23 | 5486793c...<!-- 5486793c-ef16-4f21-b397-f0321a833424 --> |  | 10.0.28000.3302 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/072208D1a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/A97ACE2A140BCA279AE337DB7F6F4ED81/uxtheme.pdb) |
@@ -134,16 +142,16 @@
 | 6539e9...<!-- 6539e98a86d68b0b5e5f7620fe4c6e6fb87d7b39cb9fdbf5691a218c0922a118 --> | 2026-10-02 | 0ee8591b...<!-- 0ee8591b-997d-4fe9-9aa7-bcdf4d0c94e2 --> |  | 10.0.28000.3142 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/7E8C4919a4000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/86FC85ABC11C403BFBD8694FC9230C591/uxtheme.pdb) |
 | 502729...<!-- 5027297ca664fba735dbfaeb43d9a40a63a20c17f4803c47066f36d11e2a108b --> | 2026-10-02 | 85607ef9...<!-- 85607ef9-78bd-4a56-9d3e-ae965b063469 --> |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/700E21B1a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/C57E9F3D6736E8BA0365C4F960EA91FA1/uxtheme.pdb) |
 | 265268...<!-- 265268cf01dcc77da569d9dc5f7512cbff741d2eeaf4dd8f3b076bdebcb51357 --> | 2026-09-25 | 63446a30...<!-- 63446a30-811d-4332-a796-1b18e51579b5 --> |  | 10.0.28000.3112 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/3235B65Ca4000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/FA84BD4DB7E7BA9284518EB2E739791F1/uxtheme.pdb) |
-| 06ddda...<!-- 06dddacd4a71a3c076f412b2a1a5f70bfb83b10b9e05cc09e342dffdebadaad3 --> | 2026-09-14 | dfc70cae...<!-- dfc70cae-9c31-49f0-a42c-b337feb729a4 --> |  | 10.0.28000.2952 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/9BFB9F54a9000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/F2704D09ECF3CA2C3D7F1110BF1F35CD1/uxtheme.pdb) |
 
 ### 10.0.26100
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 5254fb...<!-- 5254fb2bbd97d1830bb0b6272dcb8a97f5bb4234ba01a2954a5d5f50093648ba --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |
+| e33703...<!-- e33703c848c6ab8d7298f969b1ead59c5c0f323cf77040b6d53db074eea6d86a --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/F2D36D8Bad000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/6EE53E0CA18FAE77BEC7C2C783CA1D1C1/uxtheme.pdb) |
+| 659c5c...<!-- 659c5c969966dbf46548ee2d64b27283d8a192e941005ded9574fcacc18d339f --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/DC1DDB05a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/F93A4424B721A13C8D04EC0F5795F28E1/uxtheme.pdb) |
 | e2e972...<!-- e2e972e21a16c62e7c678334dc50f33c2f327c1b6854a2fb096ca244ae650f27 --> | 2026-11-10 | e67f397c...<!-- e67f397c-56e7-44a2-9566-0f1af5c01841 --> | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/83C98C4Faa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/E5ED82B837F460A6F048D81974686DF21/uxtheme.pdb) |
 | e50871...<!-- e5087142f87989c7430d82a65616817a2515a79fa582549ba48a1dd6ac1b7200 --> | 2026-11-10 | 2ad1d9f3...<!-- 2ad1d9f3-b3dd-4014-9eb1-152e1ee1dbd9 --> | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/DB08095Ca7000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/F3CE08DF667EF1889A1730536C3574D41/uxtheme.pdb) |
-| e33703...<!-- e33703c848c6ab8d7298f969b1ead59c5c0f323cf77040b6d53db074eea6d86a --> | 2026-11-10 | 2ad1d9f3...<!-- 2ad1d9f3-b3dd-4014-9eb1-152e1ee1dbd9 --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/F2D36D8Bad000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/6EE53E0CA18FAE77BEC7C2C783CA1D1C1/uxtheme.pdb) |
-| 659c5c...<!-- 659c5c969966dbf46548ee2d64b27283d8a192e941005ded9574fcacc18d339f --> | 2026-11-10 | 2ad1d9f3...<!-- 2ad1d9f3-b3dd-4014-9eb1-152e1ee1dbd9 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/DC1DDB05a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/F93A4424B721A13C8D04EC0F5795F28E1/uxtheme.pdb) |
 | 069e44...<!-- 069e44ac9d38d27e5aa4816d9b35e1845a336ea9eecb1d63791527cdafc2f145 --> | 2026-11-09 | ad797313...<!-- ad797313-9cfd-46b9-8dab-a6a5eab0e3b7 --> |  | 10.0.26100.9836 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/426267DCaa000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/62A079D6CBB93F1CAD7AB36C2523B50F1/uxtheme.pdb) |
 | 8d9ebb...<!-- 8d9ebbc49b0fdc50ccc25d3363c1170fcd5360544aef15a23997108985bacebf --> | 2026-11-09 | ad797313...<!-- ad797313-9cfd-46b9-8dab-a6a5eab0e3b7 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 23d163...<!-- 23d163e6a0f02253e992bd66b235a8121e01d7b54039577b571c4d84f1a322df --> | 2026-11-09 | ad797313...<!-- ad797313-9cfd-46b9-8dab-a6a5eab0e3b7 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/uxtheme.dll/CA58A102a8000/uxtheme.dll) | ❓ |
@@ -164,22 +172,21 @@
 | e6a1af...<!-- e6a1af2a1b64413acfe8820abba7b6fdaa5f8565bf063b5200de72856afda787 --> | 2026-09-18 | b5b12620...<!-- b5b12620-cbd9-4a69-9bb7-195869d6a48a --> | 10.0.26100.9502 | 10.0.26100.9502 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/2C62A408a7000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/165DB3528D450F06ACFAA72A95E11FBF1/uxtheme.pdb) |
 | f36309...<!-- f3630942e4eb92802bee4ff439b1d8c9f8fa289be13478536f7a555295d532ea --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> |  | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/CFEEDC3Da7000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/91DBED1198A63FFCAC4B06088103885E1/uxtheme.pdb) |
 | 375050...<!-- 3750507bf15b7ae6dd6d8d7c00959520f610f7fff04c3219b772d11383b7c340 --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/DF0B5A75a7000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/2C0EF65AC0AAB57645E7BCC0C8BA4A1B1/uxtheme.pdb) |
-| 6a5567...<!-- 6a55672f8ab09bbe36d5376e109dd89f263b37cf478412ff5b9e8bd0e1ab77a0 --> | 2026-09-14 | ba6eafb7...<!-- ba6eafb7-6fd3-4fb9-8462-3d86b81835b3 --> | 10.0.26100.9444 | 10.0.26100.9444 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/2BCDFF75a8000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/E2BBBDA030FB0FCAF20FA485D62A7A561/uxtheme.pdb) |
 
 ### 10.0.22621
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 5cb12d...<!-- 5cb12db70bbbcd064ff8678660dff5f575f9ca0ed1918b475a87aa603f642e3d --> | 2026-11-10 | 24a8df30...<!-- 24a8df30-2418-4fa3-8c7b-a7d75e7589e8 --> | 10.0.22621.7582 | 10.0.22621.7582 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/EE622F8Eb4000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D57B1B7B97A9A7C8115ACDEC63CE19A61/uxtheme.pdb) |
-| a08f2b...<!-- a08f2bbf8464c6da15bf3154e4ae2767f065f801d7be60bf59aedbf8cce29a00 --> | 2026-11-10 | 24a8df30...<!-- 24a8df30-2418-4fa3-8c7b-a7d75e7589e8 --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/DD5DB22Dab000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/CCCCA3B22EADB5C30E6073A60E11481D1/uxtheme.pdb) |
+| 5cb12d...<!-- 5cb12db70bbbcd064ff8678660dff5f575f9ca0ed1918b475a87aa603f642e3d --> | 2026-11-13 | ccaebec9...<!-- ccaebec9-70a7-4d8a-a5f1-b62db8b90868 --> | 10.0.22621.7582 | 10.0.22621.7582 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/EE622F8Eb4000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/D57B1B7B97A9A7C8115ACDEC63CE19A61/uxtheme.pdb) |
+| a08f2b...<!-- a08f2bbf8464c6da15bf3154e4ae2767f065f801d7be60bf59aedbf8cce29a00 --> | 2026-11-13 | ccaebec9...<!-- ccaebec9-70a7-4d8a-a5f1-b62db8b90868 --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/DD5DB22Dab000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/CCCCA3B22EADB5C30E6073A60E11481D1/uxtheme.pdb) |
 | c5c4ae...<!-- c5c4ae4c298cf28c95371fbf12a2196bac85350ee85b1bea2ff1b789b2446f98 --> | 2026-09-27 | deac6f2d...<!-- deac6f2d-1605-4162-b85c-1c5e9219959a --> | 10.0.22621.1635 | 10.0.22621.1635 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/10264C33ab000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.pdb/F6F8B5C5EC7518F59AF635221CFE1C1E1/uxtheme.pdb) |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 85e267...<!-- 85e26787282d70d203026e393242a8616cfd832d4e68db466151301b6063af4e --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/3A934CA39e000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/C8F31F27C3882144B7FF909836930B9A1/UxTheme.pdb) |
-| f41c9a...<!-- f41c9a3832a1b601a504686f7ae61fb4c31cfd76d29ece63f66cd339b3f2bc75 --> | 2026-11-11 | 345e7f26...<!-- 345e7f26-ccaf-428d-a519-47a384cbc9d0 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/0DD89D509f000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/08D1644C3B01FB48D3C12541CF07CC761/UxTheme.pdb) |
+| 85e267...<!-- 85e26787282d70d203026e393242a8616cfd832d4e68db466151301b6063af4e --> | 2026-11-13 | b21dbf17...<!-- b21dbf17-6aef-48be-b243-00f57c3aa136 --> | 10.0.19041.7725 | 10.0.19041.7725 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/3A934CA39e000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/C8F31F27C3882144B7FF909836930B9A1/UxTheme.pdb) |
+| f41c9a...<!-- f41c9a3832a1b601a504686f7ae61fb4c31cfd76d29ece63f66cd339b3f2bc75 --> | 2026-11-13 | b21dbf17...<!-- b21dbf17-6aef-48be-b243-00f57c3aa136 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/0DD89D509f000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/08D1644C3B01FB48D3C12541CF07CC761/UxTheme.pdb) |
 
 ### 10.0.17763
 
@@ -187,4 +194,3 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 2fe3bd...<!-- 2fe3bd3d686c03e22d06b1b8d31643b05635d47af32579cd9220b12838e35d52 --> | 2026-11-10 | 98d009dc...<!-- 98d009dc-d070-438e-b51a-d557efb55846 --> | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/52B9F8F09c000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/3F75E969848202324B22EFB4C0362B011/UxTheme.pdb) |
 | a63510...<!-- a635109301f1013287c203cfc50484c87ac8e446c8924f1fb3d21b2080f57bd5 --> | 2026-11-10 | 98d009dc...<!-- 98d009dc-d070-438e-b51a-d557efb55846 --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/4B037C229c000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/546EE72C142BF19ECAED9B0AE07961511/UxTheme.pdb) |
-| b82c11...<!-- b82c11a8ceb6b46347208edeff0a963eb2a74e6d5e3e9b8dea6c072c317dcd12 --> | 2026-09-14 | 67377253...<!-- 67377253-db93-4c05-b66d-a05e70021a4e --> | 10.0.17763.9245 | 10.0.17763.9245 | [🟢](https://msdl.microsoft.com/download/symbols/uxtheme.dll/31B0140C9c000/uxtheme.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UxTheme.pdb/EE6CA7AF23FACD9BAC66F48EA318A27A1/UxTheme.pdb) |
