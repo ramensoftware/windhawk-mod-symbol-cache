@@ -33,7 +33,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 40c939...<!-- 40c939c3960cfcfbb42f9c11b045bbd3f8ef812a44f6f9d202f235383913815f --> | 2026-11-10 | KB5131085 |  | 10.0.17763.9479 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A733F044D3C653964A599B38D9BEDCA31/logoncontroller.pdb) |
+| 40c939...<!-- 40c939c3960cfcfbb42f9c11b045bbd3f8ef812a44f6f9d202f235383913815f --> | 2026-11-13 | KB5136490 |  | 10.0.17763.9479 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A733F044D3C653964A599B38D9BEDCA31/logoncontroller.pdb) |
 | e54f56...<!-- e54f56af91995a83f5a78521f3403522d23965061e7f261df3631bf9140106c6 --> | 2026-10-26 | KB5134124 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/7A751979c6000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/84AB407DC0EBA5FC78E56F89F75CB3FD1/logoncontroller.pdb) |
 
 ### 10.0.14393
@@ -70,6 +70,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 66fe66...<!-- 66fe665e228c4f4f5ffaefa239f9ce47e7c5116a43047d3d82451ff78db228e0 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7850 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/C6F8AAB96DF840AA1FBDC96EB45F45BB1/logoncontroller.pdb) |
 | 0118d8...<!-- 0118d8ba11d3f7ad05262c862e94459e87bf474927de71ee05b7d8d3b1009092 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/63099E73e2000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/565EA738861C60526FE8C039E93AD8331/logoncontroller.pdb) |
 | 6ef2f5...<!-- 6ef2f54d4685100e8873e8911fa2f1bd7afdc5cd36450727be382e6b9d613209 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/A0E8F4F68F50AB481C1D23D965294CEF1/logoncontroller.pdb) |
 

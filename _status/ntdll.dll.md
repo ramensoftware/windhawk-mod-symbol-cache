@@ -39,6 +39,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| c701ce...<!-- c701cec306931a855ffa6c4315c80638a4da730dce968a43555d6875ed3f06ab --> | 2026-11-13 | KB5136490 |  | 10.0.17763.9488 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/3C6D4968B8B2F31AAEF425F3D32A2CE11/ntdll.pdb) |
 | 4a722d...<!-- 4a722d6082226eb397c2e6a0d2d4bde424decdc7f986599604e98cc9c03576e5 --> | 2026-11-10 | KB5131085 |  | 10.0.17763.9479 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/CB15D09503C9607DF137EDBF561A99C51/ntdll.pdb) |
 | 2b0033...<!-- 2b00336d4081ac10803004eab6ee48cfadf73094d3ec1f6e1d951f6af8c1804a --> | 2026-10-26 | KB5134124 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/350B78171ef000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/6E28C5720C8428BEC33FE2A7C0D755BA1/ntdll.pdb) |
 
@@ -80,6 +81,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| babe1d...<!-- babe1dc5d926d880b9ffc745399492fc5993d553f103ee6e09b73f9e927a40ba --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7850 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/8B066EFFE377BA87BB586EF882AEAB331/ntdll.pdb) |
 | 5c6b79...<!-- 5c6b799b424d6bc929778b51852db00ac72dbc3432fad1a6bf88fdc25c0bfc93 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/7567442348EAC99DACB9D6261D5F96C11/ntdll.pdb) |
 | 5da0e3...<!-- 5da0e3b323d28d821716b6534fd00d0c1dd5eb8ab8bf3a523a23e2cb85a43cfa --> | 2026-10-26 | KB5134125 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.dll/CBD64E661e9000/ntdll.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/378B5197BF063B7F7B1C51BDFBC1D28D1/ntdll.pdb) |
 | 6df159...<!-- 6df1591abe89fc718453f6b2ba958fe7646bd9916f5c30a4d69c6f92aa2dcb3c --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/7B3D3EAC71C775189F3FD99A5DDB188B1/ntdll.pdb) |

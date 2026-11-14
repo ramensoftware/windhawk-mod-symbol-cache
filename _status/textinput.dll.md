@@ -62,7 +62,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c86d35...<!-- c86d3554afaa8ccb482a87e77d915f2ad26023652e424db2a3e3c0d436ca39b7 --> | 2026-11-10 | KB5131096 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6789C68Cdeb000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/1D9A46ECCB174AEEAB3D42333543700B1/TextInput.pdb) |
+| c86d35...<!-- c86d3554afaa8ccb482a87e77d915f2ad26023652e424db2a3e3c0d436ca39b7 --> | 2026-11-13 | KB5136493 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6789C68Cdeb000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/1D9A46ECCB174AEEAB3D42333543700B1/TextInput.pdb) |
 
 ## x64 (insider preview builds)
 

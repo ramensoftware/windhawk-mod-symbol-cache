@@ -48,13 +48,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ec57d1...<!-- ec57d1584f03a22f84db022c8f140adf01e365fb7305deec8ee07396f3f79b79 --> | 2026-11-10 | KB5131087 |  | 10.0.22621.6489 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/97DC031284000/dispbroker.desktop.dll) | ❓ |
+| ec57d1...<!-- ec57d1584f03a22f84db022c8f140adf01e365fb7305deec8ee07396f3f79b79 --> | 2026-11-13 | KB5136483 |  | 10.0.22621.6489 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/97DC031284000/dispbroker.desktop.dll) | ❓ |
 
 ### 10.0.19041
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 41a522...<!-- 41a5227e8b5cf31cf070b483d81b90ddcd226550750f435c41b1b10d270ecf1e --> | 2026-11-10 | KB5131096 |  | 10.0.19041.5848 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/69A8EFA16b000/dispbroker.desktop.dll) | ❓ |
+| 41a522...<!-- 41a5227e8b5cf31cf070b483d81b90ddcd226550750f435c41b1b10d270ecf1e --> | 2026-11-13 | KB5136493 |  | 10.0.19041.5848 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/69A8EFA16b000/dispbroker.desktop.dll) | ❓ |
 
 ## x64 (insider preview builds)
 

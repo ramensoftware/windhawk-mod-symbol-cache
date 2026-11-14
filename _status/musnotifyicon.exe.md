@@ -13,7 +13,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 66e55a...<!-- 66e55a185c11473a660d97ce922b48a993c830da93514844966a059c81015aee --> | 2026-11-10 | KB5131085 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/A85874615f000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/9296FF90D7FCAB5DB1780567631F7FB51/MusNotifyIcon.pdb) |
+| 66e55a...<!-- 66e55a185c11473a660d97ce922b48a993c830da93514844966a059c81015aee --> | 2026-11-13 | KB5136490 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/A85874615f000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/9296FF90D7FCAB5DB1780567631F7FB51/MusNotifyIcon.pdb) |
 
 ## ARM64 (release builds)
 
@@ -21,7 +21,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6ad908...<!-- 6ad9086bf17b9a959af65e19f9cf728d1d0abc92a8f26ee8471b12018f12b7bc --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/33454C666CE35EBAB04D3BFE7CA3C8041/MusNotifyIcon.pdb) |
+| 6ad908...<!-- 6ad9086bf17b9a959af65e19f9cf728d1d0abc92a8f26ee8471b12018f12b7bc --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/33454C666CE35EBAB04D3BFE7CA3C8041/MusNotifyIcon.pdb) |
 | b3b347...<!-- b3b347184916f2aa701ba7c99d5ccd7f421cafac3d3646848dbf6982098e95dd --> | 2026-10-26 | KB5134125 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/musnotifyicon.exe/CB3314F3a7000/musnotifyicon.exe) | [🟢](https://msdl.microsoft.com/download/symbols/MusNotifyIcon.pdb/50E2FFC62841D40D28B8EC0FB905BDFA1/MusNotifyIcon.pdb) |
 
 ## x64 (insider preview builds)

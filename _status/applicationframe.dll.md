@@ -32,7 +32,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3a5adc...<!-- 3a5adc4a05c792bb5b6d809b500e10ea4fcf173db7b471fb4b3a6d8923be69c4 --> | 2026-11-10 | KB5131085 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/F66F8BACa8000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/7624C8E220FBAA97DDDBE747240D0A471/ApplicationFrame.pdb) |
+| 3a5adc...<!-- 3a5adc4a05c792bb5b6d809b500e10ea4fcf173db7b471fb4b3a6d8923be69c4 --> | 2026-11-13 | KB5136490 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/F66F8BACa8000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/7624C8E220FBAA97DDDBE747240D0A471/ApplicationFrame.pdb) |
 
 ### 10.0.14393
 
@@ -69,7 +69,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 58be99...<!-- 58be99f48abf4d29a9aeb0e04b532c7061058bb35601eae551b393521a353954 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/0BE9CBB5b5000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/9420D4210698A7796E33E754BFB4401D1/ApplicationFrame.pdb) |
+| 58be99...<!-- 58be99f48abf4d29a9aeb0e04b532c7061058bb35601eae551b393521a353954 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/applicationframe.dll/0BE9CBB5b5000/applicationframe.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ApplicationFrame.pdb/9420D4210698A7796E33E754BFB4401D1/ApplicationFrame.pdb) |
 
 ## x64 (insider preview builds)
 

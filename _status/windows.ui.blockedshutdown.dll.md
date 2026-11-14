@@ -32,7 +32,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 444f95...<!-- 444f959ca4fa57c57fd121d6b0a0e3987149466a049ce5753c379f81520d43d0 --> | 2026-11-10 | KB5131085 |  | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/AFC7038E78000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/4183BCFBC42BFC4DF4A4D0015B4D29351/Windows.UI.BlockedShutdown.pdb) |
+| 444f95...<!-- 444f959ca4fa57c57fd121d6b0a0e3987149466a049ce5753c379f81520d43d0 --> | 2026-11-13 | KB5136490 |  | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/AFC7038E78000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/4183BCFBC42BFC4DF4A4D0015B4D29351/Windows.UI.BlockedShutdown.pdb) |
 
 ### 10.0.14393
 
@@ -68,7 +68,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a77ab6...<!-- a77ab6c167c9179f75f3cc09376c1be61d423e119a1e3cfadf73487533a0abda --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/FE53BA188b000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/51B08E5AB2C2181E447189B55B6C045C1/Windows.UI.BlockedShutdown.pdb) |
+| a77ab6...<!-- a77ab6c167c9179f75f3cc09376c1be61d423e119a1e3cfadf73487533a0abda --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7181 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.blockedshutdown.dll/FE53BA188b000/windows.ui.blockedshutdown.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Windows.UI.BlockedShutdown.pdb/51B08E5AB2C2181E447189B55B6C045C1/Windows.UI.BlockedShutdown.pdb) |
 
 ## x64 (insider preview builds)
 

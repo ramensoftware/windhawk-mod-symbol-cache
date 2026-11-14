@@ -42,8 +42,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 325fe2...<!-- 325fe25fe375b808d637628082b6335928312bf3496a3ba3535b05657d46d705 --> | 2026-11-10 | KB5131085 |  | 10.0.17763.9479 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/09B7011246000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/13B46E7CE754EE52304314334DE561341/user32.pdb) |
-| 008303...<!-- 00830300b85480f883077efc8dfe71e73c1a70c12c83ba51c6ab3aa5b31374d0 --> | 2026-11-10 | KB5131085 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/9FE5EBEE197000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/ED52A7697ED53BA04F6B049BBACDDC421/user32.pdb) |
+| 325fe2...<!-- 325fe25fe375b808d637628082b6335928312bf3496a3ba3535b05657d46d705 --> | 2026-11-13 | KB5136490 |  | 10.0.17763.9479 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/09B7011246000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/13B46E7CE754EE52304314334DE561341/user32.pdb) |
+| 008303...<!-- 00830300b85480f883077efc8dfe71e73c1a70c12c83ba51c6ab3aa5b31374d0 --> | 2026-11-13 | KB5136490 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/9FE5EBEE197000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/ED52A7697ED53BA04F6B049BBACDDC421/user32.pdb) |
 | 062b90...<!-- 062b90a872db8f79aa4ace4708caa6584de4e2e3502ef37755e9be08ef9edde3 --> | 2026-10-26 | KB5134124 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/09B7011246000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/13B46E7CE754EE52304314334DE561341/user32.pdb) |
 
 ### 10.0.14393
@@ -91,7 +91,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a95b03...<!-- a95b0396e2fae54d338a8f9b00dbe1a5f67bfab0afb26d1820b6e961e436c8d1 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/C1C9FE321a2000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/661E56BDBF5EEA0438A13A257494F6F81/user32.pdb) |
+| a95b03...<!-- a95b0396e2fae54d338a8f9b00dbe1a5f67bfab0afb26d1820b6e961e436c8d1 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/C1C9FE321a2000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/661E56BDBF5EEA0438A13A257494F6F81/user32.pdb) |
 | 44e6a7...<!-- 44e6a73f8e7b40ffec7178a457e694d184217ef4aed708c83a27355fef1ed499 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/A70026377498994419BBDA404D4E43551/user32.pdb) |
 
 ## x64 (insider preview builds)

@@ -19,7 +19,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 146706...<!-- 1467064c8d277cb91e485c52824b57d8a7f1f69fb1b740e084f5f86fcddf7f3e --> | 2026-11-10 | KB5131085 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/226B918A20b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/4EC32AB42275799F7E106A9FA5B0C39F1/pnidui.pdb) |
+| 146706...<!-- 1467064c8d277cb91e485c52824b57d8a7f1f69fb1b740e084f5f86fcddf7f3e --> | 2026-11-13 | KB5136490 | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/226B918A20b000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/4EC32AB42275799F7E106A9FA5B0C39F1/pnidui.pdb) |
 
 ### 10.0.14393
 
@@ -39,7 +39,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 56c9c4...<!-- 56c9c4e93ab94d114fbdf22cd2fc5078dbd076db2aac23f2c7e2b82d39370792 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/50890FBD21e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/87771F336D93794C6F33688458B070E01/pnidui.pdb) |
+| 56c9c4...<!-- 56c9c4e93ab94d114fbdf22cd2fc5078dbd076db2aac23f2c7e2b82d39370792 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/50890FBD21e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/87771F336D93794C6F33688458B070E01/pnidui.pdb) |
 | 5f3f35...<!-- 5f3f3553aea1a429a0b0378cddfc10088b11e615fbdf00d54b86c8b56c3dac05 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.dll/797CA01721e000/pnidui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/pnidui.pdb/1E52C612D15E0F6AA77F64A5A34095E81/pnidui.pdb) |
 
 ## x64 (insider preview builds)

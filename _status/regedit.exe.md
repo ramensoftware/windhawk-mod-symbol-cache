@@ -32,7 +32,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e15abe...<!-- e15abe77d7ded95990bcf17ed2471161068329e274eccc396e80b914b00e1c84 --> | 2026-11-10 | KB5131085 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/B1B20C239f000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/30419A797E6E54F14EEF2E34856E51E21/regedit.pdb) |
+| e15abe...<!-- e15abe77d7ded95990bcf17ed2471161068329e274eccc396e80b914b00e1c84 --> | 2026-11-13 | KB5136490 | 10.0.17763.1697 | 10.0.17763.1697 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/B1B20C239f000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/30419A797E6E54F14EEF2E34856E51E21/regedit.pdb) |
 
 ### 10.0.14393
 
@@ -66,7 +66,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 993ac5...<!-- 993ac5b60af1a30d54bc4b51923f66fe2fe8087ae6a4be4cfa5f19192acfb4e5 --> | 2026-11-10 | KB5131096 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/8B31CFEFa1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/7F818AA2F5A0B09D703EE20AC78DA9211/regedit.pdb) |
+| 993ac5...<!-- 993ac5b60af1a30d54bc4b51923f66fe2fe8087ae6a4be4cfa5f19192acfb4e5 --> | 2026-11-13 | KB5136493 | 10.0.19041.4355 | 10.0.19041.4355 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/8B31CFEFa1000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/7F818AA2F5A0B09D703EE20AC78DA9211/regedit.pdb) |
 
 ## x64 (insider preview builds)
 

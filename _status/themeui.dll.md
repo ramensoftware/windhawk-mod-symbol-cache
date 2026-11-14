@@ -33,7 +33,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 177706...<!-- 17770695af1678c9ce2f19a6839c7180abe9ea73a652cd85b6d537d1f0f54f87 --> | 2026-11-10 | KB5131085 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/760141632ca000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/B1ED3C65D2E232301EF61836745BE7C71/ThemeUI.pdb) |
+| 177706...<!-- 17770695af1678c9ce2f19a6839c7180abe9ea73a652cd85b6d537d1f0f54f87 --> | 2026-11-13 | KB5136490 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/760141632ca000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/B1ED3C65D2E232301EF61836745BE7C71/ThemeUI.pdb) |
 
 ### 10.0.14393
 
@@ -71,7 +71,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0c22a7...<!-- 0c22a787c599a510f48f6eb92bd30c413af3f5fa3fddbc3dac1eb3bb332cbaa3 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/3EAA3D3F7a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/4F0509C58EA0F6562065386309122BE41/ThemeUI.pdb) |
+| 0c22a7...<!-- 0c22a787c599a510f48f6eb92bd30c413af3f5fa3fddbc3dac1eb3bb332cbaa3 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/3EAA3D3F7a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/4F0509C58EA0F6562065386309122BE41/ThemeUI.pdb) |
 | c3c173...<!-- c3c173e8b81e45318c786575c1063beb73322b64ae44de8a9cbe3e26e2313b6a --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/566742AA7a000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/1E91F76BD66BBBEECB8E522C51CE55E81/ThemeUI.pdb) |
 
 ## x64 (insider preview builds)

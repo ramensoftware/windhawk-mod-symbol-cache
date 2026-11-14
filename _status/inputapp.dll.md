@@ -62,7 +62,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 52c1e0...<!-- 52c1e07656ea346aa77492b79793fd66cd7f29d16942a4ed48c08a9f91bf91f0 --> | 2026-11-10 | KB5131096 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6789C787120000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/2B3B8401F903410F9C1A5C096379439B1/InputApp.pdb) |
+| 52c1e0...<!-- 52c1e07656ea346aa77492b79793fd66cd7f29d16942a4ed48c08a9f91bf91f0 --> | 2026-11-13 | KB5136493 | 125.1700.0.0 | 10.0.19041.6280 | [🟢](https://msdl.microsoft.com/download/symbols/inputapp.dll/6789C787120000/inputapp.dll) | [🟢](https://msdl.microsoft.com/download/symbols/InputApp.pdb/2B3B8401F903410F9C1A5C096379439B1/InputApp.pdb) |
 
 ## x64 (insider preview builds)
 

@@ -13,7 +13,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 599436...<!-- 599436dd77d96909395ad66b8e612477fcf5a54bbd167daf249b76b69ed14b22 --> | 2026-11-10 | KB5131085 | 10.0.17763.5830 | 10.0.17763.5830 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/664D5FDD904000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/FA6C3617E1774048AE12FF2E35D36AA91/StartUI.pdb) |
+| 599436...<!-- 599436dd77d96909395ad66b8e612477fcf5a54bbd167daf249b76b69ed14b22 --> | 2026-11-13 | KB5136490 | 10.0.17763.5830 | 10.0.17763.5830 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/664D5FDD904000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/FA6C3617E1774048AE12FF2E35D36AA91/StartUI.pdb) |
 
 ### 10.0.14393
 
@@ -28,7 +28,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 47f32c...<!-- 47f32c7babd60f786accee755475d9eae2691e7af64daf64ee04a9ccbe07bb48 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/2A138ECCC87F67153E23C3B59CF3B7981/StartUI.pdb) |
+| 47f32c...<!-- 47f32c7babd60f786accee755475d9eae2691e7af64daf64ee04a9ccbe07bb48 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/2A138ECCC87F67153E23C3B59CF3B7981/StartUI.pdb) |
 | 99d053...<!-- 99d053c684e3bb4cf2c96dc1c4222498bcc91a23297570996ac4c9b901be8ae8 --> | 2026-10-26 | KB5134125 |  | 10.0.19041.7802 | [🟢](https://msdl.microsoft.com/download/symbols/startui.dll/674DC675b86000/startui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartUI.pdb/DDAB8BD5301258925192E6CCD3392D911/StartUI.pdb) |
 
 ## x64 (insider preview builds)

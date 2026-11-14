@@ -40,7 +40,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 0c7a98...<!-- 0c7a98d0fe4424b504e27bfcd90941dd4b1f6b8cb0c42717070a743d54b019df --> | 2026-11-10 | KB5131087 |  | 10.0.22621.5413 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/9AEC28337a000/dinput8.dll) | ❓ |
+| 0c7a98...<!-- 0c7a98d0fe4424b504e27bfcd90941dd4b1f6b8cb0c42717070a743d54b019df --> | 2026-11-13 | KB5136483 |  | 10.0.22621.5413 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/9AEC28337a000/dinput8.dll) | ❓ |
 
 ## x64 (insider preview builds)
 

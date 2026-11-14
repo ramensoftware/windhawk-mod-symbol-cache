@@ -32,7 +32,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ce0ba4...<!-- ce0ba4617a3ad4980d9750d6d35d0e3f845182a3ea841ea71cdb8f203a49d310 --> | 2026-11-10 | KB5131085 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/CBF30C786d000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/6BC26776F6AC51B46589762B42ED46561/stobject.pdb) |
+| ce0ba4...<!-- ce0ba4617a3ad4980d9750d6d35d0e3f845182a3ea841ea71cdb8f203a49d310 --> | 2026-11-13 | KB5136490 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/CBF30C786d000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/6BC26776F6AC51B46589762B42ED46561/stobject.pdb) |
 
 ### 10.0.14393
 
@@ -70,7 +70,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c635a8...<!-- c635a8ec7986d449dfb55baa476428d1d7959062e21f781cceb7515f7d3251bc --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/33EFBFB253000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/525BB0699B77ED8E1042553832E1998F1/stobject.pdb) |
+| c635a8...<!-- c635a8ec7986d449dfb55baa476428d1d7959062e21f781cceb7515f7d3251bc --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/33EFBFB253000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/525BB0699B77ED8E1042553832E1998F1/stobject.pdb) |
 | 4ececf...<!-- 4ececf94379316d495afd9baeaa62120200d03358f978f05ac64018bb38ee5c3 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/stobject.dll/7BAA54FA53000/stobject.dll) | [🟢](https://msdl.microsoft.com/download/symbols/stobject.pdb/31383F2B2257B6DDA2A15ACC334610B21/stobject.pdb) |
 
 ## x64 (insider preview builds)

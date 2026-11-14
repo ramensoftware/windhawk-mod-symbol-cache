@@ -33,7 +33,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 387e62...<!-- 387e620b88b693844e010c06d855226209bd4ed45c39039dfb64c58f736a3035 --> | 2026-11-10 | KB5131085 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/DC0998CD1b5000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/908779D701CF6009BFFA2595C5D70AF61/DUI70.pdb) |
+| 387e62...<!-- 387e620b88b693844e010c06d855226209bd4ed45c39039dfb64c58f736a3035 --> | 2026-11-13 | KB5136490 | 10.0.17763.9376 | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/DC0998CD1b5000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/908779D701CF6009BFFA2595C5D70AF61/DUI70.pdb) |
 
 ### 10.0.14393
 
@@ -72,6 +72,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 579e24...<!-- 579e247a47d3f0e55869979594933e06cc4faa1798cbecc0e44bc9acaad53bf3 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7850 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/8AF138A58AE00AF3C5F7CE175C2F17011/DUI70.pdb) |
 | b1c7d6...<!-- b1c7d6f9e123582a3942594b032fdc5f183168b2672eec359b8a0deb1931019b --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7844 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/2D18F1548A45C99B493396235712BE6C1/DUI70.pdb) |
 | 6794d3...<!-- 6794d361594b87a6030941f98b043c143a979445ad40d3b069e630662e77f096 --> | 2026-10-26 | KB5134125 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/dui70.dll/1B2FBF321b8000/dui70.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/2034C437B474EF6E8C9A23816FE152731/DUI70.pdb) |
 | aceb31...<!-- aceb313d4fabcf7ca50391bcc088d7b52f47351738b685462c75745c5a9803b1 --> | 2026-10-13 | KB5126657 |  | 10.0.19041.7802 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUI70.pdb/4C400961B1DD840EA8068C3B33682E561/DUI70.pdb) |

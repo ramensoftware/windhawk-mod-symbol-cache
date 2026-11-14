@@ -58,7 +58,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ebdf87...<!-- ebdf874337f5e7f9999fe81328d7c716b5174133b1a359d1940760cd2fdc71b2 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/59C9D785111000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/8470F6779C956B8F8F19BF3728266FB31/taskbarcpl.pdb) |
+| ebdf87...<!-- ebdf874337f5e7f9999fe81328d7c716b5174133b1a359d1940760cd2fdc71b2 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/59C9D785111000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/8470F6779C956B8F8F19BF3728266FB31/taskbarcpl.pdb) |
 
 ## x64 (insider preview builds)
 

@@ -32,7 +32,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c05d4a...<!-- c05d4ab7ed1e0a00d1d5fcf5e57dcfe286c0244f3961f063dfe175487fa21d33 --> | 2026-11-10 | KB5131085 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/8982DACD45000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/1E0133A9E24AC0604839EB29C5E5C8EA1/DesktopSwitcherDataModel.pdb) |
+| c05d4a...<!-- c05d4ab7ed1e0a00d1d5fcf5e57dcfe286c0244f3961f063dfe175487fa21d33 --> | 2026-11-13 | KB5136490 |  | 10.0.17763.9376 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/8982DACD45000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/1E0133A9E24AC0604839EB29C5E5C8EA1/DesktopSwitcherDataModel.pdb) |
 
 ## ARM64 (release builds)
 
@@ -62,7 +62,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| e932ca...<!-- e932ca8fe0f04c882a584c2c93f55286fba970fe3f6910e2c772adc613ea7ef7 --> | 2026-11-10 | KB5131096 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/6E15666A4d000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/E8CFEDE21A1F2E93A4BD63DEE880EBB61/DesktopSwitcherDataModel.pdb) |
+| e932ca...<!-- e932ca8fe0f04c882a584c2c93f55286fba970fe3f6910e2c772adc613ea7ef7 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/6E15666A4d000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/E8CFEDE21A1F2E93A4BD63DEE880EBB61/DesktopSwitcherDataModel.pdb) |
 
 ## x64 (insider preview builds)
 
