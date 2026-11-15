@@ -163,7 +163,6 @@
 | c8de43...<!-- c8de43196eaf543130b6b3182886cd77a4848eea6292cbe0f2e8ef647f9d983d --> | 2026-09-22 | 624f8f61...<!-- 624f8f61-fd5b-4df9-b992-122be8fab976 --> | 10.0.26100.9545 | 10.0.26100.9545 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/62533F6336000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/014E868D6262D84A0815A43DF04E2E1B1/UsoApi.pdb) |
 | cb779a...<!-- cb779a42a1b308f4c7360bc2db36da169ff6869fdae042fcb37e82a86f31d128 --> | 2026-09-18 | b5b12620...<!-- b5b12620-cbd9-4a69-9bb7-195869d6a48a --> | 10.0.26100.9502 | 10.0.26100.9502 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/C84327FF36000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/ED4173ACDEE8C56E0A6A57CF168DF2C11/UsoApi.pdb) |
 | 0a5b9f...<!-- 0a5b9f1c3925fce7b72512a219e3b11934451bb7dc4f1cb71d997e6c828c34c6 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> | 10.0.26100.9492 | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/9EFCDA0C36000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/ECACF0953E4BAA01F9531A3824C6AFEF1/UsoApi.pdb) |
-| ec8bfb...<!-- ec8bfb7fc7182ac5f096a25721391e8c6d2b97842bf60a5f86977e72a6ba737d --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9168 | 10.0.26100.9168 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/0518593935000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/01C69C7EAC2588DE2D3D8547D42E52BF1/UsoApi.pdb) |
 
 ### 10.0.22621
 

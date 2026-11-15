@@ -149,7 +149,6 @@
 | 1aa27b...<!-- 1aa27b9783a2aad54220bca93372fd3f87c0542140f9121c3dcb10f3b6d02efc --> | 2026-10-07 | 02efa92f...<!-- 02efa92f-f60e-42c2-b154-9eefbab96752 --> |  | 10.0.26100.9587 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/16AB96E337000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/5636259A0B2C2E5EE4E73A315F9FF6DC1/winbrand.pdb) |
 | 220cb7...<!-- 220cb784ddde8f6d11466ccf51f98c9a4d6405d0a9fa07acc186bd07154d59d2 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> |  | 10.0.26100.9502 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/1EE1491037000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/C81BB3D5D4D801EB32EFEE4130D452581/winbrand.pdb) |
 | 6c7b72...<!-- 6c7b724bbf1d36ffa6af3cc7b931c05f4e40f82a337ce63252ae5cf3a5803f9e --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> |  | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/C3FF117037000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/6FFB047EA339D1E611B501F4EDE0333C1/winbrand.pdb) |
-| dce55a...<!-- dce55a2bd8f961029215e2e3b72c81eb6a9f63c00905e4f6a536f99e43d52c08 --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/F5B2C6FB35000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/068906F10CBA0EF95E076F3D8F5F5E901/winbrand.pdb) |
 
 ### 10.0.22621
 

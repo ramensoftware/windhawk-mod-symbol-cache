@@ -161,7 +161,6 @@
 | af12bc...<!-- af12bc1de21c0c3e85afd0241e3a83ce9af75a20237a75595a4f3b44d3e40294 --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> |  | 10.0.26100.9568 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/E9AFB70398000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/4C425F82E6C3083593A77CB816BEB51B1/ThemeUI.pdb) |
 | 9d5243...<!-- 9d524309ef932d827dc8b06432cbe48f378dbee5b55c8232c6356c44854c53b5 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> |  | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/279C2DE098000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/120715B8392C304AF86BD24A94771F031/ThemeUI.pdb) |
 | 027460...<!-- 027460bf914530e8652908e895f2498bf16627dd032f8c5fbb453075a2b44d4c --> | 2026-09-18 | b5b12620...<!-- b5b12620-cbd9-4a69-9bb7-195869d6a48a --> |  | 10.0.26100.9352 | 🔴 | ❓ |
-| 7e714f...<!-- 7e714f3d95172ff84f42b5881544767e1305596ebe84e88b1f594077f21b040d --> | 2026-09-15 | 48dc4928...<!-- 48dc4928-11dd-4f6a-9e75-4070c89054b0 --> | 10.0.26100.9278 | 10.0.26100.9278 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/486070B997000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/749751630E5B1F4BED37FA1CB3F6A4661/ThemeUI.pdb) |
 
 ### 10.0.22621
 
