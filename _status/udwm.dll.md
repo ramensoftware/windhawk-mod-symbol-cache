@@ -31,7 +31,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 9d540d...<!-- 9d540d42c9c3247070d8779060afa8793c48b5a1dbe7276289254d44dd655363 --> | 2026-11-13 | KB5136493 |  | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/23BD15F9fe000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/9D1F8876EE7ED5EE12C92F6CB025BA221/uDWM.pdb) |
+| 9d540d...<!-- 9d540d42c9c3247070d8779060afa8793c48b5a1dbe7276289254d44dd655363 --> | 2026-11-13 | KB5136493 | 10.0.19041.7811 | 10.0.19041.7811 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/23BD15F9fe000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/9D1F8876EE7ED5EE12C92F6CB025BA221/uDWM.pdb) |
 | c6eec2...<!-- c6eec2e5ce7d0f6b3f2eae8facc1a29e2f62ea5d2e80b5ca48f3c6d3afb7f397 --> | 2026-10-13 | KB5126657 | 10.0.19041.7663 | 10.0.19041.7663 | [🟢](https://msdl.microsoft.com/download/symbols/udwm.dll/E163C083fe000/udwm.dll) | [🟢](https://msdl.microsoft.com/download/symbols/uDWM.pdb/B8B85705B05F65C5A5F28D0A724F47521/uDWM.pdb) |
 
 ### 10.0.17763
