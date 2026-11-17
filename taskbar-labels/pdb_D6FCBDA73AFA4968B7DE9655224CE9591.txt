@@ -1,0 +1,1 @@
+1#systemtray.dll#x86-64_1787880621_2138112#public: __cdecl winrt::impl::consume_WindowsUdk_UI_Shell_ITaskbarSettings5<struct winrt::WindowsUdk::UI::Shell::TaskbarSettings>::GroupingMode(void)const #558368

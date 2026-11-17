@@ -69,6 +69,7 @@
 | [uxtheme.dll](uxtheme.dll.md) |
 | [van.dll](van.dll.md) |
 | [winbrand.dll](winbrand.dll.md) |
+| [windows.internal.graphics.display.displayenhancementmanagement.dll](windows.internal.graphics.display.displayenhancementmanagement.dll.md) |
 | [windows.internal.hardwareconfirmator.dll](windows.internal.hardwareconfirmator.dll.md) |
 | [windows.storage.dll](windows.storage.dll.md) |
 | [windows.ui.blockedshutdown.dll](windows.ui.blockedshutdown.dll.md) |

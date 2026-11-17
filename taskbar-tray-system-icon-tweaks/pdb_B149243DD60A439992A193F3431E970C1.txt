@@ -1,1 +1,1 @@
-1#taskbar.view.dll#arm64_1724190603_11776000#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#270184
+1#taskbar.view.dll#arm64_1724190603_11776000#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#270184#private: static void __cdecl winrt::SystemTray::implementation::SystemTrayFrame::ConfigureWrapGridColumns(struct winrt::Windows::UI::Xaml::DependencyObject const &,unsigned int,double)#

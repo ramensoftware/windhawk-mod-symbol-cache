@@ -1,1 +1,1 @@
-1#1651093734#3756032#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#201512
+1#1651093734#3756032#public: __cdecl winrt::SystemTray::implementation::IconView::IconView(void)#201512#private: static void __cdecl winrt::SystemTray::implementation::SystemTrayFrame::ConfigureWrapGridColumns(struct winrt::Windows::UI::Xaml::DependencyObject const &,unsigned int,double)#

@@ -1,0 +1,1 @@
+1#searchux.ui.dll#x86-64_1791411516_12537856#public: virtual int __cdecl winrt::impl::produce<struct winrt::SearchUx::SearchUI::implementation::SearchButtonBase,struct winrt::SearchUx::SearchUI::ISearchButtonBase>::put_TaskbarItemGroupingMode(int)#10320160
