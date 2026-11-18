@@ -1,0 +1,1 @@
+1#2522704192#6086656#public: virtual long __stdcall CNewMenu::QueryContextMenu(struct HMENU__ *,unsigned int,unsigned int,unsigned int,unsigned int)#4733456#public: virtual long __stdcall CNewMenu::HandleMenuMsg(unsigned int,unsigned int,long)#4730944#public: virtual long __stdcall CNewMenu::HandleMenuMsg2(unsigned int,unsigned int,long,long *)#4730880

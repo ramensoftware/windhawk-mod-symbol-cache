@@ -1,0 +1,1 @@
+1#1629031556#1941504#void __cdecl DrawCommandRectangle(struct HWND__ *)#401908
