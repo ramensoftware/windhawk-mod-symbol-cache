@@ -111,12 +111,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 84e2e4...<!-- 84e2e45615f261214a597ef27e7115ce09d1f9f43ad6fa1f702031a2bb96fe1a --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/D4EDBDE9d2000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/0ADB4D5EE4174A045819A2D7DA7C7A2C1/CBDHSvc.pdb) |
 
-### 10.0.29671
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1e6ab7...<!-- 1e6ab7ea24e2b8fb0b93a7eddaf03549ee15b0a5d369290adf75f85eea779176 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/2133DC83d2000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/F3B06BDA653CA82A2EC72306F5767FB31/CBDHSvc.pdb) |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -163,7 +157,6 @@
 | efc3ea...<!-- efc3ea9bc15115176573bba4ea598c6ad6b807947e33254d283b6a5759e22812 --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> |  | 10.0.26100.9568 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/893CD0F6dd000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/F05D8CE4085E63EBBA5DE08B77544ECE1/CBDHSvc.pdb) |
 | 631a02...<!-- 631a02d2e94d24e61066c4f2d2d1a6c9cce6042ccd1d232c06efa051e1c035a6 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> |  | 10.0.26100.9352 | 🔴 | ❓ |
 | 8dd100...<!-- 8dd10024c64d45986f72651c25161ddeeb30e1c71006989bfebf56739079c01f --> | 2026-09-22 | 624f8f61...<!-- 624f8f61-fd5b-4df9-b992-122be8fab976 --> | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/86389A81dd000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/4A419514CCA6158ADD3A1C193A95B9B01/CBDHSvc.pdb) |
-| 5d68b2...<!-- 5d68b20960b503cf7dc4c25e44030ff88ab48f3c12ee18e924b937af20808d1c --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> |  | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/cbdhsvc.dll/159CDA91dd000/cbdhsvc.dll) | [🟢](https://msdl.microsoft.com/download/symbols/CBDHSvc.pdb/E00F90BE5DE3EF60A8F7CF2CED1658D81/CBDHSvc.pdb) |
 
 ### 10.0.22621
 

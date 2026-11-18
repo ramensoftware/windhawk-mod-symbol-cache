@@ -100,12 +100,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | edc7bf...<!-- edc7bf302be555770f92d40fac770a24e82f2fcdee630436b0f178f145166608 --> | 2026-10-02 | 5c6e84eb...<!-- 5c6e84eb-d808-40b4-8261-cb232666149a --> | 10.0.29680.1000 | 10.0.29680.1000 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.graphics.display.displayenhancementmanagement.dll/DE95B8B430000/windows.internal.graphics.display.displayenhancementmanagement.dll) | ❓ |
 
-### 10.0.29671
-
-| SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
-| ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| bf7986...<!-- bf7986cfc2e9d44fd9a0005beff96444f6082b858b2636a5b35223334a780af5 --> | 2026-09-18 | 27720ec5...<!-- 27720ec5-c721-4278-8c33-2ba9b48f5ee9 --> | 10.0.29671.1000 | 10.0.29671.1000 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.graphics.display.displayenhancementmanagement.dll/FF9499B730000/windows.internal.graphics.display.displayenhancementmanagement.dll) | ❓ |
-
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
@@ -150,7 +144,6 @@
 | 9f6264...<!-- 9f6264d7ffd406cb88c9ad587a83e1e8c6825f94d1069d1479f66317c08b1f5a --> | 2026-10-07 | 02efa92f...<!-- 02efa92f-f60e-42c2-b154-9eefbab96752 --> |  | 10.0.26100.9587 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.graphics.display.displayenhancementmanagement.dll/B5C919DC33000/windows.internal.graphics.display.displayenhancementmanagement.dll) | ❓ |
 | 644736...<!-- 6447369a77cece7e7633b4294c00db5871f62a863f3f4556dad08f2d75f7000f --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> |  | 10.0.26100.9568 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.graphics.display.displayenhancementmanagement.dll/6C90C69033000/windows.internal.graphics.display.displayenhancementmanagement.dll) | ❓ |
 | 14277a...<!-- 14277acee4cd711bb29b8a6d9b1bef5c2897a576fb164ba04fc04f368244cd7e --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> |  | 10.0.26100.9502 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.graphics.display.displayenhancementmanagement.dll/C7BB9FA533000/windows.internal.graphics.display.displayenhancementmanagement.dll) | ❓ |
-| 539090...<!-- 539090658200a7eb9e81e185b609468f4b6c832ba89b130cffb047d509c7f3d2 --> | 2026-09-18 | d7cd226f...<!-- d7cd226f-dc7e-4edf-b2ec-bbffc7b975a0 --> |  | 10.0.26100.9492 | [🔴](https://msdl.microsoft.com/download/symbols/windows.internal.graphics.display.displayenhancementmanagement.dll/8F72977433000/windows.internal.graphics.display.displayenhancementmanagement.dll) | ❓ |
 
 ### 10.0.22621
 
