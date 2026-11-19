@@ -156,7 +156,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 16320e...<!-- 16320ec19e2051a3c5c66caf674d9c854dbf74d8800f388079430ca6fffe4e7b --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
-| b5ff06...<!-- b5ff0655437f4753ed87115194974a1bdc6ce5146070f4359ef6f5296dcd11aa --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| b5ff06...<!-- b5ff0655437f4753ed87115194974a1bdc6ce5146070f4359ef6f5296dcd11aa --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/ExplorerFrame.pdb/463D44CC0DCE8B9D379C8911A3163B4A1/ExplorerFrame.pdb) |
 | 88f8ac...<!-- 88f8ac3c8554a4380e84b668b86da8d4eb07fb00e4f7a4008794db9be66a47a2 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | f0338c...<!-- f0338c3eafaa20e0458d8d38e0076f9889db7bc4da6133f249839581546d136d --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/explorerframe.dll/669A1ACF27d000/explorerframe.dll) | ❓ |
 | 451c3b...<!-- 451c3baa7b394f3f5d915720bb763e0e5a32f1d8256fad1b103baa1556d3804d --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |

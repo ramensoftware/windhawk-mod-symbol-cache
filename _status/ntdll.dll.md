@@ -163,7 +163,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 218c5f...<!-- 218c5f00a1b4222da25d1274d98b2305f8da9fc94df4b1c1ec53581e1f6671cb --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> | 10.0.26100.10013 | 10.0.26100.10013 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/0B9D6DDC26c000/ntdll.dll) | ❓ |
-| dcc8ce...<!-- dcc8cec3379925f2ac4f62dd2e087b8bc40491b85b2af3acf846e7bd80984300 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| dcc8ce...<!-- dcc8cec3379925f2ac4f62dd2e087b8bc40491b85b2af3acf846e7bd80984300 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/ntdll.pdb/C8729C72B09786ED9E04E06AA12398431/ntdll.pdb) |
 | 6d01a5...<!-- 6d01a55ce6bddc64d13f3120b1a5a9498892d22873fdb3ec549069c9eefeed5e --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.1746 | 10.0.26100.1746 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/DCE746FA263000/ntdll.dll) | ❓ |
 | 6e62de...<!-- 6e62dee2f82f04ac0a7ce1c1c3697f75108c480fbe60fb5de9cb98bcd4879b0d --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/ntdll.dll/A1D4DBE0255000/ntdll.dll) | ❓ |
 | 202d19...<!-- 202d1962dd10bc2b8324dd7feb38d1c9c71d8b7df2ae314d5bdfd0de5e4604ab --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |

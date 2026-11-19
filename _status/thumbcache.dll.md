@@ -140,7 +140,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 436e9a...<!-- 436e9afbf87b79a7b3b40c3ef8f7650c543dff78efab0cebd0fd3a1039720899 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
-| efcc1f...<!-- efcc1fe07000a7e803dde9eefcb5007e42294b0a31cfc733bf3fa1f9ad595dd3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| efcc1f...<!-- efcc1fe07000a7e803dde9eefcb5007e42294b0a31cfc733bf3fa1f9ad595dd3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/A232D2DD93B8B0567470CB8B9EFE1BF81/thumbcache.pdb) |
 | 727385...<!-- 727385df14b0526deec46be556e350c7ce06391fd6f5c03dfddd43688a790194 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 348b59...<!-- 348b59c336c282faed2e8476bfc87dc565d6781a653e6065d233b05387ea25e5 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/C92B036F70000/thumbcache.dll) | ❓ |
 | 62f73a...<!-- 62f73a01b338c0a6d32aa3e573b451c1a3cb9ebd382ae470e1f7b3b5a5cbdfa3 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |

@@ -143,7 +143,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | c2a80c...<!-- c2a80c1cb3340da904d43fb6d9139f8b77771e82a9e44e66d31e4d328cb45fb2 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> | 10.0.26100.10013 | 10.0.26100.10013 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/6B5E52B5fb000/logoncontroller.dll) | ❓ |
-| a3fc96...<!-- a3fc96fe3b0f8d1bbacc84820fade4827245a345bfe586b992a371e96b4124e3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| a3fc96...<!-- a3fc96fe3b0f8d1bbacc84820fade4827245a345bfe586b992a371e96b4124e3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/069A198D822F5A899F37D558CABDBC031/logoncontroller.pdb) |
 | 6f2c27...<!-- 6f2c27b2e61dd3e97f9eb65c6bad4e8ae040f9715df6805c9a424287d1c469d5 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 583159...<!-- 58315955d8d628028e12f7ef352ee63f0a8e957700a77a11fbb4c81ceed7920f --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/0294AD3Cd7000/logoncontroller.dll) | ❓ |
 | a53678...<!-- a5367848172a402b1856e0f915dc0c367af47d63516b8bf7e93a90dbe47eeeff --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |

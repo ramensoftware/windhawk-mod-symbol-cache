@@ -152,7 +152,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 0db4f6...<!-- 0db4f6f4f9c4fe975962a4a668ac800c08305cad8be948a104a35ae6a05bbb2b --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
-| ab0bf1...<!-- ab0bf1baaade582150bc10673bf4e5e263f51cc655bf6fe55a99c6486e2ae400 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| ab0bf1...<!-- ab0bf1baaade582150bc10673bf4e5e263f51cc655bf6fe55a99c6486e2ae400 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/twinui.pdb/411EE86832D2130573E4B36D0CA854811/twinui.pdb) |
 | 2edeab...<!-- 2edeabc8958bfd63046fb0a52f2058c91878c110543b7c63e36ae08698714723 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | e6145e...<!-- e6145e12369bc4401ec776dc0bb85954336281dd3adf0ed6893efffb6def58c9 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/twinui.dll/880FF0FA4dc000/twinui.dll) | ❓ |
 | 88b055...<!-- 88b055a6ca51b71d4d02c6c8d8a9b6daa6ab2d1028299bb1595c57d8a1093357 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |

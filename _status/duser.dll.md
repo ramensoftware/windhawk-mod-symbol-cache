@@ -123,7 +123,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 99db75...<!-- 99db75ce6804550d6b37ecfa188ab3d78f0c3e0b01109a312bcc2fef3b3fdf5d --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> | 10.0.26100.10013 | 10.0.26100.10013 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/26CB2483a3000/duser.dll) | ❓ |
-| 5b4145...<!-- 5b41458b99368a6783e8a3d46c7c0f630763fc47fc9b0b32a0e9365b98524968 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| 5b4145...<!-- 5b41458b99368a6783e8a3d46c7c0f630763fc47fc9b0b32a0e9365b98524968 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/9ACB367C1CE2B13C36203293976B57141/DUser.pdb) |
 | 6c4e57...<!-- 6c4e57103eaacbee0f4b6e18e17bbf169c785ef7e23f3d78d59e30fac9bfe00a --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | b4a97e...<!-- b4a97e7d664feaa872ce391d47d1a3e0d149dd193ce5c0496f62fe4175e74ca2 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/duser.dll/665B028099000/duser.dll) | ❓ |
 | 6f9397...<!-- 6f9397716d6a2ad271323d6a0ad9ad6fb461517dbeeae8e6df5220d5262d3003 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |

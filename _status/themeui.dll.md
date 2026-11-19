@@ -138,7 +138,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 5b9c25...<!-- 5b9c258e08c1c7e7012782e377a1acde493689081dc2f8f198b1ed410f97dc84 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
-| 63e531...<!-- 63e53170490db61083510e0d0dd23f66e0bbe906b3c595af4adad9d94e30dde3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | ❓ |
+| 63e531...<!-- 63e53170490db61083510e0d0dd23f66e0bbe906b3c595af4adad9d94e30dde3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/36374C3123921E721883DD124D24DB6E1/ThemeUI.pdb) |
 | 1826c8...<!-- 1826c80bff021831149c97778175732b66ecb1ae30490e09d75f5a8b1c18b07b --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 1331f1...<!-- 1331f15996cdfed1f7190be0b6e86ea4886500899ecc8621482c0e3a1ab9f8fd --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/themeui.dll/4F023C779b000/themeui.dll) | ❓ |
 | 12060c...<!-- 12060cba6dd00c51e1d0e6c2e0539f51e5bf0ad2c0f5483f88102e7d634c935e --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/themeui.dll/D754E16A98000/themeui.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ThemeUI.pdb/CE83DF279D011AD24A3EB9DBFEBE68BD1/ThemeUI.pdb) |

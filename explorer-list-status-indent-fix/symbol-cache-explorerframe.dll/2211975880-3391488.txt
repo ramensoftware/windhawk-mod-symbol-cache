@@ -1,0 +1,1 @@
+1#2211975880#3391488#public: virtual int __cdecl UIProperty::HasVisibleContent(void)#347936#public: static struct DirectUI::PropertyInfo const * __cdecl UIBase::VisibleMinSizeProp(void)#1146720

@@ -1,5 +1,7 @@
 # uiribbon.dll
 
+🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
+
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -90,7 +92,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 420444...<!-- 420444c8206c3f719784eee8502b21b3dfdd1832845dca62d82b666b57715275 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/uiribbon.dll/C4CA06D8416000/uiribbon.dll) | ❓ |
+| 420444...<!-- 420444c8206c3f719784eee8502b21b3dfdd1832845dca62d82b666b57715275 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/uiribbon.dll/C4CA06D8416000/uiribbon.dll) | [🟡](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/D14D6ACD7718B51B53DDB81DCB17DF851/UIRibbon.pdb) |
 | 2ec91a...<!-- 2ec91a0e47e8b2a96fc6a0f38ed2d73f836506207e96675177893d1f5c316d2e --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/uiribbon.dll/7C15F989416000/uiribbon.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UIRibbon.pdb/FEE19CF723B1A0AD09AC63E3F230B7851/UIRibbon.pdb) |
 
 ### 10.0.22621

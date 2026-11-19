@@ -1,0 +1,1 @@
+1#comctl32.dll#x86-64_3973279049_741376_ported#private: void __cdecl CToolTipsMgr::DoShowBubble(void)##public: __int64 __cdecl CToolTipsMgr::ToolTipsWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#

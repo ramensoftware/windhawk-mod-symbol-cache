@@ -151,7 +151,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4b0738...<!-- 4b073885558827c9416af4fa5990585cf90eacc9f6bd7addb7adf131a6642a02 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> | 7.0.26100.10013 | 7.0.26100.10013 | [🔴](https://msdl.microsoft.com/download/symbols/propsys.dll/AA9F8BCDf6000/propsys.dll) | ❓ |
-| 985033...<!-- 98503377bb1bb07d78d30c57b74c32a67803c35d781d21698582c13cc67aa59f --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 7.0.26100.10003 | 🔴 | ❓ |
+| 985033...<!-- 98503377bb1bb07d78d30c57b74c32a67803c35d781d21698582c13cc67aa59f --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 7.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/propsys.pdb/CE5A6273DA0F50D066EE2DE26024E79C1/propsys.pdb) |
 | 5b7dd6...<!-- 5b7dd62dd592c78c23917af02eab0377dcfe653b488f4dec3f71c1aa2b724016 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 7.0.26100.1746 | 🔴 | ❓ |
 | 5735d2...<!-- 5735d2c7413fc9295776e9830ed57f3f84ceccee65d7a25305e679796da20d54 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 7.0.26100.6 | 7.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/propsys.dll/03F84992f4000/propsys.dll) | ❓ |
 | c9e346...<!-- c9e34614f5cac39e2d17d4967901f5dff1e6ee984e685515485f16abb464616f --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 7.0.26100.10066 | 🔴 | ❓ |

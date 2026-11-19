@@ -1,5 +1,7 @@
 # dwmghost.dll
 
+🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
+
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -121,7 +123,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 4439c2...<!-- 4439c2628768345be7870dcbba19087b897e18b8ebcf7c467eb7eda236e393fd --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.8951 | 🔴 | ❓ |
-| 992850...<!-- 992850137b879d7be7fe0b4a21a6d997451c02f8f79095b41787940436d71ca6 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.8941 | 🔴 | ❓ |
+| 992850...<!-- 992850137b879d7be7fe0b4a21a6d997451c02f8f79095b41787940436d71ca6 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.8941 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/9DCD3A2C1D95E51C38323A0C566FE04B1/dwmghost.pdb) |
 | 781ad4...<!-- 781ad425eb09db651d95a11e982b2980c03eb224115ac5204d2702f2dcc35a39 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | bf24b8...<!-- bf24b867fe717b27e0cfed77c181fdea25fbbb5958268d2924b2d2a865df4e69 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/dwmghost.dll/C58D659118000/dwmghost.dll) | ❓ |
 | 6464dd...<!-- 6464dd50a669093574bb17266cb441c036188878e7f8ade6c9ff19c2df2e2f17 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.dll/21C4B9E718000/dwmghost.dll) | [🟢](https://msdl.microsoft.com/download/symbols/dwmghost.pdb/CBC36A7FBFDE5122D42C3281FE7F7E181/dwmghost.pdb) |

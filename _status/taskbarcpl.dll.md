@@ -1,5 +1,7 @@
 # taskbarcpl.dll
 
+🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
+
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -115,7 +117,7 @@
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 2589e5...<!-- 2589e5a6027b8947ed59e7fa410505806fbd4f2df2d9610b233b944ceb651f96 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.8951 | 🔴 | ❓ |
-| 3a7037...<!-- 3a7037bf37f3e77edbab28a97c142efa7966bdd55796a72e0bff778946cd26fd --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.8941 | 🔴 | ❓ |
+| 3a7037...<!-- 3a7037bf37f3e77edbab28a97c142efa7966bdd55796a72e0bff778946cd26fd --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.8941 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/00FB227CAB6A36A3B510D9E960CA77E71/taskbarcpl.pdb) |
 | 57e71c...<!-- 57e71c937562e3e06188cc652f8e7cd9909f3953f3084f1c3e65f38612139bf1 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | f03f33...<!-- f03f338384948472318908bb1735e66a5c2fa2f6476f445fed0eaedfb83aa5a9 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/06A38DA110a000/taskbarcpl.dll) | ❓ |
 | f78fcf...<!-- f78fcf5f3b0df61c13efffdf3ebdedc4792d68f734fbf089dd0ba5dc610e1634 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/D316012812e000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/468D974A7C6AEEC75C79ED265D8C02A91/taskbarcpl.pdb) |
