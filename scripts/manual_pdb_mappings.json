@@ -5,6 +5,42 @@
       "pdb_fingerprint": "A272FF3A4F39D809014B69DA40F204A71"
     }
   },
+  "fileexplorerextensions.dll": {
+    "1793053482-8261632": {
+      "pdb_filename": "FileExplorerExtensions.pdb",
+      "pdb_fingerprint": "8FCA603D98814F66BA6665638F6025681"
+    }
+  },
+  "inputapp.dll": {
+    "1793011409-1396736": {
+      "pdb_filename": "InputApp.pdb",
+      "pdb_fingerprint": "EE7DD5A8A1B04283A51289D0AC8F3A4D1"
+    }
+  },
+  "searchux.ui.dll": {
+    "1794446750-12509184": {
+      "pdb_filename": "SearchUx.UI.pdb",
+      "pdb_fingerprint": "AD8660902C0D450787728088E0F11FCA1"
+    }
+  },
+  "snaplayout.dll": {
+    "1793222600-888832": {
+      "pdb_filename": "SnapLayout.pdb",
+      "pdb_fingerprint": "A43A13365EA14DC08D9395DD0FF718B21"
+    }
+  },
+  "startmenu.dll": {
+    "1794439420-4980736": {
+      "pdb_filename": "StartMenu.pdb",
+      "pdb_fingerprint": "BAA78A69F2C94297AFF3D81604F5BC121"
+    }
+  },
+  "systemtray.dll": {
+    "1792800938-2113536": {
+      "pdb_filename": "SystemTray.pdb",
+      "pdb_fingerprint": "ADBB1022E7494C0A9A302251BCF8FD3D1"
+    }
+  },
   "taskbar.dll": {
     "1255184617-3198976": {
       "pdb_filename": "Taskbar.pdb",
@@ -25,6 +61,18 @@
     "2276112077-3194880": {
       "pdb_filename": "Taskbar.pdb",
       "pdb_fingerprint": "C1FF261D350947724E8BFEAC2AD5D8DD1"
+    }
+  },
+  "taskbar.view.dll": {
+    "1793063923-10072064": {
+      "pdb_filename": "Taskbar.View.pdb",
+      "pdb_fingerprint": "F006349087044EE4AF8D328EDFB47BC51"
+    }
+  },
+  "textinput.dll": {
+    "1793011293-10952704": {
+      "pdb_filename": "TextInput.pdb",
+      "pdb_fingerprint": "9D65158C96A4438F97AC4F4BE30D902F1"
     }
   },
   "udwm.dll": {
