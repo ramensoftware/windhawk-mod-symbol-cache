@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_1852390686_3403776_ported#private: long __cdecl CShellBrowser::_MayTranslateAccelerator(struct tagMSG *,int)#877832

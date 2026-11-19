@@ -1,0 +1,1 @@
+1#dispbroker.desktop.dll#x86-64_3211825523_1224704_ported#public: __cdecl Microsoft::Windows::ColorManagement::ColorManagementRpcServer::ColorManagementRpcServerImpl::ColorManagementRpcServerImpl(class std::shared_ptr<class Microsoft::Windows::ColorManagement::ColorManagementRpcServer::ColorManagementRpcServerPolicy> const &,bool)#131088#unsigned long g_GdiRampLimit#1141736

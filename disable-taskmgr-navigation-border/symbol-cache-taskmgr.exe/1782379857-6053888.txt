@@ -1,0 +1,1 @@
+1#1782379857#6053888#private: void __cdecl AtmView::SetBorderUponNavigationForColumnHeader(void)#1506896#private: void __cdecl AtmView::SetBorderUponNavigationForListRow(void)#1507100#private: void __cdecl AtmView::SetBorderUponNavigationForListRowWithColumnTraversal(void)#1507472#void __cdecl SetBorderUponNavigatingIntoElement(class DirectUI::Element *)#1363324

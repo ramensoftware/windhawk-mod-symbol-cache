@@ -1,12 +1,14 @@
 # logoncontroller.dll
 
+🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
+
 ## x64 (release builds)
 
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| d9ef32...<!-- d9ef32a04b802937d0311eb1c77e7a7c03ee4b6c310834686d9a1ad1d27e0367 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/F85F96C20F7288E91D480867260E18F91/logoncontroller.pdb) |
+| d9ef32...<!-- d9ef32a04b802937d0311eb1c77e7a7c03ee4b6c310834686d9a1ad1d27e0367 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/56F3FB28fb000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/F85F96C20F7288E91D480867260E18F91/logoncontroller.pdb) |
 | 5f8959...<!-- 5f8959bb8de980b1f5269e2309c4c6443ad0f95caf48cb755f649e919eb4b31b --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/A38296AFfb000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/9D21F9C094AEA90D5961817A2884DEFF1/logoncontroller.pdb) |
 | 3438be...<!-- 3438beae6c88baee117b5d517ffb30308f420567070b06ce7a9ea6b3db2bfe0a --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/4F22C1A0f0000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/0168BBB37246754D4C036196169909BA1/logoncontroller.pdb) |
 
@@ -14,7 +16,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6be3dc...<!-- 6be3dc877d20d456ee786abac2e1a86916e7a1425f342d11d428a70dd60d4d85 --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | 🔴 | ❓ |
+| 6be3dc...<!-- 6be3dc877d20d456ee786abac2e1a86916e7a1425f342d11d428a70dd60d4d85 --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/58B0DD1Efb000/logoncontroller.dll) | [🟡](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/70D9B6E639124E428681AA7C4A50F4141/logoncontroller.pdb) |
 | 867127...<!-- 8671278dfc36a9009f655e3255f6723cc3f1ed0c2ec73c787a6d20bee5b8210b --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/39AA5F78fc000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/C797328D4068AA05797EA96B7D73D2801/logoncontroller.pdb) |
 | a56b63...<!-- a56b63841a8bd2a5ae9a7529401cd23e2b1513eb96138406e24bc60cc90e0dbb --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/8CDD4686fe000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/CE3A45AF18F05E8CB0F410F32117F0E11/logoncontroller.pdb) |
 
@@ -144,13 +146,14 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 6be3dc...<!-- 6be3dc877d20d456ee786abac2e1a86916e7a1425f342d11d428a70dd60d4d85 --> | 2026-11-19 | 969fbd50...<!-- 969fbd50-31b0-4242-92d3-90ed574dee9b --> |  | 10.0.26100.10068 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/70D9B6E639124E428681AA7C4A50F4141/logoncontroller.pdb) |
+| d75510...<!-- d75510376ada1c19921b0821a6d4b10edf337b56558162c2945dbbd9147371df --> | 2026-11-19 | 969fbd50...<!-- 969fbd50-31b0-4242-92d3-90ed574dee9b --> | 10.0.26100.1301 | 10.0.26100.1301 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/A94669E2dd000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/8ED525E3F4B50CB4C4EC846C632366281/logoncontroller.pdb) |
+| c03919...<!-- c03919ae6463a9542754545ac4dff53f3da569d89e1ff1dbe884e5b3b78a719b --> | 2026-11-19 | 969fbd50...<!-- 969fbd50-31b0-4242-92d3-90ed574dee9b --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/01110634d7000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/4B68792519231D331021228E38E73FD31/logoncontroller.pdb) |
 | c2a80c...<!-- c2a80c1cb3340da904d43fb6d9139f8b77771e82a9e44e66d31e4d328cb45fb2 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> | 10.0.26100.10013 | 10.0.26100.10013 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/6B5E52B5fb000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/CF47393D7B8F5F8993E5B08A5641AFDE1/logoncontroller.pdb) |
 | a3fc96...<!-- a3fc96fe3b0f8d1bbacc84820fade4827245a345bfe586b992a371e96b4124e3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/069A198D822F5A899F37D558CABDBC031/logoncontroller.pdb) |
 | 6f2c27...<!-- 6f2c27b2e61dd3e97f9eb65c6bad4e8ae040f9715df6805c9a424287d1c469d5 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 583159...<!-- 58315955d8d628028e12f7ef352ee63f0a8e957700a77a11fbb4c81ceed7920f --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/0294AD3Cd7000/logoncontroller.dll) | ❓ |
 | a53678...<!-- a5367848172a402b1856e0f915dc0c367af47d63516b8bf7e93a90dbe47eeeff --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |
-| d75510...<!-- d75510376ada1c19921b0821a6d4b10edf337b56558162c2945dbbd9147371df --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.1301 | 10.0.26100.1301 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/A94669E2dd000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/8ED525E3F4B50CB4C4EC846C632366281/logoncontroller.pdb) |
-| c03919...<!-- c03919ae6463a9542754545ac4dff53f3da569d89e1ff1dbe884e5b3b78a719b --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/01110634d7000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/4B68792519231D331021228E38E73FD31/logoncontroller.pdb) |
 | 867127...<!-- 8671278dfc36a9009f655e3255f6723cc3f1ed0c2ec73c787a6d20bee5b8210b --> | 2026-11-10 | e67f397c...<!-- e67f397c-56e7-44a2-9566-0f1af5c01841 --> | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/39AA5F78fc000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/C797328D4068AA05797EA96B7D73D2801/logoncontroller.pdb) |
 | a56b63...<!-- a56b63841a8bd2a5ae9a7529401cd23e2b1513eb96138406e24bc60cc90e0dbb --> | 2026-11-10 | 2ad1d9f3...<!-- 2ad1d9f3-b3dd-4014-9eb1-152e1ee1dbd9 --> | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/8CDD4686fe000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/CE3A45AF18F05E8CB0F410F32117F0E11/logoncontroller.pdb) |
 | f0d671...<!-- f0d671f19a6a6d5ffb66dd89c15504835173438065de0b663302b5ba941faa25 --> | 2026-11-09 | ad797313...<!-- ad797313-9cfd-46b9-8dab-a6a5eab0e3b7 --> |  | 10.0.26100.9836 | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.dll/98D4E7EAfc000/logoncontroller.dll) | [🟢](https://msdl.microsoft.com/download/symbols/logoncontroller.pdb/3D7063B02F0556041643DEAAC6A0D7161/logoncontroller.pdb) |

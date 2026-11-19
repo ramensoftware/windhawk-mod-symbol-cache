@@ -1,12 +1,14 @@
 # controlcenter.dll
 
+🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
+
 ## x64 (release builds)
 
 ### 10.0.28000
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f4006d...<!-- f4006df9a1d0d77a828a98d3ee4cfba3118fddda01261de9457bb7ab840e8e9b --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/00373CAD201A8F5FBDBE06C6090A3E561/ControlCenter.pdb) |
+| f4006d...<!-- f4006df9a1d0d77a828a98d3ee4cfba3118fddda01261de9457bb7ab840e8e9b --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/954D31FB43e000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/00373CAD201A8F5FBDBE06C6090A3E561/ControlCenter.pdb) |
 | 94b549...<!-- 94b549fec0339055d9383ec01397bd5cb8d534deed7ecc978edfae897f5e67ff --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B6A4CC9E437000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/B98A9A0D43CFFC1043FA1896F5073F5D1/ControlCenter.pdb) |
 | 1753c3...<!-- 1753c39539ef555055768664e5ef0b39881c0f1f41196705120c9c22ddd906bb --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/DC983834400000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/64B89726EF979105CCACF39836D928911/ControlCenter.pdb) |
 
@@ -14,7 +16,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 4e14be...<!-- 4e14bea4f7ed4f55c6bf99e6821a703cf84fc4c5a5c5080e823547e991c1c87f --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | 🔴 | ❓ |
+| 4e14be...<!-- 4e14bea4f7ed4f55c6bf99e6821a703cf84fc4c5a5c5080e823547e991c1c87f --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/A5850DF343a000/controlcenter.dll) | [🟡](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/B15CD5DCBB24A13A3FF3F3749648DBBF1/ControlCenter.pdb) |
 | 61fb60...<!-- 61fb606b734724b6172fc00e97caf19735a3b1b93a9648e9c8b7c57336c8d4cb --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6FFA5DE041d000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/7938913B0445A1F8F50C355CC97647421/ControlCenter.pdb) |
 | 0a9a84...<!-- 0a9a84b0b7ed6110a410bd76150ce0da04dc29b901838155ab7ce2d8bf2ffb51 --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7162BCEC3ea000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/69549732A6CF1C43FDF7ED1FD2227E421/ControlCenter.pdb) |
 
@@ -100,12 +102,13 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4e14be...<!-- 4e14bea4f7ed4f55c6bf99e6821a703cf84fc4c5a5c5080e823547e991c1c87f --> | 2026-11-19 | 969fbd50...<!-- 969fbd50-31b0-4242-92d3-90ed574dee9b --> |  | 10.0.26100.10068 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/B15CD5DCBB24A13A3FF3F3749648DBBF1/ControlCenter.pdb) |
+| eefa8b...<!-- eefa8b94aa00f2de94fd086963df42ed63429f6cbd257a0a50b074475b487202 --> | 2026-11-19 | 969fbd50...<!-- 969fbd50-31b0-4242-92d3-90ed574dee9b --> |  | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7DF442883ab000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/02EF3FBB501A85E0A07070D09D0E7A011/ControlCenter.pdb) |
+| 3ce720...<!-- 3ce72053c5b5f830f55776638bb39eee74835393fd84682efb54e9157c0d83b0 --> | 2026-11-19 | 969fbd50...<!-- 969fbd50-31b0-4242-92d3-90ed574dee9b --> |  | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B0DAB4E9390000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/AF62B84E5C00227F03F6274FBAE1E11C1/ControlCenter.pdb) |
 | 65fcc0...<!-- 65fcc021577be80497a8371ad7128bbad31d2234ac849fb5c658e99e475ab2c9 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6C1DC4C943a000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/6DF7EA70B89B13673B6ACC238C4B91BE1/ControlCenter.pdb) |
 | 4b36ae...<!-- 4b36ae289d7cc0bd658d9f8eaac7b27427ab3c991c6c20b6c60a0a2cc7144d0d --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | [🔴](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B1D28FC943a000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/8C0B311DE95089CC1800AEF87CB312011/ControlCenter.pdb) |
 | 093bf7...<!-- 093bf7da2fd0756da1134b910e921a18777bc87e12e6bb460b92ef29ba255c92 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
-| 3ce720...<!-- 3ce72053c5b5f830f55776638bb39eee74835393fd84682efb54e9157c0d83b0 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.6 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B0DAB4E9390000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/AF62B84E5C00227F03F6274FBAE1E11C1/ControlCenter.pdb) |
 | 7afbb6...<!-- 7afbb6856275ab936005582bf306a20cc4536a1b736dc26bf611ad0b28a3aa33 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.10066 | 🔴 | ❓ |
-| eefa8b...<!-- eefa8b94aa00f2de94fd086963df42ed63429f6cbd257a0a50b074475b487202 --> | 2026-11-13 | 0344497f...<!-- 0344497f-5f08-49b5-9eae-6adf91923a2e --> |  | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7DF442883ab000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/02EF3FBB501A85E0A07070D09D0E7A011/ControlCenter.pdb) |
 | 61fb60...<!-- 61fb606b734724b6172fc00e97caf19735a3b1b93a9648e9c8b7c57336c8d4cb --> | 2026-11-10 | e67f397c...<!-- e67f397c-56e7-44a2-9566-0f1af5c01841 --> |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6FFA5DE041d000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/7938913B0445A1F8F50C355CC97647421/ControlCenter.pdb) |
 | 0a9a84...<!-- 0a9a84b0b7ed6110a410bd76150ce0da04dc29b901838155ab7ce2d8bf2ffb51 --> | 2026-11-10 | 2ad1d9f3...<!-- 2ad1d9f3-b3dd-4014-9eb1-152e1ee1dbd9 --> |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7162BCEC3ea000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/69549732A6CF1C43FDF7ED1FD2227E421/ControlCenter.pdb) |
 | b686d9...<!-- b686d90df906ba39bb35fcd553843bf0c246f684cae1cf6f5e74762ff3d44b48 --> | 2026-11-09 | ad797313...<!-- ad797313-9cfd-46b9-8dab-a6a5eab0e3b7 --> |  | 10.0.26100.9871 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/FEB96358430000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/0CD30F13D0282B4D3D62513DA0306C6C1/ControlCenter.pdb) |
