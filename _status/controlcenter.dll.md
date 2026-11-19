@@ -13,6 +13,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4e14be...<!-- 4e14bea4f7ed4f55c6bf99e6821a703cf84fc4c5a5c5080e823547e991c1c87f --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | 🔴 | ❓ |
 | 61fb60...<!-- 61fb606b734724b6172fc00e97caf19735a3b1b93a9648e9c8b7c57336c8d4cb --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/6FFA5DE041d000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/7938913B0445A1F8F50C355CC97647421/ControlCenter.pdb) |
 | 0a9a84...<!-- 0a9a84b0b7ed6110a410bd76150ce0da04dc29b901838155ab7ce2d8bf2ffb51 --> | 2026-10-26 | KB5134133 |  | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/7162BCEC3ea000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/69549732A6CF1C43FDF7ED1FD2227E421/ControlCenter.pdb) |
 

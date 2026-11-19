@@ -15,7 +15,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| f78fcf...<!-- f78fcf5f3b0df61c13efffdf3ebdedc4792d68f734fbf089dd0ba5dc610e1634 --> | 2026-11-10 | KB5132061 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/D316012812e000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/468D974A7C6AEEC75C79ED265D8C02A91/taskbarcpl.pdb) |
+| f78fcf...<!-- f78fcf5f3b0df61c13efffdf3ebdedc4792d68f734fbf089dd0ba5dc610e1634 --> | 2026-11-19 | KB5132057 | 10.0.26100.8115 | 10.0.26100.8115 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/D316012812e000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/468D974A7C6AEEC75C79ED265D8C02A91/taskbarcpl.pdb) |
 
 ### 10.0.22621
 
@@ -135,8 +135,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 3e231b...<!-- 3e231ba5534611794e12165098de23d38e65de18ad20453caf417a0e2b7e26dd --> | 2026-11-13 | b21dbf17...<!-- b21dbf17-6aef-48be-b243-00f57c3aa136 --> | 10.0.19041.5794 | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/5BA089D3111000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/C0FE1101F68213B5F65260A111962FE31/taskbarcpl.pdb) |
-| b371b8...<!-- b371b89721b502ae06877b6d71a46ba61fc42803c9e51b0d3071c2c1b36f9d0c --> | 2026-11-13 | b21dbf17...<!-- b21dbf17-6aef-48be-b243-00f57c3aa136 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/86A442DFf7000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/F6856A7AC9B4927868ACD7CC137CFE6B1/taskbarcpl.pdb) |
+| 3e231b...<!-- 3e231ba5534611794e12165098de23d38e65de18ad20453caf417a0e2b7e26dd --> | 2026-11-19 | 40a04947...<!-- 40a04947-cc36-4c9a-9b1f-953c817e6030 --> | 10.0.19041.5794 | 10.0.19041.5794 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/5BA089D3111000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/C0FE1101F68213B5F65260A111962FE31/taskbarcpl.pdb) |
+| b371b8...<!-- b371b89721b502ae06877b6d71a46ba61fc42803c9e51b0d3071c2c1b36f9d0c --> | 2026-11-19 | 40a04947...<!-- 40a04947-cc36-4c9a-9b1f-953c817e6030 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/86A442DFf7000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/F6856A7AC9B4927868ACD7CC137CFE6B1/taskbarcpl.pdb) |
 
 ### 10.0.17763
 

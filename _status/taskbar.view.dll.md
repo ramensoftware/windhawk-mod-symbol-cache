@@ -13,6 +13,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 3f106b...<!-- 3f106b59253f3144c07c9cbd7a17d70aec81cb12b155bd2b7b53fad434fa65cc --> | 2026-11-19 | KB5132057 | 2610.27000.0.0 | 10.0.26100.10075 | [🔴](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6ADFFBF399b000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/F006349087044EE4AF8D328EDFB47BC51/Taskbar.View.pdb) |
 | 7340a3...<!-- 7340a3a3532a9daff47f824e4c5f08a3631dfca5ef98100238a6f6610abb7fd9 --> | 2026-11-10 | KB5132061 | 2609.12001.100.0 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6AB99C98983000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/26B7A7A5574D4B13A1827AF453857F8B1/Taskbar.View.pdb) |
 | cf7e00...<!-- cf7e002533def6628ba121481a703a06fc30accaa5e5cadd1a412f65f2d8ba77 --> | 2026-10-26 | KB5134133 | 2608.26001.200.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/taskbar.view.dll/6AA3487A997000/taskbar.view.dll) | [🟢](https://msdl.microsoft.com/download/symbols/Taskbar.View.pdb/24534974E00E46A58F69F60D0CEB9BD91/Taskbar.View.pdb) |
 
