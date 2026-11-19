@@ -69,6 +69,12 @@
       "pdb_fingerprint": "F006349087044EE4AF8D328EDFB47BC51"
     }
   },
+  "taskmgr.exe": {
+    "1782379857-6053888": {
+      "pdb_filename": "Taskmgr.pdb",
+      "pdb_fingerprint": "DCFB7977C5A3C9ED9BCE434FC1B306AA1"
+    }
+  },
   "textinput.dll": {
     "1793011293-10952704": {
       "pdb_filename": "TextInput.pdb",
