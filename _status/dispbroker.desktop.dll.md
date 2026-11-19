@@ -119,7 +119,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 88b04a...<!-- 88b04a757b33b1036c3a45c011f99b21d4548cfccc8c5543de2f9bee07e3dece --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
+| 88b04a...<!-- 88b04a757b33b1036c3a45c011f99b21d4548cfccc8c5543de2f9bee07e3dece --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/AA15EE2203420528ACD9B9E234209A511/DispBroker.Desktop.pdb) |
 | 836dd1...<!-- 836dd13e24b60dc3fd9314bea3440c80e06a2c656d510fafda94f0c3f9ea22b0 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.10003 | 10.0.26100.10003 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/25BBEEDD12b000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/8DDC51DC307DD16D5FC01FBB35F32D481/DispBroker.Desktop.pdb) |
 | 74d4ba...<!-- 74d4ba7a6a4c6e5e66d4d266ec29a0ba0f47b044ae6081620c3adf61982b03aa --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | c235de...<!-- c235de2f0462609d71366ea133e3053db6c1968a67f0cbe9c20e1f641e567c6d --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/2F548FD7d2000/dispbroker.desktop.dll) | ❓ |

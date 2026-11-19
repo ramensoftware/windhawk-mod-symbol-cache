@@ -127,7 +127,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 696cc4...<!-- 696cc4d1db396ab489ac30fc8746b5a06391d6028199161bce8f82a0f7477498 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
+| 696cc4...<!-- 696cc4d1db396ab489ac30fc8746b5a06391d6028199161bce8f82a0f7477498 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/0CA874F5A68230C5C9B2DD7AA16CFB2B1/DesktopSwitcherDataModel.pdb) |
 | 5ef76b...<!-- 5ef76ba728d5ce4625aa1536a14393e6a5040cd3283b45195f31b7b39407c27f --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/B930287B468195C3AF4EC5DAB112D0BE1/DesktopSwitcherDataModel.pdb) |
 | 81e74d...<!-- 81e74d461ffb3905a3bcc158431b893d51baaafc96006fd5023c9d5a2d39c6e5 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | 93e07d...<!-- 93e07de8ec8678e4d73aa53a844bbc6b18107fdfc1e5afce6ad29ca177d677e6 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/F1D36FBF55000/desktopswitcherdatamodel.dll) | ❓ |

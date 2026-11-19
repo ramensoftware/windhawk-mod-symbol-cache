@@ -132,7 +132,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| aa819a...<!-- aa819ae68168dd54e28678689367949023adfb590dd5f795fabf7775c8cab90c --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🔴 | ❓ |
+| aa819a...<!-- aa819ae68168dd54e28678689367949023adfb590dd5f795fabf7775c8cab90c --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/4F676373243F605D65A535974BDB16FB1/windows.ui.fileexplorer.pdb) |
 | 5201ed...<!-- 5201edb524b677efaa5e856c7bfbea6e3325044e499fe8c52b9cc2f4ea2e5c5a --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.10003 | 🔴 | [🟢](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.pdb/6DE34B66BE10B190933DC5670A83EF2A1/windows.ui.fileexplorer.pdb) |
 | 367769...<!-- 3677690223e92a7c9186bd46267ab9d532986afa1c4cc0acea23a702d63ef3c3 --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> |  | 10.0.26100.1746 | 🔴 | ❓ |
 | f5fe5d...<!-- f5fe5d3156313f9697ec8dbca8f52ecbf91aa6672e00522adcef6fd24386317a --> | 2026-11-16 | 5f5dba53...<!-- 5f5dba53-64ac-4815-bbdd-0e63ce84ab27 --> | 10.0.26100.6 | 10.0.26100.6 | [🔴](https://msdl.microsoft.com/download/symbols/windows.ui.fileexplorer.dll/91B4E752158000/windows.ui.fileexplorer.dll) | ❓ |
