@@ -8,6 +8,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4e2178...<!-- 4e21788fe212357f8936b7f557c9ebdf3957f2312e5a645e221ef235bf537e80 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/21730686998700D95FCDBDD5B2BB338C1/sysdm.pdb) |
 | 5ce199...<!-- 5ce199a6f6cfd83cc5925ede17ed79e27408e16be8b4f965e3fc1eaa8b154d83 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/984962B589ADBDB049612D9635E142531/sysdm.pdb) |
 | 458dce...<!-- 458dce57687d186fa89c637256bb99f604889074183ed749c6355b9913a9135f --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/D778DD007B90538896809893A781F9E41/sysdm.pdb) |
 | b56a01...<!-- b56a0175c88f20e70687b757dc2777330a20aee8f9f4b86d3941e4d394442f25 --> | 2026-10-13 | KB5127646 | 10.0.28000.1896 | 10.0.28000.1896 | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.cpl/F791D8BB31000/sysdm.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/sysdm.pdb/950D3D553E146A8AA9802E47FF8A136D1/sysdm.pdb) |

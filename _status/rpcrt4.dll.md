@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 242ad9...<!-- 242ad97ac36dfd1509bf4020efda5b09589416deee93b7801a712618a9997cd9 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/2727496523A860532C296004BB7927051/rpcrt4.pdb) |
 | e1c0ae...<!-- e1c0aeaf8b11784ab7921db860020ccc766be79bb5c0a5ba61a4ad8feb3d1765 --> | 2026-11-10 | KB5132059 | 10.0.28000.3501 | 10.0.28000.3501 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/C6A5FEA8116000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/20A9D186312FA340DF8D5AE4CD6E850C1/rpcrt4.pdb) |
 | 8a66df...<!-- 8a66dfb6065f0fcf8157e97198214c99f212453047d4b9f5e132c2af88411b3a --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/C1D14D577DB6CBFCE670C5886E8FBB621/rpcrt4.pdb) |
 | 690887...<!-- 690887c800d3ab543a60e953d9c6dcae41100fe7d54820847f20b9581eb6152c --> | 2026-10-13 | KB5127646 | 10.0.28000.3231 | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.dll/58F99F3111a000/rpcrt4.dll) | [🟢](https://msdl.microsoft.com/download/symbols/rpcrt4.pdb/29A8DE4985919426EB14060DB1E81E7A1/rpcrt4.pdb) |

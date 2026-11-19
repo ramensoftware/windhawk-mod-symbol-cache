@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 4ac138...<!-- 4ac13875d904a58f914acab381df57dbfc43a16c1670bdc81bf17b4903d2fbd3 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/67EA7B10DB66556D22641290859945A11/DUser.pdb) |
 | 24b13b...<!-- 24b13bff11878f0f6c3e2b4e4ba5895e6fcf5b8c03e890cb77b823819e5b93e1 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/67BB5C3Ea1000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/E4FEFE201A4E4BB0F00AF6CF75543DB31/DUser.pdb) |
 | 5f2b4f...<!-- 5f2b4fd3745c9efdce380f11afb12f52519520751472fea96287c8e7eed0e4bb --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/D0BFF08Aa4000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/57D2E68F2FA454BF8A28A59ADBBE4F461/DUser.pdb) |
 

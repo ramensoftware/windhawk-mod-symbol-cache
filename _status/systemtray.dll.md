@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 497d08...<!-- 497d082b1b0af6f3ce84da6a55c2f962cc0f3e62e0e8a1ee3c569f71913ea98e --> | 2026-11-19 | KB5132265 | 2610.5000.200.0 | 10.0.28000.3620 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6AE01416202000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/FC75C96D15CA4706BB4BCB0DB963C34C1/SystemTray.pdb) |
 | aa258b...<!-- aa258b28f6c7afa5d74b2baf46f2d9d6a13777bdfa608d51043a4e696724fcb2 --> | 2026-11-10 | KB5132059 | 2609.4001.100.0 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6AA9E54B202000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/F48B85F4D73648BEB6F2F7E9387426491/SystemTray.pdb) |
 | e622b5...<!-- e622b5b97fc6acb40fd94646144522cd0d0b3656f75826153a8d9032273ba648 --> | 2026-10-13 | KB5127646 | 2607.29000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/systemtray.dll/6A6A3946202000/systemtray.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SystemTray.pdb/21219FC0C4454E468E038A0A201890C61/SystemTray.pdb) |
 

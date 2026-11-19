@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 84001b...<!-- 84001b3433918a73ef3ac1354d5d79e8959323e5bd3cef5e59eed97710c0d1dd --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/E123889634000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/E89B1AC188BFDCDA9AFD28B8850D59CB1/UsoApi.pdb) |
+| 84001b...<!-- 84001b3433918a73ef3ac1354d5d79e8959323e5bd3cef5e59eed97710c0d1dd --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/E123889634000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/E89B1AC188BFDCDA9AFD28B8850D59CB1/UsoApi.pdb) |
 | 4dad1e...<!-- 4dad1e9def6a2ff177adaea26555e877f33e3dc75247666b96dea760dfd59c61 --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/usoapi.dll/AC85E1AF36000/usoapi.dll) | [🟢](https://msdl.microsoft.com/download/symbols/UsoApi.pdb/C8C7EA0E51B357DEA67B6D3E459A28C81/UsoApi.pdb) |
 
 ### 10.0.26100

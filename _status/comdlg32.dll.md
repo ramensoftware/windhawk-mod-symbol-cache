@@ -6,8 +6,9 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 406959...<!-- 4069599a0eac0bb14e53642c4d2720bf60833729177e8db9d35726d97e53ac9f --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/783F3682B4F8DDBA2F69054F1FA402BA1/comdlg32.pdb) |
+| 35da65...<!-- 35da6532fcd47d7036176f42d8c115c9ba2e8f1d4a73e7773a4c9b3ec5caee76 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/E0E44F32AF69717BDE71DC7EF5D066F71/comdlg32.pdb) |
 | e8bcb4...<!-- e8bcb4c40a7d4730d39d77cda47de433346f389bf256d335f212ff227db92185 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/661B10A1416D4599803BCE803324DCBC1/comdlg32.pdb) |
-| 406959...<!-- 4069599a0eac0bb14e53642c4d2720bf60833729177e8db9d35726d97e53ac9f --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/783F3682B4F8DDBA2F69054F1FA402BA1/comdlg32.pdb) |
 | d2cb79...<!-- d2cb799f58f4a5b0f42d3765fd6cae9726713c30395d8026d07236d76f7ba90f --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/1FE8A0B925BF50311D4A0DA8632211031/comdlg32.pdb) |
 | ac15b9...<!-- ac15b9f5dddc523ded0fb882edfcd9ed81c24e30dfa0a98788d037722aee09a2 --> | 2026-10-28 | KB5127653 | 10.0.28000.3365 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/4C0666E2f3000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/8F052881315FA9F1258FD5F1C69A4ACB1/comdlg32.pdb) |
 | 1f863e...<!-- 1f863ecfdbbb3f91785fd44fcd22200be4a5f250804a8e49120d090fcf414b5d --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/286C5751a000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/1D450A465A5B6E5A86042F7954EF13EA1/comdlg32.pdb) |

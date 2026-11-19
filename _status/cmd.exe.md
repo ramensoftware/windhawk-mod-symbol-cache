@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 18635e...<!-- 18635edfecc234f37b547a374a628cb82beec157c35a03e0895c491162db9064 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/E112295658E33E4193559AE74011485F1/cmd.pdb) |
 | 9893e5...<!-- 9893e5f40d498a594838a16e92679975c791d024c3d4c9f23064b35dd6bfee05 --> | 2026-11-10 | KB5132059 | 10.0.28000.3365 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/51D710056e000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/06C0D5BE137788A74DF40D8687B6E2E71/cmd.pdb) |
 | 308cae...<!-- 308caeee4c0706a8ab67c5e0aa0ac21926239711c5017561be97e0c9dfbb01f3 --> | 2026-10-13 | KB5127646 | 10.0.28000.2804 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/cmd.exe/41F3FE9270000/cmd.exe) | [🟢](https://msdl.microsoft.com/download/symbols/cmd.pdb/3576505AD3843B138C980A8CAC1913751/cmd.pdb) |
 

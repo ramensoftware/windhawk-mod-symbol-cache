@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| f4006d...<!-- f4006df9a1d0d77a828a98d3ee4cfba3118fddda01261de9457bb7ab840e8e9b --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/00373CAD201A8F5FBDBE06C6090A3E561/ControlCenter.pdb) |
 | 94b549...<!-- 94b549fec0339055d9383ec01397bd5cb8d534deed7ecc978edfae897f5e67ff --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B6A4CC9E437000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/B98A9A0D43CFFC1043FA1896F5073F5D1/ControlCenter.pdb) |
 | 1753c3...<!-- 1753c39539ef555055768664e5ef0b39881c0f1f41196705120c9c22ddd906bb --> | 2026-10-13 | KB5127646 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/DC983834400000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/64B89726EF979105CCACF39836D928911/ControlCenter.pdb) |
 

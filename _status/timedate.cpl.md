@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 2ee340...<!-- 2ee340e5d41c6cd2a4282f837397735a6c2baacc76f95307966f1c178f5d7b89 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/2385BB008B82328B307202C6D09090D51/timedate.pdb) |
 | ad58d9...<!-- ad58d9079ae3f26a7dea0d88fe5d04cc41a02ec5f40f7e417419233a93b7044e --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/AAD3EF7C43000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/51DB463E3C1B6294557FBB26D48E937F1/timedate.pdb) |
 | 286fc0...<!-- 286fc0db1a75acbcd3540781f8ae568982719667f9f4fc1b837a1906d50305ef --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/timedate.cpl/E5438C1F43000/timedate.cpl) | [🟢](https://msdl.microsoft.com/download/symbols/timedate.pdb/993D158B1A282DA1E975FD6A3A83DB8D1/timedate.pdb) |
 

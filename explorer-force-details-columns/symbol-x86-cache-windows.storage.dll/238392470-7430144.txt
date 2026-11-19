@@ -1,0 +1,1 @@
+1#238392470#7430144#private: unsigned int __cdecl CViewSettings::_GetMinimumColumnWidth(unsigned int)##unsigned int __cdecl CViewSettings::_GetMinimumColumnWidth(unsigned int)##private: unsigned int __thiscall CViewSettings::_GetMinimumColumnWidth(unsigned int)#2164189#unsigned int __thiscall CViewSettings::_GetMinimumColumnWidth(unsigned int)#

@@ -6,7 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| ff8f60...<!-- ff8f6024752506735aefd9a15de1f66845635b1492a1e1725d07e0d04e946e89 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/28A958A648000/dinput8.dll) | ❓ |
+| ff8f60...<!-- ff8f6024752506735aefd9a15de1f66845635b1492a1e1725d07e0d04e946e89 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3365 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/28A958A648000/dinput8.dll) | ❓ |
 | 7decf3...<!-- 7decf3d2f1451f703cd95d19c48ece55c9a8e004064c440aa0a2f8d3c8c906f0 --> | 2026-10-13 | KB5127646 | 10.0.28000.2336 | 10.0.28000.2336 | [❓](https://msdl.microsoft.com/download/symbols/dinput8.dll/55E0C2194b000/dinput8.dll) | ❓ |
 
 ### 10.0.26100

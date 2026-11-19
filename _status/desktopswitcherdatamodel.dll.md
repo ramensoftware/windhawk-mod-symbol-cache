@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| e94846...<!-- e94846a8c91fee938e9064418f9d18e4d6a2b38450bbd8dc95bf9158f10901a6 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/3E07BD17A2F6027C4C69AEA26C1F24551/DesktopSwitcherDataModel.pdb) |
 | 4577b6...<!-- 4577b69e27a9bf186684420da96c3da6a5bc5983bd643af1c048a756fb854fe3 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/D437967A56000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/C94D797561F102E571DD2ECE210D13D81/DesktopSwitcherDataModel.pdb) |
 | 178104...<!-- 1781042ed8baf11ec448ef54b69983b9e8def973dda5191701ea3b33cb6e29fc --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/desktopswitcherdatamodel.dll/E0C8728859000/desktopswitcherdatamodel.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DesktopSwitcherDataModel.pdb/14199856528EB908D230F414103E49BF1/DesktopSwitcherDataModel.pdb) |
 

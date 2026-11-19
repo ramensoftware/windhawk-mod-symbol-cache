@@ -6,6 +6,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| d2b94d...<!-- d2b94d3975ee8da7797a50aff73efb5cc6c3111d3c81c05e6df1cac555923fc2 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/A85A8F56EBC49CBF4CE8745C6780E1331/taskmgr.pdb) |
+| 3bcaac...<!-- 3bcaaccca0223c1dccd725423188f7f129d64261a6e3f3a4569e8da2b5f67003 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/CC4D1C6D285FD14783227943F520CAE31/Taskmgr.pdb) |
 | 9c9720...<!-- 9c97206b12712e56f6e6d1fa8bc0f93b6766056d36c28519372c5c1635384840 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/F7CA8E3951000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.pdb/FE8B67AD0726C4E778E775049126F8FA1/taskmgr.pdb) |
 | 58177d...<!-- 58177dfe304166ccc200e6eac8d9b10a67b7919abf085d8d600752c4d73f4dd2 --> | 2026-11-10 | KB5132059 | 10.0.28000.3365 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/AC017021587000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/024774A866DE9F1CDE68325655E825221/Taskmgr.pdb) |
 | cf5935...<!-- cf59354d9e5729ccb9ff85c6d42172fadb6b44aea43cf89705561cd83dcf9fbb --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/taskmgr.exe/9F19201157a000/taskmgr.exe) | [🟢](https://msdl.microsoft.com/download/symbols/Taskmgr.pdb/0157C18FF16B09C3AA3148348AAF71F31/Taskmgr.pdb) |

@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 5ab130...<!-- 5ab1301997020f8a3b1d94ce80d597505f2a9c27a0d741dce222d0ff0c118d65 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/0DA3935310A22D661B3F59C7F90A07511/winbrand.pdb) |
 | d8cb3a...<!-- d8cb3a2b841f61f6c258a7849458a6723dfafcf9c5d802f3bfd64a6057a33c2f --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/591ECED332000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/6D3BF3A80B4A409B5F31A7B51C7234581/winbrand.pdb) |
 | c33ac0...<!-- c33ac051fb153aa6ad203d9b270bbc187ef6b870f4bdc7068408c3a352acbb62 --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.dll/4D31B8DE33000/winbrand.dll) | [🟢](https://msdl.microsoft.com/download/symbols/winbrand.pdb/9CECD979EFB95997B5A852DD69CE28C21/winbrand.pdb) |
 

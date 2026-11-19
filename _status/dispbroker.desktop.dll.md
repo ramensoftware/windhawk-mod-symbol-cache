@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| b737da...<!-- b737dadb8d6ad696efbe3934a13e7128b382ec4ddae973e9bd01ce0876dbf878 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/BF70E3ABCE549BD3EBD6200CD4B401A21/DispBroker.Desktop.pdb) |
 | eb8d47...<!-- eb8d47528eb703e64fc73ca1b0aa4a0ba2331e314b7befd7e59f519ca4f1c795 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/105925B612a000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/D9FB695270BAA028AA6EE3A68B953BD91/DispBroker.Desktop.pdb) |
 | fd8066...<!-- fd80666bcae9f228a31295243666316abb7ac6eab27572873b2cd9531e5d79d6 --> | 2026-10-13 | KB5127646 | 10.0.28000.3086 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/F44A43AD12c000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/0D04DA5A1F42ACBA6C8AC84DD383F7BA1/DispBroker.Desktop.pdb) |
 

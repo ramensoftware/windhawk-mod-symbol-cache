@@ -8,7 +8,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 03e609...<!-- 03e609e4db6ded0424e77a1b867ab3afb37fb6b92200ea9b19e73e597dc7d03b --> | 2026-11-10 | KB5132059 | 10.0.28000.3365 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/49F5226042000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/D79B145E59DACC488448DEE4B8A2B76C1/SecurityHealthSystray.pdb) |
+| 03e609...<!-- 03e609e4db6ded0424e77a1b867ab3afb37fb6b92200ea9b19e73e597dc7d03b --> | 2026-11-19 | KB5132265 | 10.0.28000.3365 | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/49F5226042000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/D79B145E59DACC488448DEE4B8A2B76C1/SecurityHealthSystray.pdb) |
 | 932a2e...<!-- 932a2ecc96ffa11bb68f9bd5bcde19c7c518e684a767759a26ce5db93079257e --> | 2026-10-13 | KB5127646 | 10.0.28000.1896 | 10.0.28000.2804 | [🟢](https://msdl.microsoft.com/download/symbols/securityhealthsystray.exe/E48D306643000/securityhealthsystray.exe) | [🟢](https://msdl.microsoft.com/download/symbols/SecurityHealthSystray.pdb/3A5855DCA6B002CA6E80660763103C681/SecurityHealthSystray.pdb) |
 
 ### 10.0.26100

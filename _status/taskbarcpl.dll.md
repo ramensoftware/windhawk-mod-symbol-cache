@@ -8,7 +8,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| a7dbb9...<!-- a7dbb93e82f2fd0b5e65a1f9bf20ef2b30d14b0083eab301081b33e7079d5c33 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/B5B61C2812e000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/FC1D90ED656794956E369D0673E6B4481/taskbarcpl.pdb) |
+| a7dbb9...<!-- a7dbb93e82f2fd0b5e65a1f9bf20ef2b30d14b0083eab301081b33e7079d5c33 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/B5B61C2812e000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/FC1D90ED656794956E369D0673E6B4481/taskbarcpl.pdb) |
 | 52d064...<!-- 52d064ec11f36d0a249085f83e981efd1dfa250ae7db6e978c0026495e15ac6f --> | 2026-10-13 | KB5127646 |  | 10.0.28000.1896 | [🔴](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/36A9D1DE12f000/taskbarcpl.dll) | ❓ |
 
 ### 10.0.26100

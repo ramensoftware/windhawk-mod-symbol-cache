@@ -6,6 +6,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| cf3ad3...<!-- cf3ad3a7d00cc6d8603640d6582eb46ba3e552489bc2cf22b50299b9ed518dcb --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/9C47882366BC62C18DD59FC5AAACD8691/user32.pdb) |
+| 77d48a...<!-- 77d48a4164a8f5a8c87b04534f0c79f9d335c19ba01f2c572dee8c0592caa71d --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/33DC202E4F330706371DFACFCEBDBA451/user32.pdb) |
 | 3e30b5...<!-- 3e30b53bebd1301814a09e250319011189740ca3786f6649a1d308b8b4f57c9e --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/1E7B72B0F1F84B58C4EC222DBCECCD7D1/user32.pdb) |
 | e57c09...<!-- e57c09583f7910e9d7fcbf8b08ddf52d491effccf243abf697d9f7cacfe8c128 --> | 2026-11-10 | KB5132059 | 10.0.28000.3365 | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/user32.dll/39F7FC611d9000/user32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/2A4E2B37BA24FEB9F2784BA1E3C154821/user32.pdb) |
 | 61b8a2...<!-- 61b8a26d93460710b5a7458420cd1ddf654706d95b088ac05adfed21a7d24635 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/user32.pdb/DB0E15390954E29DCE277B17E7D3B9111/user32.pdb) |

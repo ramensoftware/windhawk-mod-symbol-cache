@@ -6,6 +6,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 33c2ad...<!-- 33c2ad184cdf70035bd00f0af21aed8367fb799aa648a8f2ddf1a43d4267b81f --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3620 | 🔴 | ❓ |
 | 1d27e3...<!-- 1d27e367292a93652429d914131d44fca0e0d157a72584d3b45893b81dc8c85f --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6AA20BB14bf000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/56B534EB3B9E4FFBA4B0E7E44BD350EA1/StartMenu.pdb) |
 | 500d59...<!-- 500d5913d7e6f38d4e182565234e9b3d7d044ecad0dfa2285d68d3fcae14d5ce --> | 2026-10-13 | KB5127646 | 2608.3000.0.0 | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/startmenu.dll/6A70F7954dc000/startmenu.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartMenu.pdb/23E1B1B9B7704EDE92795F18584FF5F01/StartMenu.pdb) |
 
