@@ -1,7 +1,5 @@
 # dispbroker.desktop.dll
 
-🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
-
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -16,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6a1029...<!-- 6a1029d7aa87245e5b8574074b2c3ab7db138ef6a9e295e820477db8dc3dae5e --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/BF70917312b000/dispbroker.desktop.dll) | [🟡](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/2A06D588670A5A3AAC68FE1CD8FC558B1/DispBroker.Desktop.pdb) |
+| 6a1029...<!-- 6a1029d7aa87245e5b8574074b2c3ab7db138ef6a9e295e820477db8dc3dae5e --> | 2026-11-19 | KB5132057 | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/BF70917312b000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/2A06D588670A5A3AAC68FE1CD8FC558B1/DispBroker.Desktop.pdb) |
 | b3c08d...<!-- b3c08d8ee6e9fcfb0013f77d174729b2bdf4ef21d2c2c90cadf8b8fc58151464 --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/5756D25A129000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/DCBCA8261F21FC8252477B988AE1C6321/DispBroker.Desktop.pdb) |
 | 83a1ad...<!-- 83a1ad5d7182fd88b0d0c05e58a71bba21ad4f1adadffab720c1d0e691dade6a --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/122E822B127000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/C3333AEA66D568DC31A6F4D7EE7179A11/DispBroker.Desktop.pdb) |
 
@@ -38,6 +36,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 8de22f...<!-- 8de22f23bbbbef8912e2b0615c3f0c1c29e030716130838589ba8f68b2daf360 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/73800C0414f000/dispbroker.desktop.dll) | ❓ |
 | 6465cc...<!-- 6465cce0e78f6b2debc9b8258e6bba73a5c81f1b0f7d0efb80229a3144f1e60a --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/2F26304914e000/dispbroker.desktop.dll) | ❓ |
 | 8dd1f1...<!-- 8dd1f19e155f5e9a6a45848955b0addb61fb9097e3a2d61faf602ac7930161de --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3086 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/7473B7B914f000/dispbroker.desktop.dll) | ❓ |
 
@@ -45,6 +44,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 5cfca3...<!-- 5cfca30749cfdc5d9c49b57f2fb81cf6cbf4f077c3bd7f82e85a11ffe78adbe3 --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/7DA160B5158000/dispbroker.desktop.dll) | ❓ |
 | 84b911...<!-- 84b9114a2ee599318553ea980a724db5afd32827fa5862c907b770a607887543 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9818 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/80D5AE87155000/dispbroker.desktop.dll) | ❓ |
 | 0c444a...<!-- 0c444a6444cf01cf34474e88d98a2661495132b8aede60e41005810205c3e5b5 --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [❓](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/83E90799154000/dispbroker.desktop.dll) | ❓ |
 
@@ -124,7 +124,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 6a1029...<!-- 6a1029d7aa87245e5b8574074b2c3ab7db138ef6a9e295e820477db8dc3dae5e --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/BF70917312b000/dispbroker.desktop.dll) | [🟡](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/2A06D588670A5A3AAC68FE1CD8FC558B1/DispBroker.Desktop.pdb) |
+| 6a1029...<!-- 6a1029d7aa87245e5b8574074b2c3ab7db138ef6a9e295e820477db8dc3dae5e --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/BF70917312b000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/2A06D588670A5A3AAC68FE1CD8FC558B1/DispBroker.Desktop.pdb) |
 | 4dd169...<!-- 4dd169cd3da73ecf69fee0b0ffd82c48bfe90ec3c6d7c335e97997e7f6587cf7 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/2CC57467db000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/3A537398267CF1A84F69D92D24AE03B51/DispBroker.Desktop.pdb) |
 | 10ea7e...<!-- 10ea7ecb3ded937e299de03c50bf4741c6d37fb2fdfe0afec2d07f4d1466abca --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/46828592d2000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/99C9865B3FE61682F148F81527B867CB1/DispBroker.Desktop.pdb) |
 | 88b04a...<!-- 88b04a757b33b1036c3a45c011f99b21d4548cfccc8c5543de2f9bee07e3dece --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/AA15EE2203420528ACD9B9E234209A511/DispBroker.Desktop.pdb) |

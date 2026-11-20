@@ -1,7 +1,5 @@
 # thumbcache.dll
 
-🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
-
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -16,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 60b519...<!-- 60b519d0d600075a64c8484ba0691d75e96fe6916a5791283ea6c7c4c5c95dcd --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/C72B9E6A87000/thumbcache.dll) | [🟡](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/51B5F67FEEACFA90DFDF8ECFB378F7731/thumbcache.pdb) |
+| 60b519...<!-- 60b519d0d600075a64c8484ba0691d75e96fe6916a5791283ea6c7c4c5c95dcd --> | 2026-11-19 | KB5132057 | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/C72B9E6A87000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/51B5F67FEEACFA90DFDF8ECFB378F7731/thumbcache.pdb) |
 | 5192c4...<!-- 5192c444deb6af27ada9393ab6c30592ebfd8fe1f456be499c90ed598f2a8816 --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/C7448E587d000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/96D2DA5463984EB897F7DAE5C6DC33E41/thumbcache.pdb) |
 | 59a2bb...<!-- 59a2bbc93a2418eaa43068fab3bf487f58162f6c361a68e5e467ac88f9080ca5 --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/B0917F8A7b000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/1C1FF0D2CFD7D3A3312CD56EA1D8A3DD1/thumbcache.pdb) |
 
@@ -51,6 +49,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| d023e5...<!-- d023e514a0a23bfd4b351a18b5b0aab09867cf6297e14e5c08e2b6ec9c132821 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/92C712B510f000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/E8589EE264C5841BDC28659C1B827A9C1/thumbcache.pdb) |
 | dcd28c...<!-- dcd28cba4cc1663842809ce694b6486b87fb350ffc242941f9bdefbe3c0dffe6 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/A956B250fb000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/671448D86683075850D9AAD9D82FEDE11/thumbcache.pdb) |
 | 82027e...<!-- 82027e532f59b9fff2b00a732a8de322383e9b21c0d452e75f3e8806431aec34 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/12256FFBed000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/9EABB688119C7D07C59AAA8D49235AFB1/thumbcache.pdb) |
 | 6043d0...<!-- 6043d0fa5fc7a9ca77876d0d4b21493b07daa8ac224db68b4c3304de8d4ed4f2 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/05B82BB9ed000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/D653F0200F238952B91F79488E0F1C401/thumbcache.pdb) |
@@ -59,6 +58,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 455db2...<!-- 455db2fc78e2827d602f0958abe7eeb1446ecc8a89bff70af8852bc1a8f5d09a --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/2C878EC210e000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/5059E06BF5D8D1E68B1AFF6C31E0763E1/thumbcache.pdb) |
 | c58109...<!-- c58109a7e8f6426ffb9044a62b59ec9918da093373c3212f19444c0a12e059db --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/5FA565D311EDA834888657E0E68802AA1/thumbcache.pdb) |
 | 39eb6d...<!-- 39eb6d154e562f1668cf7bfd3b5bcdb75940c024b3b0b09216cc12f9f155924f --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/5CF87ABFf8000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/55E39D30022355C70BACFD448877DBC21/thumbcache.pdb) |
 | d95500...<!-- d9550036626afebc4f4c2dbb1f2a7e847ad256ab375ab86a087c33986d372afb --> | 2026-10-26 | KB5134133 | 10.0.26100.9711 | 10.0.26100.9711 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/DB2D71B5f5000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/5264613AAA87857A3C5818DCA0FC397C1/thumbcache.pdb) |
@@ -119,7 +119,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 92ee13...<!-- 92ee13cc1d9795c08695a7c2f99393572946cc853d7663cea3859fb5d9c112c7 --> | 2026-11-19 | 37a125b7...<!-- 37a125b7-8c85-4f15-a181-ab2cda7c6751 --> |  | 10.0.28000.3614 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/2701E7AB666116AC63B0F1424BBBF61A1/thumbcache.pdb) |
+| 92ee13...<!-- 92ee13cc1d9795c08695a7c2f99393572946cc853d7663cea3859fb5d9c112c7 --> | 2026-11-19 | 37a125b7...<!-- 37a125b7-8c85-4f15-a181-ab2cda7c6751 --> |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/0197491984000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/2701E7AB666116AC63B0F1424BBBF61A1/thumbcache.pdb) |
 | e117a9...<!-- e117a94e846270b6905d310ce9a65591149e3e2526c938a562a99d35ffb8c0d8 --> | 2026-11-19 | 37a125b7...<!-- 37a125b7-8c85-4f15-a181-ab2cda7c6751 --> | 10.0.28000.1 | 10.0.28000.1 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/414E477570000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/D10A75A6E34F5AE469CB878CD65BD0121/thumbcache.pdb) |
 | 9bcfeb...<!-- 9bcfeba507d3556c5857d9b825487f03e0a49b0986e4c2e4d8b96ffba269bd30 --> | 2026-11-17 | de38e33e...<!-- de38e33e-b4cc-430e-bfd9-a40b99c28034 --> |  | 10.0.28000.3454 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/20CF131784000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/B89CC0E1FC63576470F972217FD2302A1/thumbcache.pdb) |
 | 0fc85e...<!-- 0fc85e71782580409d276859555ce00322d3bc62cb8d2c2e29bf10b107d518ac --> | 2026-11-17 | de38e33e...<!-- de38e33e-b4cc-430e-bfd9-a40b99c28034 --> | 10.0.28000.7 | 10.0.28000.7 | [🔴](https://msdl.microsoft.com/download/symbols/thumbcache.dll/E06D8D9070000/thumbcache.dll) | ❓ |
@@ -144,7 +144,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 60b519...<!-- 60b519d0d600075a64c8484ba0691d75e96fe6916a5791283ea6c7c4c5c95dcd --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> |  | 10.0.26100.10068 | 🔴 | [🟡](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/51B5F67FEEACFA90DFDF8ECFB378F7731/thumbcache.pdb) |
+| 60b519...<!-- 60b519d0d600075a64c8484ba0691d75e96fe6916a5791283ea6c7c4c5c95dcd --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/C72B9E6A87000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/51B5F67FEEACFA90DFDF8ECFB378F7731/thumbcache.pdb) |
 | fbe821...<!-- fbe8215284d0a2e7055440b65d83cd2dbd77ebb7e13013341051dc30f0de4df2 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.712 | 10.0.26100.712 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/E0C249DA70000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/5A92791CDB740E4F0E8C8440BEF68B4F1/thumbcache.pdb) |
 | ae8e52...<!-- ae8e52f44e1f4695152ca342b10267218a06660a2267295ac81787494d4c2f11 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.dll/82356AFE70000/thumbcache.dll) | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/EAF348F5C1BE1E0B42EF54DE01C37FEE1/thumbcache.pdb) |
 | 436e9a...<!-- 436e9afbf87b79a7b3b40c3ef8f7650c543dff78efab0cebd0fd3a1039720899 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> |  | 10.0.26100.10013 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/thumbcache.pdb/728BB6CB27FEE746D34797AE2AB0E00E1/thumbcache.pdb) |

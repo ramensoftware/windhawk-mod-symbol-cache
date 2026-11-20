@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_1159265689_6569984;private: void __cdecl CNscTree::DrawDivider(struct HDC__ *,struct _TREEITEM *);

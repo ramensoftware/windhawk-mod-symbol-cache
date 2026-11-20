@@ -30,6 +30,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 35c39f...<!-- 35c39f629b5d64a6aec6e85145d0d87d8cbea970828d4f12026c3e140ef69b8d --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3620 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6ABFC429f4000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/875C39A9CACF420CABE073E3694730E51/SnapLayout.pdb) |
 | 5aba0a...<!-- 5aba0a3a93e2db14508ee414a32b4a011fcf2e80ca32a758ff57fd449069a43c --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6AA4E2CEf4000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/35EFD1E0AE7A476DAFC2A8675E7CC4B81/SnapLayout.pdb) |
 | c4d9e4...<!-- c4d9e49919b60a4644a4f117208219d1854c20bdee5546c8ef8603fd838a990d --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A70F521f7000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/0E2EFBF3BD324BDC91CBE1DB957427D31/SnapLayout.pdb) |
 
@@ -37,6 +38,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| 62f398...<!-- 62f398604c79f0688cb18f0b24576e5b5fac08399b08eae2de013d09d5a34268 --> | 2026-11-19 | KB5132057 | 2610.28001.0.0 | 10.0.26100.10075 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6AE267E4f2000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/9E9118C5A4E54B949D8E6EA78EDBECA41/SnapLayout.pdb) |
 | af9153...<!-- af9153b3d724eead1bdd13be70b8e68581278c64feaab02767b7cffc95eacb80 --> | 2026-11-10 | KB5132061 | 2609.18001.0.0 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6AADD34Df4000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/D6BC4AAE18424870BD3B3AFB9BCDD4351/SnapLayout.pdb) |
 | 8df8ff...<!-- 8df8ff1a674bfb06537bcef5fcc5c7e80fa87b373cf5adae7c4a0573931f0b9a --> | 2026-10-26 | KB5134133 | 2608.26000.0.0 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/snaplayout.dll/6A8F5679f7000/snaplayout.dll) | [🟢](https://msdl.microsoft.com/download/symbols/SnapLayout.pdb/1B4939B8F5FD4852895E67EE073300991/SnapLayout.pdb) |
 

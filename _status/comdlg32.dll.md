@@ -1,7 +1,5 @@
 # comdlg32.dll
 
-🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
-
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -21,8 +19,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c99e70...<!-- c99e70031cf9c0d7a673986fc8aa24927455d8277d21a847b851d76421cd4450 --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/comdlg32.dll/78CB774Bf8000/comdlg32.dll) | [🟡](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4E62F6158BDBBC15D2F4086505902F091/comdlg32.pdb) |
-| 119d74...<!-- 119d74fa0832198430317c4e9145cf963dce46bef0c57d6e5f4aef451f43c55d --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A92F2F28a000/comdlg32.dll) | ❓ |
+| c99e70...<!-- c99e70031cf9c0d7a673986fc8aa24927455d8277d21a847b851d76421cd4450 --> | 2026-11-19 | KB5132057 | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/78CB774Bf8000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4E62F6158BDBBC15D2F4086505902F091/comdlg32.pdb) |
+| 119d74...<!-- 119d74fa0832198430317c4e9145cf963dce46bef0c57d6e5f4aef451f43c55d --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A92F2F28a000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/CD2F94C0A6E6330AA5382F5B2BF833D51/comdlg32.pdb) |
 | f54108...<!-- f541086f6c0f1eddd39695ba1078ede4c7e8613d1101a291dd59caac385242e7 --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/A96D9459B4FEF1404E8B43B5213CA4771/comdlg32.pdb) |
 | 9525a6...<!-- 9525a6fdcb4c68158ecc9372eb2adfb514e69d504160216cbbb253924f1235ff --> | 2026-11-10 | KB5132061 | 10.0.26100.9974 | 10.0.26100.9974 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/82DB8AC5f7000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/CBA8F77C658E6C477BFCC493E0FA57B21/comdlg32.pdb) |
 | fce1c3...<!-- fce1c3bf9c172bf6c15fd50538268b63c916513816875d2f504952ddd5e39456 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/CB39F3DCa000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/3A24543C04B96C5C0764BC825461A1F11/comdlg32.pdb) |
@@ -72,7 +70,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 670e4d...<!-- 670e4dc31329d779f2308386dff6dd498eaf68d7e3827d4ba37dff8a3d7452a9 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/43CB6ABDA4A834113E6778BBEEDC1CEA1/comdlg32.pdb) |
+| fd34ed...<!-- fd34ed210042e74c4eb867103cc1a219ba92736bb6bde70008871ed734b2c508 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/18C545AB1d5000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/023182BD28FEBA60D00CD5970601D0111/comdlg32.pdb) |
+| 670e4d...<!-- 670e4dc31329d779f2308386dff6dd498eaf68d7e3827d4ba37dff8a3d7452a9 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/4ADAEB1514000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/43CB6ABDA4A834113E6778BBEEDC1CEA1/comdlg32.pdb) |
 | 238438...<!-- 238438a052ab21defebd7270f93599dfcbeca424596479f27ca21e102a2059d5 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3501 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4A7F85F1AC4535D1A10F8BD85D2A32571/comdlg32.pdb) |
 | ea473a...<!-- ea473a96994bd2d960ffbd5ac971d8c293a28027e71ff0481a7bc989c31293bf --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A78018F71d3000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/3AE6863FB02687C40A7F69F73E9DF2171/comdlg32.pdb) |
 | b681c6...<!-- b681c6231b59d10518d7e5b26b1d0d54230a0a26c6cc9c5b5d9b7f603e71eb32 --> | 2026-10-28 | KB5127653 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/2A78615614000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/26038E550EC5B7DB99150B40C0E7B1371/comdlg32.pdb) |
@@ -85,6 +84,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| bc4bc3...<!-- bc4bc3d0e21a56622c4f20b98fea0cbc0c002f1e89d490b107d002713476d1a0 --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/0DB7038D1d2000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/55D4B54C6A98843AD9CA291E88D3ADDA1/comdlg32.pdb) |
+| 5fceb8...<!-- 5fceb8615a7da599a94d2ba79df1db0b64cb218ce176b845ac78a90445244a8d --> | 2026-11-19 | KB5132057 |  | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/C641E91C14000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/CD5C21FFDBD084160B03013F862CA14F1/comdlg32.pdb) |
 | 93b4f0...<!-- 93b4f0d73721370914b04b69bd807411a173ae2d40705ec201e2f9ad6c0ef320 --> | 2026-11-10 | KB5132061 | 10.0.26100.9974 | 10.0.26100.9974 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/459507111d0000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/420C3DFD6BA3363A1D9B1C6E0F31821C1/comdlg32.pdb) |
 | 0b3182...<!-- 0b3182534cfd6639e087047e132d80c2c0d2edd55fb44f73c4571bc7eba53e2a --> | 2026-11-10 | KB5132061 |  | 10.0.26100.9974 | 🟢 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/5FBD7D06E963C50E4E7C844D0678909B1/comdlg32.pdb) |
 | b2d57b...<!-- b2d57bf43d0cbb6a54d3d56214ca78a10fbbdaea48c4a2052af80eadab97f0f6 --> | 2026-10-28 | KB5127936 |  | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/557E00AC1d0000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/1B6A330099E31D38D180912CA73DC7C31/comdlg32.pdb) |
@@ -208,8 +209,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| c99e70...<!-- c99e70031cf9c0d7a673986fc8aa24927455d8277d21a847b851d76421cd4450 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/comdlg32.dll/78CB774Bf8000/comdlg32.dll) | [🟡](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4E62F6158BDBBC15D2F4086505902F091/comdlg32.pdb) |
-| 119d74...<!-- 119d74fa0832198430317c4e9145cf963dce46bef0c57d6e5f4aef451f43c55d --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> |  | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A92F2F28a000/comdlg32.dll) | ❓ |
+| c99e70...<!-- c99e70031cf9c0d7a673986fc8aa24927455d8277d21a847b851d76421cd4450 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/78CB774Bf8000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4E62F6158BDBBC15D2F4086505902F091/comdlg32.pdb) |
+| 119d74...<!-- 119d74fa0832198430317c4e9145cf963dce46bef0c57d6e5f4aef451f43c55d --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> |  | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/A92F2F28a000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/CD2F94C0A6E6330AA5382F5B2BF833D51/comdlg32.pdb) |
 | a58706...<!-- a58706bc72f10d0415da40860dd9822f03be7414ef9a4db6ed2659688134a869 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> |  | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/06E65D0Fc000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/F49A4B7959701FE0DE8E0294656627911/comdlg32.pdb) |
 | 0b26eb...<!-- 0b26eb6c04385fff218aa937cbf6898160567a960d3c3e93150687e953eac5d4 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1591 | 10.0.26100.1591 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/7EDAB33Aed000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/4FF27D7DD270AFAC90FBC42BD5A77EE81/comdlg32.pdb) |
 | 73ee70...<!-- 73ee700b76f21fd290dc01c073460067abae1aa6de32aefaf8ebbbcc4a0172ed --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.dll/98A1A772e6000/comdlg32.dll) | [🟢](https://msdl.microsoft.com/download/symbols/comdlg32.pdb/C3756A9591ED09A341B26507C69215AB1/comdlg32.pdb) |
