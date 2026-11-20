@@ -1,0 +1,1 @@
+1;user32.dll;arm64_2764893695_540672;void __cdecl DrawCommandRectangle(struct HWND__ *);
