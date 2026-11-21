@@ -1,7 +1,5 @@
 # consent.exe
 
-🟡 in the PDB column: the PDB isn't on the symbol server, and the cache uses symbols ported from builds with a PDB until it is.
-
 ## x64 (release builds)
 
 ### 10.0.28000
@@ -16,7 +14,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 88c95f...<!-- 88c95ff68c7450b8d52898995b0a80bacbe5b0b71de594a13fffa0dbfe2614b2 --> | 2026-11-19 | KB5132057 | 10.0.26100.10068 | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/consent.exe/0CE087ED3b000/consent.exe) | [🟡](https://msdl.microsoft.com/download/symbols/consent.pdb/BD9A5C659AA98D83CF1D15D51D0691911/consent.pdb) |
+| 88c95f...<!-- 88c95ff68c7450b8d52898995b0a80bacbe5b0b71de594a13fffa0dbfe2614b2 --> | 2026-11-19 | KB5132057 | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/0CE087ED3b000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/BD9A5C659AA98D83CF1D15D51D0691911/consent.pdb) |
 | b80c65...<!-- b80c65cdf15b05236e6aaf1c34196c1bffd138fcf3d70fd1931f05dd75eaea1d --> | 2026-11-10 | KB5132061 | 10.0.26100.9818 | 10.0.26100.9818 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/3B6059C73b000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/7D342ABBD414A9C9DAFE8308A9CCA2881/consent.pdb) |
 | 435251...<!-- 435251136a04cfaf8f8bd9c27d693eb1c5254afb323bd40e3b719363f421742e --> | 2026-10-26 | KB5134133 | 10.0.26100.9549 | 10.0.26100.9549 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/4E606C833c000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/F66E546D65E0570E395F81E07D8F4ABF1/consent.pdb) |
 
@@ -136,7 +134,7 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 88c95f...<!-- 88c95ff68c7450b8d52898995b0a80bacbe5b0b71de594a13fffa0dbfe2614b2 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.10068 | 10.0.26100.10068 | [🔴](https://msdl.microsoft.com/download/symbols/consent.exe/0CE087ED3b000/consent.exe) | [🟡](https://msdl.microsoft.com/download/symbols/consent.pdb/BD9A5C659AA98D83CF1D15D51D0691911/consent.pdb) |
+| 88c95f...<!-- 88c95ff68c7450b8d52898995b0a80bacbe5b0b71de594a13fffa0dbfe2614b2 --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.10068 | 10.0.26100.10068 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/0CE087ED3b000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/BD9A5C659AA98D83CF1D15D51D0691911/consent.pdb) |
 | d113a7...<!-- d113a72e322e1c16f204bb1662d035bcd27ce4bffa6f48df166eeb223b6c947d --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1150 | 10.0.26100.1150 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/3557A6ED34000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/BF01F533B05C7D8DE3CE103A20E1D4AF1/consent.pdb) |
 | 62571f...<!-- 62571f5a70a2d5c7b26a552374ddf70dee9cbea3847ad6d8e6e51a9d5239d85f --> | 2026-11-19 | bb653e4f...<!-- bb653e4f-2f06-4aa6-9994-d5c692e24009 --> | 10.0.26100.1 | 10.0.26100.1 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/D324F8DA34000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/EE179C8BE73620A1061B26BE0A5B5C601/consent.pdb) |
 | 8aba24...<!-- 8aba244c4be79ade0daed9ed95e86afdb54a1991290d09fd52d7130f99833025 --> | 2026-11-16 | c3e98026...<!-- c3e98026-e31c-4082-98e8-b5a7ef6b4cf7 --> | 10.0.26100.10013 | 10.0.26100.10013 | [🟢](https://msdl.microsoft.com/download/symbols/consent.exe/278F1F513b000/consent.exe) | [🟢](https://msdl.microsoft.com/download/symbols/consent.pdb/AB2F5D1915FD89FE2FE2F453933600CD1/consent.pdb) |
