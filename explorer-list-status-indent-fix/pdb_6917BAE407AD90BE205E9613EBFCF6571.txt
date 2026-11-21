@@ -1,0 +1,1 @@
+1#explorerframe.dll#x86-64_3581435187_3153920#public: virtual int __cdecl UIProperty::HasVisibleContent(void)#271600#public: static struct DirectUI::PropertyInfo const * __cdecl UIBase::VisibleMinSizeProp(void)#990960

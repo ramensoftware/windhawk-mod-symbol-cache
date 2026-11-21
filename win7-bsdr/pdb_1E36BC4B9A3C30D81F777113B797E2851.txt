@@ -1,0 +1,1 @@
+1#winlogon.exe#arm64_3003756778_954368#int g_fShutdownResolverDisabled#897400#WluiInformLogonUI#289096#WluiGetShutdownResolverInfo#288888

@@ -1,0 +1,1 @@
+1#1793753129#8257536#public: void __cdecl winrt::FileExplorerExtensions::implementation::CommandBarManager::CommandBar(struct winrt::Microsoft::UI::Xaml::Controls::CommandBar const &)#455060

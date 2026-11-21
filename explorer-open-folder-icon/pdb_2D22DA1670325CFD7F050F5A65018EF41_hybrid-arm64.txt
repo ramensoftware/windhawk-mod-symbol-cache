@@ -1,0 +1,1 @@
+1;explorerframe.dll;arm64_4178877753_6774784;private: int __cdecl CShellBrowser::_GetIconIndex(void);643960;private: void __cdecl CNscTree::_OnGetDisplayInfo(struct tagTVDISPINFOEXW *);471728;private: static __int64 __cdecl CNscTree::s_SubClassTreeWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64);500048

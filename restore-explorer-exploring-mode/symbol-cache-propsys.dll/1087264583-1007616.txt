@@ -1,0 +1,1 @@
+1#1087264583#1007616#public: virtual long __cdecl CMemPropStore::Write(unsigned short const *,struct tagVARIANT *)#150848

@@ -1,0 +1,1 @@
+1#387932669#10313728#public: virtual long __cdecl CAllUpViewService::ToggleAllUpView(struct HMONITOR__ *,enum ALL_UP_VIEW_FLAGS)#5749808

@@ -1,0 +1,1 @@
+1#1793061097#10010624#public: bool __cdecl winrt::Taskbar::implementation::ViewCoordinator::ShouldTaskbarBeExpanded(unsigned __int64,bool)#7919864

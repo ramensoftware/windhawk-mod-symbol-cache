@@ -1,0 +1,1 @@
+1#3581435187#3153920#bool __cdecl CanShowModernNavBar(void)#1245444#public: static bool __cdecl CachedExplorerExtensionState::IsModernNavBarAvailable(void)##public: virtual long __cdecl CNavBar::Load(struct IStream *)#981808
