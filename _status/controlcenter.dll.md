@@ -27,7 +27,6 @@
 | 3b5daa...<!-- 3b5daaefed34f593ba7a2b7744e73e8cf3102ad71deb914fd77cd3030dd7e642 --> | 2026-11-19 | KB5132265 |  | 10.0.28000.3614 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/F87A28BE641000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/9563F46637C37BBDB7444FE92349670D1/ControlCenter.pdb) |
 | 59a988...<!-- 59a988f875a48258cd726c7ebda8cfd9ea01bb4364c32ca222749cec2581f0f4 --> | 2026-11-10 | KB5132059 |  | 10.0.28000.3365 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/A26AC3DC636000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/5AEA4A614D2087BEB2326F4713C3498A1/ControlCenter.pdb) |
 | d41376...<!-- d4137638e505bf5cdf4023aedaedcff0082732d084bcb3a0974348e9f1b3cfb0 --> | 2026-10-26 | KB5134134 |  | 10.0.28000.3231 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B4E2F4D55c2000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/A008702F032762B4BBA7F8E84E789E201/ControlCenter.pdb) |
-| d728c8...<!-- d728c88b2ed28bb4600666ba3143bca54645069769a88614dece08a22f768171 --> | 2026-09-22 | KB5124006 |  | 10.0.28000.3086 | [🟢](https://msdl.microsoft.com/download/symbols/controlcenter.dll/B7E8CE845c2000/controlcenter.dll) | [🟢](https://msdl.microsoft.com/download/symbols/ControlCenter.pdb/CC808F5FE3B52727C45D6A73E1C9FECA1/ControlCenter.pdb) |
 
 ### 10.0.26100
 
