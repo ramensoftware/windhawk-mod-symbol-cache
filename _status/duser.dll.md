@@ -172,8 +172,8 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 12afc9...<!-- 12afc921ef64950e272cff3cd5ffe0d0667c4a1a47783b32a1cc15da91443fe3 --> | 2026-11-19 | 40a04947...<!-- 40a04947-cc36-4c9a-9b1f-953c817e6030 --> | 10.0.19041.3636 | 10.0.19041.3636 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/0D460B7D95000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/C63FDDC9AC0E6AB28F1D2E0C5EEE99C11/DUser.pdb) |
-| 0a8f8e...<!-- 0a8f8eea79d47159053d23fc154ecbb12cde8d1ebe09908f5791073d7f3539b4 --> | 2026-11-19 | 40a04947...<!-- 40a04947-cc36-4c9a-9b1f-953c817e6030 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/EB2A01EC95000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/7F566DE677FA6B2A9CB6D675B4F26C921/DUser.pdb) |
+| 12afc9...<!-- 12afc921ef64950e272cff3cd5ffe0d0667c4a1a47783b32a1cc15da91443fe3 --> | 2026-11-23 | 3e1c83f7...<!-- 3e1c83f7-22f1-4abc-85d9-97d6ffd8d017 --> | 10.0.19041.3636 | 10.0.19041.3636 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/0D460B7D95000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/C63FDDC9AC0E6AB28F1D2E0C5EEE99C11/DUser.pdb) |
+| 0a8f8e...<!-- 0a8f8eea79d47159053d23fc154ecbb12cde8d1ebe09908f5791073d7f3539b4 --> | 2026-11-23 | 3e1c83f7...<!-- 3e1c83f7-22f1-4abc-85d9-97d6ffd8d017 --> | 10.0.19041.1 | 10.0.19041.1 | [🟢](https://msdl.microsoft.com/download/symbols/duser.dll/EB2A01EC95000/duser.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DUser.pdb/7F566DE677FA6B2A9CB6D675B4F26C921/DUser.pdb) |
 
 ### 10.0.17763
 
