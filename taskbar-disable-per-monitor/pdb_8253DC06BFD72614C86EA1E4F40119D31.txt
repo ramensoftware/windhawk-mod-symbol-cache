@@ -1,0 +1,1 @@
+1#explorer.exe#x86-64_2406438835_4235264#private: int __cdecl CTray::RecomputeWorkArea(struct HMONITOR__ *,struct tagRECT *)##public: virtual void __cdecl CTray::RecomputeAllWorkareas(void)#599376#struct CTrayStatic c_trayStatic#2849248

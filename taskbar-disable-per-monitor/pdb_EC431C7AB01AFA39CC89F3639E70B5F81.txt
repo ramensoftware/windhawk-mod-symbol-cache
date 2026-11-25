@@ -1,0 +1,1 @@
+1#taskbar.dll#arm64_1351635416_3604480#public: virtual unsigned int __cdecl TrayUI::GetAutoHideFlags(void)#87568
