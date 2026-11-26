@@ -153,8 +153,6 @@
 | 3ad2d2...<!-- 3ad2d23a2c0d3c14f98b74a521f7c352af30e06aca14f3337acac845916b49b7 --> | 2026-10-16 | c3a9b208...<!-- c3a9b208-4ef4-47b9-a35d-c49436347474 --> | 10.0.26100.9739 | 10.0.26100.9739 | [🟢](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/866473A7129000/dispbroker.desktop.dll) | [🟢](https://msdl.microsoft.com/download/symbols/DispBroker.Desktop.pdb/DD1807CEAB7827607CC865EC38B4A5F71/DispBroker.Desktop.pdb) |
 | cdf0b8...<!-- cdf0b86df0c88a9d0f02c3aaec4b0d95ae2b77ea2c818a217f20f11bc5af2c54 --> | 2026-10-07 | 398e3bc2...<!-- 398e3bc2-9c3f-4d87-b40b-e54a46826056 --> | 10.0.26100.9596 | 10.0.26100.9596 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/0D05ECDF127000/dispbroker.desktop.dll) | ❓ |
 | 205163...<!-- 20516394950fe505df9d2b86a4e55bac516b813a7bac4e45bb97cb582a7654df --> | 2026-10-07 | 02efa92f...<!-- 02efa92f-f60e-42c2-b154-9eefbab96752 --> | 10.0.26100.9587 | 10.0.26100.9587 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/CB60F81E127000/dispbroker.desktop.dll) | ❓ |
-| eaf9a8...<!-- eaf9a8b43882061d2fdaff647b0d59a4fce9ec196f5bdd6348e6ff3b639b73c1 --> | 2026-09-25 | 4499d4f9...<!-- 4499d4f9-5b37-4ef3-be5a-1f14796e52a9 --> | 10.0.26100.9568 | 10.0.26100.9568 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/B6510E27127000/dispbroker.desktop.dll) | ❓ |
-| 7f14b9...<!-- 7f14b909ac73d20c60b89568d996d5fb89685ea0084a9ceb2362838baa21907e --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> | 10.0.26100.9502 | 10.0.26100.9502 | [🔴](https://msdl.microsoft.com/download/symbols/dispbroker.desktop.dll/5E83AF93127000/dispbroker.desktop.dll) | ❓ |
 
 ### 10.0.22621
 

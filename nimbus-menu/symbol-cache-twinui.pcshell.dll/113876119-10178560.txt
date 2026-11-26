@@ -1,1 +1,0 @@
-1#113876119#10178560#public: virtual long __cdecl XamlLauncherState::ShowStartView(enum IMMERSIVELAUNCHERSHOWMETHOD,enum IMMERSIVELAUNCHERSHOWFLAGS)#1832880#public: virtual long __cdecl XamlLauncher::ShowStartView(enum IMMERSIVELAUNCHERSHOWMETHOD,enum IMMERSIVELAUNCHERSHOWFLAGS)#2293728#private: long __cdecl CActionCenterExperienceManager::Show(void)#3507544

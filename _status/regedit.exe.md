@@ -151,7 +151,6 @@
 | aa181c...<!-- aa181c863d04de8fe133361f3f842b11230bedff6b1e84d475e0d40fc748c91c --> | 2026-11-06 | 80338691...<!-- 80338691-87c9-4f05-af86-d45e0cf883e0 --> | 10.0.26100.9596 | 10.0.26100.9596 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/C8BB4073cf000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/182C9BDF6E9EE9732D8FFD580A347C5B1/regedit.pdb) |
 | 882dbd...<!-- 882dbd648a476d8b61616279f5e9adbe04544f25097068ac6e4d4c402b790b48 --> | 2026-10-27 | b761d9de...<!-- b761d9de-8997-4056-ac72-25aefbe93548 --> | 10.0.26100.9807 | 10.0.26100.9807 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/5FF40B1Dcf000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/6BF23F4DDAA5954082C700619C2782F11/regedit.pdb) |
 | c859ef...<!-- c859efd873bf2f9df9cae6aa751baf0fc726d077ecda6de2cb850598c2829fe2 --> | 2026-10-07 | 02efa92f...<!-- 02efa92f-f60e-42c2-b154-9eefbab96752 --> | 10.0.26100.9492 | 10.0.26100.9492 | [🟢](https://msdl.microsoft.com/download/symbols/regedit.exe/18171E64cf000/regedit.exe) | [🟢](https://msdl.microsoft.com/download/symbols/regedit.pdb/E915C4B8C7DF0B7006CF858A43EFD49F1/regedit.pdb) |
-| 2a2a3b...<!-- 2a2a3b73ab4e4d0b3dacf2061e85111ea621a88cc09f8e8d9e03f267e7047105 --> | 2026-09-25 | dd9661d6...<!-- dd9661d6-dcf0-42b3-b6ea-8ac2dfd99bd8 --> | 10.0.26100.8951 | 10.0.26100.8951 | [🔴](https://msdl.microsoft.com/download/symbols/regedit.exe/23334E27cf000/regedit.exe) | ❓ |
 
 ### 10.0.22621
 

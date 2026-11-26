@@ -1,1 +1,0 @@
-1#windows.storage.dll#x86_1959969101_7467008#private: unsigned int __cdecl CViewSettings::_GetMinimumColumnWidth(unsigned int)##unsigned int __cdecl CViewSettings::_GetMinimumColumnWidth(unsigned int)##private: unsigned int __thiscall CViewSettings::_GetMinimumColumnWidth(unsigned int)#2061674#unsigned int __thiscall CViewSettings::_GetMinimumColumnWidth(unsigned int)#

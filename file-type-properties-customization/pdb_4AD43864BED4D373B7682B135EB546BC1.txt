@@ -1,1 +1,0 @@
-1#shell32.dll#x86_2165769061_6840320#public: virtual long __stdcall CNewMenu::QueryContextMenu(struct HMENU__ *,unsigned int,unsigned int,unsigned int,unsigned int)#5409120#public: virtual long __stdcall CNewMenu::HandleMenuMsg(unsigned int,unsigned int,long)#5406544#public: virtual long __stdcall CNewMenu::HandleMenuMsg2(unsigned int,unsigned int,long,long *)#5406480
