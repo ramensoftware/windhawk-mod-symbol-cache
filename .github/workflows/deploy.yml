@@ -213,10 +213,11 @@ jobs:
           KEY: ${{ steps.cache-binaries-and-symbols.outputs.cache-primary-key }}
         run: |
           caches=$(gh cache list -R "$REPO" --key cache-binaries-and-symbols- --limit 100 --json id,key)
-          if [ "$(jq --arg key "$KEY" 'any(.key == $key)' <<< "$caches")" != true ]; then
+          # -b keeps jq.exe from writing CRLF line endings.
+          if [ "$(jq -b --arg key "$KEY" 'any(.key == $key)' <<< "$caches")" != true ]; then
             echo "::warning::Cache $KEY isn't listed, keeping the older entries"
             exit 0
           fi
-          for id in $(jq --arg key "$KEY" '.[] | select(.key != $key) | .id' <<< "$caches"); do
-            gh cache delete "$id" -R "$REPO"
+          for id in $(jq -b --arg key "$KEY" '.[] | select(.key != $key) | .id' <<< "$caches"); do
+            gh cache delete "$id" -R "$REPO" || echo "::warning::Failed to delete cache $id"
           done
