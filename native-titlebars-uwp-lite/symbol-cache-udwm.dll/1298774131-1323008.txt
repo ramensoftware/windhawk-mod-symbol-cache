@@ -1,0 +1,1 @@
+1#1298774131#1323008#public: static enum NCAREA_FLAGS __cdecl CTopLevelWindow::GetCurrentStyle(class CWindowData const *,bool)#73912#public: bool __cdecl CWindowData::IsImmersiveWindow(void)const #59696#public: bool __cdecl CWindowData::IsGhostWindow(struct HWND__ * *)const #454880

@@ -1,0 +1,1 @@
+1#udwm.dll#arm64_3442765332_1413120#public: static enum NCAREA_FLAGS __cdecl CTopLevelWindow::GetCurrentStyle(class CWindowData const *,bool)#368552#public: bool __cdecl CWindowData::IsImmersiveWindow(void)const #521760#public: bool __cdecl CWindowData::IsGhostWindow(struct HWND__ * *)const #328992
