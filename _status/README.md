@@ -47,6 +47,7 @@
 | [sndvol.exe](sndvol.exe.md) |
 | [sndvolsso.dll](sndvolsso.dll.md) |
 | [startmenu.dll](startmenu.dll.md) |
+| [starttiledata.dll](starttiledata.dll.md) |
 | [startui.dll](startui.dll.md) |
 | [stobject.dll](stobject.dll.md) |
 | [sysdm.cpl](sysdm.cpl.md) |
