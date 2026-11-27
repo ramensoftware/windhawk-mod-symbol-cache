@@ -1,0 +1,1 @@
+1#949196258#2043904#public: virtual long __cdecl winrt::WindowsUdk::UI::Shell::implementation::FileExplorerNavigationController::SetNavigationState(unsigned long)#325328

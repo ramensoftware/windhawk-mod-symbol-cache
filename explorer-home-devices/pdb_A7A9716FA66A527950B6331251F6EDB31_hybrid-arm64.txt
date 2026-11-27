@@ -1,0 +1,1 @@
+1;windows.ui.fileexplorer.dll;arm64_2975409469_4448256;public: virtual long __cdecl winrt::WindowsUdk::UI::Shell::implementation::FileExplorerNavigationController::SetNavigationState(unsigned long);365920
