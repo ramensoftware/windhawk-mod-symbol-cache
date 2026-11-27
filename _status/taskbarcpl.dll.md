@@ -148,4 +148,4 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
-| 1d145f...<!-- 1d145f9a2254fea4faaade9d01bff7225ada3ba0ed26065f8691abfb7b608b6d --> | 2026-11-13 | 3212edf8...<!-- 3212edf8-59ae-4cb9-bfbc-7bfcb3b7d84f --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/A8FEE3F1eb000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/26DCD15078C7CEC2A827ED6EB4F865071/taskbarcpl.pdb) |
+| 1d145f...<!-- 1d145f9a2254fea4faaade9d01bff7225ada3ba0ed26065f8691abfb7b608b6d --> | 2026-11-27 | d0cea409...<!-- d0cea409-8c55-4fd2-a7f4-f933442b1c49 --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.dll/A8FEE3F1eb000/taskbarcpl.dll) | [🟢](https://msdl.microsoft.com/download/symbols/taskbarcpl.pdb/26DCD15078C7CEC2A827ED6EB4F865071/taskbarcpl.pdb) |

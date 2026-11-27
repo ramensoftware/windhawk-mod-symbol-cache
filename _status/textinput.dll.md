@@ -114,7 +114,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 9819d9...<!-- 9819d99d88ea89f47960bfaec0096b74bfa65c95631fed5ced9e0134400644d3 --> | 2026-11-13 | ff61b165...<!-- ff61b165-055f-4954-9f48-f96f53a8a1cf --> | 2126.18700.0.0 | 10.0.22621.7517 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6A4BB3E9aa9000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/BFC0F856A5F84EE5B885A8237567E4A31/TextInput.pdb) |
 | 4b9b3e...<!-- 4b9b3e52cb0a536bd4ce7d603767db43f6c7b74461256ec2c477b9f5cba76b0c --> | 2026-11-13 | ff61b165...<!-- ff61b165-055f-4954-9f48-f96f53a8a1cf --> | 522.11200.0.0 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/626328169c6000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/11AD0F7E210C42FC93054698408637281/TextInput.pdb) |
-| c3ad90...<!-- c3ad9081777bf4bffaaa627bc0ff83dc1a99cdcfacdb4e1babfdc9f2a268d950 --> | 2026-09-27 | deac6f2d...<!-- deac6f2d-1605-4162-b85c-1c5e9219959a --> | 623.11100.0.0 | 10.0.22621.1778 | [🟢](https://msdl.microsoft.com/download/symbols/textinput.dll/6441E7309ee000/textinput.dll) | [🟢](https://msdl.microsoft.com/download/symbols/TextInput.pdb/ED1AA8D334E241A486D80B74107D2F811/TextInput.pdb) |
 
 ### 10.0.19041
 

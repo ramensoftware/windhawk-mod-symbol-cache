@@ -178,7 +178,6 @@
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
 | 7bff9c...<!-- 7bff9c4b11e3114fe0173fd130d76c2d4bcb3b46d5ed27639446452483b9e470 --> | 2026-11-13 | ff61b165...<!-- ff61b165-055f-4954-9f48-f96f53a8a1cf --> |  | 10.0.22621.7376 | [🟢](https://msdl.microsoft.com/download/symbols/starttiledata.dll/DEEB1C98667000/starttiledata.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartTileData.pdb/FDC44872AB409E8CDF7625C22A73CF0F1/StartTileData.pdb) |
 | 0c8c51...<!-- 0c8c5193489a731b31bc956c50fb6c2771cc1be3749bb1079e2b8e35adf55112 --> | 2026-11-13 | ff61b165...<!-- ff61b165-055f-4954-9f48-f96f53a8a1cf --> | 10.0.22621.1 | 10.0.22621.1 | [🟢](https://msdl.microsoft.com/download/symbols/starttiledata.dll/6B4810705cf000/starttiledata.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartTileData.pdb/E6C69EF0EE7D16242577FA0488F22A5E1/StartTileData.pdb) |
-| 105b4e...<!-- 105b4e56849e774b41e251aad469335c517b149af507bed2c8a72de8a19c54ce --> | 2026-09-27 | deac6f2d...<!-- deac6f2d-1605-4162-b85c-1c5e9219959a --> | 10.0.22621.1778 | 10.0.22621.1778 | [🔴](https://msdl.microsoft.com/download/symbols/starttiledata.dll/73CC3EC65e7000/starttiledata.dll) | ❓ |
 
 ### 10.0.19041
 
@@ -191,5 +190,6 @@
 
 | SHA256 | Update date | Update id | File version | Assembly version | File on symbol server | PDB on symbol server |
 | ------ | ----------- | --------- | ------------ | ---------------- | --------------------- | -------------------- |
+| cf9b1e...<!-- cf9b1e2bedfdd3d91b1b187a0f3c796c4aba1a865a4f3651027d68fb6f70691a --> | 2026-11-27 | d0cea409...<!-- d0cea409-8c55-4fd2-a7f4-f933442b1c49 --> |  | 10.0.17763.8641 | [🟢](https://msdl.microsoft.com/download/symbols/starttiledata.dll/D85DAE4C551000/starttiledata.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartTileData.pdb/9DE3ABB352CEBB60176A0D490897CEF21/StartTileData.pdb) |
+| bfea36...<!-- bfea36a4803f44cd9ee1225837ba57ec4df8ef83fd70c715d083e1973988ae3c --> | 2026-11-27 | d0cea409...<!-- d0cea409-8c55-4fd2-a7f4-f933442b1c49 --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/starttiledata.dll/E02707D2551000/starttiledata.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartTileData.pdb/A12A618083345F1B5BCA799E244559141/StartTileData.pdb) |
 | 387103...<!-- 387103b9f015ff01faca6f409af94528abd74d23967d33590595ca838e57c71e --> | 2026-11-13 | 3212edf8...<!-- 3212edf8-59ae-4cb9-bfbc-7bfcb3b7d84f --> | 10.0.17763.9020 | 10.0.17763.9020 | [🟢](https://msdl.microsoft.com/download/symbols/starttiledata.dll/594223A2551000/starttiledata.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartTileData.pdb/777FE5BD166FC3091D09DD8BEB42B1A21/StartTileData.pdb) |
-| bfea36...<!-- bfea36a4803f44cd9ee1225837ba57ec4df8ef83fd70c715d083e1973988ae3c --> | 2026-11-13 | 3212edf8...<!-- 3212edf8-59ae-4cb9-bfbc-7bfcb3b7d84f --> | 10.0.17763.1 | 10.0.17763.1 | [🟢](https://msdl.microsoft.com/download/symbols/starttiledata.dll/E02707D2551000/starttiledata.dll) | [🟢](https://msdl.microsoft.com/download/symbols/StartTileData.pdb/A12A618083345F1B5BCA799E244559141/StartTileData.pdb) |

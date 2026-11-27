@@ -1,0 +1,1 @@
+1#musnotifyicon.exe#x86-64_304988669_389120#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#
